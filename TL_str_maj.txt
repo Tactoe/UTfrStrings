@@ -10096,7 +10096,7 @@ d_music
 \E4c'est idiot^1, mais&avant cette histoire,&j'avais espéré qu'on&devienne amis./
 \E1j'pensais que&l'anomalie agissait&comme ça&par tristesse./
 et qu'elle arrêterait&une fois qu'elle&aurait eu ce&qu'elle voulait./%%
-\E3et j'me disais^1,&p'têtre qu'elle voulait&juste^1, j'sais pas.../
+\E3et j'me disais^1,&p'têtre qu'elle&voulait juste^1,&j'sais pas.../
 \M1de la bonne bouffe^1,&des blagues&foireuses^1, des&amis sympas./%%
 \E4m'enfin, c'est&ridicule^1, tout ça./
 \E5parce que^1, t'es le&genre de personne&qu'on peut JAMAIS&rendre heureuse./%%
