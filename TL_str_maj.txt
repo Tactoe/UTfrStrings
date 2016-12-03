@@ -6735,7 +6735,7 @@ Hahaha !&D'où est-ce que&tu sors ça !?!
 * Jerry gobe un beignet puis&  lèche bruyamment ses mains.
 * Jerry éternue sans mettre la&  main devant la bouche.
 * Jerry prévient tout le monde&  qu'il a envie d'aller aux&  toilettes.
-* Jerry laisse échapper un&  baillement.
+* Jerry laisse échapper un&  bâillement.
 * Ça sent....... Jerry.
 * Jerry est blessé.
 * Les autres monstres fêtent&  la disparition de Jerry.
@@ -6880,7 +6880,7 @@ Vois.&Regarde.&Admire.
 Wow.&Mate un&peu mes&pectoraux.
 Désolé...&OU PAS&*pirou-&ette*
 Bepis
-Huer ?&Ennuyeux&à en&bailler !
+Huer ?&Ennuyeux&à en&bâiller !
 J'aime l'&odeur des&rageux le&matin
 OK !&Je gère !&J'avoue !
 T'as en-&core des&trucs à&dire !?
@@ -9957,7 +9957,7 @@ intr
 \E1hah./
 \M1j'me suis toujours&demandé pourquoi&personne démarrait&par un coup fatal./%%
 \E3bref^1, comme je le&disais^1, c'est une&belle journée&là-dehors./
-\M1Pourquoi ne pas&en profiter pour te&la couler douce ?/%%
+\M1pourquoi ne pas&en profiter pour te&la couler douce ?/%%
 et c'est parti./%%
 * Tu sens que tu vas passer&  un sale quart d'heure.
 normalfight
@@ -10010,12 +10010,12 @@ que ça ne serait&plus JAMAIS&ton tour./
 \E1alors^1, euh^1, à&mon humble&avis.../
 \E3le truc le plus&"déterminé" qu'tu&puisses faire&maintenant.../
 \E1c'est^1, euh^1,&lâcher l'affaire.&point barre./
-\E3et..^1. (baille)&passer à&autre chose.&littéralement./%%
+\E3et..^1. (bâille)&passer à&autre chose.&littéralement./%%
 timerbonus
 dg_t
 dg_x
 st
-hah^1,t'as&vraiment cru&qu'tu pouvais m
+hah^1, t'as&vraiment cru&qu'tu pouvais m
 bof_d
 hit_x
 bon.../
@@ -10048,7 +10048,7 @@ nos rapports indi-&quent une anomalie&dans le continuum&espace-temps./
 les lignes temporel-&les s'entremêlent,&s'arrêtent&et repartent.../%%
 \E4jusqu'à ce que^1,&soudainement,&tout prenne fin./%%
 \E4hé hé hé.../
-\E5c'est toi qu'est&derrière tout ça^1,&pas vrai ?/%%
+\E5c'est toi qu'es&derrière tout ça^1,&pas vrai ?/%%
 \E1si seulement&tu savais ce&que ça fait./%%
 \E4de savoir qu'un&beau jour^1, sans&prévenir.../
 \E9tout allait&être remis à zéro./%%
@@ -10067,7 +10067,7 @@ MP
 \E9argh..^1.&cela dit.../
 \E1t'as^1, euh^1, l'air&d'aimer ça, hein^1,&agiter ce truc dans&tous les sens ?/
 \E4bon^1, écoute./
-j'sais bien que tu&m'as pas répondu&auparavant^1,&mais.../
+j'sais bien que tu&m'as pas répondu&tout à l'heure^1,&mais.../
 \E4j'peux encore&le sentir^1,&là-dedans./
 \E0une faible trace&de bonté,&au fond de toi./
 \E4les souvenirs d'une&personne qui&voulait faire&le bien./
@@ -10262,7 +10262,7 @@ Il était si..^1.&Émotif./
 \E1Je ne&ressentais rien&du tout./%%
 \E1J'ai rapidement&compris que je&ne ressentais RIEN&pour PERSONNE./
 Ma compassion avait&disparu !/
-\E7Et crois-moi^1,&c'est pas comme&si je n'essayais&pas./
+\E7Et crois-moi^1,&c'était pas&faute d'essayer./
 \E3J'ai passé des jours&avec ce roi stupide^1,&espérant ressentir&quelque chose.../
 \E1Mais en vain^1.&C'en est devenu&trop pour moi./
 Je me suis donc&enfui d'ici./
@@ -10298,7 +10298,7 @@ Encore et encore^1,&je me suis amené au&bord de la mort./
 À n'importe quel&instant^1, j'aurais pu&laisser le monde&continuer sans moi./
 Mais tant que&j'étais déterminé à&vivre.../
 \E0Je pouvais revenir&en arrière./
-\E6Incroyable^1,&n'est-ce-pas^1,&
+\E6Incroyable^1,&n'est-ce pas^1,&
 \E0J'étais stupéfait^1,&moi aussi./%%
 \E1Au début^1, je me&suis servi de mes&pouvoirs pour faire&le bien./
 \E0Je suis devenu "ami"&avec tout le monde./
@@ -10327,7 +10327,7 @@ J'ai gagné à chaque&jeu^1.&J'ai perdu à chaque&jeu./
 J'ai apaisé tout le&monde^1.&J'ai tué tout le&monde./
 Séries de chiffres..^1.&Lignes de dialogue..^1.&J'ai tout vu./
 \E1Mais toi..^1.&TOI, tu n'es pas&comme les autres./
-\E0TOI, Je n'ai jamais&pu te prédire^1,& 
+\E0TOI, Je n'ai jamais&pu te prédire^1,&
 \E1Quand on s'est&croisés dans les&RUINES^1, je n'ai pas&pu te reconnaître./
 \E8J'ai pensé que je&pouvais te faire&peur^1, puis voler&ton ÂME./
 \E1J'ai échoué./
@@ -10337,7 +10337,7 @@ Séries de chiffres..^1.&Lignes de dialogue..^1.&J'ai tout vu./
 ..^1.&Ta DÉTERMINATION !/
 \E8Pour une raison&que j'ignore^1, elle&surpasse la mienne !/%%
 \E1Je n'ai qu'une&question à te poser^1,&
-Comment as-tu fait&pour revenir aux&RUINES depuis ici..?/
+Comment as-tu fait&pour revenir&aux RUINES&depuis ici...?/
 \E0... attends^1,&je sais./
 Elle a dû t'emmener&quand elle est&partie./
 \E1Et a décidé de te&donner un enterrement&digne de ce nom^1,&plutôt que de.../
@@ -10373,7 +10373,7 @@ Le roi en garde&six enfermées dans&un coin./
 \E0Pourquoi je te&raconte tout ça ?/
 ^1, je l'ai dit&tout à l'heure./
 \E1Même après tout&ce temps.../
-\E0Il n'y a vraiment&que toi qui puisse&me comprendre./
+\E0Il n'y a vraiment&que toi qui puisses&me comprendre./
 \E8Tu n'auras aucune&pitié inutile !/%%
 \E9Des créatures&comme nous.../
 \E0N'hésiteraient pas&à S'ENTRETUER si&elles se barraient&à chacune la route./
@@ -15509,15 +15509,15 @@ sansk
 \E1* hey^1, pas mal ^1!&* on passe à deux&  chiffres !/
 \E1* allez^1, on n'a plus qu'à&  inviter tous tes amis&  pour fêter ça./
 \E2* on mangera de la tarte^1,&  des hot-dogs^1, et.../
-\E3* humm..^1. attends un peu^1.&* y'a un truc qui va pas, là./
+\E3* humm..^1. attends un peu^1.&* y'a un truc qui&  va pas, là./
 \E4* t'as aucun&  ami./%%
 \E1* c'est celle de quelqu'un&  qui vient de clamser&  onze fois de suite./
 \E2* umh^1, plus ou moins./
 \E1* c'est pas une science&  exacte./
 \E2* je te préviens, je pense&  pas pouvoir compter&  parfaitement après ça./
-\E1* j'te laisse t'en charger^1, ok ?/
+\E1* j'te laisse t'en&  charger^1, ok ?/
 \E4* et on commence à 12./%%
-\E0* venons-en au&  fait./%%
+\E0* venons-en aux&  faits./%%
 \E1* cette expression que tu&  tires.../
 \E4* ben^1, j'ai pas de mots&  pour la décrire, là./%%
 \E4* tu fais vraiment flipper^1,&  quand tu t'y mets^1, tu sais ?/%%
@@ -15704,7 +15704,7 @@ cantalk
 * Si vous lisez ceci^1, appuyez&  sur l'interrupteur vert./%%
 * Les pages sont toutes écornées.&* On a dû les tourner un nombre&  incalculable de fois./%%
 * (C'est un vieux calendrier&  du début de 201X.)&* (Une date est entourée dessus.)/%%
-\R* (Le jour de mon arrivé ici.)/%%
+\R* (Le jour de mon arrivée ici.)/%%
 * Toutes les pointes ont été&  émoussées pour éviter&  les accidents./%%
 * On dirait des outils&  de jardinage./%%
 * Regardez-moi tous ces jouets ^2!&* Ils ne vous intéressent&  absolument pas./%%
@@ -16376,7 +16376,7 @@ RAAH, OUBLIE ÇA !/%%
 \E5* ... après tout^1, niveau&  projecteur^1, on fait&  difficilement mieux !/
 \E9* Oh oui^1, je suppose&  que je devrais aussi&  te remercier^1, trésor./
 \E2* Après notre combat^1, je&  me suis rappelé&  à quel point.../
-\E4* Performer en la compagnie&  d'autrui pouvait&  être amusant./
+\E4* Performer en la&  compagnie d'autrui&  pouvait être amusant./
 \E6* Je me lance donc à la&  recherche de JEUNES&  TALENTS pour ma troupe./
 \E0* Pour l'instant^1, Timorène&  a accepté d'être&  ma choriste./
 \E0* Et Bl..^1.&* Napstablook^1, juste là^1,&  sera mon nouveau DJ !/
@@ -16592,7 +16592,7 @@ scr_itemroom
 \E0* Il y en a deux..^1.&*\E4 Ils sont frères, je crois^1.&* Ils sont arrivés un jour&  et..^1.&*\E0 ... Ils se sont installés./
 * La ville est devenue bien plus&  animée depuis ^1- pas que je&  m'en plaigne !/%%
 \E0* On dit que c'est parce qu'un&  humain est dans le coin./
-* Un humain..^1.&* J'ai du mal à y croire!/
+* Un humain..^1.&* J'ai du mal à y croire !/
 * S'il lui venait l'dée de passer&  par mon auberge^1, je lui&  donnerais un accueil&  du tonnerre !/%%
 \E4* Rappelle-toi tes cours&  d'histoire.../
 \E0* Il y a longtemps^1, les monstres&  vivaient dans les RUINES de la&  forêt./
