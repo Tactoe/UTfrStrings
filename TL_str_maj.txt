@@ -2909,7 +2909,7 @@ Calepin Déchiré
 Tablier Taché
 Po. Carbo
 Chapeau de Cowboy
-Pistolet Vide
+PistolVid
 Médaillon Coeur
 Dague Émoussée
 Vrai Couteau
@@ -16657,7 +16657,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E0* Hein ?&* Où il se trouve ?/
 \E0* 'M'en rappelle pas./%%
 * Pour la dernière fois^1, je&  n'en veux pas !/%%
-* Sois prudent, là-dehors^1,&  bambin !/%%
+\E3* C'est pas en me menaçant&  du bout d'la lame que&  j'achèterai ta pacotille./%%
 * Sois prudent, là-dehors^1,&  bambin !/%%
 * Bon débarras./%%
 * Ça fait longtemps que&  j'suis ici^1.&*\E3 P'têtre trop longtemps, même.../
@@ -19057,7 +19057,7 @@ Impossible !!/
 Ça peut pas se&passer comme&ça...!/
 Vous..^1. VOUS...!/%%
 hellsfx
-Vous êtes&vraimen&tous&STUPIDES./%%
+Vous êtes&vraiment&tous&STUPIDES./%%
 s_timer
 TOUTES VOS ÂMES&M'APPARTIENNENT!!!/%%
 s_a
