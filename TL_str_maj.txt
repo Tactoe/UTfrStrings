@@ -108,7 +108,7 @@ room
 * (Cela vous emplit de&  détermination.)/%%
 * (Le sifflement de la vapeur&  et des rouages..^1. cela vous&  emplit de détermination.)/%%
 * (Une structure menaçante se&  dresse au loin...)/
-* (Savoir qu'un jour peut-être la&  souris arrivera à hacker ce cof&  -fre et obtiendra le fromage..)/
+* (Savoir qu'un jour peut-être la&  souris arrivera à hacker ce cof&  -fre et prendra le fromage...)/
 * (Une énorme structure s'étend&  au nord.^1 Vous êtes empli&  de détermination.)/%%
 * (L'atmosphère relaxante de cet&  hôtel..^1. Elle vous emplit de&  détermination.)/%%
 * (Il flotte dans l'air une odeur&  d'ozone..^1. Cela vous emplit&  de détermination.)/%%
@@ -3726,7 +3726,7 @@ C'EST TOUT UNDYNE ^1!&TOUJOURS PRÊTE À&AIDER SON PROCHAIN./
 * Euh^1, ouep ouep ouep ^1!&* C'était totalement une&  idée de moi au départ !/%%
 LE PASSAGE ROCHEUX&ET LUGUBRE&D'UNDYNE./
 \E0ELLE PREND TOUJOURS&LA POSE AU SOMMET./
-\E3TOUT EN SE PARLANT&À ELLE MÊME.../%%
+\E3TOUT EN SE PARLANT&À ELLE-MÊME.../%%
 SANS DOUTE UN&TRUC QU'ELLE DOIT&MÉMORISER./%%
 * Oh mon DIEU !!^1!&* Tu trouves pas que c'est&  la MEILLEURE salle ?!/
 \E3* Ce moment où j'ai décidé&  de ne PAS rabâcher ce&  monologue RINGARD.../
@@ -8274,7 +8274,7 @@ Genre,&02...
 * RG 01 - ATQ 30 DÉF 20&* Membre de la Garde Royale,&  d'une armure étincelante vêtu./^
 * Tout ce que je vois, ce sont deux&  amants au bord de la Fournaise&  infernale./^
 * Vous essayez de toucher&  l'armure de GR 01.&* Vos mains glissent dessus./^
-* Vous persuadez GR 01&  d'être honnête avec&  ses sentiments../^
+* Vous persuadez GR 01&  d'être honnête avec&  ses sentiments.../^
 M-mec&.../
 Je.../
 J'en&peux&plus !/
@@ -8507,10 +8507,10 @@ Brûle,&bébé,&BRÛLE !
 Tu&sens&cette&chaleur ?
 C'est moi&ou il&fait&frisquet ?
 Chaud !&CHAUD !&Brûlant.&BRÛLANT !
-BRR, c'est&quoi&l'emb-&rouille ?
+BRR,&c'est&quoi&l'emb-&rouille ?
 Désolé !!&J'ai les&mains&liées !!
 * Son sourire charmeur&  protège Pyrolié
-* Pyrolié feint d'allumer&  l'alarme anti-incendie. 
+* Pyrolié feint de déclencher&  l'alarme anti-incendie. 
 * Pyrolié ricane sous&  cape...ou corde, peu importe.
 * Pyrolié se prend pour une&  bougie.
 * Ça sent la ficelle brûlée.
@@ -8716,9 +8716,9 @@ orb3
 * Malicien vous prend pour&  l'un de ses confrères sorciers.
 * MALICIEN - ATQ 29 DÉF 24 &* Ce mercenaire arcaniste ne&  jure que par les mots magiques./^
 * L'ordre des mots vous&  déboussole^1. Impossible d'en&  comprendre un seul./^
-* Malicien vous interrompt&  et se parle à lui même./
+* Malicien vous interrompt&  et se parle à lui-même./
 * Son charabia vous fait tourner&  la tête...&* DÉFENSE réduite de 1./^
-* Malicien vous interrompt&  et se parle à lui même^1.&* Il est content./^
+* Malicien vous interrompt&  et se parle à lui-même^1.&* Il est content./^
 * Regarder vers ?             &                            &   Traqu'orbe      Coinç'orbe\C
 * Vous ignorez Malicien, et&  pensez aux fleurs et au soleil^1.&* DÉFENSE augmentée de 1./^
 * Vous visualisez&  des fleurs et du soleil./
@@ -14399,7 +14399,7 @@ LA MARQUE MTT DOMINE TOUJOURS    ||     ÉCOLES FERMÉES. CAUSES : ÉNIGMES RÉA
 stringer
 DES SCIENTIFIQUES ONT DÉCOUVERT LES BIENFAITS DE L'ORDINATEUR SUR LA SANTÉ (C'EST UNE BLAGUE MDR)    ||     
 NOTRE METTATON LOCAL EST TRÈS RICHE, CÉLÈBRE ET SPLENDIDE    ||     
-UN MONSTRE EN FORME DE MINI VOLCAN FAIT DE SON MIEUX, IL REÇOIT DE MINIS APPLAUDISSEMENTS    ||     
+UN MONSTRE EN FORME DE MINI VOLCAN FAIT DE SON MIEUX, IL REÇOIT DE MINI APPLAUDISSEMENTS    ||     
 IRONIQUEMENT, PYROLIÉ RATE SA CHANCE DE METTRE LE FEU SUR SCÈNE "J'AURAIS ADORÉ"    ||     
 UN AVION LOCAL BLOQUE LA QUEUE AU MAGASIN EN DISANT "CE N'EST PAS COMME SI JE VOULAIS ACHETER CES PRODUITS T'FAÇON !" LE CAISSIER EST TOUJOURS PERPLEXE     ||     
 NOUS CONSTATONS UNE FLUCTUATION DE DYSFONCTIONNEMENTS AUX QUATRE COINS DE CALCITERRE     ||     
@@ -15641,7 +15641,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \E3* B..^1. bonjour...^1!&* C'est le Dr Alphys./
 \E0* C-cette énigme&  semble..^1. hum..^1.&  basée sur le timing./
 \E3* T-tu vois ces&  interrupteurs là-bas ?/
-\E0* T-tu vas devoir appuyer&  sur les trois dans un&  laps de 3 secondes./
+\E0* T-tu vas devoir appuyer&  sur les trois en moins&  de trois secondes./
 \E6* Je vais t-tenter de&  t'aider pour&  le rythme !/
 \YALPHYS a changé son statut.\W &* oups,atta j'me demande cmt&  l'humain s'en sort/%%
 \YALPHYS a changé son statut.\W &* Top 10 Des Séries Qui Vous&  Distraient De Votre Fichu Job/%%
@@ -15650,7 +15650,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \YALPHYS a changé son statut.\W &* omg... MAIS IL RUINE COMPLETE-&  MENT TOUT L'ARC DE Miou Miou/%%
 \YALPHYS a changé son statut.\W &* Mon avis sur Miou Miou 2 :/
 * Miou Miou Mimi Bisou 2 N'est&  Ni Mimi Ni Bisou.&* C'est Naze. 0 sur 5/%%
-\YALPHYS a changé son statut.\W &* dernière fois que j'essaye&  d'aider pour un puzzle ptdr/%%
+\YALPHYS a changé son statut.\W &* dernière fois que j'essaye&  d'aider pour une énigme ptdr/%%
 \YALPHYS a posté une photo.\W &* dîner avec ma petite copine ;)/
 * (La photo montre une figurine&  de fille-chat à côté d'un bol&  de nouilles instantanées.)/%%
 \YSqueletteBG95 a posté une photo.\W &* ALORS ON POSTE DES PHOTOS SEXY?&* ÇA C'EST MOI AVEC MON POTE BG/
