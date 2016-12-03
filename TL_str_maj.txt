@@ -1067,7 +1067,7 @@ RENDEZ-VOUS&CHEZ ELLE !/
 * (C'est une BD dans laquelle un&  robot géant affronte une belle&  princesse extraterrestre.)/
 * (Vous vous interrogez sur&  la véracité de cette&  représentation.)/%%
 * (Vous décidez de ne rien&  toucher.)/%%
-* (Vous consultez un livre.)&* (C'est une bande-dessinée.)/
+* (Vous consultez un livre.)&* (C'est une bande dessinée.)/
 * (Deux chefs cuistots peu&  vêtus se balancent des&  pancakes d'énergie.)/
 * (Un androïde hideux court&  en direction d'une école avec&  une tartine dans la bouche.)/
 * (Il semble en retard.)/
@@ -1100,7 +1100,7 @@ Je ferai de mon&mieux pour assurer&ta protection lors&de ton séjour ici./%%
 * Trois pièces d'or pour le&  ferry. &         Oui         Non\C
 * À plus tard^1, alors./%%
 * Allez^1, monte !/%%
-* (C'est un interrupeur.)& &         Appuyer     Laisser\C
+* (C'est un interrupteur.)& &         Appuyer     Laisser\C
 sc
 sound1
 sound2
@@ -1285,7 +1285,7 @@ scr_undface
 \E2* Dès que je l'ai&  su j'ai voulu en&  avoir une !/
 \E0* Du coup on a construit&  une épée géante&  Alphys et moi./
 \E0* Elle s'est occupée&  du côté technique&  toute seule.../
-\E6* Elle est fûtée^1, hein !?/%%
+\E6* Elle est futée^1, hein !?/%%
 \E2* Pfft^1 !&* Tu mens !/
 \E3* J'ai LU la collection&  de livres sur l'histoire&  humaine d'Alphys !/
 \E3* Je sais tout de vos&  épées géantes.../
@@ -2695,7 +2695,7 @@ scr_itemnamelist
 * "Nourriture Astro" Soigne 21 PV&* Pour nourrir son astronaute&  de compagnie./%%
 * "Nouilles Instantanées" Rend PV&* Tout ce qu'il vous faut pour&  un repas express !/%%
 * "Pomme Rainette" Soigne 18 PV&* Un fruit aquatique qui&  a la forme d'un batracien./%%
-* "Hot-dog...?" Soigne 20 PV&* La "viande" est en fait&  constituée de "quenouille"./%%
+* "Hot-dog...?" Soigne 20 PV&* La "viande" est en fait&  constituée d'une "quenouille"./%%
 * "Hot-cat" Soigne 21 PV&* Comme un hot-dog^1, mais&  avec des oreilles de chat./%%
 * "Glamburger" Soigne 27 PV&* Un hamburger fait de paillettes&  comestibles./%%
 * "Lassi Thé" Soigne 10 PV&* Infusée avec l'eau des marais.&* [VITESSE +] pour un combat./%%
@@ -2705,7 +2705,7 @@ scr_itemnamelist
 * (Après avoir été touché par&  une attaque^1, vous restez invu-&  lnérable plus longtemps.)/%%
 * "Calepin Déchiré" - Arme AT 2&* Contient des notes illisibles.&* Augmente l'INV de 6./%
 * "Tablier Taché" - Armure DF 11&* Soigne 1 PV un tour sur deux./%
-* "Poële Carbonisée" - Arme AT 10&* Ses dégâts sont constants.&* La nourriture soigne 4 PV de +./%
+* "Poêle Carbonisée" - Arme AT 10&* Ses dégâts sont constants.&* La nourriture soigne 4 PV de +./%
 * "Chapeau Cowboy" - Armure DF 12&* Ce chapeau a été éprouvé par&  les batailles./
 * Il vous donne envie&  d'une barbe -- et augmente&  aussi l'ATTAQUE de 5 !/%
 * "Pistolet Vide" - Arme AT 12&* Un vieux pistolet^1.&* Il n'a plus de munitions./
@@ -13935,7 +13935,7 @@ bossa
 yoffset1
 * H-hey^1, il fait plutôt&  sombre \M9ici^1, tu trouves&  pas ?/
 \E6* Pas d'inquiétude !/
-\E0* Je vais pirater le&  système de lumières&  et éclairer un peu !/%%
+\E0* Je vais pirater le&  système des lumières&  et éclairer un peu !/%%
 ff1
 ff2
 chefhat
@@ -13945,7 +13945,7 @@ chefhat
 * PRÉCHAUFFEZ VOS FOURS^1, CAR AU-&  JOURD'HUI, NOUS VOUS PROPOSONS&  UNE RECETTE TRÈS SPÉCIALE !/
 * NOUS ALLONS PRÉPARER.../
 * UN GÂTEAU !/
-* JE SERAI POUR CE FAIRE&  ASSISTÉ PAR NUL AUTRE QUE&  CET ADORABLE HUMAIN./
+* POUR CE FAIRE, JE SERAI&  ASSISTÉ PAR NUL AUTRE QUE&  CET ADORABLE HUMAIN./
 * VEUILLEZ L'APPLAUDIR BIEN&  FORT !!!/%%
 applause
 conf
@@ -14978,7 +14978,7 @@ animanim
 * Mais j'étais sans cesse à&  court de munitions^1, et ça&  redémarrait à chaque fois ?/
 * Et mes deux collègues ne&  m'aident pas ^1? C'est comme si&  ça les embêtait de travailler ?/%%
 * Tu veux tenter ^1?&* Essaye d'utiliser la console ?/%%
-* Wow ^1?&* Tu l'as résolu ?/
+* Wow ^1?&* Tu l'as résolue ?/
 * Je suis impressionné ^1?&* Ton surnom, c'est genre,&  Jojo l'intello ?/%%
 * Alors on est tous libres...?/
 * Ça veut dire que j'ai plus&  besoin d'aller au travail ?/%%
@@ -15619,7 +15619,7 @@ exception
 * Euhh ^1!&* S-salut^1, alors^1, les&  lasers bleus.../
 \E4* Euhh^1!&* J'veux dire^1, ici Alphys^1!&* Bonjour!/
 \W*\E6 Les \Llasers bleus\W ne&  font pas mal si tu&  ne bouges pas !/
-\W*\E3 P-pour les \Ooranges\W..^1.&* T-tu dois être en&  mouvement^1, et.../
+\W*\E3 P-pour ceux \Oorange\W..^1.&* T-tu dois être en&  mouvement^1, et.../
 \E4* Hum^1, ils ne te feront&  pas^1, euh.../
 \E6* Avance à travers&  ces lasers !/
 \E5* Euh^1, à toute !/
@@ -15666,7 +15666,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 * (C'est la photo d'une poubelle,&  mais avec des filtres roses&  scintillants.)/%%
 \YALPHYS a changé son statut.\W &* OMG JE L'AI FAIT!!!/
 * mes griffes n'avaient pas au-&  tant tremblé depuis qu'undyne&  m'a demandé la météo... v.v/%%
-\YALPHYS a changé son statut.\W &* ATTENDS Y'A PAS DE METEO ICI&  POURQUOI ELLE M'AVAIT APPELE/%%
+\YALPHYS a changé son statut.\W &* ATTENDS Y'A PAS DE METEO ICI&  POURQUOI ELLE M'AVAIT APPELEE/%%
 \YALPHYS a changé son statut.\W &* J'DETESTE UTILISER LE TELEPHONE&  J'VEUX PAS L'FAIRE PTDR ^0.^0 /%%
 \YALPHYS a changé son statut.\W &* omg j'ai la griffe sur la der-&  nière touche depuis 5 minutes/
 * omg je vais le faire&* je vais l'appeler!!!!/%%
@@ -15774,7 +15774,7 @@ cantalk
 * Redoutant nos pouvoirs^1,&  les humains nous déclarèrent&  la guerre./
 * Leur attaque fût soudaine,&  sans la moindre pitié./%%
 * Sans bougies ni magie pour les& guider vers la Maison^1, les& monstres s'aidèrent de cristaux./%%
-* (C'est une figurine d'une fille&  humaine avec des oreilles de&  chat. Elle est en piteux état.)/%% 
+* (C'est la figurine d'une fille&  humaine avec des oreilles de&  chat. Elle est en piteux état.)/%% 
 * (Des livres scientifiques.^1)&* (Ils semblent très&  poussiéreux.)/%%
 * (C'est un frigo.^1)&* (Il est étonnamment chaud.)/%%
 * DU LAIT ^1? ET DES OEUFS ^1?&  DANS LE FRIGO ?/
@@ -16094,7 +16094,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (À chaque fois que cette fille&  agite son filet^1, l'insecte&  s'élance droit dessus.)/%%
 * (On dirait des notes au sujet&  de quelque chose^1, mais&  l'écriture est illisible.)/
 * (On dirait la soluce d'un&  jeu. À moins que...?)/%%
-* (Ce sont des cassettes VHS et&  des DVDs de dessins animés&  variés.)/
+* (Ce sont des cassettes VHS et&  des DVD de dessins animés&  en tout genre.)/
 * (Ils sont tous étiquetés&  "Histoire Humaine".)/%%
 * (C'est un évier de taille&  spécifiquement normale.)/%%
 * CE N'EST PAS UNE ÉMISSION&  SUR LE LAVAGE DE MAINS,&  MON CHOU./
@@ -16343,7 +16343,7 @@ RAAH, OUBLIE ÇA !/%%
 * Mais Mettaton va bien^1.&* Tout le monde sait que c'est&  que des images de synthèse !/%% 
 * Mettaton ^1?&* Ouais^1, c'est la star la plus&  populaire de l'outremonde !/
 * Son fan club doit avoir au&  moins deux..^1. non^1, TROIS&  douzaines de membres !/%%
-* Et encore, je ne me suis même&  pas inclu !/%%
+* Et encore, je ne me suis même&  pas inclus !/%%
 * En ce jour^1, nous avons fait&  nos débuts en tant&  que collègues.../
 * Qui sait ce que nous&  deviendrons par la suite ?/%%
 * Aah, c'est vraiment dommage./
@@ -17935,12 +17935,12 @@ max_alpha
 * Où est l'ART dans ces pitreries&  grotesques !? Seul le timing&  compte avec ces guignoleries !/
 * Donnez-moi de quoi mettre mon&  esprit à rude épreuve...&* De quoi dépasser mes limites !/
 * Toi ^1!&* T'es encore jeune ^1!&* Il te reste de l'espoir !/
-* Gwah hah hah...^1!&* Tiens..^1. résous donc cette&  énigme en poussant les blocs !/%%
+* Gwah hah hah...^1!&* Tiens..^1. résous donc cette&  énigme en poussant le bloc !/%%
 * Gah ^1?&* T'es qui toi ?/
 * On est libres ^1? Comment ^1?&* Bah ^1!&* Tu m'fais marcher !/%%
 * Encore toi !^1?&* Bah ^1! Je me fiche&  d'être libre !/
 * Tu penses que les humains&  pourraient apprécier ce&  qui fait une bonne énigme...?/%%
-* (C'est une boîte.^1)&* (Il faut la&  pousser, apparemment.)/%%
+* (C'est un bloc.^1)&* (Il faut le&  pousser, apparemment.)/%%
 * Bah !/%%
 * Mais...^1?&* Qu'est-ce que tu fais !!^1?&* Tu le pousses MAL !/
 * Bah^1, oublie ça ^1!&* Cette génération&  est IRRATTRAPABLE!/%%
