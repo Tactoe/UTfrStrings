@@ -935,7 +935,7 @@ lv
 * Tu saisis^1, l'humain ?/
 * Ceci est ton ultime chance&  de rédemption./
 * Donne-moi ton âme.../
-* Ou je viendrai moi-même&  l'arracher de ton corps./%%
+* Ou je viendrai moi-même&  l'arracher à ton corps./%%
 * Cette lueur dans tes yeux.../
 * Tu veux donc mourir&  à ce point ^1?/%%
 * Yo^1, j'suis pas censé être&  dans le coin^1, mais.../
@@ -956,7 +956,7 @@ lv
 * Ma soeur me sort ça&  TOUT LE TEMPS !/
 * Bon, c'est à moi de m'y&  coller^1, du coup, haha./
 * Yo^1, euh..^1. J'te déteste à mort./
-* ..^1.^1Pfff^1, j'suis&vraiment un boulet./
+* ..^1.^1Pfff^1, ch'uis&  vraiment un boulet./
 * Je..^1. J'vais rentrer chez moi&  maintenant./%%
 * Heu^1, quoi ^1?&* C'est à moi de le faire,&  alors ?/
 * Bon^1, c'est parti.../
@@ -2827,12 +2827,12 @@ nood
 &* ATTAQUE augmentée de 4 !
 * Vous vous équipez des&  lunettes./%
 * Vous vous équipez du&  Cahier Déchiré./%
-* Vous vous équipez du& tablier./%
+* Vous vous équipez du&  tablier./%
 * Vous vous équipez de la&  Poêle Carbonisée./%
 * Vous vous équipez du&  Chapeau de Cowboy./%
-* Vous vous équipez du& Pistolet Vide./%
-* Vous vous équipez du& médaillon./%
-* Vous vous équipez de la& dague./%
+* Vous vous équipez du&  Pistolet Vide./%
+* Vous vous équipez du&  médaillon./%
+* Vous vous équipez de la&  dague./%
 * Pas trop tôt./%
 * Juste là où il faut./%
 * Vous consommez le Mauvais&  Souvenir^1.&* PV entièrement restaurés./%
@@ -2908,7 +2908,7 @@ Lunettes Sales
 Calepin Déchiré
 Tablier Taché
 Po. Carbo
-Chapeau de Cowboy
+Chapeau Cowboy
 PistolVid
 Médaillon Coeur
 Dague Émoussée
@@ -7560,7 +7560,7 @@ pseudodarker
 * Les lances s'arrêtent l'espace&  d'un instant.
 * Undyne pointe le ciel du&  doigt, héroïquement.
 * Undyne effectue une suplex&  sur un rocher^1. Parce qu'elle&  le vaut bien.
-* Undyne sautille d'impatience.
+* Undyne tressaute d'impatience.
 * Un sourire menaçant se&  dessine sur le visage&  d'Undyne.
 * Undyne fait glisser son doigt&  sous sa gorge.
 * Undyne brandit son poing&  devant elle en secouant&  la tête.
@@ -9328,8 +9328,8 @@ burston
 * METTATON NEO - 90 ATQ 9 DÉF&* La plus grande invention&  du Dr Alphys./^
 \E6J...J'IMAGINE&QU'ELLE AURAIT DÛ&S'ATTARDER PLUS&SUR LA DÉFENSE.../
 \E6.../
-\E6TU M'AS PEUT&-ÊTRE VAINCU...&MAIS.../
-\E4ON NE ME LA&FAIT PAS, MON CHOU.&CE DERNER COUP.../
+\E6TU M'AS PEUT-ÊTRE&VAINCU...&MAIS.../
+\E4ON NE ME LA&FAIT PAS, MON CHOU.&CE DERNIER COUP.../
 \E5TU N'Y AS PAS&MIS TOUT CE QUE&TU AVAIS./
 \E6ALORS...&OUI, IL SE PEUT&QUE TU PULVÉRISES&ASGORE.../
 \E5MAIS TU NE&T'ATTAQUERAS PAS&À L'HUMANITÉ^1,&PAS VRAI ?/
@@ -10213,10 +10213,10 @@ Jusqu'au village&des humains./%%
 ASRIEL atteignit&le centre du&village./*
 Là-bas^1, il trouva&un lit de&fleurs dorées./*
 Et déposa l'humain&dessus./%%
-Tout à coup^1,&des hurlements&rententirent./*
+Tout à coup^1,&des hurlements&retentirent./*
 Les villageois&avaient vu ASRIEL^1,&portant le corps&de l'humain./*
 Croyant&qu'il avait&tué l'enfant,/%%
-Les humains&l'attaquèrent&de toute leur&force./*
+Les humains&l'attaquèrent&de toutes leurs&forces./*
 ASRIEL fut&assailli de&coups./*
 Il avait pourtant&le pouvoir de&tous les&éradiquer./%%
 Mais.../*
@@ -13435,7 +13435,7 @@ ax
 \E3* Te planquer comme ça^1,&  derrière ce mioche afin&  de mieux m'échapper !/
 * Tu as abandonné ton ami&  dans le seul but de&  t'enfuir !/
 \E2* Et je ne m'étendrai pas&  sur ta petite comédie à&  l'eau de rose ^1! Ouuh^1,/
-\E6* Regardez-moi ! Quel gen-&  til humain je suis, à&  câliner des gens au pif!/
+\E6* Regardez-moi! Quel gen-&  til humain je fais, à&  câliner des gens au pif!/
 *\E3 Tu sais ce qui ferait&  encore plus plaisir à&  tous ces gens ?/
 *\E1 TA MORT !!!/
 \E0* Eh ouais^1, l'humain ^1!&* Ta simple existence&  constitue un délit !/
@@ -14605,7 +14605,7 @@ mtsong2
 * CE N'EST QU'APRÈS ÊTRE DEVENU&  UNE STAR QUE J'AI OBTENU UN&  CORPS PLUS... PHOTOGÉNIQUE./
 * CEPENDANT./
 * CES FONCTIONS ORIGINELLES&  N'ONT JAMAIS ÉTÉ&  COMPLÈTEMENT RETIRÉES.../
-* APPROCHE-TOI, ET&  JE SERAIS FORCÉ DE TE&  MONTRER.../
+* APPROCHE-TOI, ET&  JE SERAI FORCÉ DE TE&  MONTRER.../
 \M5* MA VÉRITABLE FORME !/%%
 \M0* TRÈS BIEN !/
 \M5* ON Y VA ^1?&* QUE LE SPECTACLE&  COMMEEEEENCE !!!/%%
@@ -15520,7 +15520,7 @@ sansk
 \E0* venons-en aux&  faits./%%
 \E1* cette expression que tu&  tires.../
 \E4* ben^1, j'ai pas de mots&  pour la décrire, là./%%
-\E4* tu fais vraiment flipper^1,&  quand tu t'y mets^1, tu sais ?/%%
+\E4* tu fais vraiment flipper^1,&  quand tu t'y mets^1,&  tu sais ?/%%
 \E3* heh heh heh heh.../
 \E1* très bien alors./
 \E3* laisse-moi te poser&  une meilleure question./
@@ -15768,7 +15768,7 @@ cantalk
 * Le sceau fait entrer quiconque&  le désire, mais une ÂME forte&  est nécessaire pour sortir./%%
 * Cependant...&* Il existe une prophétie./
 * L'Ange...&* Celui qui a Vu la Surface.../
-* Son retour est certain.&* Et alors, l'outremonde&  deviendra désert./%%
+* Son retour est certain.&* Et alors, l'outremonde ne&  sera plus qu'un désert./%%
 * Une carte de 21 parfums&  différents a été peinte&  par-dessus les anciens glyphes./%%
 * Atchoum ^1! J'ai tenté d'attraper&  un insecte^1, mais tout ce que&  j'ai chopé, c'est un un rhume../%%
 * Redoutant nos pouvoirs^1,&  les humains nous déclarèrent&  la guerre./
@@ -16572,7 +16572,7 @@ Le futur
 scr_itemroom
 /8
 \E3* Hein ^1?&* Vendre quelque chose ^1?&* Tu te crois dans&  une brocante ?/
-\E4* Je ne sais pas comment ça&  marche d'où tu viens... mais.../
+\E4* Je ne sais pas comment ça&  marche là d'où tu&  viens... mais.../
 \E0* Si je me mettais à dépenser&  de l'argent pour des brindilles&  ou des vieux pansements^1, je&  ferai faillite en une semaine !/%%
 \E4* Si t'as vraiment besoin&  d'argent^1, tu pourrais essayer&  de faire du crowdfunding./
 * On dit que les gens achètent&  N'IMPORTE QUOI ces temps-ci./%%
@@ -16589,7 +16589,7 @@ scr_itemroom
 \E4* On a de quoi manger chez&  Grillby^1, de quoi lire à&  la bibliothèque.../
 * Si tu fatigues^1, tu peux aller&  à l'auberge^1.&* C'est juste à côté ^1- ma soeur&  s'en occupe./
 \E0* Et si tu t'ennuies^1, tu peux&  aller dehors pour regarder ces&  squelettes faire leur cirque./
-\E0* Il y en a deux..^1.&*\E4 Ils sont frères, je crois^1.&* Ils sont arrivés un jour&  et..^1.&*\E0 ... Ils se sont installés./
+\E0* Il y en a deux..^1.&*\E4 Ils sont frères, je crois^1.&* Ils sont arrivés un jour&  et..^1.&*\E0 Ils se sont installés./
 * La ville est devenue bien plus&  animée depuis ^1- pas que je&  m'en plaigne !/%%
 \E0* On dit que c'est parce qu'un&  humain est dans le coin./
 * Un humain..^1.&* J'ai du mal à y croire !/
@@ -17021,7 +17021,7 @@ Gatty et Catty
 \E1* (POURQUOI CETTE PERSONNE&  ESSAYE DE ME VENDRE SES&  TRUCS C'EST UN FAST-FOOD&  J'ESSAYE JUSTE DE SURVIVRE)/%%
 \E3* TU TE PRENDS POUR QUI./%%
 \E6* Hmmm..^1.&* Pourquoi pas essayer de&  vendre ça aux deux nanas&  dans la ruelle ?/%%
-\E3* Ah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artefacts chelous..^1.&* OU PAS./%%
+\E3* Aaaah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artefacts chelous..^1.&* OU PAS./%%
 \E2* Passe une resplendicieuse&  journée !/%%
 \E6* Repasse quand&  tu veux^1, ptite tête./%%
 \E6* Et me revoilà seul.../%%
