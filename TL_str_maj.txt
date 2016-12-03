@@ -360,7 +360,7 @@ PERSONNE N'A JAMAIS&APPRECIÉ MA&CUISINE AUPARAVANT.../
 TU ES PASSÉ OUTRE&LA SAVEUR DE MES&PÂTES MAISON.../
 JUSTE POUR POUVOIR&LES PARTAGER&AVEC MOI ???/
 \E0N'AIE CRAINTE,&HUMAIN ^1! MOI^1, CHEF&CUISTOT PAPYRUS.../
-TE CUISINERAI&AUTANT DE PÂTES&QUE TU VOUDRAS !/
+JE TE CUISINERAI&AUTANT DE PÂTES&QUE TU VOUDRAS !/
 HEH HEH HEH HEH&HEH HEH NYEH !/%%
 HEY !/
 VOILÀ L'HUMAIN !/
@@ -5000,7 +5000,7 @@ ATTENDS UNE&SECONDE.../
 \E1JE RECONNAIS CE&NUMÉRO !!!/
 \E0ÉCOUTE-MOI BIEN^1,&HUMAIN !/
 \E2MOI^1, LE GRAND&PAPYRUS.../
-\E0SUIS DÉSORMAIS&CAPITAINE DE LA&GARDE ROYALE !/
+\E0JE SUIS DÉSORMAIS&CAPITAINE DE LA&GARDE ROYALE !/
 \E2C'EST TOUT CE DONT&J'AI JAMAIS RÊVÉ.../
 \E3SAUF QU'À LA PLACE&DE COMBATTRE^1, ON&ARROSE DES FLEURS./
 \E0ÇA CHANGE UN PEU&DE CE À QUOI&JE M'ATTENDAIS./
@@ -5891,8 +5891,8 @@ D'AVOIR UN&RENCARD."/
 DE TRAÎNER&ENSEMBLE."/
 \E0A\F0HEM !/
 \E1HUMAIN ^1!&MOI^1, LE GRAND&PAPYRUS.../
-T'INVITE MAINTENANT&À UN RENCARD&AVEC MOI !!!/*
-T'INVITE MAINTENANT&À TRAÎNER&AVEC MOI !!!/*
+JE T'INVITE MAINTENANT&À UN RENCARD&AVEC MOI !!!/*
+JE T'INVITE MAINTENANT&À TRAÎNER&AVEC MOI !!!/*
                               &   Oui             Non       &                            
 V-VRAIMENT ??^1?&WOUAHOU !!!/
 HEUREUSEMENT^1,&ILS DISENT JUSTE&DE DEMANDER !!!/
@@ -5931,7 +5931,7 @@ QUEL TALENT EN&MATIÈRE DE&TRAÎNAGE !!!/
 NYEH !/
 \F0JE N'AI PAS ENCORE&DIT MON DERNIER&MOT !/
 CAR MOI^1, LE GRAND&PAPYRUS.../
-N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN MATIÈRE&DE RENCARD !/
+JE N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN MATIÈRE&DE RENCARD !/
 DANS L'ÉVENTUALITÉ&OÙ QUELQU'UN&VOUDRAIT SORTIR&AVEC MOI !!!/
 N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN&TRAÎNAGE !/
 DANS L'ÉVENTUALITÉ&OÙ QUELQU'UN VOU-&DRAIT TRAÎNER AVEC&MOI !/
@@ -6005,7 +6005,7 @@ TOUT CE QUE TU&DIS^1. TOUT CE QUE&TU FAIS./
 C'EST PARCE QUE&TU TIENS À MOI./
 HUMAIN^1. MOI AUSSI,&JE NE SOUHAITE&QUE TON BONHEUR./
 IL EST TEMPS POUR&MOI D'EXPRIMER&MES SENTIMENTS./
-IL EST TEMPS&POUR MOI DE TE&DIRE./
+IL EST TEMPS&POUR MOI DE TE&DIRE QUE.../
 MOI^1, PAPYRUS.../%%
 JE T'OBSÈDE&COMPLÈTEMENT./
 HUMAIN^1. MOI AUSSI,&JE NE SOUHAITE&QUE TON BONHEUR./
@@ -6026,7 +6026,7 @@ ON SE DEVAIT&D'AVOIR UN RENCARD&ENSEMBLE./
 \E0ET QUE DURANT LE&RENCARD, MES&SENTIMENTS AURAIENT&CHANGÉ !!!/
 \E2JE PENSAIS QU'AINSI&MA PASSION BRÛLERAIT&AUSSI ARDEMMENT&QUE LA TIENNE!/
 \E4MAIS HÉLAS..^1.&MOI^1, LE GRAND&PAPYRUS.../
-\E5AI ÉCHOUÉ./
+\E5J'AI ÉCHOUÉ./
 RIEN N'A CHANGÉ&POUR MOI./
 ET AVEC CE&RENDEZ-VOUS.../
 JE N'AI FAIT QUE TE&POUSSER.../
@@ -6269,7 +6269,7 @@ D-dis-je^1, en te&repoussant.../
 Je...^1.&ne peux p-p-pas&r-r-résister à l'appel&de tes lèvres.../%%
 ALPHYS ^1!&JAMAIS JE NE&T'AIMERAI !/
 JAMAIS TU NE SENTIRAS&MON ÉTREINTE&PASSIONNÉE !!!/
-MOI^1, UNDYNE^1, NE&T'EMBRASSERAI JAMAIS&DE MES LÈVES&PULPEUSES !!!/%%
+MOI^1, UNDYNE^1, JE NE&T'EMBRASSERAI JAMAIS&DE MES LÈVES&PULPEUSES !!!/%%
 NGAHHHH !!^1!&NGAHHH !!!!/
 MON NOM EST UNDYNE&ET JE CARBURE&AUX BÉCOTS !!!/%%
 set
@@ -9997,15 +9997,15 @@ que ça ne serait&plus JAMAIS&ton tour./
 \E5suite à quoi^1,&bah..^1. tu&finiras par&quitter./%%
 \E5j'connais bien&les gens de&ton espèce./
 \E1t'es^1, euh^1, du&genre déterminé^1,&pas vrai ?/
-\E4t'abandonnes&jamais^1, quand&bien même^1, euh.../
-\E3tu n'en tires&absolument AUCUN&bénéfice&au final./
-\E1soyons clair./
+\E4t'abandonnes&jamais^1, même&si^1, euh.../
+\E3En fin de compte,&tu n'en tires&absolument AUCUN&bénéfice./
+\E1soyons clairs./
 \E4tu t'arrêteras&pas^1, quoi&qu'il advienne./
-\E9non pas par&choix moral&entre bien et&mal.../
-\E3simplement&parce que tu&penses que&c'est ton droit./
+\E9non pas par&choix moral,&genre entre bien&et mal.../
+\E3mais simplement&parce que tu&penses que&c'est ton droit./
 \E1et parce que&tu as le "droit".../
 \E9... tu en fais&ton "devoir"./%%
-\E9hélas^1, y'a&plus rien pour&toi après ça./
+\E9sauf que..^1. y'a&plus rien pour&toi, après ça./
 \E4c'est le bout&du chemin./
 \E1alors^1, euh^1, à&mon humble&avis.../
 \E3le truc le plus&"déterminé" qu'tu&puisses faire&maintenant.../
@@ -10058,7 +10058,7 @@ les lignes temporel-&les s'entremêlent,&s'arrêtent&et repartent.../%%
 \E5on finirait de&nouveau ici^1, sans le&moindre souvenir,&j'me trompe ?/%%
 \E1j'vais être franc.../
 \E4ça me donne&vraiment pas&envie de me&bouger le train./%%
-\E1... ou alors je&cherche encore&une excuse à&ma fainéantise...?/
+\E1... ou bien je&cherche encore une&excuse pour me la&couler douce...?/
 \E3va savoir./%%
 \E4tout c'que je sais..^1.&c'est que vu ce&qui doit arriver.../
 \E9j'peux pas&rester les bras&croisés plus&longtemps./%%
@@ -10070,9 +10070,9 @@ MP
 j'sais bien que tu&m'as pas répondu&auparavant^1,&mais.../
 \E4j'peux encore&le sentir^1,&là-dedans./
 \E0une faible trace&de bonté,&au fond de toi./
-\E4les souvenirs d'une&personne qui&voulait alors&faire le bien./
-\E1quelqu'un qui^1, dans&d'autres circon-&stances^1, aurait même&pu être.../
-\E4un ami ?/
+\E4les souvenirs d'une&personne qui&voulait faire&le bien./
+\E1quelqu'un qui^1, dans&d'autres circon-&stances^1, aurait même&pu.../
+\E4Faire partie de&mes amis ?/
 \E3allez^1, camarade./
 \E0tu t'souviens de&moi ?/
 \E4s'il te plaît^1,&si tu m'entends.../
@@ -10096,7 +10096,7 @@ d_music
 \E4c'est idiot^1, mais&avant cette histoire,&j'avais espéré qu'on&devienne amis./
 \E1j'pensais que&l'anomalie agissait&comme ça&par tristesse./
 et qu'elle arrêterait&une fois qu'elle&aurait eu ce&qu'elle voulait./%%
-\E3et j'me disais^1,&ptêtre qu'elle voulait&juste^1, j'sais pas.../
+\E3et j'me disais^1,&p'têtre qu'elle voulait&juste^1, j'sais pas.../
 \M1de la bonne bouffe^1,&des blagues&foireuses^1, des&amis sympas./%%
 \E4m'enfin, c'est&ridicule^1, tout ça./
 \E5parce que^1, t'es le&genre de personne&qu'on peut JAMAIS&rendre heureuse./%%
@@ -12240,7 +12240,7 @@ EN MODELANT LA&NEIGE D'APRÈS&MON VISAGE./
 ET^1, COMME D'HABI-&TUDE^1, PAS DE&SANS À L'HORIZON./
 \E3CE QUE JE VEUX&DIRE PAR LÀ^1,&C'EST.../
 \E0PAS D'INQUIÉTUDE^1,&HUMAIN !/
-MOI^1, LE GRAND&PAPYRUS^1, VAIS RÉ-&GLER CE PROBLÈME !/
+MOI^1, LE GRAND&PAPYRUS^1, JE VAIS RÉ-&GLER CE PROBLÈME !/
 POUR QUE L'ON&PUISSE TOUS LES&DEUX CONTINUER !/
 QUANT À TOI^1, N'HÉ-&SITE PAS À TENTER&CE CASSE-CRÂNE !/
 JE VAIS ESSAYER D'&ÉVITER DE TE DONNER&LA RÉPONSE !!!/%%
@@ -12339,7 +12339,7 @@ APRÈS TOUT^1, JE SUIS&QUASI-PARFAIT./
 JE N'AI MÊME PAS À&ME DEMANDER CE QUE&ÇA FAIT D'AVOIR DES AMIS./
 COMME JE TE PLAINS..^1.&TU N'AS PERSONNE&POUR T'ADMIRER.../
 MAIS N'AIE CRAINTE !!^1!&TA SOLITUDE&VA ENFIN PRENDRE FIN !/
-MOI^1, LE GRAND&PAPYRUS^1, VAIS&DEVENIR TON.../
+MOI^1, LE GRAND&PAPYRUS^1, JE VAIS&DEVENIR TON.../
  ^2.^2../
 NON.../
 NON^1, ÇA NE VA&PAS DU TOUT !/
@@ -12408,7 +12408,7 @@ ET TES MAINS SONT&TOUJOURS TOUTES&POUSSIÉREUSES./
 J'AI COMME&L'IMPRESSION QUE.../
 TA VIE EST SUR LA&MAUVAISE PENTE./
 CEPENDANT !/
-MOI^1, PAPYRUS^1, PEUT&VOIR LE POTENTIEL&QUI REPOSE EN TOI !/
+MOI^1, PAPYRUS^1, JE PEUX&VOIR TON POTENTIEL&CACHÉ !/
 ÊTRE QUELQU'UN DE&BIEN, C'EST FACILE SI&TU T'ACCROCHES !/
 J'Y ARRIVE LES&DOIGTS DANS LA&CAVITÉ NASALE !!!/
 NYEH HEH HEH&HEH HEH HEH !!!/%%
@@ -12417,7 +12417,7 @@ TU VOIS^1, C'EST&ÇA TON PROBLÈME !/
 HUMAIN ^1! JE PENSE&QUE TU AS BESOIN&D'UN GUIDE !/
 QUELQU'UN QUI TE&REMETTRAIT DANS LE&DROIT CHEMIN !/
 MAIS N'AIE CRAINTE !&MOI^1, PAPYRUS.../
-ME FERAIT UNE JOIE&D'ÊTRE TON TUTEUR&AINSI QUE TON AMI !/
+JE SERAI RAVI D'ÊTRE&À LA FOIS TON TUTEUR&ET TON AMI !/
 AVEC MOI^1, TU VAS&REPRENDRE TA VIE&EN MAIN !!!/%%
 JE VOIS QUE TU&TE RAPPROCHES./
 VOUDRAIS-TU ME&FAIRE UN CÂLIN&D'APPROBATION ?/
@@ -12520,8 +12520,8 @@ ET SI UN HUMAIN&PASSAIT PAR ICI !?!/
 JE VEUX ÊTRE&PRÊT !!!/
 CE SERA MOI !&IL FAUT QUE ÇA&SOIT MOI !/
 JE CAPTURERAI&UN HUMAIN !/%%
-ENSUITE^1, MOI^1,&LE GRAND PAPYRUS.../
-OBTIENDRAI TOUTES&LES CHOSES QUI ME&REVIENNENT DE DROIT!/
+AINSI^1, MOI^1,&LE GRAND PAPYRUS.../
+J'OBTIENDRAI TOUTES&LES CHOSES QUI ME&REVIENNENT DE DROIT!/
 RESPECT..^1.&RECONNAISSANCE.../
 JE POURRAI ENFIN&REJOINDRE LA&GARDE ROYALE !/
 LES GENS VOUDRONT^1,&TOUS ÊTRE^1,&MES^1, "AMIS" ?/
@@ -13459,7 +13459,7 @@ ax
 \E6* Manipuler les gens pour&  qu'ils t'apprécient..^1.&* Espèce de BARJOT !!/
 \E1* Ça suffit ^1!&* Pour tous ces rêves ^1!&* Pour tous ces espoirs !/
 \E2* Et au nom de ma propre&  fichue dignité !/
-\E3* MOI^1, UNDYNE^1, vais à&  présent te réduire en&  pièces !/%%
+\E3* MOI^1, UNDYNE^1, je vais&  à présent te réduire&  en pièces !/%%
 \E4* Je pensais les humains&  compatissants, d'après&  les archives d'Alphys./
 \E5* Mais toi^1, tu tues sans&  le moindre remords !/
 * Tu erres dans les ca-&  vernes^1, et attaques le&  premier monstre venu./
@@ -15214,7 +15214,7 @@ OH^1, C'EST&TRÈS SIMPLE./
 \E0MAIS C'EST QUOI^1,&CETTE FIN TOUTE&POURRIE ?!/%%
 \E3PEU IMPORTE QUE&TU AIES TOUT FAIT&CAPOTER^1, FRISK./
 \E0CAR MOI^1, LE&GRAND PAPYRUS.../
-RESTERAI TOUJOURS&TON FIDÈLE AMI !!!/
+JE RESTERAI TOUJOURS&TON FIDÈLE AMI !!!/
 \E1* peu importe le nombre de&  fois où t'essayeras de&  te débarrasser de lui./
 \E1HÉ !/
 \E0C'EST PAS FAUX./%%
@@ -16594,7 +16594,7 @@ scr_itemroom
 \E0* On dit que c'est parce qu'un&  humain est dans le coin./
 * Un humain..^1.&* J'ai du mal à y croire!/
 * S'il lui venait l'dée de passer&  par mon auberge^1, je lui&  donnerais un accueil&  du tonnerre !/%%
-\E4* Rappelle-toi de tes cours&  d'histoire.../
+\E4* Rappelle-toi tes cours&  d'histoire.../
 \E0* Il y a longtemps^1, les monstres&  vivaient dans les RUINES de la&  forêt./
 * Pour faire simple^1, on a tous&  décidé de quitter les ruines&  pour nous diriger vers le&  fond des cavernes./
 * En chemin^1, des gars pas frileux&  ont décidé qu'ils aimaient le&  climat et sont restés ici./
