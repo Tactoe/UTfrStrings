@@ -931,7 +931,7 @@ lv
 * ... deviendra un dieu./
 \W* Avec leur pouvoir^1, \RASGORE\W &  pourra enfin détruire&  la barrière./
 * Et alors^1, il pourra enfin&  reprendre la surface des&  mains de l'humanité.../
-* Tout en leur rendant au&  centuple toute la souffrance&  que nous avons enduré./
+* Tout en leur rendant au&  centuple toute la souffrance&  que nous avons endurée./
 * Tu saisis^1, l'humain ?/
 * Ceci est ton ultime chance&  de rédemption./
 * Donne-moi ton âme.../
@@ -7068,7 +7068,7 @@ Je ne&veux pas&de ça !
 Et si tu&essayes&de m'em-&bobiner?
 AH NON !&PAS LES&YEUX EN&PLASTIQUE
 JE COM-&MENÇAIS À&TE FAIRE&CONFIANCE
-C'est un&peu&mieux.
+C'est&un peu&mieux.
 Euh...&Ce sont&des&vrais.
 Un poids&s'envole.
 Merci&pour&rien !
@@ -7094,7 +7094,7 @@ Merci&pour&rien !
 * Vous enlevez une chaussette&  remplie de nuggets de poulet./^
 * Vous enlevez le t-shirt&  "je suis un idiot"./^
 * Vous essayez d'enlever...?/^
-* Vous retirez les yeux& en plastique./^
+* Vous retirez les yeux&  en plastique./^
 * Vous lui mettez des yeux&  en plastique trouvés par&  terre./^
 * Impossible d'améliorer&  la perfection./^
 mypart6
@@ -7736,7 +7736,7 @@ Je vous ai tous&laissés tomber./%%
 Non.../%%
 truthmusic
 Mon corps..^1.&J'ai l'impression&qu'il est en train&de se déchirer./
-Comme si à tout&moment..^1.j'allais me&briser en un&million de morceaux./
+Comme si à tout&moment..^1. j'allais&me briser en un&million de morceaux./
 Mais.../
 Du plus profond&de mon âme./
 Il y a ce désir&ardent et&inexplicable qui&me consume./
@@ -10746,7 +10746,7 @@ bcon
 * Quelque chose d'autre commence&  à résonner de plus en plus fort&  au sein de l'ÂME./
 * Il semblerait qu'une autre&  personne ait besoin d'être&  sauvée./
 * Mais qui...?/
-* Immédiatement^1, tu&  comprends./
+* Soudainement^1, tu&  comprends./
 * Tu l'appelles de&  toutes tes forces./%%
 darker
 * Tu ne peux pas bouger^1.&* Rien ne se passe./
@@ -16635,7 +16635,7 @@ T'as&trop de&trucs sur&toi !/*
 Cours&toujours&pour un&rabais./*
 Nous y&voilà./*
 Hein ^1?&Trop cher&pour&toi ?/*
-T'as pas&assez&sur toi ?/*
+Tu d'vrais&pas te&décharger&un peu ?/*
 À propos de vous
 Ce symbole
 Histoire du symbole (NOUV)
