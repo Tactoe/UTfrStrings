@@ -6837,13 +6837,13 @@ pet
 * Le chien s'affale par terre&  les quatre fers en l'air./^
 * Alors que vous caressez&  le chien^1, il s'affale de tout&  son poids sur vous.../
 * Votre vitesse diminue./
-* Mais^1, il lui faut&  toujours plus de caresses...!/^
+* Mais il lui faut&  toujours plus de caresses...!/^
 * L'excitation de Maxichien&  s'accumule en un champ de&  force anti-caresses./^
 * Maxichien se roule&  en boule sur vos genoux&  alors que vous le caressez./
 * C'est si confortable&  qu'il s'endort.../
 * Zzzzz.../
 * Soudain il se réveille ^1!&* Il est tout foufou !/^
-* Maxichien est trop loin&  pour être caressé^1.&* Vous vous contenterez de l'air./^
+* Maxichien est trop loin&  pour être caressé^1.&* Vous vous contentez de l'air./^
 * Vous jouez avec le chien./^
 * Maxichien est trop fatigué&  pour jouer./^
 * Vous lancez une boule de&  neige pour que le chien&  aille la chercher./
@@ -7061,7 +7061,7 @@ Laisse-&moi tran-&quille...
 Hohoho !&C'est&ça, mar-&re-toi...
 Vire-moi&ça...
 Merci.
-Ooh,il ne&fallait&pas...
+Ooh,&il ne&fallait&pas...
 Tu l'as&même&emballé...
 Ne t'&approche&pas !
 Je ne&veux pas&de ça !
@@ -8592,12 +8592,12 @@ Oh, c'est l'heure du&repas, non ? J'en&oublierais presque&de nourrir mon bébé~
 Grâce à cet argent,&les clans aranéens&seront enfin&réunis~/%%
 Elle prévoyait de&bloquer l'accès à&Calciterre après&notre fuite~/%%
 Tu l'ignorais ? Des&araignées sont coin-&cées dans les RUINES&depuis des siècles !/%%
-Pauvre fille~&Une araignée n'abandonne&JAMAIS sa toile~/
+Pauvre fille~&Une araignée&n'abandonne&JAMAIS sa toile~/
 (Sauf pour vendre&des pâtisseries~)/%%
 À supposer qu'elles&passent sous la porte,&le froid hivernal de&Couveneige les tuerait./%%
 Maintenant que tu&le dis^1, il se peut que&j'éprouve quelque&regret.../%%
 Mais avec cet argent,&leur louer une voiture&chauffante est une&simple formalité~/%%
-C'est vrai, j'aurais&du l'enrouler dans ma&toile quand j'en&avais l'occasion~/%%
+C'est vrai, j'aurais&dû l'enrouler dans ma&toile quand j'en&avais l'occasion~/%%
 Et avec les&restes..^1.&Nous pourrions prendre&de bonnes vacances~/
 Voire même nous&construire un terrain&de baseball pour&araignées~/%%
 Nous aurions pu&faire de délicieux&beignets avec~~~/%%
@@ -13626,7 +13626,7 @@ wavein
 * oh..^1. salut..^1. tu..^1./
 * m'as suivi..^1.&* jusque chez moi.../
 * ..^1.&* f-fais comme chez toi ???/%%
-* oh..^1.&* tu es là au final.../
+* oh..^1.&* finalement^1, tu es là.../
 * désolé^1, je...&* m'y attendais pas./
 * c'est pas grand-chose^1,&  mais fais comme chez toi./%%
 * oh..^1. est-ce que tu as faim.../
@@ -13708,7 +13708,7 @@ defaultspeed
 * faire de son mieux n'a&  pas suffi.../
 * oh........../%%
 * oh.......^1.&* on dirait que tu as trop&  encouragé ton escargot.../
-* toute cette pression&  pour réussir..^1.&* ça l'a accablée.../
+* toute cette pression&  pour réussir..^1.&* ça l'a accablé.../
 * oh......../%%
 * tu as gagné..^1. bravo./
 * le premier prix^1, c'est 9 PO./
@@ -16655,7 +16655,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E2* Ha ^1!\E0 &* Je veux m'DÉBARRASSER&  de ma camelote^1, pas en&  rajouter à ma collection !/
 \E4* Si tu veux vendre tes bibelots^1,&  j'ai cru comprendre qu'il&  fallait t'rendre au Village&  Temmie./
 \E0* Hein ?&* Où il se trouve ?/
-\E0* 'M'en rappelle pas./%%
+\E0* M'en souviens pas./%%
 * Pour la dernière fois^1, je&  n'en veux pas !/%%
 \E3* C'est pas en me menaçant&  du bout d'la lame que&  j'achèterai ta pacotille./%%
 * Sois prudent, là-dehors^1,&  bambin !/%%
