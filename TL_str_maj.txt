@@ -1654,7 +1654,7 @@ bs
 * t'agissais comme si&  tu savais déjà ce&  qui allait se passer./
 * comme si tu l'avais déjà&  vécu auparavant./
 * ça va te paraître&  bizarre, comme question^1,&  mais.../
-\W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W.../
+\W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W&  .../
 * tu crois pas que c'est&  ta responsabilité de t'en&  servir judicieusement ?/
  & &         Oui         Non\C      
 \E1* ah./
@@ -1669,7 +1669,7 @@ bs
 \E6* Euuh^1, dis^1, ça te dirait&  qu'on regarde une série&  télé humaine ensemble ??/
 * Un de ces quatre ???/
 \E4* Ça s'appelle^1, euh^1,&  M..^1.Miou Miou Mimi&  Bisou.../
- & &         Carrément!  ...non...\C
+ & &         Carrément  ...non...\C
 * S-Sérieux !?/
 \E3* C'est vraiment bien ^1!&* C'est euh^1, ma série&  préférée !/
 * Ça parle d'une fille&  humaine^1, Miou Miou^1, qui&  a des oreilles de chat !%
@@ -2719,11 +2719,11 @@ scr_itemnamelist
 * "Lettre d'Undyne" - Unique&* Une lettre écrite pour le&  Dr Alphys./%%
 * "Lettre d'Undyne EX" - Unique&* Il y a marqué NE LA JETTE PAS&  dessus./%%
 * "Chisps" Soigne 13 PV&* De bonnes vieilles chisps&  de tomme de perre./%%
-* "Cochonneries" Soigne 17 PV&* Appartenait probablement à un&  cochon autrefois./%%
+* "Malbouffe" Soigne 17 PV&* Appartenait probablement à un&  cochon autrefois./%%
 * "Clé Mystérieuse" Unique&* Elle est trop tordue pour&  la mettre sur votre porte-clé./%%
 * "Steak Visage" Soigne 60 PV&* Un gros steak en forme de la&  tête de Mettaton./
 * (Vous avez l'impression&  que ce n'est pas de la&  viande...)/%%
-* "Chiocolatine" Soigne 65 PV&* C'est comme ça qu'on dit ici.&* Neutralise la magie canine./%%
+* "Chiocolatine" Soigne 65 PV&* C'est comme ça qu'on dit, ici.&* Neutralise la magie canine./%%
 * "Tarte Escargot" Soigne qlqe PV&* On peut aimer à force&  d'en manger./%%
 * "armure temy" - Armure DF 20&* C'est fou ce qu'on peut faire&  avec un diplôme !/
 * Augmente l'ATQ quand équipé^1.&* Soigne des PV à chaque tour^1.&* INV légèrement augmentée./%%
@@ -2844,8 +2844,8 @@ nood
 * (Examinez la porte du labo^1,&  peut-être que vous pourriez&  la glisser par en dessous...)/%%
 * OH MON DIEU !!^1!&* JE VAIS T'ÉTRIPER&  SUR PLACE !!!/%%
 * Vous mangez les Chisps.
-* Vous mangez les Cochonneries. 
-* Vous mangez les Cochonneries.&* L'audience est dégoûtée.
+* Vous mangez la Malbouffe. 
+* Vous mangez la Malbouffe.&* L'audience est dégoûtée.
 * Vous utilisez la Clé&  Mystérieuse^1.&* Mais rien ne se passe./%%
 * Vous utilisez la Clé&  Mystérieuse^1. Vous entendez un&  déclic venant de la porte./%%
 * ... quand bien même la clé&  ne rentre pas dans la serrure./
@@ -5437,14 +5437,14 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E4* tu sois juste un sale&  hackeur^1, j'me trompe ?/
 \E1* ouais^1, dégage d'ici./%%
 \E1* H..^1. hey./
-\E0* Alors..^1. c'est toi&  qui a tué tous mes&  amis./
+\E0* Alors..^1. c'est toi&  qui as tué tous mes&  amis./
 \E1* J'appelais juste pour&  te dire./
 \E0* Je te déteste./
-\E1* Pourtant.^1. étrangement.^1.&* C'est à cause de toi^1,&  que.../
+\E1* Mais..^1. ironiquement..^1.&* C'est à cause de toi^1,&  que.../
 \E2* Que j'ai été forcée de&  devenir une meilleure&  personne./
-\E0* Quand j'ai vu ce que&  tu faisais à ces gens&  au tout début.../
-* J'étais juste assise^1.&* À t'observer./
-\E1* Je me suis sentie tel-&lement coupable, à ne rien&faire pour t'arrêter./
+\E0* Au départ, quand j'ai& vu ce que tu faisais&  à tous ces gens.../
+* Je suis juste restée&  là, assise^1.&* À t'observer./
+\E1* Je me suis sentie tel-&  lement coupable, de rien&  faire pour t'arrêter./
 \E3* J'ai senti que tout ce&  que je faisais&  au final.../
 \E4* C'était d'espérer que&  tu me tuerais^1,&  moi aussi./
 \E1* Mais quand Undyne m'a&  appelée^1, l'air&  folle de désespoir.../
@@ -8723,10 +8723,10 @@ orb3
 * Vous ignorez Malicien, et&  pensez aux fleurs et au soleil^1.&* DÉFENSE augmentée de 1./^
 * Vous visualisez&  des fleurs et du soleil./
 * Vous reprenez vos&  esprits^1.&* DÉFENSE augmentée de 2./^
-* La "Traqu'orbe" inarrêtable&  est affaiblie par votre regard./^
-* La "Traqu'orbe" incapacitée&  est encore plus affaiblie&  par votre regard soutenu./^
-* La "Coinç'orbe" intimidante&  est affaiblie par votre regard./^  
-* La "Coinç'orbe" inélégante&  est encore plus affaiblie&  par votre regard soutenu./^
+* Le "Traqu'orbe" inarrêtable&  est affaibli par votre regard./^
+* Le "Traqu'orbe" incapacitée&  est encore plus affaibli&  par votre regard soutenu./^
+* Le "Coinç'orbe" intimidante&  est affaibli par votre regard./^  
+* Le "Coinç'orbe" inélégante&  est encore plus affaibli&  par votre regard soutenu./^
 odd
 hnum
 nowx
@@ -10057,7 +10057,7 @@ les lignes temporel-&les s'entremêlent,&s'arrêtent&et repartent.../%%
 \E4après tout,&même si on y&arrivait.../
 \E5on finirait de&nouveau ici^1, sans le&moindre souvenir,&j'me trompe ?/%%
 \E1j'vais être franc.../
-\E4ça me donne&vraiment pas&envie de me&bouger le train./%%
+\E4ça me donne&vraiment pas&envie de m'y&coller à fond./%%
 \E1... ou bien je&cherche encore une&excuse pour me la&couler douce...?/
 \E3va savoir./%%
 \E4tout c'que je sais..^1.&c'est que vu ce&qui doit arriver.../
@@ -10164,7 +10164,7 @@ doomcounter
 \M1Je comprends&vraiment pas.../%%
 \M1Je comprends pas !/%%
 \M1Je comprends pas./%%
-\M1... pourquoi estC'est normal, on fixera ça avec le patch de BSoD-ce que.../
+\M1... pourquoi est-ce que.../
 \M1... tu t'obstines à m'épargner ?/%%
 \M1... pourquoi ?/%%
 \M1... ?/%%
@@ -10245,14 +10245,14 @@ Te revoilà enfin&à la maison./
 \E0Tu te souviens quand&on jouait ici ?/
 \E0Hi hi hi.../
 La vache !/
-\E9Aujourd'hui ça&sera tout aussi&amusant./%%
+\E9Aujourd'hui, ça&sera tout aussi&amusant./%%
 \E1Je me souviens&de mon premier&réveil^1, dans&le jardin./
 J'avais tellement&peur./
 \E2Je ne sentais plus&ni mes bras, ni mes&jambes.../
 \E1Mon corps entier&s'était transformé&en fleur !/
 \E5J'ai crié ^1:&"Maman ^1! Papa ^1!&À l'aide ^1!"/
 \E9Mais personne&n'est venu./%%
-\E1Finalement^1, le&roi m'a trouvé^1, en&train de pleurer&dans le jardin./
+\E1Le roi a fini par&me trouver^1, en&train de pleurer&dans le jardin./
 Je lui ai expliqué ce&qui m'était arrivé./
 Il m'a pris dans ses&mains^1,&
 Et il m'a soulevé,&les larmes aux yeux,&et m'a dit.../
@@ -10275,8 +10275,8 @@ Je pensais qu'elle^1,&au moins^1, pourrait&me rendre de nouveau&moi-même./
 J'étais déprimé./
 Je voulais juste&aimer quelqu'un./
 Je voulais juste&que quelqu'un me&tienne à coeur./
-^1, ça va peut&-être être dur&à croire.../
-\E2Mais j'ai décidé..^1.&Que ça ne valait&plus la peine&que je vive./
+^1, ça va peut&-être te sembler&difficile à&croire, mais.../
+\E2J'ai décidé..^1.&Que ça ne valait&plus la peine&que je vive./
 \E7Pas dans un monde&sans amour./
 \E6Pas dans un monde&sans toi./
 \E1Donc.../
@@ -10287,7 +10287,7 @@ Je voulais juste&que quelqu'un me&tienne à coeur./
 \E1Mais en quittant&l'étreinte de cette&vie.../
 J'ai commencé à&m'interroger./
 \E9Si on n'a pas d'ÂME^1,&qu'est-ce qu'il se&passe quand on...?/
-\E1Quelque chose&d'instinctif a commencé&à brûler en moi./
+\E1Quelque chose&d'instinctif a&commencé à&brûler en moi./
 "Non^1," je me suis dit^1.&"Je ne veux pas&mourir !"/
 Puis je me suis&réveillé./
 Comme si ça n'avait&été qu'un cauchemar./
@@ -12628,7 +12628,7 @@ s_click
 * Mais^1, plus il avançait^1, plus&  il devenait passionné&  par sa sculpture.../
 * Son cou s'allongeait et s'al-&  longeait^1, il ajoutait de plus&  en plus de neige^1, jusqu'à.../ 
 * C'était triste à voir^1,&  mais j'arrivais pas à&  détourner mon regard./%%
-* On est libres?/
+* On est libres ?/
 * OK^1, OK..^1.&* Je vais me bouger, alors^1.&* Le chien est au courant ?/
 * ... il ne sait rien du tout^1,&  pas vrai...?/%%
 rid
@@ -13929,7 +13929,7 @@ inithspeed
 * PARFAIT ^1!&* BEAU TRAVAIL^1, BEAUTÉ !/
 * ON A TOUS LES INGRÉDIENTS&  POUR PRÉPARER LE GÂTEAU !/
 \W* DU \YLAIT\W... &* DU \YSUCRE\W...&* DES \YOEUFS\W.../
-* ... OH LÀ LÀ^1!&* ATTENDEZ UN MAGNIFIQUE INSTANT^1!&* COMMENT AI-JE PU OUBLIER!!!/
+* ... OH LÀ LÀ ^1!&* ATTENDEZ UN SUBLIME INSTANT ^1!&* COMMENT AI-JE PU OUBLIER !!!/
 \W* IL NOUS MANQUE L'INGRÉDIENT&  \YLE PLUS IMPORTANT\W !/%%
 bossa
 yoffset1
@@ -15785,7 +15785,7 @@ cantalk
 \E5* Enfin^1, je veux dire..^1.&* H-hé^1, va donc&  vers la droite!/%%
 * H-hé ^1!&* Dirige-toi vers&  la droite !/%%
 * J'aime pas manger froid./
-\E0* Donc Alphys a arrangé&  mon frigo pour qu'il&  réchauffe la nourriture!/
+\E0* Donc, Alphys a arrangé&  mon frigo pour qu'il&  réchauffe la bouffe !/
 \E6* Le Frigo Chaud..^1.&* La meilleure invention&  du monde !/%%
 * Ce four est un de ces&  trucs haut-de-gamme&  de MTT./
 \E4* Mais^1, t'sais^1, peu&  importe les avancées&  technologiques.../
@@ -16156,7 +16156,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * Si un monstre vient à bout d'un&  humain^1, il peut alors lui&  arracher son ÂME./
 * Un monstre doté d'une ÂME&  humaine..^1. Une horrible bête à&  la force inconcevable./%%
 * (Cet écran diffuse ce qui&  se passe autour de vous&  en direct.)/%%
-* C'est toi...?/%%
+* C'est vous...?/%%
 * (C'est un micro-ondes^1)&* (C'est super, si on est fan&  de micro-ondes.)/%%
 * LE MICRO-ONDES MTT ^1!&* L'ORIGINE DU DÉFI MTT !/
 * INSÉREZ VOTRE PLAT ET RÉGLEZ&  LE MICRO-ONDES AU MAX&  PENDANT CINQ MINUTES.../
@@ -16761,8 +16761,8 @@ Arme: 12AT#(
 * Mais^1,&  genre./*
 * Ouais !&* Mate-moi&  ça !/*
 * Personne&  n'est venu&  et tout./*
- 25PO - Cochonneries
- 00PO - Cochonneries
+ 25PO - Malbouffe
+ 00PO - Malbouffe
 350PO - Pistolet Vide
 000PO - Pistolet Vide
 --- VENDU ---
