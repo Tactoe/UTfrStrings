@@ -686,7 +686,7 @@ Error./%%
 * Une des chambres en haut&  est vide^1./
 * Tu peux y dormir& gratuitement^1, d'accord ?/%%
 * Tu n'as pas assez d'argent./%%
-* Eh bien^1, reviens quand& tu veux./%%
+* Bon, eh bien^1, reviens&  quand tu veux./%%
 * (Regarder à travers le&  téléscope ?)&         Oui         Non\C
 view_yview
 view_xview
@@ -1390,7 +1390,7 @@ eventchoice
 * Fais ce que tu&  as à faire./%%
 * Tra la la^1.&* Je suis le passeur./
 * À moins que je ne&  sois une passeuse...^1?&* Cela n'a pas grande importance./
-* J'adore voyager à bord&  de ma barque^1.&* Voudrais-tu me tenir compagnie?/
+* J'adore voyager à bord&  de ma barque^1.&* Veux-tu me tenir compagnie ?/
 * (Monter à bord de la barque ?)& &         Oui         Non\C
 * Tra la la^1.&* Tu veux venir&  faire un tour ?/
 * Où allons-nous aujourd'hui ?& &         Error       Error\C
@@ -1648,14 +1648,14 @@ bs
 * pourtant.../
 * y'a toujours eu un&  truc que je trouvais&  étrange chez toi./
 * bon, je comprends&  que c'était pour toi&  de la légitime défense./
-* que tous ces événements&  te sont tombés dessus&  contre ta volonté./
-* cependant.../
-* parfois, c'est&  comme si.../
+* tu n'as pas choisi&  de vivre tous ces&  évènements./
+* et pourtant.../
+* parfois, on dirait&  presque que.../
 * t'agissais comme si&  tu savais déjà ce&  qui allait se passer./
 * comme si tu l'avais déjà&  vécu auparavant./
 * ça va te paraître&  bizarre, comme question^1,&  mais.../
 \W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W.../
-* tu crois pas qu'il en&  va de ta responsabilité&  de bien t'en servir ?/
+* tu crois pas que c'est&  ta responsabilité de t'en&  servir judicieusement ?/
  & &         Oui         Non\C      
 \E1* ah./
 \E0* je vois./
@@ -3351,7 +3351,7 @@ OU DES TÉLÉPHONES&QUI SE CHANGENT&EN JETPACKS !!!/%%
 * Même pas&  saute-lapin ?!/%%
 HMMM..^1. CETTE&ÉNIGME.../
 \E0JE SAIS !!!/
-ESSAYE DE CRÉER&UN PONT AVEC LES&GRAINES-PONTS !!/%%
+ESSAYE DE CRÉER&UN PONT AVEC LES&GRAINES-PONT !!/%%
 JE ME RENDS UTILE./%%
 * Alphys a pris les&  mesures pour les dalles&  de boue de l'énigme./
 * Ça n'a pas été simple^1,&  mais on a pu faire des&  châteaux de sable après./
@@ -3469,7 +3469,7 @@ ET DE LE CARESSER&AFFECTUEUSEMENT.../%%
 \E1* Hein !^1?&* T'as résolu l'énigme !?/
 \E6* Mais jamais personne..^1.&* Ça fait si longtemps que&  j'attends que quelqu'un.../
 \E2* J'veux dire^1, euhhh^1,&  pas trop tôt ^1!&* T'as pris ton temps !/%%
-* Va falloir que je me&  dégote un autre&  artefact mystique./%%
+* Va falloir que je me&  dégote un autre&  artéfact mystique./%%
 \E3UNE STATUE&MYSTÉRIEUSE.../%%
 \E3C'EST QUOI CETTE&MUSIQUE ?/
 ON M'A MIS&EN ATTENTE&OU QUOI ???/%%
@@ -5933,7 +5933,7 @@ NYEH !/
 CAR MOI^1, LE GRAND&PAPYRUS.../
 JE N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN MATIÈRE&DE RENCARD !/
 DANS L'ÉVENTUALITÉ&OÙ QUELQU'UN&VOUDRAIT SORTIR&AVEC MOI !!!/
-N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN&TRAÎNAGE !/
+JE N'AI JAMAIS ÉTÉ^1,&ET NE SERAI JAMAIS&SURPASSÉ EN&TRAÎNAGE !/
 DANS L'ÉVENTUALITÉ&OÙ QUELQU'UN VOU-&DRAIT TRAÎNER AVEC&MOI !/
 \E0JE PEUX TRÈS&BIEN FAIRE COMME&TOI !!!/
 \E1CAR VOIS-TU^1,&MOI AUSSI JE PORTE&DES VÊTEMENTS !!!/
@@ -6024,7 +6024,7 @@ JE NE T'AIME&COMME TU&M'AIMES./
 \E8COMME TU AS&FLIRTÉ AVEC MOI^1,&J'AI CRU QUE.../
 ON SE DEVAIT&D'AVOIR UN RENCARD&ENSEMBLE./
 \E0ET QUE DURANT LE&RENCARD, MES&SENTIMENTS AURAIENT&CHANGÉ !!!/
-\E2JE PENSAIS QU'AINSI&MA PASSION BRÛLERAIT&AUSSI ARDEMMENT&QUE LA TIENNE!/
+\E2JE PENSAIS QU'AINSI&MA PASSION BRÛLE-&RAIT AUSSI ARDE-&MMENT QUE LA TIENNE!/
 \E4MAIS HÉLAS..^1.&MOI^1, LE GRAND&PAPYRUS.../
 \E5J'AI ÉCHOUÉ./
 RIEN N'A CHANGÉ&POUR MOI./
@@ -7024,7 +7024,7 @@ blue
 * PAPYRUS - ATQ 20 DÉF 20&* Il aime bien faire&  "Nyeh heh heh !"/^
 * PAPYRUS - ATQ 3 DF 3&* Pitoyable./^
  QUELLE& ABNÉGATION.../
- TU NE VEUX PAS& QUE JE ME SENTE& MAL À PROPOS DE& T'AFFRONTER.../%%
+ TU NE VEUX PAS& QUE JE ME SENTE& MAL À L'IDÉE DE& T'AFFRONTER.../%%
  PAS BESOIN DE& TE MENTIR !!!/%%
  ARRÊTE...!/%%
 sblconwd
@@ -7888,7 +7888,7 @@ Salut ?&; )
 * Aaron attend votre prochain&  étirement.
 * Les muscles d'Aaron se&  dégonflent de façon comique.
 * AARON - ATQ 24 DÉF 12&* Cet hippocampe a beaucoup&  de PV (Points de Virilité.)/
-* Toutes ses attaques sont&  plus dures à éviter en bas&  de la boîte./^
+* Toutes ses attaques sont&  plus dures à éviter en bas&  du cadre./^
 * Vous demandez à Aaron de&  partir^1.&* Il obtempère./^
 * Vous vous étirez^1.&* Aaron redouble d'efforts.&* ATQ augmentée pour vous deux./^
 * Vous vous étirez plus fort^1.&* Aaron retriple d'efforts.&* ATQ augmentée pour vous deux./^
@@ -8569,7 +8569,7 @@ Qu'y a t-il,&mon sucre&?/%%
 Non, vraiment,&il faut partir&maintenant~/%%
 ... bon...&juste UNE petite&bouchée~~/%%
 Je plaisante,&bien sûr~/%%
-Si tu ne vois pas&d'objection à être&gobé tout cru~&Ahuhuhu~/%%
+Si tu ne vois pas&d'objection à te&faire gober~&Ahuhuhu~/%%
 Ahuhuhuhu~&Non pas que ça&me dérange de te&garder ici~/%%
 La toile est&assez confortable&pour toi ?/%%
 Il faut y aller,&maintenant~/%%
@@ -8644,12 +8644,12 @@ Sapristi, je crois&bien qu'il s'agit d'un&triste malentendu~/
 On m'avait juré&que tu haïssais les&araignées~/
 Cette personne qui&m'a demandé de&prendre ton ÂME.../
 Je crois qu'elle&parlait d'un AUTRE&humain à pull&rayé~/
-Cette personne qui&m'a mis en garde&contre toi.../
+Cette personne qui&m'a mise en garde&contre toi.../
 Elle n'aurait donc&raconté que des&sottises~/
 Navrée pour toute&cette pagaille~&Ahuhuhu~/
 Pour me faire&pardonner.../
 Tu es libre de revenir&ici autant de fois&que tu le veux.../
-Je t'autoriserai&même à jouer avec&mon familier après&t'avoir entoilé !/
+Je t'autoriserai&même à jouer avec&mon familier après&avoir pris soin&de t'entoiler !/
 Ahuhuhuhuhuhu~&Je plaisante~/
 Je vais t'ÉPARGNER,&à présent~/%%
 * Muffet vous épargne.
@@ -11875,7 +11875,7 @@ turts
 \E0* Merci de ta patience^1,&  en tout cas./
 * Allô ?/
 \E1* Tu n'as pas d'allergies^1,&  n'est-ce pas ?/
-* Euh ^1?&* Pourquoi te le&  demander ?/
+* Euh ^1?&* Pourquoi je te&  demande ça ?/
 \E0* Aucune raison..^1.&* Non, vraiment./
 touch
 \E1* À vrai dire...^2 je n'ai&  pas fait le ménage&  depuis longtemps./
@@ -12269,7 +12269,7 @@ CANONS^1, PICS ET&ÉPÉES ENTAMERONT&UNE DANSE MORTELLE!/
 CHAQUE PARTIE S'&AGITERA VIOLEMMENT&DE HAUT EN BAS !/
 TES CHANCES DE&VICTOIRE SONT&INFIMES !!!/
 C'EST BON, TU&VOIS LE TOPO !?/
-CAR JE !/
+JE !/
 SUIS !/
 SUR LE POINT !/
 DE L'ACTIVER !/%%
@@ -12391,7 +12391,7 @@ volly
 TOUT LE MONDE&L'ADORE./
 JE SUIS SÛR QUE&TOUT CE QUE TU&AS À DIRE, C'EST.../
 "PARDONNEZ-MOI^1, MR.&DREEMURR..^1. JE PEUX&RENTRER CHEZ MOI ?"/
-ET IL TE GUIDERA&LUI-MÊME AU TRAVERS&DE LA BARRIÈRE !/
+ET IL TE GUIDERA&LUI-MÊME À TRAVERS&LA BARRIÈRE !/
 BREF !!^1!&ASSEZ&TERGIVERSÉ !!!/
 JE SERAI CHEZ&MOI^1, OCCUPÉ À ÊTRE&UN AMI COOL !!!/
 REVIENS QUAND TU&VEUX POUR TRAÎNER&AVEC MOI !/
@@ -12601,7 +12601,7 @@ s_click
 \E1* j'était juste là./%%
 * quoi d'neuf ?/%%
 * tu aimes te dégourdir&  les jambes à ce que&  je vois./%%
-* je ne sais pas ce que&  va faire mon&  frère ensuite./
+* je ne sais pas ce que&  va faire mon frère&  ensuite./
 \W* si j'étais toi^1, je m'as-&  surerais d'être au point&  sur les \Battaques bleues\W./%%
 * hey^1, un petit conseil si&  tu veux affronter&  mon frère./
 \E1* n'y penses même&  pas^1.&* capiche ?/%%
@@ -13162,7 +13162,7 @@ follow
 tent2
 * Hé..^1. toi..^1.&* J'ai remarqué que..^1.&* Tu étais là.../
 \M1* Je suis Onionsan ^1!&* Onionsan^1, t'entends !/%%
-\M1* Tu visites les Chutes, hein^1!&* C'est super ici^1, hein^1!&* T'aimes bien cet endroit^1, hein!/
+\M1* Tu visites les Chutes, hein ^1!&* C'est super ici^1, hein^1!&* T'adores cet endroit^1, hein !/
 \M0* Ouais ^1!&* Moi aussi ^1!&* C'est mon Coin Préféré./%%
 \M3* Même si..^1. la place&  commence à manquer&  par ici..^1./
 * Je^1, dois m'asseoir tout le&  temps^1, mais.../
@@ -13539,7 +13539,7 @@ predummy
 * Mais tout ce que tu&  lui as DIT...!/
 * Horrible^1.&* Choquant ^1!&* INCONCEVABLE !/
 * Il était mort de peur^1,&  tellement qu'il en a perdu&  l'esprit ! Et son mannequin !!!/
-* HUMAIN ^1!&* Je vais glacer ton ÂME d'effroi&  et la virer de ton corps !/%%
+* HUMAIN ^1!&* Je vais glacer ton ÂME d'effroi&  et l'expulser de ton corps !/%%
 * TOI...!/
 * Toi.../
 * Crénom ^1!&* T'étais d'un ennui mortel !/
@@ -13819,7 +13819,7 @@ EUH... À PROPOS DE&CET HUMAIN DONT JE&T'AI PARLÉ PLUS TÔT.../
 \M5...QUOI^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 \M0E-EH BIEN.../
 \M1NON./
-\M1J'AI VRAIMENT TOUT&ESSAYÉ^1,UNDYNE^1,&MAIS AU FINAL.../
+\M1J'AI VRAIMENT TOUT&ESSAYÉ^1,UNDYNE^1,&MAIS FINALEMENT.../
 \M0J'AI ÉCHOUÉ./
 \M6... Q-QUOI ?/
 \M1TU VAS PRENDRE L'ÂME&DE L'HUMAIN PAR&TOI-MÊME.../
@@ -14945,7 +14945,7 @@ shakememy
 walked
 * Mon armure..^1. trop..^1.&  chaude..^1./
 * Je peux pas..^1.&* Laisser tomber.../%%
-* (Le verre d'eau est revenu&  dans la fontaine à eau.)/%%
+* (Le verre d'eau est revenu&  à la fontaine à eau.)/%%
 * (Le verre d'eau a été effacé&  par une force mystérieuse.)/%%
 * (La chaleur a fait s'évaporer&  l'eau du verre.)/
 * (Le verre lui aussi s'est&  évaporé.)/%%
@@ -15287,7 +15287,7 @@ JE RESTERAI TOUJOURS&TON FIDÈLE AMI !!!/
 * Oh./%%
 \E2* J'aimerais tant pouvoir&  te dire "voudrais-tu&  une tasse de thé ?"/
 \E3* Tu sais déjà ce&  qui nous attend,&  je suppose./%%
-* Belle journée^1, n'est-ce pas ?/
+* Belle journée^1, n'est-ce&  pas ?/
 * Les oiseaux chantent^1,&  les fleurs&  s'épanouissent.../
 * Un temps parfait pour&  jouer à la balle./%%
 * Tu sais ce qu'il nous&  reste à faire./
@@ -15304,7 +15304,7 @@ ml1
 Pass
 pass
 * Ainsi, tu as pu&  parvenir jusqu'ici./
-* La fin de ton aventure&  est à présent en jeu./
+* La fin de ton aventure&  est proche, à présent./
 * Dans quelques instants^1,&  tu vas rencontrer le roi./
 * Ensemble.../
 * Vos choix détermineront&  le sort de ce monde./
@@ -16714,12 +16714,12 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E1* Naaan^1. Ça marcherait pas^1.&* Si ASGORE était ton paternel^1,&  il te survivrait assurément./%%
 \E1* J'ai eu une vie bien trop&  remplie pour craindre quelque&  chose comme toi./
 \E2* Tente ta chance^1, la terreur !/
-\E3* ... J'sais bien q'tu peux&  rien m'faire ici./
+\E3* ... J'sais bien qu'tu peux&  rien m'faire ici./
 \E1* Wah ha.^1..&* C'est le fait de savoir&  autant de choses qui m'a&  permis de dev'nir si vieux./%%
 * Sire Popotouffe ^1?&* C'est un bon gars^1, un doux&  rêveur, plutôt insouciant.../
 \E4* Si tu continues ton chemin^1,&  tu tombera sûrement d'ssus^1.&*\E0 Il aime beaucoup s'promener&  et parler aux gens./
 \E3* Hein ^1?&* Pourquoi j'appelle Dreemurr& "Popotouffe" ^1?&*\E2 Oh^1, c'est toute une histoire !/
-\E0* ...'M'en rappelle pas./
+\E0* ...'M'en souviens pas./
 * Si tu repasses un peu plus&  tard^1, j'suis persuadé que&  j'm'en serai rappelé d'ici là./%%
 \E2* Ah, ouais ^1!&* Donc^1.&* Toriel était la reine^1, et&  Asgore le roi./
 \E3* Ça a été une sacrée perte&  quand elle a plié bagages./
@@ -17021,7 +17021,7 @@ Gatty et Catty
 \E1* (POURQUOI CETTE PERSONNE&  ESSAYE DE ME VENDRE SES&  TRUCS C'EST UN FAST-FOOD&  J'ESSAYE JUSTE DE SURVIVRE)/%%
 \E3* TU TE PRENDS POUR QUI./%%
 \E6* Hmmm..^1.&* Pourquoi pas essayer de&  vendre ça aux deux nanas&  dans la ruelle ?/%%
-\E3* Aaaah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artefacts chelous..^1.&* OU PAS./%%
+\E3* Aaaah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artéfacts chelous..^1.&* OU PAS./%%
 \E2* Passe une resplendicieuse&  journée !/%%
 \E6* Repasse quand&  tu veux^1, ptite tête./%%
 \E6* Et me revoilà seul.../%%
@@ -17129,7 +17129,7 @@ Gatty et Catty
 \E4* Ou^1, peut-être que je finirai&  encore tourneur de&  steaks hachés./
 \E3* Mais c'est comme je le dis ^1!&* Ça sera jamais pire que&  maintenant !&* Juste plus haut !/%%
 \E6* Désolé^1, l'asticot^1.&* Les menaces ne marchent pas&  sur moi./
-* Je peux pas aller au&  diable^1.&* J'ai plus de jours de&  congés./%%
+* Je peux pas aller au&  diable^1.&* J'ai plus de jours de&  congé./%%
 \E0* Désolé^1, (Ha ha) c'est contraire&  au règlement de parler aux&  clients qui n'ont rien acheté./%%
 \E1* Quoi ^1?&* Pourquoi t'essayes de taper&  la discute avec moi ?/
 \E1* Je vais avoir des ennuis si&  je deviens amical avec les&  clients./
@@ -17985,7 +17985,7 @@ hole
 * tem..^1.&* allergique à tem OSSI !!!/%%
 * Danse champi^2gnon&* Danse champi^2gnon&* Quoi que ça veuille dire/%%
 * Cela symbolise toute ma&  douleur refoulée../%%
-* Ça symbolise mon éternelle&  lutte intérieure. Coincé que je&  suis par mon hyphe./%%
+* Ça symbolise mon éternelle&  lutte intérieure. Retenu que je&  suis par mon hyphe./%%
 * Mon désir de m'arracher&  à cette existence^1, sans jamais&  y parvenir./%%
 * Si seulement je pouvais&  voir le monde à la&  surface./
 * Mais même si la barrière&  cédait^1, comment pourrais-je&  partir...?/%%
