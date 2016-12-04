@@ -1404,7 +1404,7 @@ eventchoice
 * (Ce lit a l'air confortable.)/
 * (S'allonger dessus ?)& &         Oui         Non\C
 * (C'est juste un lit&  suspicieusement normal&  maintenant.)/%%
-* (C'est une clé jaune.^1)&* (Vous l'ajoutez à votre&  porte-clé.)/%%
+* (C'est une clé jaune.^1)&* (Vous l'ajoutez à votre&  porte-clés.)/%%
 * (Il y a quelque chose sous les&  draps.)/
 * (Vérifier ce que c'est ?)& &         Oui         Non\C
 * (L'alimentation a été&  mise en marche.)/%%
@@ -2720,7 +2720,7 @@ scr_itemnamelist
 * "Lettre d'Undyne EX" - Unique&* Il y a marqué NE LA JETTE PAS&  dessus./%%
 * "Chisps" Soigne 13 PV&* De bonnes vieilles chisps&  de tomme de perre./%%
 * "Malbouffe" Soigne 17 PV&* Appartenait probablement à un&  cochon autrefois./%%
-* "Clé Mystérieuse" Unique&* Elle est trop tordue pour&  la mettre sur votre porte-clé./%%
+* "Clé Mystérieuse" Unique&* Elle est trop tordue pour&  la mettre sur votre porte-clés./%%
 * "Steak Visage" Soigne 60 PV&* Un gros steak en forme de la&  tête de Mettaton./
 * (Vous avez l'impression&  que ce n'est pas de la&  viande...)/%%
 * "Chiocolatine" Soigne 65 PV&* C'est comme ça qu'on dit, ici.&* Neutralise la magie canine./%%
@@ -4220,7 +4220,7 @@ ARRÊTE UN PEU ^1!&INUTILE DE SE&DIRE AU REVOIR !/%%
 * T'as tes propres trucs&  à régler^1,&  pas vrai...?/
 * Bon.../
 \E9* Même sans te parler^1,&  on reste de tout coeur&  avec toi^1, OK !?/
-\E0OUAIS^1! COMME SI&TU POUVAIS TE DÉ-&BARASSER DE NOUS !/
+\E0OUAIS ^1! COMME SI TU&POUVAIS TE DÉBA-&RRASSER DE NOUS !/
 \E9* On compte sur toi^1,&  alors fous pas tout en&  l'air, hein !/%%
 * On est pas près de&  te dire au revoir&  de sitôt !/%%
 \E0UN POSTER&DE L'ÉMISSION DE&METTATON ?/
@@ -6380,7 +6380,7 @@ height
 anim
 pause
 shaker
-* Vous mettez un peu d'eau&  dans la casserole et&  la mettez à cuire./ 
+* Vous mettez un peu d'eau&  dans la casserole et&  la mettez à chauffer./ 
 * Il faut attendre que l'eau&  bouille maintenant.../
 * ..^4.&* ..^4.&* .../
 * C'es^2t bon./
@@ -8032,14 +8032,14 @@ dark
 * Mettaton est CHAUD PATATE. 
 * METTATON - ATQ 30 DÉF 255&* Non mais vraiment hein^1,&  il est invulnérable !/^
 * C'est ce qui risque de vous&  arriver si la situation ne fait&  qu'empirer./^
-* Vous dites à Mettaton qu'il y&  a un mirroir derrière lui./%%
+* Vous dites à Mettaton qu'il y&  a un miroir derrière lui./%%
 Euh...je vois rien&de ce qui se passe&là-dedans, mais.../
 A-aie confiance,&d'accord ?!/
 I-il y a un autre&moyen d-de vaincre&Mettaton.../
 C-c'est.... euh...&c'est.../
-C'est encore une&ébauche, alors&fais preuve&d'indulgence.../
+C'est encore un&prototype, alors&fais preuve&d'indulgence.../
 Bon, tu as remarqué&que Mettaton&regardait toujours&vers t-t-toi ?/
-C'est parce qu'il y&a un interrupteur&derrière son dos./
+C'est parce qu'il y&a un interrupteur&dans son dos./
 A-a-alors s-s-si tu&a-arrives à lui faire&tourner le dos...&euh.../
 Et, euh... appuyer&sur c-c-ce bouton.../
 Il euh... il.../
@@ -8055,7 +8055,7 @@ D'APPUYER./
 SUR MON BOUTON ?/%%
 trueanim
 oyea
-CE STUPIDE&LANCE-POICHICHES NE&MARCHERA PAS SUR MOI,&MON CHOU. ^3 %
+CE STUPIDE&LANCE-POIS-CHICHES NE&MARCHERA PAS SUR MOI,&MON CHOU. ^3 %
 SAIS-TU SEULEMENT CE&QUE SIGNIFIE JOUER&LA COMÉDIE ?^3 %%
 mettamt
 maxed
@@ -8192,7 +8192,7 @@ fsgsfgsx
 ELLE VA MÊME JUSQU'À&ROMANCER LEUR&HYPOTHÉTIQUE RELATION&DE COUPLE.../
 S'INVENTANT AINSI UNE&PETITE VIE TRANQUILLE&AVEC ELLE./
 CHANCES DE BÉGUIN :&101 POURCENT./
-MARGE D'ERREUR:&UN POURCENT./%%
+MARGE D'ERREUR :&UN POURCENT./%%
 POURQUOI DONC&DOTER UN ROBOT&DE DIVERTISSEMENT.../
 D'AUTANT DE&COMPÉTENCES MARTIALES&MORTELLES ?/
 C'EST ÉVIDENT./
@@ -8801,7 +8801,7 @@ Un&dernier&coup&d'oeil.
 De quoi&as-tu&donc si&peur ?
 Enfin,&quelqu'un&qui a&pigé.
 Comment&oses&-tu.
-Correct !
+Bah&voilà !
 Tu&oses&me&défier ?
 Tu es&bien&témé-&raire.
 Il faut&en avoir&là-&dedans.
@@ -8997,7 +8997,7 @@ OOH^1, REGARDEZ-MOI&CET AUDIMAT !!!/
 JE CROIS QUE L'ON&VA POUVOIR LANCER&LE BONUS APPEL !/
 \E8UNE PERSONNE VA&AVOIR LA CHANCE DE&ME PARLER EN&LIVE.../
 \E7... AVANT QUE JE NE&QUITTE L'OUTREMONDE&POUR DE BON !!/
-\E9VOYONS QUI NOUS&ALLONS AVOIR AU&FIL EN PREMIER !/%%
+\E9VOYONS QUI NOUS&ALLONS AVOIR AU&BOUT DU&FIL EN PREMIER !/%%
 blc
 \E0COUCOU^1, VOUS&ÊTES EN DIRECT !/
 UN PETIT MESSAGE^1,&POUR NOTRE&DERNIÈRE ÉMISSION&???/%%
@@ -9058,7 +9058,7 @@ Ohhhh ciel./
 Si tu as appuyé&sur ce bouton, ça&ne peut signifier&qu'une chose./
 Tu meurs d'envie&de voir mon&nouveau corps en&avant-première./
 Quel toupet.../
-Une chance pour&toi, je mourrais&d'envie de&le montrer./
+Une chance pour&toi, je mourais&d'envie de&le montrer./
 Alors..^1.pour te&remercier^1, je veux&bien te faire&une fleur./
 Je vais rendre&tes derniers&instants.../%%
 ABSOLUMENT fabuleux !/%%
@@ -9109,7 +9109,7 @@ endbuffer
 EssayNo
 essaynum
 draw_text_ext
-SUJET:#Qu'est-ce que#tu aimes le plus#chez Mettaton ?#X et Z interdits
+SUJET :#Qu'est-ce que#tu aimes le plus#chez Mettaton ?#X et Z interdits
 TERMINÉ !!!
 [ÉCRIVEZ]
 exc
@@ -9207,7 +9207,7 @@ néné
 chibre
 Oh ciel ! C'est un&divertissement&tout public./
 Maintenant, essaye de&rester immobile&pendant que je&t'assassine./%%
-* Mettaton enregistre votre&  rédaction pour utilisation&  future.
+* Mettaton enregistre votre&  rédaction pour une&  utilisation future.
 testhp
 testinv
 healno
@@ -10227,11 +10227,11 @@ Gravement&blessé^1, ASRIEL&finit par&rentrer./*
 Arrivé au&château, il&s'effondra./*
 Sa poussière&se dispersa&dans le jardin./%%
 Le royaume&sombra dans&le désespoir./*
-Leurs Majestés&perdirent leurs&deux enfants en&une nuit./*
-Les humains nous&ôtèrent de nouveau&tout ce qu'il&nous restait./%%
+Leurs Majestés&avaient perdu&deux enfants en&une nuit./*
+Les humains nous&avaient à nouveau&oté tout ce qu'il&nous restait./%%
 Le roi déclara&alors que ce&serait la fin de&notre souffrance./*
-Désormais^1,&chaque humain&qui tombera&ici trépassera./*
-Avec suffisamment&d'âmes^1, nous&pourrons briser&la barrière./%%
+Désormais^1,&chaque humain&qui tomberait&ici trépasserait./*
+Avec suffisamment&d'âmes^1, nous&pourrions briser&la barrière./%%
 Nous y sommes&presque./%%
 Le Roi ASGORE&nous délivrera.   /*
 Le Roi ASGORE&nous redonnera&espoir./*
@@ -10473,7 +10473,7 @@ Croâ&croâ.
 * Ça sent comme une ,
 * Moisseauneur semble s'être&  apaisé.
 * ASTIGMATE 
- DÉF&* Cette forte tête obtient&  TOUJOURS raison.
+ DÉF&* Cette forte tête finit&  TOUJOURS par avoir raison.
 * HÉROPLASME 
  DÉF&* Ses craintes se sont&  finalement envolées.
 * CROÂPAUD ULTIME 
@@ -14504,7 +14504,7 @@ nowax
 \E6* Ça doit..^1.&* T-tout ça doit.../
 \E5* Vr..^1. vraiment&  t'emballer^1, hein ?/%%
 * Tu s-s-seras enfin.../
-\E7* Tu seras enfin capable&  de rentrer chez&  toi !/%%
+\E7* Tu pourras enfin&  rentrer chez&  toi !/%%
 * A..^1.&* Attends !/%%
 * Je veux dire^1, hum..^1.&* Je.../
 \E1* J'allais juste..^1.&* ... euh.../
@@ -14533,11 +14533,11 @@ x_maroon
 \E5* Je peux toujours&  construire un robot&  différent !/
 \E6* .../
 \E5* Tu devrais y aller,&  maintenant./%%
-* ... Dieu merci^1,&  c'était seulement&  les piles !/
+* ... Dieu merci^1,&  c'était seulement&  les batteries !/
 \E9* Mettaton^1, si tu étais&  parti^1, j'aurais..^1.&* J'aurais.../
 \E8* .../
 \E6* Je v-veux dire^1, h-hé^1,&  c-c'est pas un&  problème^1, tu sais ?/
-\E5* C'est qu'un robot^1,&  si tu l'avais détruit^1,&  j'aurai j-juste à.../
+\E5* C'est qu'un robot^1,&  si tu le détruis^1,&  j'aurai j-juste à.../
 \E6* J-juste à en construire&  un autre./
 * Tu devrais y aller,&  maintenant./%%
 drawblack
@@ -14557,7 +14557,7 @@ babytimer
 * TOUT CECI N'ÉTAIT&  QU'UN ÉNORME&  SPECTACLE./
 * UNE MISE EN SCÈNE./
 * MA "DÉFAILLANCE" A ÉTÉ&  INVENTÉE PAR LE&  DR ALPHYS./
-* TANDIS QU'ELLE T'OBSERVAIT&  À TRAVERS L'ÉCRAN^1, ELLE S'EST&  ÉPRISE DE TES AVENTURES./
+* TANDIS QU'ELLE T'OBSERVAIT&  DERRIÈRE SON ÉCRAN^1, ELLE&  S'EST ÉPRISE DE TES AVENTURES./
 * ELLE VOULAIT DÉSESPÉRÉMENT&  EN FAIRE PARTIE./
 * ALORS ELLE A DÉCIDÉ DE&  S'INTRODUIRE DANS TON&  HISTOIRE./
 * CE SCÉNARIO, DANS LEQUEL&  ELLE TE "SAUVE" DE MOI^1,& FAISAIT PARTIE DE SON PLAN./
@@ -14595,7 +14595,7 @@ mtsong2
 * H-hé !!^1!&* Qu-qu-qu'est-ce qui&  se passe ?!/
 * L-l-la porte vient&  juste de se verrouiller&  d'elle-même !/%%
 \M1* DÉSOLÉ^1, LES AMIS ^1!&* VOTRE PROGRAMME HABITUEL&  VIENT D'ÊTRE ANNULÉ !!!/
-* MAIS CETTE FINALE QUE L'ON&  VOUS A RÉSERVÉ VA VOUS&  DÉCOLLER LA RÉTINE !!/%%
+* MAIS CE FINAL QUE L'ON&  VOUS A RÉSERVÉ VA VOUS&  DÉCOLLER LA RÉTINE !!/%%
 \M5* DRAME AUTHENTIQUE !!&* ACTION AUTHENTIQUE !!&* CARNAGE AUTHENTIQUE !!/
 * VOICI NOTRE NOUVEAU&  SPECTACLE.../
 * "L'ATTAQUE DU ROBOT TUEUR !"/%%
@@ -14665,7 +14665,7 @@ dm1
 dm2
 * H-hé^1, pourquoi tu&  n'essayes pas&  l'ascenseur d'abord ?/
 * H-Hé^1, pourquoi tu&  n'essayes pas d'aller&  à droite avant ?/
-* Okay^1, tu devrais&  être capable de&  passer par ici.../
+* Okay^1, tu devrais pouvoir&  passer par ici.../
 donotcall
 * A-attention !/%%
 * C-C'était moins une.../
@@ -14919,7 +14919,7 @@ alphys2
 \E3* A-attends une seconde^1,&  s'il te plaît ! /%%
 noise
 \E0* Voilà^1, je te l'ai&  amélioré !/
-* Il peut gérer les&  textos, les objets^1, et&  il a même un porte-clé../
+* Il gère les textos,&  les objets^1, et il a&  même un porte-clés !/
 * Je t'ai aussi créé un&  compte sur notre réseau&  social No. 1, UnderNet !/
 \E7* Dorénavant, notre&  amitié est officielle ^1! &* Héhéhé ! /
 \E0* Héhé.../
@@ -16052,20 +16052,20 @@ L'INTIMITÉ^1,&TU NE CONNAIS&DONC PAS ?/%%
 * (Les gemmes incrustées dans le&  mur au sud brillent d'une&  manière spectaculaire.)/
 * (Vous avez de la chance de&  pouvoir admirer le mur sous&  cet angle.)/%%
 * (Un coffre rempli de chaussures&  pour enfant^1, toutes de taille&  très variable.)/%%
-* (C'est un dessin d'une&  fleur dorée.)/%%
+* (C'est un dessin représentant&  une fleur dorée.)/%%
 \R* Mon dessin./%%
 * (Plus grand qu'un lit deux&  places, pour sûr.)/%%
 * (Il y a peu^1, vous pensiez&  que ce lit était plus grand&  qu'un lit deux places.)/
 * (Mais il s'agit en fait&  d'un grand lit avec plus&  de place que la moyenne.)/%%
 * Les braises sont&  encore chaudes./%%
-* (C'est une fleur assemblée&  à partir de nouilles.^1)&* ('Pour le Roi des Papas !')/%%
+* (C'est une fleur dessinée&  avec des nouilles.^1)&* ('Pour le Roi des Papas !')/%%
 * À l'intérieur du tiroir se&  trouvent des graines de fleur&  et des crayons cassés./%%
 * Il y a des poils blancs au&  fond de l'évier./%%
 * (Il y a des poils blancs au&  fond de l'évier.)/%%
 * Du fait de leur nature magique^1,&  le corps des monstres est&  fermement attaché à leur ÂME./
 * Si un monstre ne veut pas&  se battre^1, ses défenses&  s'affaibliront, et.../
 * Si les intentions de l'atta-&  quant sont cruelles, le monstre&  en souffrira d'autant plus./
-* En conséquence^1, si un être doté&  d'une puissante ÂME frappe&  avec le désir de tuer.../
+* En conséquence^1, si un être pourvu&  d'une puissante ÂME frappe&  avec le désir de tuer.../
 * Euuh^1, on va s'arrêter là&  pour l'instant.../%%
 * ...!^1?&* Il y a une caméra cachée&  derrière le poste de garde./%%
 * ...!^1?&* Il y a une caméra cachée der-&  rière le..^1. "poste de garde"./%%
@@ -16136,9 +16136,9 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * Plus personne ne&  l'utilisera désormais.../%%
 * (On a laissé un mot.^1)&* Coucou ^1! Sers-toi&  ce que tu veux !/%%
 * J'ai déjà lu ça./%%
-* La cuisinière est toute propre^1.&* Quiconque vit ici doit utiliser&  la magie du feu à la place./%%
+* La cuisinière est toute propre^1.&* Celui qui vit ici doit utiliser&  la magie du feu à la place./%%
 * Cuisinière./%%
-* (En voilà un lit comfortable.^1)&* (S'y allonger, c'est&  y rester.)/%%
+* (En voilà un lit confortable.^1)&* (S'y allonger, c'est&  y rester.)/%%
 * Mon lit./%%
 * (C'est un lit à deux places.)/%%
 * Son lit./%%
@@ -16287,7 +16287,7 @@ fcheck1
 fcheck2
 tread
 * (C'est une poubelle.)/
-* (Elle déborde de recettes&  chiffonées pour faire une tarte&  à la canelle et au caramel.)/%%
+* (Elle déborde de recettes&  chiffonées pour faire une tarte&  à la cannelle et au caramel.)/%%
 * (C'est un trophée.^1)&* (Numéro 1 au championnat&  de Frot'nez de 98 !)/%%
 * Ce fromage est là depuis si&  longtemps qu'un cristal magique&  s'est formé autour de lui./
 * (On dirait bien que la souris a&  réussi à libérer le fromage de&  son cristal^1, après tout.)/%%
@@ -16798,7 +16798,7 @@ Je suis humain
 Est-ce Que T'aimes Les Chats
 Ouais,&genre,&quoi de&neuf ?/*
 * Merci^1, mais on^1,&  a genre^1, pas&  vraiment besoin&  de quoi que&  ce soit./*
-\M2* Oh mon Dieu^1.&* C'est un&  glamburger ?/*
+\M2* Oh mon Dieu^1.&* C'est un&  Glamburger ?/*
 * Vous volez&  5PO de la&  caisse./%%
 * La caisse&  est vide./%%
 * Genre^1, à&  plus tard !  /%%
@@ -16920,7 +16920,7 @@ mew
 \E1* Sa VIE^1,&  Gatty !!/%%
 \M4* Euh^1, oui et ?/%%
 \E7* ..^5. %
-\E1* Pense à tous&  les glamburgers&  qu'il pourrait&  nous filer !!/*
+\E1* Pense à tous&  les Glamburgers&  qu'il pourrait&  nous filer !!/*
 \M3* ... et donc, il&  est libre&  après le&  travail ?/%%
 \E0* Ouais^1, genre^1,&  carrément&  libres./%%
 * Genre..^1.&* Cool./*
@@ -16977,7 +16977,7 @@ Soigne 60PV#Sans#commentaire.#Merci.
 \E0* Le client a toujours raison./*
 \E0* Bienvenue aux Galeries&  MTT-Lapaillette^1,&  terre natale&  du Glamburger^1.&* Nous illuminerons&  votre journée (TM)./*
 \E3* Vous désirez autre chose ?/*
-\E3* Qu'est-ce que je peux&  faire pour toi^1,&  ptite tête ?/*
+\E3* Qu'est-ce que je peux&  faire pour toi^1,&  p'tite tête ?/*
 \E1* (Pourquoi est-ce que&  je me coltine toujours&  les gens chelous ?)/*
  60PO - Starfait
 120PO - Glamburger
@@ -16990,8 +16990,8 @@ Soigne 60PV#Sans#commentaire.#Merci.
 \E1C'est pas&assez&d'argent^1,&ça./*
 \E1Vous&n'avez&pas de&place./*
 \E1On n'en a&PLUS./*
-\E6Choisis ce&que tu&veux^1,&ptite tête./*
-\E6Et voilà^1,&ptite tête./*
+\E6Choisis ce&que tu&veux^1,&p'tite tête./*
+\E6Et voilà^1,&p'tite tête./*
 \E6T'inquiète&pas&pour&ça./*
 \E6Désolé...&Tu peux&pas l'avoir&gratos./*
 \E6Vide un&peu tes&poches,&avant./*
@@ -17016,14 +17016,14 @@ L'évacuation
 Tout seul
 Menacer
 Gatty et Catty
-\E3Prends-en&de la&graine^1,&ptite tête./*
+\E3Prends-en&de la&graine^1,&p'tite tête./*
 \E3Il y a&rien&d'autre à&faire !/*
 \E1* (POURQUOI CETTE PERSONNE&  ESSAYE DE ME VENDRE SES&  TRUCS C'EST UN FAST-FOOD&  J'ESSAYE JUSTE DE SURVIVRE)/%%
 \E3* TU TE PRENDS POUR QUI./%%
 \E6* Hmmm..^1.&* Pourquoi pas essayer de&  vendre ça aux deux nanas&  dans la ruelle ?/%%
 \E3* Aaaah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artéfacts chelous..^1.&* OU PAS./%%
 \E2* Passe une resplendicieuse&  journée !/%%
-\E6* Repasse quand&  tu veux^1, ptite tête./%%
+\E6* Repasse quand&  tu veux^1, p'tite tête./%%
 \E6* Et me revoilà seul.../%%
 \E6* Je commence à me faire&  vieux^1, tu sais^1, alors&  laisse-moi te donner quelques&  conseils^1, p'tite tête./
 \E3* T'as encore plein de temps&  devant toi^1.&* Ne deviens pas comme moi./
@@ -17036,15 +17036,15 @@ Gatty et Catty
 \E3* Tout le monde est déjà&  parti du boulot ?&* ET ALORS ?&* Personne n'achète rien ?&* ET ALORS ?/
 \E6* C'est ça la routine^1, l'asticot^1.&* C'est ça la routine./%%
 * Je suis un Glouton Barjot OUAIS & et voici un message d'erreur./%%
-\E6* Merci^1, ptite tête./%%
+\E6* Merci^1, p'tite tête./%%
 \E5* Elles veulent qu'on sorte&  après le travail ?/
 \E3* Ha ^1! Ahahaha !^1!  OUI !!^1!&* Je te décevrai pas !!!/
-\E6* Ptite tête..^1. j'te remercie./
+\E6* P'tite tête..^1. j'te remercie./
 * Tu as réussi à faire verser&  une larme à un vieux&  briscard tel que moi./
 \E5* Donc^1, euh^1, elles veulent&  aller où ?/
 * Elles veulent sortir à la&  décharge./
-\E6* Bon bah^1, ça sera jamais&  pire que maintenant^1,&  pas vrai^1, ptite tête ?/%%
-\E6* Hey ptite tête^1, ça te dirais&  de m'aider à choisir une tenue&  qui manque pas de piquant pour&  ma teuf' dans pas longtemps ?/
+\E6* Bon bah^1, ça sera jamais&  pire que maintenant^1,&  pas vrai^1, p'tite tête ?/%%
+\E6* Hey p'tite tête^1, ça te dirais&  de m'aider à choisir une tenue&  qui manque pas de piquant pour&  ma teuf' dans pas longtemps ?/
 \E4* Attends^1, maintenant que j'y&  pense^1, j'ai dû me débarrasser&  de tous mes vêtements pour&  faire de la place aux tenues&  que Mettaton m'a donné.../
 \E5* Ne va pas croire que je lui&  ai demandé d'en avoir, hein^1.&* Tout ça c'est juste.../
 \E4* Des habits chelous./
@@ -17052,14 +17052,14 @@ Gatty et Catty
 \E3* Mais LE MEILLEUR dans tout ça^1,&  c'est que je suis le seul&  employé à devoir porter ça !/
 \E3* Parfois ça lui arrive de me&  convoquer dans son&  bureau pour..^1.&* Me faire mettre des trucs.../
 \E4* Il rigole un bon coup&  puis il me renvoie au travail&  comme si de rien n'était./
-\E6* 'Fin bref^1, t'en fais pas pour&  ça^1, ptite tête^1.&* J'vais y aller au naturel./
+\E6* 'Fin bref^1, t'en fais pas pour&  ça^1, p'tite tête^1.&* J'vais y aller au naturel./
 * Ne laisse JAMAIS les gens&  croire que tu te soucies d'eux^1.&* C'est COMME ÇA qu'ils&  pigent qu'ils ont gagné./%%
-\E5* Alors ^1?&* Me laisse pas comme ça^1,&  ptite tête !!/%%
+\E5* Alors ^1?&* Me laisse pas comme ça^1,&  p'tite tête !!/%%
 \E4* Les filles^1, elles..^1.&* Elles ont parlé de moi... ?/
 * Elles disent que je devrais&  arrêter de faire comme si&  elles me devaient des&  excuses.../
 \E5* ... et que si je veux être&  AMI avec elles^1, je devrais&  juste..^1. euh^1, essayer de voir&  les choses à leur façon ?/
 \E4* Wow./
-\E6* Pauvre^1, pauvre ptite tête^1.&* Quelle naïveté^1, elles&  t'ont lavé le cerveau./
+\E6* Pauvre^1, pauvre p'tite tête^1.&* Quelle naïveté^1, elles&  t'ont lavé le cerveau./
 * "L'amitié" c'est juste l'excuse&  qu'utilisent les gens&  populaires pour faire&  de toi leur esclave./
 \E5* Alors^1, euh^1, elles veulent&  sortir quand ?/%%
 \E5* Hein ^1?&* Ouais^1, les deux vendeuses&  dans l'allée du fond^1.&* Les filles quoi./
@@ -17070,7 +17070,7 @@ Gatty et Catty
 \E3* Son sens de l'humour est&  ENCORE PIRE que l'autre comédien&  qui passe son temps à chouiner&  à propos de sa famille./
 \E5* Mais^1, je^1, euh^1, contente-toi de&  lui dire que c'est hilarant^1,&  parce qu'il me file des glaces&  gentilly gratos après.../%%
 \E4* Tout le monde&  m'appelle Mac Futal&  maintenant./
-\E5* Mais toi^1, tu le feras pas^1,&  pas vrai ptite tête ?/%%
+\E5* Mais toi^1, tu le feras pas^1,&  pas vrai p'tite tête ?/%%
 \E6* Je suis allé dans la ruelle&  voir ces deux demoiselles^1,&  pour euh..^1.&  tenter ma chance, quoi./
 \E5* Mon boss m'a^1, euh^1, vu et&  m'a demandé ce que je faisais./
 \E1* J'étais tellement paniqué que&  les hamburgers qui étaient dans&  mes poches sont tombés&  par terre./
@@ -17079,10 +17079,10 @@ Gatty et Catty
 \E5* ... a causé la chute de&  mon pantalon./
 \E4* Et les filles se sont fichues&  de moi./
 \E4* Tout le monde m'appelle&  Mac Futal maintenant./%%
-\E6* Écoute^1.&* Je t'aime bien^1, ptite tête^1.&* Alors je vais t'épargner pas&  mal d'ennuis./
-\E3* Ne^2. Jamais^2. Interargir^2. Avec&  les gens attrayants./
+\E6* Écoute^1.&* Je t'aime bien^1, p'tite tête^1.&* Alors je vais t'épargner pas&  mal d'ennuis./
+\E3* Ne^2. Jamais^2. Interargir^2. Avec&  les gens attirants./
 \E6* À moins que tu sois&  "l'un d'entre eux^1,"&  ils vont juste profiter de toi./
-\E3* Comme la fois où ces deux&  nanas m'ont demandé de leur&  chourer des glamburgers./
+\E3* Comme la fois où ces deux&  nanas m'ont demandé de leur&  chourer des Glamburgers./
 \E6* Et où moi^1, tel l'ado naïf que&  j'étais^1, j'ai mordu à l'hameçon./
 \E4* Mauvaise idée./%%
 \E4* Ces filles ?&* Celles qui m'ont vu perdre&  mon froque ?/
@@ -17090,7 +17090,7 @@ Gatty et Catty
 \E4* Donc on est libres&  maintenant./
 \E5* Ça veut dire que mon&  double-rencard est annulé... ?/
 \E5* Je sais^1, c'était pas&  vraiment un..^1.&* Un rencard./
-\E6* Je vais te dire un truc^1,&  ptite tête ^1:&* Berce-toi d'illusions^1.&* Tout le temps.&* Ça aide à se sentir mieux./%%
+\E6* Je vais te dire un truc^1,&  p'tite tête ^1:&* Berce-toi d'illusions^1.&* Tout le temps.&* Ça aide à se sentir mieux./%%
 \E4* Bah^1, Mettaton ne m'a pas dit&  que je DEVAIS travailler.../
 \E3* Mais c'est ça le problème ^1!&* Des fois il me dit d'aller&  travailler alors que j'ai&  commencé il y a des heures !/
 \E4* Si je prends des risques^1,&  il va me crier dessus./
@@ -17108,8 +17108,8 @@ Gatty et Catty
 \E1* Mais oui ! Parfaitement !/
 \E3* Tout le monde sait que les&  humains raffolent des&  hamburgers faits de&  PAILLETTES ET DE COLLE./%%
 \E5* Quand je suis arrivé à&  Calciterre^1, c'était mon rêve&  de travailler avec Mettaton./
-\E3* Moralité, fais attention à&  ce que tu souhaites,&  ptite tête !/%%
-\E3* Ne répète ça à personne^1,&  ptite tête./
+\E3* Moralité, fais attention à&  ce que tu souhaites,&  p'tite tête !/%%
+\E3* Ne répète ça à personne^1,&  p'tite tête./
 \E4* (Parce qu'on se moquerait&  de moi,)/
 \E5* Mais j'ai..^1.l'impression que j'ai&  joué un rôle dans la&  libération de tout le monde&  d'une certaine manière./
 \E1* Même si ça a surtout consisté&  à faire ce job affreux.../
@@ -17123,8 +17123,8 @@ Gatty et Catty
 \E3* Mais attends ^1!&* Il y a une chose qui me&  motive encore !/
 * Si ASGORE obtient une&  ÂME de plus^1, on pourra enfin&  retourner à la surface !/
 * Ce sera un tout nouveau monde ^1!&* Il doit y avoir une seconde&  chance là-bas pour moi ^1!&* Pour tout le monde !/
-\E6* Alors ne perds pas espoir^1,&  ptite tête^1.&* Quand je serai célèbre^1, je&  me souviendrai de toi./%%
-\E3* Ptite tête ^1!&* Il y a un tout nouveau monde&  qui nous attend là-bas./
+\E6* Alors ne perds pas espoir^1,&  p'tite tête^1.&* Quand je serai célèbre^1, je&  me souviendrai de toi./%%
+\E3* P'tite tête ^1!&* Il y a un tout nouveau monde&  qui nous attend là-bas./
 \E6* Je suis sûr qu'avec mes&  (ahem) compétences^1, je&  deviendrai une star du cinéma&  en un rien de temps.../
 \E4* Ou^1, peut-être que je finirai&  encore tourneur de&  steaks hachés./
 \E3* Mais c'est comme je le dis ^1!&* Ça sera jamais pire que&  maintenant !&* Juste plus haut !/%%
@@ -17132,7 +17132,7 @@ Gatty et Catty
 * Je peux pas aller au&  diable^1.&* J'ai plus de jours de&  congé./%%
 \E0* Désolé^1, (Ha ha) c'est contraire&  au règlement de parler aux&  clients qui n'ont rien acheté./%%
 \E1* Quoi ^1?&* Pourquoi t'essayes de taper&  la discute avec moi ?/
-\E1* Je vais avoir des ennuis si&  je deviens amical avec les&  clients./
+\E1* Je vais avoir des ennuis si&  j'suis trop amical avec&  les clients./
 \E0* Désolé./
 \E3* DONC^1, je voulais& devenir ACTEUR./%%
 thanks
@@ -18243,7 +18243,7 @@ drawball
 yl
 amalgam
 * (C'est une espèce d'objet&  rectangulaire^1, froid au&  toucher.)/%%
-* (Vous trouvez une clé bleue&  par terre.^1 Vous l'ajoutez à&  votre porte-clé.)/%%
+* (Vous trouvez une clé bleue&  par terre.^1 Vous l'ajoutez à&  votre porte-clés.)/%%
 acon
 wcon
 aanim
@@ -18253,7 +18253,7 @@ kanim
 * (Vous aimez vraiment vous&  laver les mains.)/%%
 * (Vous fermez le robinet.)/%%
 * (Il y a une clé rouge&  dans le lavabo.)/
-* (Vous la prenez et l'ajoutez&  à votre porte-clé.)/%%
+* (Vous la prenez et l'ajoutez&  à votre porte-clés.)/%%
 animspeed
 onoff
 * (Il y a une clé verte&  dans la baignoire.)/
