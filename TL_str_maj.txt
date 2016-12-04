@@ -1294,7 +1294,7 @@ scr_undface
 \E6* Heh^1 ! Tu ne m'auras&  pas comme ça !!!/%%
 * (Regarder à l'intérieur&  du tiroir à os ?) &         Oui         Non\C
 \M5* L'OCCASION PARFAITE POUR&  UNE HISTOIRE CAPTIVANTE !/
-\M3* JE PEUX DÉJA VOIR&  LE GROS TITRE :/
+\M3* JE PEUX DÉJÀ VOIR&  LE GROS TITRE :/
 \M4* "QUELQUE PART^1,&  UN CHIEN EXISTE."/
 \M2* JE TROUVE ÇA DÉTONANT^1,&  HONNÊTEMENT./
 * (FAIRE UN REPORTAGE LÀ-DESSUS?)&                     Aller voir &         Oui         ailleurs \C
@@ -1862,7 +1862,7 @@ PO \W
 coherent
    * Examiner      * Rejoindre&   * Refuser
    * Petite Tape   * Recette&   * Sourire       * Affronter
-   * Encourager    * Appeler  &   * Geeker        * Quiz
+   * Encourager    * Appeler  &   * Geeker        * Quizz
    * Blaguer       * Casse-crâne &   * Recette       * Insulter
    * Glandouiller  * Blaguer   &   * Jugement      * Mots Croisés
    * Parler        * Clémence  &   * Câliner       * Préférences
@@ -2793,7 +2793,7 @@ scr_weaponeq
 d
 * OOOORAAAAA !!^1!&* Vous déchirez le poing de&  fidélité en deux !/
 add
-* Vos mains sont brûlantes ^1!&* AT augmentée de  
+* Vos mains sont brûlantes ^1!&* ATQ augmentée de 
  !/%
 * Mais rien ne se passe./%
 * Vous déployez le chien./%%
@@ -3501,7 +3501,7 @@ TU ES AUX&TOILETTES ?/%%
 \E7* Enfin^1, avec la ville qui&  ne cesse de se bonder^1,&  ça risque de changer./%%
 * Alors ?^1!&* T'apprécies la&  nature ?!/%%
 LE CHÂTEAU&DU ROI.../%%
-TU PEUX DÉJA VOIR&LA FIN DU CHEMIN&D'ICI./%%
+TU PEUX DÉJÀ VOIR&LA FIN DU CHEMIN&D'ICI./%%
 * Le château d'ASGORE.../
 \E7* J'imagine que rien ne&  te fera changer d'avis^1,&  hein ?/%%
 ON DIRAIT QUE LE&RÉSEAU PASSE&MAL PAR ICI.../%%
@@ -3901,7 +3901,7 @@ NON^1, JE DIRAIS..^1.&AU MOINS QUATRE ?/
 * Mais bon sang, qui&  peut bien embaucher&  autant ce type ?!/%%
 * J'te jure !!/%%
 MON FRÈRE N'EST&PAS ICI ???/
-\E1IL DÉBAUCHE DÉJA&DE SA DÉBAUCHE&DE HOTDOGS?/
+\E1IL DÉBAUCHE DÉJÀ&DE SA DÉBAUCHE&DE HOTDOGS?/
 \E3C'EST VRAIMENT UN&SUR-DÉBAUCHEUR^1,&MA PAROLE.../
 HEIN ^1? TU DOIS&RÉSOUDRE L'ÉNIGME&EN TAPIS ROULANT ?/
 \E3ÇA VA À L'ENCONTRE&DU B.A.-BA DE DE-&SIGN D'ÉNIGMES.../
@@ -3972,7 +3972,7 @@ NE ME PARLE PLUS&DE CE BOUGE./%%
 UNE PIÈCE REMPLIE&DE CONDUITES D'AIR^1?&OH NON.../
 * Tiens^1, je t'ai déjà&  parlé de ma super idée&  de casse-tête ?/
 * Ça serait un dédale&  composé uniquement de&  ces bouches d'aération.../
-\E2* Sauf qu'ils seraient&  posés sur des tapis&  roulants^1, et.../
+\E2* Sauf qu'elles seraient&  posées sur des tapis&  roulants^1, et.../
 OH MON DIEU !!^1!&TU TE FICHES&DE MOI !?!?/%%
 ET TOI,&NE L'ENCOURAGE&PAS./%%
 DES LASERS ET DES&TAPIS ROULANTS ^1?&SANS MOI./
@@ -7989,7 +7989,7 @@ OOH !!&CETTE AURA JAUNE...!/%%
 * Tout le monde s'en balance.
 * METTATON - ATQ 30 DÉF 255&* TOUJOURS insensible aux&  attaques./^
 * Vous chouinez..^1.&* Aucun résultat./^
-* Vous appuyez sur le bouton&  jaune^1. Le téléphone entre en&  résonnance avec Mettaton...!/^
+* Vous appuyez sur le bouton&  jaune^1. Le téléphone entre en&  résonance avec Mettaton...!/^
 UN APPEL ?&TU DEVRAIS LE&PRENDRE !/%%
 shblcon
 H-hé !!&Ç-ça se présente&mal, mais ne&t'en fais pas !!/
@@ -8575,8 +8575,8 @@ La toile est&assez confortable&pour toi ?/%%
 Il faut y aller,&maintenant~/%%
 Ahuhuhu~&Mais que fais-tu donc~/%%
 Pourquoi cet air&triste ? Tu devrais&être aux anges~/%%
-Tu vas faire partie&d'un succulent gâteau~&Ahuhuhu~/%%
-Te libérer^1?&Ne sois pas bête~/%%
+Tu seras l'ingrédient&principal d'un&succulent gâteau~&Ahuhuhu~/%%
+Te libérer ^1?&Ne sois pas bête~/%%
 Le bonheur de beaucoup&d'araignées repose&sur ton ÂME~~~/%%
 Tu fais fuir&tous mes clients !/%%
 Oh, quelle impolie !&J'en ai presque&oublié de te présenter&mon familier~/
@@ -8589,16 +8589,16 @@ Elle insistait sur&le fait que je fuie&avec elle~~~&Ahuhuhu~~~/%%
 Curieusement, je ju-&rerais l'avoir aperçu&dans l'ombre...&changer de forme ?/%%
 Elle m'a même laissé&des instructions afin&que je m'échappe~/%%
 Oh, c'est l'heure du&repas, non ? J'en&oublierais presque&de nourrir mon bébé~/%%
-Grâce à cet argent,&les clans aranéens&seront enfin&réunis~/%%
+Grâce à cet argent,&les clans arachnéens&seront enfin réunis~/%%
 Elle prévoyait de&bloquer l'accès à&Calciterre après&notre fuite~/%%
 Tu l'ignorais ? Des&araignées sont coin-&cées dans les RUINES&depuis des siècles !/%%
 Pauvre fille~&Une araignée&n'abandonne&JAMAIS sa toile~/
 (Sauf pour vendre&des pâtisseries~)/%%
 À supposer qu'elles&passent sous la porte,&le froid hivernal de&Couveneige les tuerait./%%
 Maintenant que tu&le dis^1, il se peut que&j'éprouve quelque&regret.../%%
-Mais avec cet argent,&leur louer une voiture&chauffante est une&simple formalité~/%%
+Mais avec cet argent,&leur louer une voiture&chauffée est une&simple formalité~/%%
 C'est vrai, j'aurais&dû l'enrouler dans ma&toile quand j'en&avais l'occasion~/%%
-Et avec les&restes..^1.&Nous pourrions prendre&de bonnes vacances~/
+Et avec le reste..^1.&Nous pourrions prendre&de bonnes vacances~/
 Voire même nous&construire un terrain&de baseball pour&araignées~/%%
 Nous aurions pu&faire de délicieux&beignets avec~~~/%%
 Mais peu importe...&C'est l'heure du&dîner, non?&Ahuhuhu~/%%
@@ -8606,7 +8606,7 @@ N'aie pas l'air si&morose^1, mon&sucre~/%%
 idealdmg
 gege
 * Muffet vous verse une&  tasse d'araignées.
-* Les araignées claquent des&  doigts avec le tempo. 
+* Les araignées claquent des&  doigts en suivant le tempo. 
 * Muffet entame une chorégraphie&  avec les autres araignées.
 * Muffet commence à décorer&  la toile autour de vous.
 * Ça sent la toile d'araignée&  tout juste sortie du four.
@@ -8640,7 +8640,7 @@ Quoi ?&Elles disent toutes&qu'elles t'auraient&croisé et que.../
 ... tu es un véritable&accro des&araignées !/
 Elles disent que&bien que tu sois un&tueur insensible.../
 Tu n'as jamais&touché à un seul&poil d'araignée !/
-Sapristi, je crois&bien qu'il s'agit d'un&triste malentendu~/
+Sapristi, je crois&bien qu'il s'agit d'un&terrible malentendu~/
 On m'avait juré&que tu haïssais les&araignées~/
 Cette personne qui&m'a demandé de&prendre ton ÂME.../
 Je crois qu'elle&parlait d'un AUTRE&humain à pull&rayé~/
@@ -9023,7 +9023,7 @@ JE VOIS.../
 MERCI..^1.&MERCI INFINIMENT^1,&VOUS TOUS./
 \E0TRÉSOR./
 \E1IL VAUT..^1.PEUT-ÊTRE&MIEUX QUE JE RESTE&ENCORE UN PEU ICI./
-\E2LES HUMAINS ONT&DÉJA TANT DE STARS&ET D'IDOLES^1, MAIS&LES MONSTRES.../
+\E2LES HUMAINS ONT&DÉJÀ TANT DE STARS&ET D'IDOLES^1, MAIS&LES MONSTRES.../
 \E0ILS N'ONT QUE MOI./
 \E1SI JE PARTAIS..^1.&L'OUTREMONDE PERDRAIT&DE SON ÉCLAT./
 \E3MON DÉPART LAISSERAIT&UN VIDE IMPOSSIBLE&À COMBLER./
@@ -10635,7 +10635,7 @@ Je&blesse&tout le&monde.
 * Elle ignore pourquoi^1, mais&  cette situation lui&  semble familière.../^
 * Tu demandes à l'Âme&  Égarée si elle a un&  dessin animé favori./
 * Elle se retient de faire&  tout un exposé sur le sujet.../^
-* Tu demandes à l'Âme Égarée&  de t'aider en te donnant la&  réponse au quiz./
+* Tu demandes à l'Âme Égarée&  de t'aider en te donnant la&  réponse au quizz./
 * Elle se retient de justesse&  pour éviter de te donner&  la réponse.../^
 * Tout à coup, tous ses&  souvenirs lui reviennent !/%%
  Non^1, c'est faux^1 !& Mes amis m'aiment& comme je t'aime ^1!/%%
@@ -13318,7 +13318,7 @@ numero
 * Yo ^1! Toi non plus tu peux&  pas tenir de parapluie ?/
 * Si tu veux quand même marcher^1,& on n'a qu'à y aller ensemble^1,& haha.../%%
 * C'est parti !/%%
-* Yo^1, j'ai déja vérifié^1,&  Undyne est pas par là./
+* Yo^1, j'ai déjà vérifié^1,&  Undyne est pas par là./
 * Bon, ben on s'voit&  plus tard, hein ^1?&* Haha./%%
 * À plus !/%%
 * La vache^1, Undyne est&  teeeellement cool./
@@ -14090,7 +14090,7 @@ Vont#t'inonder
 Ces belles#dalles
 Te rendent#benêt
 Si seulement
-Tu t'en#rappelais
+Tu t'en#souvenais
 Bon bah#c'est
 Vraiment raté 
 Tu vas#donc
@@ -14106,11 +14106,11 @@ dia
 * CHACUNE DE CES DALLES&  A SA PROPRE FONCTION./
 * PAR EXEMPLE, LES VERTES&  PRODUIRONT UN SON, ET TU&  DEVRAS COMBATTRE UN MONSTRE./
 * LES ROUGES VONT....&* MAIS.^1.. UNE PETITE MINUTE./
-* NOUS AVOUS DÉJA VU CETTE&  ÉNIGME IL Y A UNE CENTAINE DE&  SALLES DE ÇA, NON ?/
+* NOUS AVOUS DÉJÀ VU CETTE&  ÉNIGME IL Y A UNE CENTAINE DE&  SALLES DE ÇA, NON ?/
 * MAIS OUI !&* TU TE SOUVIENS TOUJOURS DES&  RÈGLES^1, PAS VRAI ?/
 * SPLENDIDE...&* INUTILE DE TE LES RÉPÉTER^1,&  DANS CE CAS !!/%%
 * OH, ET TU VAS DEVOIR&  PRESSER LE PAS./
-\W* CAR SI TU NE PASSES PAS CE&  COULOIR EN \Y30 SECONDES\W.../%%
+\W* CAR SI TU NE FRANCHIS PAS CE&  COULOIR EN \Y30 SECONDES\W.../%%
 flame1
 flame2
 * CES LANCE-FLAMMES VONT&  TE RÔTIR SUR PLACE !!/
@@ -14142,7 +14142,7 @@ grey
 \TS \F0 \TM %
 * MES ÉNIGMES ^1?&* FINIES ?/
 * ALPHYS^1, TRÉSOR^1, MAIS DE QUOI&  PARLES-TU...?/
-* TU AS DÉJA OUBLIÉ À QUOI&  SERVENT LES DALLES VERTES ?/
+* TU AS DÉJÀ OUBLIÉ À QUOI&  SERVENT LES DALLES VERTES ?/
 * LORSQU'ELLES JOUENT UN SON,&  TU AFFRONTES UN MONSTRE./
 * ET, TRÉSOR...&* CE MONSTRE.../
 * C'EST MOI !!/%%
@@ -14317,7 +14317,7 @@ voff
 doomtimer
 conner
 * BIEN JOUÉ^1, TRÉSOR !/
-* TOUTES LES BOMBES SONT&  DÉSARMÉES !/
+* TOUTES LES BOMBES SONT&  DÉSAMORCÉES !/
 \W* SI TU N'AVAIS PAS RÉUSSI^1,&  LA MÉGA-BOMBE AURAIT EXPLOSÉ&  AU BOUT DE \YDEUX MINUTES\W./
 \W* MAIS DÉSORMAIS^1,&  ELLE N'EXPLOSERA PLUS&  DANS \YDEUX MINUTES\W !/
 \W*\M9 EN FAIT^1, ELLE EXPLOSERA&  DANS \YDEUX SECONDES\W !/
@@ -14423,7 +14423,7 @@ pausewaittime
 * Ahuhuhuhu.../
 * Vous avez entendu ça^1,&  vous autres ?/%%
 * Vous avez entendu la dame^1,&  vous autres ?/%%
-* Apparemment, un humain au&  pull rayé se dirigerait par&  ici./%%
+* Apparemment, un humain en&  pull rayé se dirigerait par&  ici./%%
 * J'ai entendu dire que les&  humains détestaient les&  araignées./%%
 * Qu'ils adoraient les écraser./%%
 * J'ai entendu dire que l'humain&  détestait tout le monde./%%
@@ -14463,7 +14463,7 @@ col1
 draw_line_color
 dis
 * Bienvenue dans notre salon^1,&  mon sucre~&* Désirerais-tu goûter.../
-* Une de nos arachno-patisseries?&* Tous les achats iront au&  profit des araignées~/%%
+* Une de nos Arachnopâtisseries ?&* Tous les achats iront au&  profit des araignées~/%%
 * Nos articles sont exposés sur&  la toile~/%%
 dx1
 dxtimer
@@ -14694,7 +14694,7 @@ peeepee
 * donc./
 * ton voyage se&  termine bientôt^1,&  pas vrai ?/
 \E0* tu dois vraiment&  vouloir rentrer chez&  toi./
-\E1* hé^1.&* j'connais ce sentiment^1,&  poto./
+\E1* hé^1.&* j'connais ce sentiment^1,&  mon pote./
 \E0* mais.../
 \E1* parfois il vaut mieux&  se contenter de&  ce qu'on a./
 \E0* ici-bas^1, t'as à manger^1,&  à boire^1, des amis.../
@@ -15560,7 +15560,7 @@ exception
 * Prends l'ascenseur&  qui monte au sommet&  du NOYAU !/
 * Dring.../%%
 * Salut^1, c'est Alphys !/
-* Cette salle est comme&  celle qu'on a vu&  avant./
+* Cette salle est comme&  celle qu'on a vue&  avant./
 * Il y a deux énigmes&  au nord et au&  sud.../
 * Tu vas devoir les&  résoudre pour&  continuer !/
 \E0* S-sinon... j'aimerais&  te dire que !/
@@ -16356,9 +16356,9 @@ RAAH, OUBLIE ÇA !/%%
 * Prends ton foutu&  siège espèce de&  minigeek./%%
 * J'ai..^1. J'ai..^1. J'ai fini par&  acheter un donut.../
 * Je..^1. Je..^1. Je ne voulais pas^1,&  mais cette fille..^1. même quand&  je lui ai dit non^1, elle.../
-* ... elle a continué à me regar-&  der avec cet air flippant, tout&  en se pourléchant les babines./
+* ... elle a continué à me&  regarder avec cet air flippant,&  tout en se léchant les babines./
 * E..^1. Et maintenant je n'ai plus&  d'argent./%%
-* Peut-être que si je le revends&  en ligne, je pourrai récupérer&  le double de ma dépense.../
+* Peut-être que si je le revends&  en ligne, je pourrai récupérer&  le double de ma dépense.../%%
 * Une fois à la surface^1, je&  n'achèterai aucun donut&  provenant d'une araignée./
 * J'ai pris mes résolutions./%%
 * (Ce n'est qu'une&  simple fleur.)/%%
@@ -17738,15 +17738,15 @@ dk
 * Et du coup ^1!&* Il dit !/
 \W* Même si tu ne sais pas&  cuisiner^1, tu peux toujours&  \Yacheter un Glamburger MTT \W!/
 \W* Et après il \Yen mange un ^1!\W &* Tout le monde adore ça !/ 
-* ... Comment il fait pour manger&  sans une bouche ?/
+* ... Comment il fait pour manger&  sans avoir de bouche ?/
 * Euuuh... been..^1.&* T'as qu'à regarder l'émission !/%%
 * La finale était vraiment..^1.&* Elle était vraiment triste !/
 * Et aucune autre émission ne&  s'affiche sur le programme de&  Mettaton../%%
 * J'aimerais bien me prendre&  un skateboard un de ces jours.&* Ce serait dément./%%
 \W* Mon Moment Mettaton(TM) favori&  c'est quand il tape sur les&  \Yméchants du show\W !/
-* Même si ça arrive en plein&  durant un supposé&  quiz télévisé./%%
+* Même si ça arrive en plein&  durant un soi-disant&  quizz télévisé./%%
 * Oh ^1! Et j'aime bien quand il se&  met à essayer plein de tenues&  tendance !/
-* Même lorsque c'est en&  plein durant un supposé&  journal télévisé./%%
+* Même lorsque c'est en&  plein durant un soi-disant&  journal télévisé./%%
 * Mettaton a pris sa&  retraite... ?/
 * Est-ce qu'il peut rendre&  sa retraite... ?/
 * Une fois à la surface, on&  pourra regarder des&  tonnes d'émissions.../
