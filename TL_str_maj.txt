@@ -5448,11 +5448,11 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E3* J'ai senti que tout ce&  que je faisais&  au final.../
 \E4* C'était d'espérer que&  tu me tuerais^1,&  moi aussi./
 \E1* Mais quand Undyne m'a&  appelée^1, l'air&  folle de désespoir.../
-\E0* J..^1.&* J'ai compris que&  je devais agir./
+\E0* J..^1. J'ai compris que...&* Que je devais agir./
 \E1* Même si ça impliquait&  que tout le monde.../
 * Sache la vérité à&  mon propos./
 \E2* C'est étrange^1.&* Tu sais quoi ?/
-\E5* Même après toutes&  les mauvaise choses&  que j'ai faites./
+\E5* Même après toutes&  les mauvaises choses&  que j'ai faites./
 * Les gens m'ont&  considérée comme&  une héroïne/
 \E2* Puis ils m'ont..^1.&* Demandé de m'occuper&  du royaume seule./
 \E5* Alors je fais de&  mon mieux./
@@ -8239,7 +8239,7 @@ ON NE PEUT PAS&SE PERMETTRE DE&CONTINUER AINSI !!/
 MAIS./
 MAIS !!!/
 CECI N'ÉTAIT QUE&L'ÉPISODE PILOTE !!/
-AU PROGRAMME LA&PROCHAINE FOIS, DU&DRÂME !/
+AU PROGRAMME LA&PROCHAINE FOIS, DU&DRAME !/
 DE L'AMOUR !!!/
 DE LA VIOLENCE !!!/
 ALORS,&À TRÈS VITE,&MES CHÉRIS...!!!/%%
@@ -10164,7 +10164,7 @@ doomcounter
 \M1Je comprends&vraiment pas.../%%
 \M1Je comprends pas !/%%
 \M1Je comprends pas./%%
-\M1... pourquoi es-ce que.../
+\M1... pourquoi estC'est normal, on fixera ça avec le patch de BSoD-ce que.../
 \M1... tu t'obstines à m'épargner ?/%%
 \M1... pourquoi ?/%%
 \M1... ?/%%
@@ -13130,7 +13130,7 @@ tilex
 * Tra la la^1.&* À quel jeu peut-on jouer&  avec un chien ?/
 * C'est pour un ami.../%%
 * Tra la la^1.&* Village Temmie.../
-* ... situé juste avant la&  salle des lanternes&  éclairantes./%%
+* ... situé juste avant la&  salle des lanternes&  scintillantes./%%
 * Tra la la^1.&* Chante donc avec moi^1.&* Tra la la./%%
 * Tra la la^1.&* Oh oh^1.&* Que c'est dépaysant.../%%
 * Tra la la^1.&* Hmmm.../
@@ -14882,7 +14882,7 @@ labvolume
 \E0* Il y a longtemps^1, j'ai&  construit un robot nommé&  Mettaton./
 * Je l'avais construit& pour être un robot de& divertissement au départ./
 \E7* Euh^1, tu sais^1, comme une&  star de télé robotisée,&  quelque chose du genre./
-\E0* Toujours est-il que^1,&  récemment j'ai décidé de&  le rendre plus utile./
+\E0* Toujours est-il que^1,&  récemment^1, j'ai décidé&  de le rendre plus utile./
 \E7* Tu sais^1, juste quelques&  petits ajustements ici&  et là./
 \E0* Du genre^1, euh.../
 \E4* Des..^1. fonctions&  de combat anti-humain ?/
@@ -14902,7 +14902,7 @@ cheer
 gamesign
 \M1* ... AU JEU TÉLÉVISÉ DU JOUR !!!/%%
 dball
-\M0* OH LÀ LÀ^1!&* CET ÉPISODE S'ANNONCE GRAN-DI-&  OSE, C'EST MOI QUI VOUS LE DIS!/
+\M0* OH LÀ LÀ ^1! CET ÉPISODE&  S'ANNONCE GRAN-DI-OSE,&  C'EST MOI QUI VOUS LE DIS !/
 \M2* UN TONNERRE D'APPLAUDISSEMENTS&  POUR CE FABULEUX HUMAIN, QUI&  SERA NOTRE CANDIDAT !/%%
 \M0* JAMAIS JOUÉ AUPARAVANT^1,&  MON POUSSIN ?/ 
 \M2* AUCUN PROBLÈME^1 !&* C'EST TRÈS SIMPLE !/
