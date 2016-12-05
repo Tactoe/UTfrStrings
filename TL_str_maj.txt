@@ -11420,8 +11420,8 @@ sym
 sym_s
 *
 I
-!
-?
+ !
+ ?
 D
 '
 Q
@@ -16977,7 +16977,7 @@ Soigne 60PV#Sans#commentaire.#Merci.
 \E0* Le client a toujours raison./*
 \E0* Bienvenue aux Galeries&  MTT-Lapaillette^1,&  terre natale&  du Glamburger^1.&* Nous illuminerons&  votre journée (TM)./*
 \E3* Vous désirez autre chose ?/*
-\E3* Qu'est-ce que je peux&  faire pour toi^1,&  p'tite tête ?/*
+\E3* Qu'est-ce que je peux&  faire pour toi^1,&  mon p'tit pote ?/*
 \E1* (Pourquoi est-ce que&  je me coltine toujours&  les gens chelous ?)/*
  60PO - Starfait
 120PO - Glamburger
@@ -16990,8 +16990,8 @@ Soigne 60PV#Sans#commentaire.#Merci.
 \E1C'est pas&assez&d'argent^1,&ça./*
 \E1Vous&n'avez&pas de&place./*
 \E1On n'en a&PLUS./*
-\E6Choisis ce&que tu&veux^1,&p'tite tête./*
-\E6Et voilà^1,&p'tite tête./*
+\E6Choisis ce&que tu&veux^1, mon&p'tit pote./*
+\E6Et voilà^1,&mon p'tit&pote./*
 \E6T'inquiète&pas&pour&ça./*
 \E6Désolé...&Tu peux&pas l'avoir&gratos./*
 \E6Vide un&peu tes&poches,&avant./*
@@ -17016,16 +17016,16 @@ L'évacuation
 Tout seul
 Menacer
 Gatty et Catty
-\E3Prends-en&de la&graine^1,&p'tite tête./*
+\E3Prends-en&de la&graine^1, mon&p'tit pote./*
 \E3Il y a&rien&d'autre à&faire !/*
 \E1* (POURQUOI CETTE PERSONNE&  ESSAYE DE ME VENDRE SES&  TRUCS C'EST UN FAST-FOOD&  J'ESSAYE JUSTE DE SURVIVRE)/%%
 \E3* TU TE PRENDS POUR QUI./%%
 \E6* Hmmm..^1.&* Pourquoi pas essayer de&  vendre ça aux deux nanas&  dans la ruelle ?/%%
 \E3* Aaaah^1. Oui^1.&* J'ai trop envie d'acheter&  tes vieux artéfacts chelous..^1.&* OU PAS./%%
 \E2* Passe une resplendicieuse&  journée !/%%
-\E6* Repasse quand&  tu veux^1, p'tite tête./%%
+\E6* Repasse quand&  tu veux^1, mon p'tit pote./%%
 \E6* Et me revoilà seul.../%%
-\E6* Je commence à me faire&  vieux^1, tu sais^1, alors&  laisse-moi te donner quelques&  conseils^1, p'tite tête./
+\E6* Je commence à me faire&  vieux^1, tu sais^1, alors&  laisse-moi te donner quelques&  conseils^1, mon p'tit pote./
 \E3* T'as encore plein de temps&  devant toi^1.&* Ne deviens pas comme moi./
 \E6* J'ai 19 ans et j'ai déjà&  fichu toute ma vie en l'air./%%
 \E0* Alors on est libres^1, hein ^1?&* C'est ce que Mettaton&  nous a dit./
@@ -17036,15 +17036,15 @@ Gatty et Catty
 \E3* Tout le monde est déjà&  parti du boulot ?&* ET ALORS ?&* Personne n'achète rien ?&* ET ALORS ?/
 \E6* C'est ça la routine^1, l'asticot^1.&* C'est ça la routine./%%
 * Je suis un Glouton Barjot OUAIS & et voici un message d'erreur./%%
-\E6* Merci^1, p'tite tête./%%
+\E6* Merci^1, mon p'tit pote./%%
 \E5* Elles veulent qu'on sorte&  après le travail ?/
 \E3* Ha ^1! Ahahaha !^1!  OUI !!^1!&* Je te décevrai pas !!!/
-\E6* P'tite tête..^1. j'te remercie./
+\E6* Mon p'tit pote..^1. j'te remercie./
 * Tu as réussi à faire verser&  une larme à un vieux&  briscard tel que moi./
 \E5* Donc^1, euh^1, elles veulent&  aller où ?/
 * Elles veulent sortir à la&  décharge./
-\E6* Bon bah^1, ça sera jamais&  pire que maintenant^1,&  pas vrai^1, p'tite tête ?/%%
-\E6* Hey p'tite tête^1, ça te dirais&  de m'aider à choisir une tenue&  qui manque pas de piquant pour&  ma teuf' dans pas longtemps ?/
+\E6* Bon bah^1, ça sera jamais&  pire que maintenant^1,&  pas vrai^1, mon p'tit pote ?/%%
+\E6* Hey mon p'tit pote^1, ça te dirais&  de m'aider à choisir une tenue&  qui manque pas de piquant pour&  ma teuf' dans pas longtemps ?/
 \E4* Attends^1, maintenant que j'y&  pense^1, j'ai dû me débarrasser&  de tous mes vêtements pour&  faire de la place aux tenues&  que Mettaton m'a donné.../
 \E5* Ne va pas croire que je lui&  ai demandé d'en avoir, hein^1.&* Tout ça c'est juste.../
 \E4* Des habits chelous./
@@ -17052,14 +17052,14 @@ Gatty et Catty
 \E3* Mais LE MEILLEUR dans tout ça^1,&  c'est que je suis le seul&  employé à devoir porter ça !/
 \E3* Parfois ça lui arrive de me&  convoquer dans son&  bureau pour..^1.&* Me faire mettre des trucs.../
 \E4* Il rigole un bon coup&  puis il me renvoie au travail&  comme si de rien n'était./
-\E6* 'Fin bref^1, t'en fais pas pour&  ça^1, p'tite tête^1.&* J'vais y aller au naturel./
+\E6* 'Fin bref^1, t'en fais pas pour&  ça^1, mon p'tit pote^1.&* J'vais y aller au naturel./
 * Ne laisse JAMAIS les gens&  croire que tu te soucies d'eux^1.&* C'est COMME ÇA qu'ils&  pigent qu'ils ont gagné./%%
-\E5* Alors ^1?&* Me laisse pas comme ça^1,&  p'tite tête !!/%%
+\E5* Alors ^1?&* Me laisse pas comme ça^1,&  mon p'tit pote !!/%%
 \E4* Les filles^1, elles..^1.&* Elles ont parlé de moi... ?/
 * Elles disent que je devrais&  arrêter de faire comme si&  elles me devaient des&  excuses.../
 \E5* ... et que si je veux être&  AMI avec elles^1, je devrais&  juste..^1. euh^1, essayer de voir&  les choses à leur façon ?/
 \E4* Wow./
-\E6* Pauvre^1, pauvre p'tite tête^1.&* Quelle naïveté^1, elles&  t'ont lavé le cerveau./
+\E6* Mon pauvre^1, pauvre p'tit pote^1.&* Quelle naïveté^1, elles&  t'ont lavé le cerveau./
 * "L'amitié" c'est juste l'excuse&  qu'utilisent les gens&  populaires pour faire&  de toi leur esclave./
 \E5* Alors^1, euh^1, elles veulent&  sortir quand ?/%%
 \E5* Hein ^1?&* Ouais^1, les deux vendeuses&  dans l'allée du fond^1.&* Les filles quoi./
@@ -17070,7 +17070,7 @@ Gatty et Catty
 \E3* Son sens de l'humour est&  ENCORE PIRE que l'autre comédien&  qui passe son temps à chouiner&  à propos de sa famille./
 \E5* Mais^1, je^1, euh^1, contente-toi de&  lui dire que c'est hilarant^1,&  parce qu'il me file des glaces&  gentilly gratos après.../%%
 \E4* Tout le monde&  m'appelle Mac Futal&  maintenant./
-\E5* Mais toi^1, tu le feras pas^1,&  pas vrai p'tite tête ?/%%
+\E5* Mais toi^1, tu le feras pas^1,&  pas vrai mon p'tit pote ?/%%
 \E6* Je suis allé dans la ruelle&  voir ces deux demoiselles^1,&  pour euh..^1.&  tenter ma chance, quoi./
 \E5* Mon boss m'a^1, euh^1, vu et&  m'a demandé ce que je faisais./
 \E1* J'étais tellement paniqué que&  les hamburgers qui étaient dans&  mes poches sont tombés&  par terre./
@@ -17079,7 +17079,7 @@ Gatty et Catty
 \E5* ... a causé la chute de&  mon pantalon./
 \E4* Et les filles se sont fichues&  de moi./
 \E4* Tout le monde m'appelle&  Mac Futal maintenant./%%
-\E6* Écoute^1.&* Je t'aime bien^1, p'tite tête^1.&* Alors je vais t'épargner pas&  mal d'ennuis./
+\E6* Écoute^1.&* Je t'aime bien^1, mon p'tit pote^1.&* Alors je vais t'épargner pas&  mal d'ennuis./
 \E3* Ne^2. Jamais^2. Interargir^2. Avec&  les gens attirants./
 \E6* À moins que tu sois&  "l'un d'entre eux^1,"&  ils vont juste profiter de toi./
 \E3* Comme la fois où ces deux&  nanas m'ont demandé de leur&  chourer des Glamburgers./
@@ -17090,7 +17090,7 @@ Gatty et Catty
 \E4* Donc on est libres&  maintenant./
 \E5* Ça veut dire que mon&  double-rencard est annulé... ?/
 \E5* Je sais^1, c'était pas&  vraiment un..^1.&* Un rencard./
-\E6* Je vais te dire un truc^1,&  p'tite tête ^1:&* Berce-toi d'illusions^1.&* Tout le temps.&* Ça aide à se sentir mieux./%%
+\E6* Je vais te dire un truc^1,&  mon p'tit pote ^1:&* Berce-toi d'illusions^1.&* Tout le temps.&* Ça aide à se sentir mieux./%%
 \E4* Bah^1, Mettaton ne m'a pas dit&  que je DEVAIS travailler.../
 \E3* Mais c'est ça le problème ^1!&* Des fois il me dit d'aller&  travailler alors que j'ai&  commencé il y a des heures !/
 \E4* Si je prends des risques^1,&  il va me crier dessus./
@@ -17108,8 +17108,8 @@ Gatty et Catty
 \E1* Mais oui ! Parfaitement !/
 \E3* Tout le monde sait que les&  humains raffolent des&  hamburgers faits de&  PAILLETTES ET DE COLLE./%%
 \E5* Quand je suis arrivé à&  Calciterre^1, c'était mon rêve&  de travailler avec Mettaton./
-\E3* Moralité, fais attention à&  ce que tu souhaites,&  p'tite tête !/%%
-\E3* Ne répète ça à personne^1,&  p'tite tête./
+\E3* Moralité, fais attention à&  ce que tu souhaites,&  mon p'tit pote !/%%
+\E3* Ne répète ça à personne^1,&  mon p'tit pote./
 \E4* (Parce qu'on se moquerait&  de moi,)/
 \E5* Mais j'ai..^1.l'impression que j'ai&  joué un rôle dans la&  libération de tout le monde&  d'une certaine manière./
 \E1* Même si ça a surtout consisté&  à faire ce job affreux.../
@@ -17123,8 +17123,8 @@ Gatty et Catty
 \E3* Mais attends ^1!&* Il y a une chose qui me&  motive encore !/
 * Si ASGORE obtient une&  ÂME de plus^1, on pourra enfin&  retourner à la surface !/
 * Ce sera un tout nouveau monde ^1!&* Il doit y avoir une seconde&  chance là-bas pour moi ^1!&* Pour tout le monde !/
-\E6* Alors ne perds pas espoir^1,&  p'tite tête^1.&* Quand je serai célèbre^1, je&  me souviendrai de toi./%%
-\E3* P'tite tête ^1!&* Il y a un tout nouveau monde&  qui nous attend là-bas./
+\E6* Alors ne perds pas espoir^1,&  mon p'tit pote^1.&* Quand je serai célèbre^1, je&  me souviendrai de toi./%%
+\E3* Mon p'tit pote ^1!&* Il y a un tout nouveau monde&  qui nous attend là-bas./
 \E6* Je suis sûr qu'avec mes&  (ahem) compétences^1, je&  deviendrai une star du cinéma&  en un rien de temps.../
 \E4* Ou^1, peut-être que je finirai&  encore tourneur de&  steaks hachés./
 \E3* Mais c'est comme je le dis ^1!&* Ça sera jamais pire que&  maintenant !&* Juste plus haut !/%%
