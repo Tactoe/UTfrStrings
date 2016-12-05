@@ -61,7 +61,7 @@ itemname
 * Vous jetez le 
 &  par terre comme un vieux&  détritus. Bon débarras.
 * Vous abandonnez le&  
-* Vous vous débarrassez du&  
+* Vous vous débarrassez de&  
 .
 /%
    * J'me casse d'ici.
@@ -240,7 +240,7 @@ image_index
 * (Appelle-Moi !&  Voilà mon numéro !)/
 * Vous décidez de ne pas appeler./%%
 * Un mot est attaché&  sur le bout./
-* (Vous en faites pas pour moi&  les gars!)/%%
+* (Vous en faites pas pour moi&  les gars !)/%%
 * Vous la laissez comme elle est./%%
 * Je n'aurais pas dû m'offrir à&  toi aussi facilement.../%%
 * Viens-tu juste de...&* D'ingérer le morceau de moi&  que je t'avais offert ?/
@@ -1239,7 +1239,7 @@ PRENDS TON TEMPS !/%%
 \E1* En fait.../
 \E3* Tu vas même./
 \M1* Devenir MA BESTAH./
-* Je vais faire en&  sorte que tu m'aimes&  tellement qu'au final.../
+* Je vais faire en&  sorte que tu m'aimes&  tellement, qu'à la fin.../
 \E1* Ta VIE ENTIÈRE&  tournera autour&  de moi !!/
 \E6* FUHUHUHUHU !!!/
 \E9* Bien^1, et si tu&  t'asseyais ?/%%
@@ -1375,7 +1375,7 @@ eventchoice
 * Voici la barrière./
 * C'est ce qui nous&  garde tous piégés&  ici, sous terre./
 * Si.../
-* Si tu as encore des&  affaires en souffrance.../
+* Si tu as encore des&  affaires à régler.../
 * Je t'en prie,&  finis ce que tu&  as à faire./
  & &         Continuer    Partir\C
 * ..^2.&* ... Je vois.../
@@ -5102,7 +5102,7 @@ MOI./
 * Oh..^1. ouais^1, c'est&  vrai !/
 \E0* J'ai démissionné&  de mon poste de&  chef de la Garde Royale./
 \E4* En fait^1, vu que l'on&  ne va plus devoir&  se battre.../
-\E1* La Garde Royale&  a complètement été&  dissoute./
+\E1* La Garde Royale&  a été complètement&  dissoute./
 \E9* Il n'y a plus que^1, hum^1,&  un seul membre&  désormais./
 MAIS IL EST&CARRÉMENT&DOUÉ./
 * Ouais !^1! Tu peux&  l'dire !!^1!&* Viens par là !!/
@@ -5131,7 +5131,7 @@ NE MALTRAITE PAS&LE SQUELETTE, JE&T'EN PRIE./
 \E4* J'espère que c'est&  mieux qu'ici./
 \E7* On a abandonné tellement&  de choses pour que tu&  sortes d'ici.../
 * Alors^1, peu importe&  où t'es maintenant.../
-\E6* Fais en sorte d'avoir&  une vie heureuse^1,&  okay!?/
+\E6* Fais en sorte d'avoir&  une vie heureuse^1,&  okay ?!/
 \E2* En notre mémoire !/
 \E0* On sera content de&  savoir que nos efforts&  n'auront pas été vains./
 \E9* On est avec toi ^1!&* Tout le monde ^1!&* Même la reine !/
@@ -5192,7 +5192,7 @@ SPECIALK
 * personne ne veut que&  ça se reproduise./
 \E0* du coup, le peuple s'est&  révolté pour renverser&  le règne de la reine./
 \E2* mais^1, elle^1, euh^1, a&  abandonné calmement&  devant leur réaction./
-\E1* au final, elle est&  retournée dans&  les ruines./
+\E1* en définitive, elle est&  retournée dans&  les ruines./
 \E0* en gros, l'outremonde&  est sous une anarchie&  bizarre maintenant./
 \E0* chacun essaye de vivre&  leur vie comme ils&  l'ont toujours fait.../
 \E3* mais ce n'est pas&  vraiment facile^1,&  t'sais ?/
@@ -5421,7 +5421,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E1* on dirait que beaucoup&  de gens importants ont&  disparu cette nuit./
 * mais personne d'autre&  n'a été blessé./
 \E0* les gens étaient&  totalements perdus^1.&* une vraie pagaille./
-\E3* et puis^1, au final^1,&  pour une raison&  quelconque.../
+\E3* et puis^1, finalement^1,&  pour une raison&  quelconque.../
 \E1* un petit chien blanc&  est devenu le président&  de l'outremonde./
 \E0* il dort sur le trône&  et ne fait absolument&  rien./
 \E1* c'est bizarre^1, mais tout&  le monde a l'air&  épanoui avec cette vie./
@@ -5445,7 +5445,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E0* Au départ, quand j'ai& vu ce que tu faisais&  à tous ces gens.../
 * Je suis juste restée&  là, assise^1.&* À t'observer./
 \E1* Je me suis sentie tel-&  lement coupable, de rien&  faire pour t'arrêter./
-\E3* J'ai senti que tout ce&  que je faisais&  au final.../
+\E3* J'ai senti que tout ce&  que je faisais,&  en vérité.../
 \E4* C'était d'espérer que&  tu me tuerais^1,&  moi aussi./
 \E1* Mais quand Undyne m'a&  appelée^1, l'air&  folle de désespoir.../
 \E0* J..^1. J'ai compris que...&* Que je devais agir./
@@ -5488,8 +5488,8 @@ Pourquoi m'as-tu&épargné ? /
 \E0Regarde-toi./
 \E9Tu t'es fait tous ces&amis géniaux.../
 \E0Mais maintenant, tu ne les&reverras probablement&plus jamais./
-\E9Sans parler du fait que&ton passage aura&complètementement changé&leur monde./
-\E6Ça fait mal^1,&n'est-ce-pas ?/
+\E9Sans parler du fait que&ton passage a&totalement changé&leur monde./
+\E6Ça fait mal^1,&n'est-ce pas ?/
 \E7Si tu avais fait tout&ce chemin sans t'occuper&de personne.../
 \E6Tu te sentirais pas&aussi mal./
 \E0Alors je ne&comprends pas../
@@ -5503,9 +5503,9 @@ Pourquoi m'as-tu&épargné ? /
 \E0Que je connais&une façon d'avoir&une meilleure fin ?/
 \E9Tu devras charger&ta SAUVEGARDE^1,&et.../
 \E9Tu devras repartir&de zéro^1, et.../
-\E0Eh bien, au passage^1,&pourquoi n'irais tu pas&voir le Dr Alphys ?/
-\E0Eh bien, au passage^1,&pourquoi n'irais tu pas&voir Undyne ?/
-\E0Eh bien, au passage^1,&pourquoi n'irais tu pas&voir Papyrus^1, puis Undyne ?/
+\E0Eh bien, au passage^1,&pourquoi n'irais-tu pas&voir le Dr Alphys ?/
+\E0Eh bien, au passage^1,&pourquoi n'irais-tu pas&voir Undyne ?/
+\E0Eh bien, au passage^1,&pourquoi n'irais-tu pas&voir Papyrus^1, puis Undyne ?/
 \E9Vous auriez&certainement pu&devenir bons amis./
 Qui sait..^1. peut-être&qu'elle possède la clé&de ton bonheur...?/
 \E4À plus tard./%%
@@ -6101,7 +6101,7 @@ De ce kit de&réparation&de lances magiques^1,&que j'ai.../
       DÉBUT !^1! DU RENDEZ-VOUS !^3!%%
 Ouais !!^1!&Ayons ce^1, euh^1,&rendez-vous !/%%
 ... euh.../
-\E4Est-ce que tu..^3.&aimes..^3.&les Animes...^2?/*
+\E4Est-ce que tu..^3.&aimes..^3.&les animes...^2?/*
 H-hé^1 !&Moi aussi !!/%%
 Oh./%%
 Hé^1 !&Et si !^1!&On allait ailleurs !!!/
@@ -6195,7 +6195,7 @@ Ouais..^1. non^1, tu&as raison !/
 \E9M-mais comment !?/
 \E8Je..^1. Je n'en ai&pas le courage.../
 \E7Comment je suis&supposée m'entraîner&pour ce genre&de choses !?/%%
-   Et si           Allez, &   on le           on le    &   roleplayait     roleplay
+   Et si           Allez, &   on le           on le    &   roleplayait?     roleplaye
 \E4Du r..^1. roleplay ?/
 \E5.\M1.. Ça a l'air&plutôt drôle !/
 \M0OK^1, qui va faire&Undyne ?/*
@@ -6249,7 +6249,7 @@ Quoi !^1?&A... alphys !?/
 Mais qu'est-ce qui&t'arrive !?/
 \E9B\M2-bonne !^1?&Comment oses-tu !?/
 \E5Primo^1, je suis&bonne AU COMBAT !/
-La capitante des&  combataines !/
+La capitante des&combataines !/
 Adapte ton attitude&à mon rang^1, ou&je te réduirai&en charpie !/
 \M3Euh^1, maintenant&imagine-moi&suplexer un rocher&juste comme ça./
 \E9H\M0um ^1! Bref ^1!&Que veux-tu&me dire^1,&Alphys !?/%%
@@ -6259,7 +6259,7 @@ Tu m'as donc&menti pendant tout&ce temps.../
 \E7Alphys !!^1!&Je n'en reviens pas !/
 \E8I-immonde tas& de gélatine !/
 \E9Comment oses-tu&trahir notre&amitié !!/
-\E8Après toute la&confiance que j'avais&placé en toi!!!/%%
+\E8Après toute la&confiance que j'avais&placée en toi!!!/%%
 DE DE QUOI !^1?&JAMAIS J'AURAIS.../
 \M0Alphys ^1!&Qu-qu'est-ce&que tu f-fais !/
 D-dis-je^1, en te&repoussant.../
@@ -6269,7 +6269,7 @@ D-dis-je^1, en te&repoussant.../
 Je...^1.&ne peux p-p-pas&r-r-résister à l'appel&de tes lèvres.../%%
 ALPHYS ^1!&JAMAIS JE NE&T'AIMERAI !/
 JAMAIS TU NE SENTIRAS&MON ÉTREINTE&PASSIONNÉE !!!/
-MOI^1, UNDYNE^1, JE NE&T'EMBRASSERAI JAMAIS&DE MES LÈVES&PULPEUSES !!!/%%
+MOI^1, UNDYNE^1, JE NE&T'EMBRASSERAI JAMAIS&DE MES LÈVRES&PULPEUSES !!!/%%
 NGAHHHH !!^1!&NGAHHH !!!!/
 MON NOM EST UNDYNE&ET JE CARBURE&AUX BÉCOTS !!!/%%
 set
@@ -6295,9 +6295,9 @@ confession
 À propos de...&ben.../
 \E2De tout !/%%
 \E7Je t'ai dit que&les algues avaient...&une grande importance&scientifique...%
-\F5Mais en vrai, je...&je m'en sers juste&pour faire des&glaces ^1!%%
+\F5Mais en fait, je...&je m'en sers juste&pour faire des&glaces ^1!%%
 Et tous ces livres&d'histoire humaine&sur lesquels j'ai&le nez rivé...%
-\F7Ce ne sont que&de bêtes BDs ^1!%%
+\F7Ce ne sont que&de bêtes BD ^1!%%
 Quant aux films&historiques..^1.&ce..^2.%
 \F2Ce ne sont que^1, euh^1,&des animes ^2!&Ils n'existent pas ^2!%%
 Et toutes les fois&où je t'ai dit que&j'étais overbookée&au téléphone..^1. Je...%
@@ -6325,7 +6325,7 @@ Peu importe ce&que c'est ^1!&TU Y VAS À FOND !!/
 \F4À 100-POURCENT !^1!&À PLEINE&PUISSANCE !!/
 \F5... alors^1, pas la&peine de me mentir./
 \F0Tu n'as plus&à mentir&à qui que ce soit&désormais./
-\F6Alphys..^1. je veux&t'aider à être&heureuse avec&qui tu es !/
+\F6Alphys..^1. je veux&t'aider à être&heureuse avec&toi-même !/
 \F5Et je connais un&entraînement&parfait&pour ça !/%%
 aturn
 Undyne..^1.&Tu.../
@@ -6340,7 +6340,7 @@ Prête ^1?&J'ai le doigt&sur le chronomètre !/%%
 \E1 & &    Je vais faire&    de mon mieux...!/%%
 \F3OH MON DIEU !!!/
 \F5Elle me faisait&marcher^1, hein !? /
-Ces dessins&animés..^1.&ces BDs.../
+Ces dessins&animés..^1.&ces BD.../
 \F7Ils EXISTENT^1,&pas vrai !?/
 \F8CES ANIMES,&TOUT EST VRAI,&HEIN ?!?!/%%
    Les Animes      Les Animes &   Existent        sont un &                   mensonge
@@ -9449,7 +9449,7 @@ Je cherchais juste&un truc à dessiner,&et.../
 \E0Je peux toujours&te dessiner quelque&chose !/
 \E7J'suis plutôt bon,&comme artiste,&tu sais./
 \E8Je vais te faire&un SUPER dessin !!!/%%
-\E6D.. désolé...&Ce dessin n'est pas&si bon au final./
+\E6D.. désolé...&Ce dessin n'est pas&si bon finalement./
 \E2Minute ^1!&J'ai compris !/
 \E0Il me suffit de&trouver du papier de&meilleure facture !/%%
 \E6Sauf que j'ai aucun&papier qui fasse&l'affaire.../
@@ -9585,7 +9585,7 @@ swipesound
 special_end
 * (Le crépuscule éclaire&  la salle.^4) %
 * (Son étrange lueur perce&  à travers la barrière.^4) %
-* (Votre voyage semble&  toucher à son terme.^4) %
+* (Votre voyage touche&  maintenant à sa fin.^4) %
      * (Cela vous emplit de&          DÉTERMINATION.^5) %%
 Humain.../
 \E1C'était&un&plaisir./
@@ -9651,12 +9651,12 @@ Tout l'outremonde&avait perdu espoir./
 Notre avenir nous&avait de nouveau&été volé par les&humains./
 Pris de colère,&je déclarai la&guerre./
 Je jurai que&j'exécuterai tout&humain qui oserait&venir ici./
-Que j'utiliserai&leurs âmes pour&devenir un dieu.../
-... et nous libérerai&de cette infâme&prison./
-Et qu'ensuite, je&détruirai l'humanité.../
-Et laisserai les&monstres régner en&paix sur la&surface./
+Que j'utiliserais&leurs âmes pour&devenir un dieu.../
+... et nous libérerais&de cette infâme&prison./
+Et qu'ensuite, je&détruirais l'humanité.../
+Et laisserais les&monstres régner en&paix sur la&surface./
 Rapidement, l'espoir&du peuple revint./
-Cependant, ma femme&fut horrifiée par&mes actions./
+Cependant, ma femme&fut horrifiée par&mes actes./
 Elle partit d'ici,&et disparut aux&yeux de tous./%%
 En vérité.../
 Je ne cherche pas le&pouvoir./
@@ -9673,7 +9673,7 @@ fightbt2
 sparebt2
 fkhrt
 msb
-\E0Après tout ce que&j'ai fait pour te&faire du mal.../
+\E0Après tout le mal&que j'ai voulu&te causer.../
 \E7Tu préfèrerais&rester ici&et souffrir.../
 \E9Plutôt que de&vivre une vie&heureuse&à la surface ?/
 \E1Humain.../
@@ -9716,7 +9716,7 @@ Et à chaque fois que&tu essayeras d'avoir&une fin heureuse.../
 Je serai là&pour la ruiner !/
 Ha ha ha !!!/%%
 Bien^1,&finissons-en./%%
-\E0Non^1.&Ce n'est qu'un&doux rêve^1,&n'est-ce-pas ?/
+\E0Non^1.&Ce n'est qu'un&doux rêve^1,&n'est-ce pas ?/
 \E1Jeune enfant^1,&lorsque je te&regarde.../
 \E2Je me rappelle de&l'humain qui est tombé&ici il y a longtemps.../
 \E8Tu as cette même&lueur d'espoir&dans les yeux./
@@ -9808,7 +9808,7 @@ Encore et toujours,&j'apparaitrai./
 Et, avec ton aide./
 Nous éradiquerons&l'ennemi et deviendrons&forts./
 Mais./
-Toi et moi sommes&différents^1, n'est-ce-pas?/
+Toi et moi sommes&différents^1, n'est-ce pas?/
 Cette ÂME abrite&un sentiment&des plus étranges./
 Il y a une raison pour que&tu continues de recréer&ce monde./
 Quelque chose&qui te pousse&à le détruire./
@@ -9822,7 +9822,7 @@ Une autre voie serait&plus appropriée./
 À présent, partenaire./
 Laissons ce monde&sombrer dans les&abysses./%%
 Oui^1. Quelle belle&équipe nous formons./
-Nous serons ensemble&pour toujours^1,&n'est-ce-pas?/%%
+Nous serons ensemble&pour toujours^1,&n'est-ce pas?/%%
 Non...?/
 Hmm.../
 Comme c'est curieux./
@@ -10089,7 +10089,7 @@ d_music
 \E3ouh^1, mais c'est&qu'on a l'air&SUPER en pétard.../
 \E4héhéhé.../
 \E5tu t'es fait&avoir, c'est&ça ?/
-\E4bah^1, si t'es de&nouveau là,&au final.../
+\E4bah^1, si t'es de&nouveau là,&après tout.../
 \E1c'est qu'on n'a&sans doute JAMAIS&vraiment été&amis./
 \E4heh./
 \E9va pas répéter&ça aux autres&sans^1, ok ?/%%
@@ -11492,7 +11492,7 @@ xed
 * Croâ^1, croâ^1.&* (Dis...)/
 * (Maintenant que ton voyage est&  terminé^1, peut-être que tu auras&  le temps de m'écouter.)/
 * (Puisque la majorité des&  gens appuient sur [X] pour&  passer mon texte.)/
-* (Tu as muri^1,&  n'est-ce pas?)/%%
+* (Tu as mûri^1,&  on dirait bien.)/%%
 * (Oh^1, tu vas pas t'y mettre&  aussi !)/%%
 * (... Je suppose que certaines&  choses ne changeront jamais.)/%%
 * La petite chaise de Toriel.&* Son nom est Chaiseriel./%%
@@ -11532,8 +11532,8 @@ curf
 \E3* Je peux pas revenir^1.&* Vraiment pas^1.&* Tu comprends ?/%%
 \E7* Je ne veux pas leur&  briser le coeur&  une fois de plus./
 * Le mieux, c'est que&  personne ne me voie./%%
-\E7* ... Qu'est-ce que tu&  fais encore là?/
-* Tu veux me tenir&  compagnie^1, c'est ça?/
+\E7* ... Qu'est-ce que tu&  fais encore là ?/
+* Tu veux me tenir&  compagnie^1, c'est ça ?/
 \E0* Frisk.../
 \E7* Dis./
 \E0* Je peux te poser&  une question ?/
@@ -11574,8 +11574,8 @@ curf
 \E2* Je... je n'ai&  pas voulu.../
 \E1* ... utiliser nos&  pouvoirs pour.../
 \E2* J'ai décidé de lui&  résister./
-\E7* Et au final^1, à cause&  de moi,^1 on est.../
-\E1* Bref^1, c'est comme ça&  que j'ai fini en tant&  que fleur./
+\E7* Et finalement^1, à cause&  de moi,^1 on est.../
+\E1* Bref^1, c'est comme ça&  que j'ai fini dans&  une fleur./
 * Durant tout ce temps^1,&  j'ai jamais cessé&  de m'en vouloir./
 * C'est à cause de ça que&  j'ai adopté cette af-&  freuse vision du monde./
 * "Tuer ou être tué."/
@@ -11602,7 +11602,7 @@ curf
 * Malgré ce qu'ils pensent&  tous^1, c'est pas&  aussi rose qu'ici-bas./
 \E7* Il y a beaucoup de&  Floweys là-dehors./
 \E2* Et on peut pas résoudre&  tout les problèmes&  avec un sourire./
-* Ne tue pas^1, et&  ne te fais pas tuer^1,&  d'accord?/
+* Ne tue pas^1, et&  ne te fais pas tuer^1,&  d'accord ?/
 * C'est tout ce que&  je peux te souhaiter./
 * Voilà^1, à plus./%%
 \E6* Tu n'as rien de&  mieux à faire ?/%%
@@ -11654,7 +11654,7 @@ FS
 \E0* Dans ce monde^1, c'est&  tuer ou être tué./
 \E2* Cette vieille bique&  pensait pouvoir changer&  les règles./
 \E1* Elle s'est efforcée de&  vous sauver, vous les&  humains./
-\E0* Mais au final.../
+\E0* Mais finalement.../
 \TF*\E5 Hé hé.../
 \E4* ELLE N'A MÊME PAS PU SE&  SAUVER ELLE-MÊME./
 * QUELLE IDIOTE !!/%%
@@ -15007,7 +15007,7 @@ doorx
 * (Hm...^1)&* (L-l'ouverture n'est&  pas facile...)/
 * (Une petite seconde...)/%%
 * Hey^1, si c'est une&  blague^1, ce n'est.../
-\E3* Oh Mon Dieu ?/
+\E3* Oh mon DIEU ?/
 \E5* C'est TOI qui as écrit&  cette lettre ?/
 \E6* Elle n'était pas signée^1,&  donc^1, je ne pouvais pas&  savoir qui.../
 \E8* Oh mon dieu^1.&* Oh non./
@@ -15661,7 +15661,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \YSqueletteBG95 a changé son statut& \W* LA SEULE BLAGUE ICI^1, C'EST LA&  FORCE DÉMESURÉE DE MES MUSCLES./%%
 \YALPHYS a changé son statut.\W &* et puis zut ! je vais&  l'expliquer !!!/%%
 \YALPHYS a changé son statut.\W &* j'me demande si ça va gâcher&  le plaisir si je l'aide.../%%
-\YALPHYS a changé son statut.\W &* Oh Mon Dieu j'Ai oublie de&  Lui Dire Ou aller/%%
+\YALPHYS a changé son statut.\W &* Oh mon dieu j'Ai oublie de&  Lui Dire Ou aller/%%
 \YALPHYS a changé son statut.\W &* PHOTO TrOP MIMI DE MOI&  A L'INSTANT ^0.^0 /
 * (C'est la photo d'une poubelle,&  mais avec des filtres roses&  scintillants.)/%%
 \YALPHYS a changé son statut.\W &* OMG JE L'AI FAIT!!!/
@@ -15742,7 +15742,7 @@ cantalk
 * Et puis pouf^1, il est revenu !!!/
 * Apparemment il était parti&  voir sa copine à Calciterre&  sans avertir personne !/
 * Scientifiquement parlant^1, ne&  pas savoir si une personne &  est morte ou non^1, ça craint./
-* Et puis^1, qu'est-ce qu'on&  fait pendant les funérailles,&  au final ?/
+* Et puis^1, qu'est-ce qu'on&  fait pendant les funérailles,&  finalement ?/
 * Selon mon avis d'expert :/
 * QUE DALLE !!!/
 * On répand seulement les&  cendres sur un truc qu'aimait&  bien la personne./
@@ -15816,15 +15816,15 @@ cantalk
 * Si leur ÂME persiste&  après leur décès^1,&  alors.../
 * Notre libération pourrait&  survenir bien plus tôt que&  nous le pensions./%%
 * ENTRÉE NUMÉRO 9/
-* les choses se passent&  moins bien que prévu./
+* Les choses se passent&  moins bien que prévu./
 * aucun corps n'est tombé&  en poussière^1, donc impossible&  pour moi d'obtenir les ÂMEs./
 * j'ai dit aux familles qu'on&  leur rendrait la poussière&  pour les funérailles./
 * les gens commencent à&  se poser des questions./
 * que dois-je faire ?/%%
 * ENTRÉE NUMÉRO 12/
-* ça n'avance pas^1.&* je ne sais pas quoi faire./
-* je vais juste continuer&  à tous leur injecter&  de la "détermination"./
-* je veux que ça fonctionne./%%
+* Ça n'avance pas^1.&* je ne sais pas quoi faire./
+* Je vais juste continuer&  à tous leur injecter&  de la "détermination"./
+* Je veux que ça fonctionne./%%
 * ENTRÉE NUMÉRO 14/
 * Tous les monstres&  qui ont chu.../
 * ... se sont réveillés./
@@ -15843,9 +15843,9 @@ cantalk
 * Et j'ai appelé les familles&  pour leur dire que tout&  le monde s'en est sorti./
 * Je les renverrai chez&  eux demain. :) /%%
 * ENTRÉE NUMÉRO 17/
-* le corps des monstres ne&  supporte pas la "détermination"&  comme celui des humains./
+* Le corps des monstres ne&  supporte pas la "détermination"&  comme celui des humains./
 * avec trop de détermination^1,&  ils commencent à perdre&  leur consistance./
-* ils ont tous commencé à&  fusionner les uns avec&  les autres.../%%
+* Ils ont tous commencé à&  fusionner les uns avec&  les autres.../%%
 * MACHINE D'EXTRACTION DT&* STATUT : DÉSACTIVÉ/%%
 * ENTRÉE NUMÉRO 4/
 * J'ai fait des recherches sur&  les humains pour en apprendre&  plus sur leurs ÂMEs./
@@ -15853,9 +15853,9 @@ cantalk
 * J'ai l'impression qu'ASGORE&  n'y a pas touché.../
 * Je pense qu'il a bien fait./%%
 * ENTRÉE NUMÉRO 19/
-* les familles m'appellent sans&  arrêt pour savoir quand les&  autres rentreront chez eux./
-* qu'est-ce que je suis&  censée leur dire ?/
-* je ne réponds même plus&  au téléphone./%%
+* Les familles m'appellent sans&  arrêt pour savoir quand les&  autres rentreront chez eux./
+* Qu'est-ce que je suis&  censée leur dire ?/
+* Je ne réponds même plus&  au téléphone./%%
 * (Il fait trop noir pour voir&  ce qu'il y a près des murs.)/%%
 * (Ça a l'air éteint.)/%%
 * ENTRÉE NUMÉRO 8/
@@ -16010,7 +16010,7 @@ EH BIEN..^1.&J'AI UNE THÉORIE&SUR LE SUJET./
 * (Elles sont rangées alphabé-&  tiquement^1, à l'exception de...^1)&* (... celles qui collent ?)/%%
 * ENTRÉE NUMÉRO 11/
 * maintenant que mettaton&  est devenu célèbre^1,&  il ne me parle plus./
-* ... sauf pour me demander&  quand est-ce que j'aurai&  complété son corps./
+* ... sauf pour me demander&  quand j'aurai&  complété son corps./
 * mais^1, si je le termine&  j'ai peur de ne plus lui&  être utile.../
 * que ce soit en tant que&  réparatrice...&* ou en tant qu'amie./
 * ... en plus^1, je finis&  en sueur à chaque&  fois que je planche dessus.../%%
@@ -16724,7 +16724,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E2* Ah, ouais ^1!&* Donc^1.&* Toriel était la reine^1, et&  Asgore le roi./
 \E3* Ça a été une sacrée perte&  quand elle a plié bagages./
 \E1* Après tout, on sait tous que&  c'était elle la tête pensante&  derrière la couronne.../
-\E0* Mais au final, c'était&  quand même une touuute&  petite délivrance^1,&  tu sais ?/
+\E0* Mais honnêtement, c'était&  quand même une touuute&  petite délivrance^1,&  tu sais ?/
 \E3* C'était une torture d'les&  voir ensemble, ces deux-là^1.&* Et vas-y que j'te bécotte&  devant tout le monde^1, à&  en faire rougir leurs gamins.../
 \E0* Leurs mignonneries me&  rendaient MALADE^1.&* Dieu merci, tout ça c'est&  fini, maintenant !/%%
 \E3* Hein ^1? T'affronter ?/
@@ -16849,7 +16849,7 @@ Ouais,&genre,&quoi de&neuf ?/*
 * Salut^1, c'est&  Gatty !/*
 * Salut^1, c'est&  Catty ! /%%
 mew
-\E3* CARRÉMENT hyper&  cher./%%
+\E3* CARRÉMENT hyper&  chers./%%
 * Mais^1, genre^1, ces&  trucs qu'on a&  trouvés sont&  genre.../*
 \E3* CARRÉMENT hyper&  bon marché./%%
 \M5* Tu devrais.../
@@ -17445,7 +17445,7 @@ scr_deaddog
 * Il va falloir mettre des&  chaises sur le toit./%%
 * Hé ^1! Personne ne va être obligé&  de quitter la ville^1,&  en fin de compte !/
 * Du coup, notre culture locale&  va s'en sortir indemne./
-* ... si ce n'est qu'on&  s'en aille tous^1,&  au final./
+* ... même si on&  s'en va tous^1,&  finalement./
 * Mais bon^1. On ne peut pas avoir&  le beurre et l'argent du&  beurre^1, après tout./%%
 * ... qui sait^1.&* On aura peut-être beaucoup&  de place./%%
 * Ah^1, j'aimerais être jeune&  à nouveau^1.&* Le monde semblait sans limite./%%
@@ -17652,7 +17652,7 @@ mystvol
 * J'ai enfin terminé les&  mots croisés du jour./%%
 * J'adore travailler pour&  ce journal./
 * Y'a tellement peu à raconter&  qu'on ne fait que le remplir de&  jeux et de bandes dessinées./%%
-* Oui^1.&* C'est moi qui illustre les&  BDs moi-même./
+* Oui^1.&* C'est moi qui illustre les&  BD moi-même./
 * Oui^1.&* Je dessine mes personnages&  musclés et avec de gros yeux./%%
 * Mazette^1, tant de nouvelles&  à publier^1, ça m'en donne&  le tournis !/
 * Comme Une, je verrais bien..^1.&* "Les Monstres quittent&  l'Outremonde !"/
@@ -18138,7 +18138,7 @@ toy
 ivol
 nextcon
 alph
-* (C'est un lecteur de VHS,&  avec un assortiment de&  cassettes à côté...)/
+* (C'est un lecteur de VHS,&  avec une pile de&  cassettes posée à côté...)/
 * (Elles semblent être étiquetées&  dans un ordre particulier.)/
 * (En regarder une...?)/%%
 * (Choisissez une cassette à&  regarder.)/%%
