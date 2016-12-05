@@ -389,7 +389,7 @@ LES CASES VIOLETTES&SONT TOUTES&SAVONNÉES !/
 TU GLISSERAS&JUSQU'À LA CASE&SUIVANTE !/
 CEPENDANT^1, LE&SAVON GLISSANT.../
 EST PARFUMÉ&AU CITRON !!/
-CE QUI DÉPLAÎT AUX&PIRHANAS !/
+CE QUI DÉPLAÎT AUX&PIRANHAS !/
 DONC BLEU ET&VIOLET, PAS DE&PROBLÈME!/
 ENFIN^1,&LES CASES ROSES./
 ELLE NE FONT&ABSOLUMENT RIEN./
@@ -1239,7 +1239,7 @@ PRENDS TON TEMPS !/%%
 \E1* En fait.../
 \E3* Tu vas même./
 \M1* Devenir MA BESTAH./
-* Je vais faire en&  sorte que tu m'aimes&  tellement, qu'à la fin.../
+* Je vais faire en&  sorte que tu m'aimes&  tellement qu'à la fin.../
 \E1* Ta VIE ENTIÈRE&  tournera autour&  de moi !!/
 \E6* FUHUHUHUHU !!!/
 \E9* Bien^1, et si tu&  t'asseyais ?/%%
@@ -2666,7 +2666,7 @@ scr_itemnamelist
 * "Arachnodonut" - Soigne 12 PV&* Un donut fait avec des restes&  d'arachnocidre./%
 * "Onion Stoïque" - Soigne 5 PV&* Même en le mangeant cru^1,&  impossible de verser une larme./%
 * "Fruit Fantôme" - Soigne 16 PV&* Même ^1, it will never&  pass to the other side./%
-* "Arachnocidre" - Soigne 24 PV&* À base de jus concentré^1,&  pulpe et araignées incluses./%
+* "Arachnocidre" - Soigne 24 PV&* À base de jus concentré^1,&  pulpes et araignées incluses./%
 * "Tarte Caramel" - Tous les PV&* Une part de tarte à la&  cannelle et au caramel./%
 * "Ruban Délavé" - Armure DF 3&* Les monstres attaquent moins&  fort tout ce qui est mignon./%
 * "Couteau Plastique"- Arme AT 3&* Il est en plastique.&* C'est rare de nos jours./%
@@ -5192,8 +5192,8 @@ SPECIALK
 * personne ne veut que&  ça se reproduise./
 \E0* du coup, le peuple s'est&  révolté pour renverser&  le règne de la reine./
 \E2* mais^1, elle^1, euh^1, a&  abandonné calmement&  devant leur réaction./
-\E1* en définitive, elle est&  retournée dans&  les ruines./
-\E0* en gros, l'outremonde&  est sous une anarchie&  bizarre maintenant./
+\E1* en définitive^1, elle est&  retournée dans&  les ruines./
+\E0* en gros^1, l'outremonde&  est sous une anarchie&  bizarre maintenant./
 \E0* chacun essaye de vivre&  leur vie comme ils&  l'ont toujours fait.../
 \E3* mais ce n'est pas&  vraiment facile^1,&  t'sais ?/
 * quand tous tes&  espoirs passent tout&  simplement à la trappe.../%%
@@ -5445,7 +5445,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E0* Au départ, quand j'ai& vu ce que tu faisais&  à tous ces gens.../
 * Je suis juste restée&  là, assise^1.&* À t'observer./
 \E1* Je me suis sentie tel-&  lement coupable, de rien&  faire pour t'arrêter./
-\E3* J'ai senti que tout ce&  que je faisais,&  en vérité.../
+\E3* J'ai senti que tout ce&  que je faisais^1,&  en vérité.../
 \E4* C'était d'espérer que&  tu me tuerais^1,&  moi aussi./
 \E1* Mais quand Undyne m'a&  appelée^1, l'air&  folle de désespoir.../
 \E0* J..^1. J'ai compris que...&* Que je devais agir./
@@ -6694,7 +6694,7 @@ J'EN&ÉTAIS&SÛR !! AU&VOLEUR !!
 À L'AIDE!&POLICE&DU&STYLE !!
 Haha !&POUR UNE&FOIS c'&est drôle
 Ha !&C'est&tellement&ça !
-J'avais&pas tant&ris depuis&un bail !
+C'est la&meilleure&depuis&un bail !
 pop
 ditch
 * Il neige des pellicules.
@@ -6705,7 +6705,7 @@ ditch
 * Calotte Glacée vérifie du&  coin de l'oeil si vous faites&  attention à son chapeau.
 * Calotte Glacée a désespérement&  besoin d'attention.
 * Le chapeau de Calotte Glacée&  commence à partir.
-* CALOTTE GLACE - ATQ 7 DÉF 2&* Ce jeune préférerait&  s'appeler "Chapeau Glacé"./^
+* CALOTTE GLACÉE - ATQ 7 DÉF 2&* Ce jeune préférerait&  s'appeler "Chapeau Glacé"./^
 * Vous continuez à ne pas&  regarder le chapeau de&  Calotte Glacée./
 * On dirait que ça l'achève.../^
 * Vous arrivez à arracher votre&  regard du chapeau de&  Calotte Glacée./
@@ -6893,7 +6893,7 @@ obj
 * Glyde voit son reflet &  et pique une crise&  de jalousie.
 * Glyde réfléchit à de nouveaux&  termes pour le mot "cool".&* Comme "incroyagénique".
 * Le vent transporte la&  fragrance de l'arrogance.
-* Glyde fait des tonnes de& loopings pour attirer&  votre attention.
+* Glyde fait des tonnes de&  loopings pour attirer&  votre attention.
 * Glyde semble satisfait.
 * Glyde agonise^1, mais&  de manière cool.
 * GLYDE - ATQ HAUTE DÉF HAUTE&* Refuse de donner plus&  de détails sur ses stats./^
@@ -10596,12 +10596,12 @@ JE DOIS&CAPTU-&RER L'&HUMAIN!
 POUR&QUE&TOUT LE&MONDE,
 * Les Âmes Égarées se tiennent&  devant toi.
 * Tu racontes une mauvaise&  blague sur les squelettes&  à l'Âme Égarée./
-* Il la trouve vraiment nulle..^1.&* Contrairement à l'autre&  Âme Égarée !/^
+* Elle la trouve assez nulle..^1.&* Contrairement à l'autre&  Âme Égarée !/^
 * Cette blague stupide..^1.&* Tout à coup, tout lui revient !/%%
 * Tout à coup, tous ses&  souvenirs lui reviennent !/
 * En voyant ta gentillesse à&  l'égard de son frère^1, l'autre&  Âme Égarée se souvient aussi !/%%
 * Tu demandes à l'Âme Égarée de&  t'aider pour un casse-crâne./
-* Il ignore pourquoi^1, mais&  il a très envie de le faire./^
+* Elle ignore pourquoi^1, mais&  elle a très envie de le faire./^
 * Tu demandes à l'Âme Égarée de&  te cuisiner quelque chose./
 * L'Âme Égarée peine à&  cacher sa joie.../^
 * Tu insultes l'Âme Égarée./
@@ -10623,7 +10623,7 @@ tu les&reverras&jamais.
 * Tu dis à l'Âme Égarée que&  les mots mêlés sont plus durs&  que les mots croisés./
 * Tu dis à l'Âme Égarée que&  les mots croisés sont plus durs&  que les mots mêlés./
 * De vagues souvenirs semblent&  lui revenir à ce sujet.../^
-* Il hoche la tête avec convic-&  tion, comme si ça tombait&  sous le sens pour lui...!/%%
+* Elle hoche avec conviction,&  comme si ça tombait&  sous le sens pour elle...!/%%
 * L'autre Âme Égarée se souvient&  de cette conversation^1,&  elle aussi !/%%
 Tu me&hais^1,&pas&vrai...?
 Je dois&conti-&nuer à&mentir...
@@ -10648,7 +10648,7 @@ Personne&ne&sortira&d'ici.
 * En la voyant se souvenir de&  toi^1, l'autre Âme Égarée fait au&  mieux pour se rappeller aussi !/%%
 * Tu refuses de combattre&  l'Âme Égarée./
 * Cette situation lui&  est familière.../^
-* Tu fais un câlin à l'Âme Égarée&  et lui dit que vous vous&  reverrez bientôt./
+* Tu fais un câlin à l'Âme Égarée&  et lui dis que vous vous&  reverrez bientôt./
 * Cette situation lui&  est familière.../^
 * Tu dis à l'Âme Égarée que tu&  préfères le caramel à&  la cannelle./
 * Tu dis à l'Âme Égarée que tu&  préfères la cannelle&  au caramel./
@@ -10660,7 +10660,7 @@ Pardonne&-moi.
 Tel&est mon&devoir.
 * Tu dis à l'Âme Égarée que tu&  vas tous les sauver./
 * Tes mots semblent&  l'émouvoir profondément./^
-* Il semble&  profondément ému..^1.&* Tout lui revient !/%%
+* Elle semble&  profondément émue..^1.&* Tout lui revient !/%%
 * Tout à coup^1, tous ses&  souvenirs lui reviennent !/
 * En voyant ta gentillesse^1,&  l'autre Âme Égarée se&  souvient^1, elle aussi !/%%
 * Tu dis à l'Âme Égarée que tu&  ne lui feras pas de mal&  quoi qu'il arrive./
@@ -10668,7 +10668,7 @@ Tel&est mon&devoir.
 * Tu fixes intensément du&  regard l'Âme Égarée./
 * Ce regard lui rappelle&  celui des humains qui&  t'ont précédé.../^
 * Tu fais un câlin à&  l'Âme Égarée./
-* Tu sens qu'il est de plus en&  plus réticent à t'attaquer.../^
+* Tu sens qu'elle est de plus en&  plus réticente à t'attaquer.../^
 * Tout à coup^1, tous ses&  souvenirs lui reviennent !/%%
 hope
 hoped
@@ -10716,7 +10716,7 @@ gonercon
 * ASRIEL DREEMURR \z4   ATQ \z4   DÉF&* DIEU Absolu de la Mort ultime !/^
 * Tu t'accroches à tes espoirs..^1.&* Tu subiras moins de&  DÉGATS pour ce tour !/^
 * Tu t'accroches toujours^1.&* DÉGATS réduits !/^
-* Tu penses aux raisons qui&  t'ont amenées ici.../
+* Tu penses aux raisons qui&  t'ont amené jusqu'ici.../
 * Tu peux sentir ton inventaire&  se remplir peu à peu !/^
 * Ton inventaire s'emplit&  de rêves./^
 \E0... même après cette&attaque^1, tu es&toujours debout...?/
@@ -15074,7 +15074,7 @@ DES LARMES !!!/
 \E1* Frisk..^1. À dire vrai..^1.&* Nous ne sommes pas sûrs&  de ce qui s'est passé../
 \E1* Il y avait cette fleur.^1.&* Et puis^1, soudainement,&  tout est devenu blanc./
 \E0* Et maintenant, la&  barrière a disparu./
-* Lorsque tu auras fini&  ici^1, nous nous rendrons&  tous à la surface./
+* Lorsque tu en auras fini&  ici^1, nous nous rendrons&  tous à la surface./
 * La porte à l'est&  devrait nous y&  conduire, à présent./
 \E2* Mais avant cela.../
 \E0* Que dirais-tu d'aller&  faire un dernier&  petit tour ?/
@@ -15816,15 +15816,15 @@ cantalk
 * Si leur ÂME persiste&  après leur décès^1,&  alors.../
 * Notre libération pourrait&  survenir bien plus tôt que&  nous le pensions./%%
 * ENTRÉE NUMÉRO 9/
-* Les choses se passent&  moins bien que prévu./
+* les choses se passent&  moins bien que prévu./
 * aucun corps n'est tombé&  en poussière^1, donc impossible&  pour moi d'obtenir les ÂMEs./
 * j'ai dit aux familles qu'on&  leur rendrait la poussière&  pour les funérailles./
 * les gens commencent à&  se poser des questions./
 * que dois-je faire ?/%%
 * ENTRÉE NUMÉRO 12/
-* Ça n'avance pas^1.&* je ne sais pas quoi faire./
-* Je vais juste continuer&  à tous leur injecter&  de la "détermination"./
-* Je veux que ça fonctionne./%%
+* ça n'avance pas^1.&* je ne sais pas quoi faire./
+* je vais juste continuer&  à tous leur injecter&  de la "détermination"./
+* je veux que ça fonctionne./%%
 * ENTRÉE NUMÉRO 14/
 * Tous les monstres&  qui ont chu.../
 * ... se sont réveillés./
@@ -15843,9 +15843,9 @@ cantalk
 * Et j'ai appelé les familles&  pour leur dire que tout&  le monde s'en est sorti./
 * Je les renverrai chez&  eux demain. :) /%%
 * ENTRÉE NUMÉRO 17/
-* Le corps des monstres ne&  supporte pas la "détermination"&  comme celui des humains./
+* le corps des monstres ne&  supporte pas la "détermination"&  comme celui des humains./
 * avec trop de détermination^1,&  ils commencent à perdre&  leur consistance./
-* Ils ont tous commencé à&  fusionner les uns avec&  les autres.../%%
+* ils ont tous commencé à&  fusionner les uns avec&  les autres.../%%
 * MACHINE D'EXTRACTION DT&* STATUT : DÉSACTIVÉ/%%
 * ENTRÉE NUMÉRO 4/
 * J'ai fait des recherches sur&  les humains pour en apprendre&  plus sur leurs ÂMEs./
@@ -15853,9 +15853,9 @@ cantalk
 * J'ai l'impression qu'ASGORE&  n'y a pas touché.../
 * Je pense qu'il a bien fait./%%
 * ENTRÉE NUMÉRO 19/
-* Les familles m'appellent sans&  arrêt pour savoir quand les&  autres rentreront chez eux./
-* Qu'est-ce que je suis&  censée leur dire ?/
-* Je ne réponds même plus&  au téléphone./%%
+* les familles m'appellent sans&  arrêt pour savoir quand les&  autres rentreront chez eux./
+* qu'est-ce que je suis&  censée leur dire ?/
+* je ne réponds même plus&  au téléphone./%%
 * (Il fait trop noir pour voir&  ce qu'il y a près des murs.)/%%
 * (Ça a l'air éteint.)/%%
 * ENTRÉE NUMÉRO 8/
@@ -15924,7 +15924,7 @@ cantalk
 * Les monstres sont constitués&  principalement de magie,&  contrairement aux humains./
 * Ces derniers^1, constitués d'eau^1,&  possèdent une force physique&  bien supérieure à la nôtre./
 * Mais ils ne connaitront jamais&  les joies de l'expression au&  travers de la magie./
-* Il n'auront jamais la chance&  de recevoir une carte d'&  anniversaire en projectiles.../%%
+* Ils n'auront jamais la chance&  de recevoir une carte d'&  anniversaire en projectiles.../%%
 * C'est une porte./%%
 \W* \OCourage^1. \YJustice.\W  &*\B Integrité^1. \GGentillesse^1.\W &*\P Persévérance^1. \LPatience. \W /
 \W* En y ayant recours^1, vous vous&  êtes avéré capable de gagner&  au "\RJeu de Balle\W"./
@@ -18965,7 +18965,7 @@ C'est une métaphore./%%
 Ben,&pour ma&part.../
 Cette&analogie&me&plaît./%%
 OH MON DIEU !/
-\XVOUS DEUX !&TRÈVE DE BAVARDAGE,&PLACE AU \RBÉCOTAGE\X !/
+\XVOUS DEUX !&TRÊVE DE BAVARDAGE,&PLACE AU \RBÉCOTAGE\X !/
 LE PUBLIC MEURT&D'ENVIE DE VOIR&UN PEU D'ACTION&ROMANTIQUE !!!/%%
 HÉ^1, LA FERME !!!/
 Punaise^1,&il est gonflé lui !/
@@ -19030,7 +19030,7 @@ Je détruirai&la barrière./
 \E8Toi...!/
 \E0Je te garderai ici&quoi qu'il arrive !/%%
 ty
-\E0Même si pour ça&je dois te tuer&1 000 000 fois !!!/%%
+\E0Même si pour ça&je dois te tuer&un MILLION&de fois !!!/%%
 Quoi ?/%%
 dontgiveup
 N'aie crainte^1,&mon enfant.../
@@ -19046,7 +19046,7 @@ Alors t'inquiète ^1!&On est avec toi&jusqu'au bout !/%%
 sans2
 eh bah ^1?&tu l'as pas&encore battu,&celui-là ?/
 allez^1, il est to-&qué du bulbe mais&il fait pas le&poids face à toi./%%
-Techniquement^1, il&est impossible à&battre.../
+Il est&scientifiquement&impossible à&battre.../
 M-mais..^1.&Au fond de moi^1, je&sais que tu peux&le faire !!/%%
 asg2
 Humain^1, pour&l'avenir des&hommes et des&monstres...!/
