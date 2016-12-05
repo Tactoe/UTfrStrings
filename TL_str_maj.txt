@@ -492,7 +492,7 @@ uncan
 scr_murderlv
 * (Il y a une dague émoussée à&  l'intérieur du paquet.)/
 * (Un couteau dans la boîte.)/
-* (Vous obtenez la Dague& Émoussée.)/%%
+* (Vous obtenez la Dague&  Émoussée.)/%%
 * (Vous obtenez le Vrai Couteau.)/%%
 * (Il y a un médaillon en forme&  de coeur dans&  le paquet-cadeau.)/
 * (Vous obtenez le Médaillon en&  forme de Coeur.)/%%
@@ -677,14 +677,14 @@ jtext
 * Couvegîte ferme pour&  qu'on aille tous à&  la surface./%%
 * Oh^1, te voilà^1.&* Je m'inquiétais pour toi !/
 * Tout va bien se passer^1,&  d'accord ?/
-* On va bientôt tous aller& à la surface.../
+* On va bientôt tous aller&  à la surface.../
 * Tu vas trouver quelque&  part où rester là-haut, c'est&  obligé !/%%
 Error./%%
 * Voici la clé de ta chambre^1.&* Fais comme chez toi !/%%
 * ... Tu n'as même pas 80PO ?/
 * Oh ^1! Pauvre chou ^1!&* J'imagine bien ce que tu&  as pu endurer./
 * Une des chambres en haut&  est vide^1./
-* Tu peux y dormir& gratuitement^1, d'accord ?/%%
+* Tu peux y dormir&  gratuitement^1, d'accord ?/%%
 * Tu n'as pas assez d'argent./%%
 * Bon, eh bien^1, reviens&  quand tu veux./%%
 * (Regarder à travers le&  téléscope ?)&         Oui         Non\C
@@ -789,7 +789,7 @@ con
 * hmm^1, ça m'a l'air&  pas mal./
 * grillby^1, on va&  prendre deux frites./%%
 burg
-* grillby^1, ça sera& deux burgers^1, s'il& te plaît./%%
+* grillby^1, ça sera&  deux burgers^1, s'il&  te plaît./%%
 * alors^1, qu'est-ce&  que tu penses.../
 * de mon frère ?& &  Cool        Pas cool\C
 * évidemment qu'il&  est cool./
@@ -922,7 +922,7 @@ lv
 * d'accord..^1.&* martèle la touche [Z] pour&  encourager ton escargot./
 * on commence ?/%%
 * euh..^1. c'est moins de 10PO./
-* mais y'a que toi qui participes& vraiment, du coup^1, je vais me&  contenter de ça.../
+* mais y'a que toi qui participes&  vraiment, du coup^1, je vais&  me contenter de ça.../
 * oh.........../%%
 * Sept./
 * Sept âmes humaines./
@@ -1635,7 +1635,7 @@ bs
 \E0* Est-ce la Canelle ?& &  Oui         Non      \C
 \E0* Hi hi hi^1.&* J'en avais le&  pressentiment./
 \E1* C'est étrange...&* Lorsque les humains&  chutent ici.../
-\E1* J'ai bien souvent& l'impression de déjà les& connaître./
+\E1* J'ai bien souvent&  l'impression de déjà&  les connaître./
 \E0* À dire vrai^1, la première&  fois que je t'ai vu,&  c'était comme si.../
 \E1* ... comme si je voyais&  une vieille connaissance&  pour la première fois./
 \E0* Étrange^1, ne&  trouves-tu pas?/
@@ -5442,7 +5442,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E0* Je te déteste./
 \E1* Mais..^1. ironiquement..^1.&* C'est à cause de toi^1,&  que.../
 \E2* Que j'ai été forcée de&  devenir une meilleure&  personne./
-\E0* Au départ, quand j'ai& vu ce que tu faisais&  à tous ces gens.../
+\E0* Au départ, quand j'ai&  vu ce que tu faisais&  à tous ces gens.../
 * Je suis juste restée&  là, assise^1.&* À t'observer./
 \E1* Je me suis sentie tel-&  lement coupable, de rien&  faire pour t'arrêter./
 \E3* J'ai senti que tout ce&  que je faisais^1,&  en vérité.../
@@ -11477,7 +11477,7 @@ stepped
 * (Je crois bien que nous ne&  sommes que 3 frères Croâpauds&  ici...)/
 * (Troublant^1, vraiment&  troublant.^1)&* Croâ./%%
 * Croâ croâ^1.&* (As-tu enfin trouvé le 4ème&  Croâpaud de cette salle ?)/%%
-* Croâ croâ^1.&* (Les noms en jaune étaient& sympathiques pendant un moment.)/
+* Croâ croâ^1.&* (Les noms en jaune étaient sym-&  pathiques pendant un moment.)/
 * (La prochaine fois^1, nous&  devrions essayer une nuance de&  vert relaxante.)/%%
 * Croâ croâ^1.&* (Comment était ton aventure ?)/
 * (Ça a dû etre difficile sans&  être capable de comprendre&  les sentiments des ennemis.)/%%
@@ -12500,8 +12500,8 @@ rshot
 * ouais, passe au travers^1.&* les barres sont trop&  écartées pour t'arrêter./%%
 \E1* c'est^1, euh^1.&* le signal pour rire./
 \E2* ou^1, euh^1, exprimer&  quoi que ce soit...?/
-\E1* (la vache^1, ma vieille^1,tu& sais comment t'y prendre& pour les choisir, hein..?)/
-\E2* OK^1, c'est pas grave^1,&  chacun a son propre&  sens de l'humour./
+\E1* ('vache^1, ma vieille^1, tu& sais comment t'y prendre& pour les choisir...)/
+\E2* ok^1, c'est pas grave^1,&  chacun a son propre&  sens de l'humour./
 fsound
 * Humain./
 * Tu ne sais donc pas&  comment saluer un&  nouvel ami ?/
@@ -12879,7 +12879,7 @@ ydir
 \E4* Dis-moi^1, même si tu&  l'as pointé^1, tu n'as&  pas l'air d'en vouloir./
 \E0* Heh^1, no problemo ^1!&* Moi aussi je trouve le&  soda dégueu !/
 \E4* Il pourrit tes dents..^1.&* Il pourrit ton&  cerveau.../
-\E1* IL POURRIT TON & ESPRIT COMBATIF !/
+\E1* IL POURRIT TON&  ESPRIT COMBATIF !/
 \E9* ... hein ^1?&* Pourquoi j'en&  ai alors ?/
 \E8* .../%%
 * Quoi ^1?&* Tu veux lui balancer&  la lance ?/%%
@@ -12943,8 +12943,8 @@ tspear
 \E9* Euh^1, pourquoi ne pas&  juste pointer ce&  que tu veux ?/
 * Tu peux utiliser&  la lance !/%%
 \E4* Tu sais, j'étais une&  enfant assez turbulente./
-* Une fois^1, pour prouver& ma force aux autres^1, j'ai&  essayé de battre ASGORE./
-\E1* Et j'insiste&  sur ESSAYÉ./
+* Une fois^1, pour prouver&  ma force aux autres... /
+\E1* J'ai essayé de&  battre ASGORE.&* Et j'insiste sur ESSAYÉ./
 \E0* Impossible de lui&  porter le moindre coup !/
 \E4* Pire encore^1, durant tout&  le combat^1, il ne voulait&  même pas riposter !/
 \E7* Je me suis sentie&  tellement humiliée.../
@@ -13311,12 +13311,12 @@ numero
 * Yo..^1./
 * Où t'as mis le parapluie...^1?&* Ha... ha... /%%
 * Yo ^1!&* Ça y est^1, on peut y aller ?/%%
-* Yo ^1!&* Alors, tu nous as trouvé& un parapluie ?/
+* Yo ^1!&* Alors, tu nous as trouvé&  un parapluie ?/
 * Tu gères !/%%
 * Yo^1, t'as trouvé un parapluie ?/
 * Génial !/%%
 * Yo ^1! Toi non plus tu peux&  pas tenir de parapluie ?/
-* Si tu veux quand même marcher^1,& on n'a qu'à y aller ensemble^1,& haha.../%%
+* Si tu veux quand même marcher^1,&  on n'a qu'à y aller&  ensemble^1, haha.../%%
 * C'est parti !/%%
 * Yo^1, j'ai déjà vérifié^1,&  Undyne est pas par là./
 * Bon, ben on s'voit&  plus tard, hein ^1?&* Haha./%%
@@ -13366,7 +13366,7 @@ able
 * Yo^1, j'ai bien cru que c'était&  la fin^1, haha.../
 * ... hé^1, ça va aller^1?&* On dirait que t'as vraiment&  fait une mauvaise chute.../
 * T-tout ça c'est ma faute^1.&* J'aurais dû rentrer^1,&  comme tu m'avais dit./
-* Sérieusement^1, rester là^1,& à me regarder..^1. et attendre..^1.&* Que je tombe./
+* Sérieusement^1, rester là^1, à me&  regarder..^1. et attendre..^1.&* Que je tombe./
 * Sérieusement^1, foncer sur&  toi pour te combattre&  au lieu de m'aider.../
 * J'avais si peur et^1...&* Et toi.../
 * Hein ^1?&* Tu veux aller te battre ^1?&* Genre maintenant ?/
@@ -13591,7 +13591,7 @@ tc
 * oh............../%%
 * ce morceau..^1. quel classique..^1.&* on n'en fait plus des comme&  ça, de nos jours.../%%
 * wow..^1. cette ambiance...&* c'est comme si je sentais&  tout mon corps frémir.../%%
-* oh^1, celle-là..^1.&* dès que tu connais les paroles,& c'est dur de ne pas chanter.../
+* oh^1, celle-là..^1.&* dès que tu connais les paroles,&  c'est dur de ne pas chanter.../
 * bouh hou ho^2u&* hou hou ho^2u&* hou hou ho^1u hou houu/%%
 * oh..............^1.&* mettaton.......^1.&* j'en suis trop fan......../
 * ..... oh^1, salut/
@@ -14560,8 +14560,8 @@ babytimer
 * TANDIS QU'ELLE T'OBSERVAIT&  DERRIÈRE SON ÉCRAN^1, ELLE&  S'EST ÉPRISE DE TES AVENTURES./
 * ELLE VOULAIT DÉSESPÉRÉMENT&  EN FAIRE PARTIE./
 * ALORS ELLE A DÉCIDÉ DE&  S'INTRODUIRE DANS TON&  HISTOIRE./
-* CE SCÉNARIO, DANS LEQUEL&  ELLE TE "SAUVE" DE MOI^1,& FAISAIT PARTIE DE SON PLAN./
-* MÊME À CET INSTANT, ELLE& ATTEND EN DEHORS DE&  CETTE SALLE./
+* CE SCÉNARIO, DANS LEQUEL&  ELLE TE "SAUVE" DE MOI^1,&  FAISAIT PARTIE DE SON PLAN./
+* MÊME À CET INSTANT, ELLE&  ATTEND EN DEHORS DE&  CETTE SALLE./
 * PENDANT NOTRE "COMBAT", ELLE&  S'INTERPOSERA./
 * PUIS ELLE FERA MINE DE ME&  "DÉSACTIVER", TE "SAUVANT"&  AINSI UNE DERNIÈRE FOIS./
 * ENFIN.&* ELLE SERA L'HÉROÏNE DE&  TON AVENTURE./
@@ -14871,13 +14871,13 @@ labvolume
 \E3* M-m-mais^1, ahhhh^1,&  je ne fais pas partie&  des "méchants" !/
 \E0* En fait^1, depuis ta&  sortie des RUINES^1, j'ai^1,&  euh.../
 \E7* ... "observé"&  ton voyage à travers&  ma console./
-\E3* Tes combats..^1.&* Tes amitiés..^1.&* Tout ! /
+\E3* Tes combats..^1.&* Tes amitiés..^1.&* Tout !/
 \E0* Au début, je&  pensais t'arrêter^1,&  mais.../
 \E7* Suivre une personne à& travers l'écran la rend& vraiment plus attachante./
 \E7* Te regarder^1, c'était& comme..^1. comme revoir& une vieille connaissance./
-\E0* A-alors^1, ahhh^1,&  maintenant je veux&  t'aider ! /
-\E6* En usant de mon savoir^1,&  je peux facilement te&  guider dans Calciterre ! /
-\E0* Je connais un chemin& vers le château d'ASGORE^1,& sans aucun problème ! /
+\E0* A-alors^1, ahhh^1,&  maintenant je veux&  t'aider !/
+\E6* En usant de mon savoir^1,&  je peux facilement te&  guider dans Calciterre !/
+\E0* Je connais un chemin& vers le château d'ASGORE^1,& sans aucun problème !/
 \E7* Sauf que^1, en fait^1, euh^1,&  il y a un seul&  petit problème./
 \E0* Il y a longtemps^1, j'ai&  construit un robot nommé&  Mettaton./
 * Je l'avais construit& pour être un robot de& divertissement au départ./
@@ -15335,7 +15335,7 @@ pass
 * Prends le temps d'y&  réfléchir./%%
 \Ts*\E0 ... mais toi^1.&* tu n'as jamais reçu&  de LOVE./
 \E1* ce qui n'signifie pas&  nécessairement que t'as&  jamais fauté./
-\E0* mais simplement que tu& as pu conserver une part& de tendresse en toi./
+\E0* mais simplement que tu&  as pu conserver une part&  de tendresse en toi./
 * qu'importaient les&  épreuves et les dangers&  que tu affrontais.../
 * tu prenais à coeur&  de faire ce qui&  te semblait juste./
 * tu as toujours refusé&  de blesser qui&  que ce soit./
@@ -15475,7 +15475,7 @@ sansk
 \E1* t'en as mis du temps^1,&  dis-moi./
 \E0* bon^1, laisse-moi te&  poser une question./
 \E3* crois-tu que même la&  personne la plus ignoble&  puisse changer...?/
-\E3* que n'importe qui peut& devenir quelqu'un de bien^1,& en y mettant du sien ?/%%
+\E3* que n'importe qui peut& devenir quelqu'un de bien& en y mettant du sien ?/%%
 \E1* t'as l'air en pétard^1,&  dis-moi./
 \E4* faut croire que j'fais du&  bon boulot^1.&* t'en dis quoi ?/%%
 \E0* hmm^1.&* cette expression.../
@@ -15654,7 +15654,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \YALPHYS a posté une photo.\W &* dîner avec ma petite copine ;)/
 * (La photo montre une figurine&  de fille-chat à côté d'un bol&  de nouilles instantanées.)/%%
 \YSqueletteBG95 a posté une photo.\W &* ALORS ON POSTE DES PHOTOS SEXY?&* ÇA C'EST MOI AVEC MON POTE BG/
-* (Sur la photo, Papyrus montre& ses muscles devant un miroir. Il porte des lunettes de soleil.)/
+* (Sur la photo, Papyrus montre&  ses muscles devant un miroir.&* Il a des lunettes de soleil.)/
 * (Des biceps géants sont&  collés sur ses bras.)/
 * (Les biceps portent également&  des lunettes de soleil.)/%%
 \YALPHYS a changé son statut.\W &* LOL, SqueletteBG95!&* ... c'est une blague^1, j'espère?/%%
@@ -15773,7 +15773,7 @@ cantalk
 * Atchoum ^1! J'ai tenté d'attraper&  un insecte^1, mais tout ce que&  j'ai chopé, c'est un un rhume../%%
 * Redoutant nos pouvoirs^1,&  les humains nous déclarèrent&  la guerre./
 * Leur attaque fût soudaine,&  sans la moindre pitié./%%
-* Sans bougies ni magie pour les& guider vers la Maison^1, les& monstres s'aidèrent de cristaux./%%
+* Sans bougies ni magie pour les&  guider vers la Maison^1, les mon-&  stres s'aidèrent de cristaux./%%
 * (C'est la figurine d'une fille&  humaine avec des oreilles de&  chat. Elle est en piteux état.)/%% 
 * (Des livres scientifiques.^1)&* (Ils semblent très&  poussiéreux.)/%%
 * (C'est un frigo.^1)&* (Il est étonnamment chaud.)/%%
@@ -16089,7 +16089,7 @@ L'INTIMITÉ^1,&TU NE CONNAIS&DONC PAS ?/%%
 * Nous voilà donc coincés ici-bas&  pour l'éternité./%%
 UN SYMBOLE&INTEMPOREL./
 IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
-* (C'est un dessin& cartoonesque d'un os.)/%%
+* (C'est un dessin&  cartoonesque d'un os.)/%%
 * (C'est un joli arbre.)/%%
 * (À chaque fois que cette fille&  agite son filet^1, l'insecte&  s'élance droit dessus.)/%%
 * (On dirait des notes au sujet&  de quelque chose^1, mais&  l'écriture est illisible.)/
@@ -16123,7 +16123,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * j'ai une émission que j'aime&  bien regarder dessus..^1.&* de temps à autres.../%%
 * (C'est une vieille télé.^1)&* (Les boutons sont&  extrêmement usés...)/
 * (... Mis à part ceux qui&  servent à changer de chaîne.)/%%
-* (Une corde.^1)&* (Le chien ne doit pas utiliser& de doublures lors des cascades.)/%%
+* (Une corde.^1)&* (Le chien ne prend pas de&  doublures lors des cascades.)/%%
 * (On dirait une émission&  mettant Mettaton en vedette.)/%%
 * (Statue de tem..^1.tré tré&  célèbr^1)&* (TRÉ TRÉ !!!!!)/%%
 * C'est toi !/%%
@@ -17134,7 +17134,7 @@ Gatty et Catty
 \E1* Quoi ^1?&* Pourquoi t'essayes de taper&  la discute avec moi ?/
 \E1* Je vais avoir des ennuis si&  j'suis trop amical avec&  les clients./
 \E0* Désolé./
-\E3* DONC^1, je voulais& devenir ACTEUR./%%
+\E3* DONC^1, je voulais&  devenir ACTEUR./%%
 thanks
 joytimer
 s_quit
@@ -17454,12 +17454,12 @@ scr_deaddog
 * Wah-ha ^1!&* Cet esprit d'aventure ^1!&* J'me sens comme un gosse !/
 * Du coup, mes gosses sont..^1.&* Deux fois plus des gosses./%%
 * J'ai fait rentrer les enfants./
-* Cet endroit me semble dangereux& aujourd'hui./%%
+* Cet endroit me semble dangereux&  aujourd'hui./%%
 * Loup Glacé n'a plus à&  balancer des glaçons./
 * Loup Glacé peut faire une pause&  pour aller s'acheter un&  pantalon maintenant./%%
 * Loup glacé pense à changer son&  nom en "Jimmy Loubar"./%%
 * Dis, on joue aux Monstres&  et aux Humains ?/%%
-* On continue à jouer aux& Monstres et aux Humains ?/%%
+* On continue à jouer aux&  Monstres et aux Humains ?/%%
 * Maintenant^1, on peut jouer&  aux Monstres et aux Humains&  avec de VRAIS humains !/%%
 * Tu vas pas prendre le monstre&  à nouveau^1, dis ?/%%
 * SÉRIEUSEMENT^1, on peut pas&  jouer à autre chose...?/%%
@@ -17964,7 +17964,7 @@ hole
 * awawawawah !!/
 * lé zumains..^1.&* cé tro.../
 * MINION !!!/%%
-* woa..^1.&* si lé tems von à le dehors^1,& pourron voir/
+* woa..^1.&* si lé tems von à le dehors^1,&  pourron voir/
 * TROP PLEIN DE ZUNAINS&  TRO MINIONS !!!!/%%
 * tem..^1. SURVEIL L'OEUF !!!/
 * leuf..^1. va ÉCLOR !!!/
@@ -18001,7 +18001,7 @@ scr_enemynpc2
 * Tu as fait tout ce chemin&  pour me voir m'étirer ; )/
 * Ça en dit long&  sur toi ; )/%%
 * J..^1. J'ai p-peur... ; )/
-* Les fantômes n'existent pas^1,& pas vrai ?&* ; )/
+* Les fantômes n'existent pas^1,&  pas vrai ?&* ; )/
 * Comment ^1? Ils existent ^1?&* Oh noooooon ; )/%%
 * Les fantômes^1, les anime^1, tous&  mes cauchemars sont&  devenus réalité ; )/%%
 * Tout est si sale..^1.&* Si je pouvais tout effacer^1,&  je le ferais./
@@ -18360,7 +18360,7 @@ floss
 * Pathétique..^1.&* Maintenant tu vas&  VRAIMENT mourir !/%%
 * Tu réalises ce qu'il va&  se passer si tu me&  bats...?/%%
 * Tu n'as toujours pas&  compris ?/
-* Les fins heureuses,& ça n'existe pas./
+* Les fins heureuses,&  ça n'existe pas./
 * Tout ce qui te reste,&  c'est ça... !/%%
 * T'en es donc à CE&  STADE du désespoir...^1?&* Hi hi hi.../%%
 * T'es en train de te&  LAISSER TUER ^2?&* T'es pas un peu DINGUE ^1?&* Ha ha ha./%%
@@ -18621,7 +18621,7 @@ mus_worry
 * Tu n'as rien&  ni personne.../
 \E0* Eh oui^1, c'est&  exact !/
 \E7* Tes amis&  INUTILES.../
-\E8* ... ne peuvent& plus te sauver./
+\E8* ... ne peuvent&  plus te sauver./
 \E1* Appelle à l'aide^1.&* Fais donc./
 \E5* Pleure dans&  les ténèbres !/
 \E8"Maman ^1! Papa ^1!"&"Aidez-moi !"/
