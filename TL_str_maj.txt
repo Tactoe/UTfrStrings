@@ -2385,7 +2385,7 @@ hasname
 Un nom a déjà#été choisi.
 Vous devez entrer un nom.
 aaaaaa
-Pas d'inspiration... ?
+Pas d'inspiration...?
 asgore
 Cela t'est#interdit.
 toriel
@@ -5481,7 +5481,7 @@ CK
 CHANGE
 EX
 truename
-\E0Pourquoi... ?/
+\E0Pourquoi...?/
 Pourquoi m'as-tu&épargné ? /
 \E7Tu ne te rends pas&compte que jouer au gentil.../
 \E1... ne t'apporte que&des misères ?/
@@ -5495,7 +5495,7 @@ Pourquoi m'as-tu&épargné ? /
 \E0Alors je ne&comprends pas../
 \E7Si tu as vraiment&tout fait comme il&fallait../
 \E0Pourquoi les choses&doivent-elles finir ainsi ?/
-\E6Pourquoi... ?/
+\E6Pourquoi...?/
 \E5La vie est-elle&toujours si injuste ?/
 \E9.../
 \E0Hé./
@@ -5510,7 +5510,7 @@ Pourquoi m'as-tu&épargné ? /
 Qui sait..^1. peut-être&qu'elle possède la clé&de ton bonheur...?/
 \E4À plus tard./%%
 Mais^1, malgré tout ça^1,&tu n'as pas eu de&fin heureuse./
-\E5Pourquoi... ?/
+\E5Pourquoi...?/
 \E4Je sais pourquoi./
 \E4Va voir le Dr Alphys./
 \E5Ton rencard avec&elle vient juste&de commencer./%%
@@ -5542,7 +5542,7 @@ Je me posais la&question.../
 \E7Que tu pourras avoir&ta précieuse&"happy end"./
 \E6Alors^1, qu'en&penses-tu ?/
 \E5Feras-tu tes&preuves ?/
-\E8Ou pourrai-je&te regarder souffrir... ?/
+\E8Ou pourrai-je&te regarder souffrir...?/
 Dans les deux cas^1,&ça m'intéresse !!!/
 \E4Gni hi hi.../%%
 Intéressant.../
@@ -5561,7 +5561,7 @@ Papyrus^1, Undyne^1,&Alphys..^1. Toutes ces&personnes./
 \E5Tu devrais peut-être&revenir et..^1. leur rendre&visite./
 \E4Le pouvoir de&l'amitié.../
 Ça sauve toujours&la situation^1, pas vrai ?/%%
-\E0Donc^1, tuer des gens&est en fait une&BONNE CHOSE... ?/
+\E0Donc^1, tuer des gens&est en fait une&BONNE CHOSE...?/
 \E4C'est ça./
 J'suis heureux qu'on&soit d'accord sur&la valeur d'une vie./
 J'ai TELLEMENT&appris grâce à toi./
@@ -5571,7 +5571,7 @@ J'ai TELLEMENT&appris grâce à toi./
 \E8Espèce&d'IMBÉCILE./
 \E4Tu peux vraiment RIEN&faire correctement./%%
 Pourquoi^1, 
-... ?/
+...?/
 \E3Pourquoi ?/
 \E1POURQUOI ?/
 \E8Nous étions à ÇA&d'une VRAIE victoire.../
@@ -5579,8 +5579,8 @@ Pourquoi^1,
 \E2Pourquoi t'as tout&FOUTU EN L'AIR ?/
 \E5Hahaha.../
 \E9C'est une&VENGEANCE ?/
-\E1Faire étalage de ta&joie et de ta préten-&due pureté^1, tandis&que je... ?/
-\E1M'obliger à te&regarder vivre ta&vie^1, tandis&que je... ?/
+\E1Faire étalage de ta&joie et de ta préten-&due pureté^1, tandis&que je...?/
+\E1M'obliger à te&regarder vivre ta&vie^1, tandis&que je...?/
 \E1.../
 \E7Non./
 \E8NON./
@@ -10167,7 +10167,7 @@ doomcounter
 \M1... pourquoi est-ce que.../
 \M1... tu t'obstines à m'épargner ?/%%
 \M1... pourquoi ?/%%
-\M1... ?/%%
+\M1...?/%%
 \M1.../%%
 \M1Je tuerai tous ceux que&tu aimes./%%
 \M1Je tuerai tout le monde./%%
@@ -11064,7 +11064,7 @@ tobdog
 Et voilà^1, c'est&la fin de ce&Mode Difficile !/%%
 \E1Hein ??/
 \E2Tu vas tout&arrêter MAINTENANT ?/
-\E1Et à un moment&aussi dramatique... ?/%%
+\E1Et à un moment&aussi dramatique...?/%%
 C'est ça le&plus dur./
 Ce ne sont&pas les&projectiles./
 \M2Mais plutôt^1,&le fait&d'accepter que&ce soit fini.../%%
@@ -11076,7 +11076,7 @@ Mais il y AURA une&suite^1, n'est-ce&pas ?/%%
 Hey !/
 T'es pas censée&mourir ou je&n'sais quoi ?/%%
 Eh bien^1.&À quoi bon,&maintenant ?/%%
-Et donc,&tu vas faire&quoi, du&coup... ?/%%
+Et donc,&tu vas faire&quoi, du&coup...?/%%
 Hmmm^1.&Je vais peut-être&préparer une&autre tarte./
 La dernière était&un peu brûlée./%%
 \E2Moi je l'ai&trouvée&pas mal./
@@ -11096,7 +11096,7 @@ famt
 \E3Qu'est-ce que&t'attends ?!/
 \E9Elle est pas&censée être morte,&maintenant ?!/
 \E1J'ai attendu ici&pour.../
-\E7... Mode...&difficile... ?/
+\E7... Mode...&difficile...?/
 \E0Mince^1, tu ferais&bien de prendre&une photo./
 T'auras l'air&TELLEMENT cool, en&montrant ça./
 \E9... OU PAS !/
@@ -11106,7 +11106,7 @@ PA^1. THÉ^1. TIQUE./%%
 C'est fini./%%
 \E8Hahaha ^1!&Oh, mais je le&SAVAIS DÉJÀ !/
 Pourquoi est-ce&que tout le monde&est toujours si&condescendant ?!/
-\E8Alors c'est QUOI&ton excuse ^1?&Pour rester là^1, à&faire le piquet... ?/
+\E8Alors c'est QUOI&ton excuse ^1?&Pour rester là^1, à&faire le piquet...?/
 \E0T'as rien de&mieux à%%
 J'ai déjà dit ça./%%
 MODE DIFFICILE
@@ -14761,7 +14761,7 @@ peeepee
 \E0* j'ai raison^1,&  pas vrai ?/
 \E2* bah^1, tout ça c'est&  grâce à mon&  incroyable talent./%%
 \E0* hé^1, ça veut dire quoi&  ce regard ?/
-\E1* j'ai pas raison... ?/%%
+\E1* j'ai pas raison...?/%%
 * heh./%%
 * bon^1, bah c'est tout./
 \E1* prends soin de&  toi^1, le mioche./
@@ -17055,7 +17055,7 @@ Gatty et Catty
 \E6* 'Fin bref^1, t'en fais pas pour&  ça^1, mon p'tit pote^1.&* J'vais y aller au naturel./
 * Ne laisse JAMAIS les gens&  croire que tu te soucies d'eux^1.&* C'est COMME ÇA qu'ils&  pigent qu'ils ont gagné./%%
 \E5* Alors ^1?&* Me laisse pas comme ça^1,&  mon p'tit pote !!/%%
-\E4* Les filles^1, elles..^1.&* Elles ont parlé de moi... ?/
+\E4* Les filles^1, elles..^1.&* Elles ont parlé de moi...?/
 * Elles disent que je devrais&  arrêter de faire comme si&  elles me devaient des&  excuses.../
 \E5* ... et que si je veux être&  AMI avec elles^1, je devrais&  juste..^1. euh^1, essayer de voir&  les choses à leur façon ?/
 \E4* Wow./
@@ -17088,7 +17088,7 @@ Gatty et Catty
 \E4* Ces filles ?&* Celles qui m'ont vu perdre&  mon froque ?/
 \E5* Ben^1, on sera tous&  libres^1, donc au moins&  je les verrai plus jamais !/%%
 \E4* Donc on est libres&  maintenant./
-\E5* Ça veut dire que mon&  double-rencard est annulé... ?/
+\E5* Ça veut dire que mon&  double-rencard est annulé...?/
 \E5* Je sais^1, c'était pas&  vraiment un..^1.&* Un rencard./
 \E6* Je vais te dire un truc^1,&  mon p'tit pote ^1:&* Berce-toi d'illusions^1.&* Tout le temps.&* Ça aide à se sentir mieux./%%
 \E4* Bah^1, Mettaton ne m'a pas dit&  que je DEVAIS travailler.../
@@ -17188,7 +17188,7 @@ s !!!/
 \E4* hnnn..^1.&* il me fau des 
 s..^1.&* mé je doi payé pour l'ékol./
 s..^1.&* mé je doi payé pour la fak./
-\E5* hnnnn... !!^1!&* tem veu toujour des&  
+\E5* hnnnn...!!^1!&* tem veu toujour des&  
 s...!/%%
 \E2* m..^1. mais.../
 \E4* stp !!!!!!!!!!/%%
@@ -17747,8 +17747,8 @@ dk
 * Même si ça arrive en plein&  durant un soi-disant&  quizz télévisé./%%
 * Oh ^1! Et j'aime bien quand il se&  met à essayer plein de tenues&  tendance !/
 * Même lorsque c'est en&  plein durant un soi-disant&  journal télévisé./%%
-* Mettaton a pris sa&  retraite... ?/
-* Est-ce qu'il peut rendre&  sa retraite... ?/
+* Mettaton a pris sa&  retraite...?/
+* Est-ce qu'il peut rendre&  sa retraite...?/
 * Une fois à la surface, on&  pourra regarder des&  tonnes d'émissions.../
 * Mais j'suis sûr qu'aucune&  arrivera à la cheville de&  celles de Mettaton !/%%
 * (C'est une plante en pot.)/%%
@@ -18361,7 +18361,7 @@ floss
 * Tu réalises ce qu'il va&  se passer si tu me&  bats...?/%%
 * Tu n'as toujours pas&  compris ?/
 * Les fins heureuses,&  ça n'existe pas./
-* Tout ce qui te reste,&  c'est ça... !/%%
+* Tout ce qui te reste,&  c'est ça...!/%%
 * T'en es donc à CE&  STADE du désespoir...^1?&* Hi hi hi.../%%
 * T'es en train de te&  LAISSER TUER ^2?&* T'es pas un peu DINGUE ^1?&* Ha ha ha./%%
 * Honnêtement^1, se&  battre contre toi&  EST assez divertissant.../
