@@ -16992,7 +16992,7 @@ Soigne 60PV#Sans#commentaire.#Merci.
 \E1On n'en a&PLUS./*
 \E6Choisis ce&que tu&veux^1, mon&p'tit pote./*
 \E6Et voilà^1,&mon p'tit&pote./*
-\E6T'inquiète&pas&pour&ça./*
+\E6T'inquiète&pas&pour ça./*
 \E6Désolé...&Tu peux&pas l'avoir&gratos./*
 \E6Vide un&peu tes&poches,&avant./*
 \E6Comme si&j'allais&en faire&un AUTRE./*
