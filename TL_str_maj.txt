@@ -1582,7 +1582,7 @@ J'Y CROIS PAS !&JE RENCONTRE&ENFIN LE SOLEIL !!!/
 * Un âge de paix entre&  l'homme et le monstre./
 \E2* Frisk.../
 * J'ai quelque chose à&  te demander./
-\E0* Deviendras-tu notre&  ambassadeur auprès des&  humains?/
+\E0* Deviendras-tu notre&  ambassadeur auprès des&  humains ?/
 * (Devenir ambassadeur ?)& &         Oui         Non\C
 WOWi, Nice error./%%
 \E0OUAIS ^1!&CE RÔLE LUI IRA&COMME UN GANT !/
@@ -2719,7 +2719,7 @@ scr_itemnamelist
 * "Lettre d'Undyne" - Unique&* Une lettre écrite pour le&  Dr Alphys./%%
 * "Lettre d'Undyne EX" - Unique&* Il y a marqué NE LA JETTE PAS&  dessus./%%
 * "Chisps" Soigne 13 PV&* De bonnes vieilles chisps&  de tomme de perre./%%
-* "Malbouffe" Soigne 17 PV&* Appartenait probablement à un&  cochon autrefois./%%
+* "Malbouffe" Soigne 17 PV&* Vous vous sentez mal rien qu'en&  voyant les apports caloriques./%%
 * "Clé Mystérieuse" Unique&* Elle est trop tordue pour&  la mettre sur votre porte-clés./%%
 * "Steak Visage" Soigne 60 PV&* Un gros steak en forme de la&  tête de Mettaton./
 * (Vous avez l'impression&  que ce n'est pas de la&  viande...)/%%
@@ -5132,7 +5132,7 @@ NE MALTRAITE PAS&LE SQUELETTE, JE&T'EN PRIE./
 \E7* On a abandonné tellement&  de choses pour que tu&  sortes d'ici.../
 * Alors^1, peu importe&  où t'es maintenant.../
 \E6* Fais en sorte d'avoir&  une vie heureuse^1,&  okay ?!/
-\E2* En notre mémoire !/
+\E2* Fais-le pour nous !/
 \E0* On sera content de&  savoir que nos efforts&  n'auront pas été vains./
 \E9* On est avec toi ^1!&* Tout le monde ^1!&* Même la reine !/
 \E2* HÉÉÉ ^1!&* ATTENDS une seconde !/
@@ -6259,7 +6259,7 @@ Tu m'as donc&menti pendant tout&ce temps.../
 \E7Alphys !!^1!&Je n'en reviens pas !/
 \E8I-immonde tas& de gélatine !/
 \E9Comment oses-tu&trahir notre&amitié !!/
-\E8Après toute la&confiance que j'avais&placée en toi!!!/%%
+\E8Après toute la&confiance que j'avais&placée en toi !!!/%%
 DE DE QUOI !^1?&JAMAIS J'AURAIS.../
 \M0Alphys ^1!&Qu-qu'est-ce&que tu f-fais !/
 D-dis-je^1, en te&repoussant.../
@@ -10677,8 +10677,8 @@ say
 trcon
 \E1Tu sais.../
 \M1J\E0e me fiche pas mal&de détruire ce monde,&en fait./%%
-\E1Une fois que je&t'aurai vaincu,&et que je contrôle-&rai le continuum.../
-\E2Je vais simplement&tout reset./%%
+\E1Une fois que j'aurai&gagné, et&que je contrôlerai&le continuum.../
+\E2Je vais simplement&tout réinitialiser./%%
 \E3Toute ta&progression..^1. Les&souvenirs de chacun./
 \E2Je vais tout&remettre à zéro !/%%
 \E2Comme ça, nous&pourrons TOUT&recommencer./%%
@@ -10714,8 +10714,8 @@ gonercon
 * Asriel brille d'une lueur&  étrange.
 * ASRIEL DREEMURR \z4   ATQ \z4   DÉF&* Être légendaire constitué de& toutes les ÂMES de l'outremonde./^
 * ASRIEL DREEMURR \z4   ATQ \z4   DÉF&* DIEU Absolu de la Mort ultime !/^
-* Tu t'accroches à tes espoirs..^1.&* Tu subiras moins de&  DÉGATS pour ce tour !/^
-* Tu t'accroches toujours^1.&* DÉGATS réduits !/^
+* Tu t'accroches à tes espoirs..^1.&* Tu subiras moins de&  DÉGÂTS pour ce tour !/^
+* Tu t'accroches toujours^1.&* DÉGÂTS réduits !/^
 * Tu penses aux raisons qui&  t'ont amené jusqu'ici.../
 * Tu peux sentir ton inventaire&  se remplir peu à peu !/^
 * Ton inventaire s'emplit&  de rêves./^
@@ -10765,7 +10765,7 @@ Hein ^1? Tu fais&quoi, là...?!
 Mwah ha ha ha...&Admire mon&VÉRITABLE pouvoir !/%%
 Je peux le sentir.../
 À chacune de tes&morts^1, ton emprise&sur ce monde faiblit./
-À chacune de tes&morts^1, tes amis t'ou&-blient un peu plus./
+À chacune de tes&morts^1, tes amis&t'oublient un&peu plus./
 Tu vas périr ici^1,&dans ce monde où tous&t'auront oublié.../%%
 Mais malgré tout^1,&tu continues à&t'accrocher...?/
 Peu importe./
@@ -13532,7 +13532,7 @@ predummy
 * Petit à petit^1, nous nous lions&  à nos nouveaux corps.../
 * Jusqu'au jour où nous aussi&  devenons des êtres physiques./
 * Des êtres capables de rire^1,&  d'aimer et de danser^1, comme&  les autres.../
-* Mais TOI!!!^1!&* L'avenir de mon cousin...^1!&* Tu l'as volé !/
+* Mais TOI !!!^1!&* L'avenir de mon cousin...^1!&* Tu l'as volé !/
 * HUMAIN ^1!&* J'espère que le devenir de TON&  corps t'importe peu.../
 * Parce que ton ÂME va pas&  tarder à s'en faire VIRER!!!/%%
 * Quand tu lui as parlé^1,&  il s'attendait à avoir&  une agréable discussion.../
@@ -14263,8 +14263,8 @@ connor
 \M3* VOYEZ COMME UNE SIMPLE EXPOSI-&  TION À LA CHALEUR HUMAINE FAIT&  DISPARAÎTRE LA PEINTURE./
 * CE N'EST PAS UN BALLON&  DE BASKET./%%
 \M5* C'EST UNE BOMBE !!!/
-* OH NON !!^1!&* CETTE REVUE DE SPORT.../
-* VA SE TRANSFORMER EN&  REVUE DE MORT !/
+* OH NON !!^1!&* CETTE ÉMISSION DE SPORT.../
+* VA SE TRANSFORMER EN&  ÉMISSION DE MORT !/
 * CAR UNE FOIS QUE ÇA AURA&  SAUTÉ^1, ÇA SERA TERMINÉ&  POUR TOI./
 \M3* VOTRE ATTENTION^1, CHER PUBLIC ^1!&* NOTRE REPORTER A TROUVÉ..^1.&  UN CADEAU !/
 \M4* C'EST LE MOMENT IDÉAL POUR&  UNE VIDÉO DÉBALLAGE !!!/
@@ -17374,7 +17374,7 @@ scr_deaddog
 * Ce qui est assez incroyable^1,&  vu que tu n'as passé que deux&  minutes dans la chambre.../
 * Je te rends ton argent^1.&* Tu peux me payer si tu décides&  de rester cette nuit./%%
 * Reviens quand tu veux&  si tu fatigues à nouveau./%%
-* Cette bonne-femme juste là.../
+* Cette dame juste là.../
 * Il y a quelque chose de bizarre&  avec elle./%%
 * Je crois savoir ce que c'est^1.&* ... non^1, en fait non./%%
 * Cette dame est sortie&  pour se promener il y a&  quelque temps déjà./
@@ -18845,11 +18845,11 @@ guy_r2
 guy_r3
 guy_r4
 shy
-Tu vas y#arriver!
+Tu vas y#arriver !
 Croâ.
-Tu#DOIS#gagner!
-On est#avec#toi!
-Allez,#tu peux#l'faire!
+Tu#DOIS#gagner !
+On est#avec#toi !
+Allez,#tu peux#l'faire !
 La la#la la !
 Enfin./
 J'en&avais&assez d'&être une&fleur./%%
@@ -18881,7 +18881,7 @@ fallendown
 \E1Au départ^1, j'ai cru&judicieux de te&laisser voyager&par toi-même.../
 \E4Mais je n'ai pu&m'empêcher de&m'inquiéter pour toi./
 \E4Tu as sûrement dû&braver bien des&dangers./
-\E2... pour finalement&faire face à&un terrible&dilemme./
+\E2... pour finalement&faire face à&un terrible dilemme./
 Pour quitter cet&endroit^1, il t'aurait&fallu prendre la vie&d'un autre./
 \E2Il t'aurait fallu&vaincre ASGORE./
 \E4C'est pourquoi..^1.&J'ai réalisé que.../
@@ -18893,7 +18893,7 @@ Il est injuste d'avoir&à sacrifier une vie&pour qu'une personne&puisse s'évade
 \E0Il mérite d'être&épargné^1, lui aussi./%%
 Tori..^1.&Tu es&de&retour !/%%
 \E5Pas de "Tori" avec&moi^1, Dreemurr !/
-\E2Pauvre loque./
+\E2Pauvre sot./
 Si tu voulais&vraiment libérer&notre peuple.../
 Tu aurais&pu traverser la&barrière avec l'aide&d'UNE SEULE ÂME.../
 Et prendre six ÂMEs&aux humains^1, pour&ensuite délivrer tout&le monde sans heurt./
@@ -19002,7 +19002,7 @@ fmusic
 \E0Hi hi hi./
 \E1Et tu sais le&meilleur dans&tout ça ?/
 \E5C'est entièrement&de ta faute./
-\E6C'est uniquement&parce que tu as fait&en sorte&qu'ils t'AIMENT./
+\E6C'est uniquement&parce que tu as fait&en sorte qu'ils&t'AIMENT./
 \E7Tout ce temps passé&à les écouter.../
 \E2À les encourager..^1.&À te soucier d'eux.../
 \E0Sans ça^1, ils ne&seraient pas là&à cet instant./
@@ -19318,7 +19318,7 @@ songed
 horror
 a_con
 \XJ'veux dire^1, on a pas&encore vu tous&les\R Remerciements\X.../
-C'est bon ^1?&Finissons-en une&bonne fois&  pour toutes !/%%
+C'est bon ^1?&Finissons-en une&bonne fois&pour toutes !/%%
 specialfade
 Ha ha ha ha.../
 \M1Tu as VRAIMENT cru&que c'était déjà&la FIN ?!?!/%%
