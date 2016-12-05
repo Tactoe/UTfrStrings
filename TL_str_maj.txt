@@ -4565,9 +4565,9 @@ Game Bomb
 * Mettaton EX fait sa première !
 * Ça sent le citron.
 * ,
-* Il fait si froid.
+* Il fait si froid...
 *        approchent !
-* Voilà les Amalgamis.
+* Voilà l'Amalgami.
 caster_is_playing
 * L'Âme Égarée apparaît.
 * Les Âmes Égarées apparaissent.
@@ -10500,7 +10500,7 @@ haha...& je...& me sou..& viens...
 haha...& mer...& ci...
 * Ça sent la neige fondue.&* Légèrement salée.
 * Ça a l'air de s'être calmé.
-* AMALGAMS - ATQ -12 DÉF -5&* Ça semble prêt à fondre^3.&* En larmes./^
+* AMALGAMI - ATQ -12 DÉF -5&* Ça semble prêt à fondre^3.&* En larmes./^
 * Vous riez^1, et riez encore^1.&* Vous en MOUREZ presque.&* Des larmes coulent de vos yeux./
 * ... comment ^1?&* Ce n'est pas ce que vous&  avez fait ?/^
 * Mais ce n'est pas drôle./^
@@ -10538,13 +10538,13 @@ dnoise
 Head-Mémoire
 * HEAD-MÉMOIRE/^
 dogsong
-* L'amalgami vous observe avec&  attention.
-* L'amalgami attends vos ordres.
+* Amalgami vous observe avec&  attention.
+* Amalgami attends vos ordres.
 * Ça sent comme un paquet de&  chiens.
-* L'amalgami s'approche en&  flottant^1, à la recherche&  d'affection.
-* L'amalgami fait ses griffes&  sur le mur.
-* L'amalgami convulse avec&  affection.
-* L'amalgami convulse de&  plus en plus.
+* Amalgami s'approche en&  flottant^1, à la recherche&  d'affection.
+* Amalgami fait ses griffes&  sur le mur.
+* Amalgami convulse avec&  affection.
+* Amalgami convulse de&  plus en plus.
 * Les Chienmois sont satisfaits.
 Chienmois
 * AMALGAMI - Difficile de dire&  pour combien de chiens il&  compte./^
@@ -15846,7 +15846,7 @@ cantalk
 * le corps des monstres ne&  supporte pas la "détermination"&  comme celui des humains./
 * avec trop de détermination^1,&  ils commencent à perdre&  leur consistance./
 * ils ont tous commencé à&  fusionner les uns avec&  les autres.../%%
-* MACHINE D'EXTRACTION DT&* STATUT: DÉSACTIVÉ/%%
+* MACHINE D'EXTRACTION DT&* STATUT : DÉSACTIVÉ/%%
 * ENTRÉE NUMÉRO 4/
 * J'ai fait des recherches sur&  les humains pour en apprendre&  plus sur leurs ÂMEs./
 * J'ai fini par fouiner aux&  alentours du château...&* Et j'ai trouvé ces cassettes./
@@ -16017,7 +16017,7 @@ EH BIEN..^1.&J'AI UNE THÉORIE&SUR LE SUJET./
 * ENTRÉE NUMÉRO 20/
 * ASGORE m'a laissé cinq&  messages aujourd'hui./
 * quatre à propos de tous&  les gens qui s'énervent/
-* un à propos de cette&  jolie tasse qu'il a trouvé&  et qui me ressemble/
+* un à propos de cette&  jolie tasse qu'il a trouvée&  et qui me ressemble/
 * merci asgore./%%
 * ENTRÉE NUMÉRO 18/
 * la fleur a disparu./%%
@@ -18205,7 +18205,7 @@ hhvol
 ..^1.&* Tu m'entends ^1?&* Il faut que tu te réveilles...\Ta/
 ^1!&* Garde ta détermination !/
 * Tu ne peux pas abandonner..^1.&* Tu représentes l'avenir des&  humains et des monstres...\TR/
-* Psst...
+* Psst... 
 ..^1.&* Réveille-toi..^1. s'te plaît.../
 * Ça me plaît plus du tout,&  ce plan./
 * Je..^1. je.../
