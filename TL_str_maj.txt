@@ -15891,7 +15891,7 @@ cantalk
 * "Le menu est à se damner !^1"&* "Quel style, quel arôme !^1"&* "Mon visage est délicifique !"/
 * (... ces commentaires sont&  tous signés Mettaton.)/%%
 * (C'est une lampe.^1)&* (Elle semble dépourvue&  d'interrupteur.)/
-* (Il est écrit "les étoiles&  brillent de leur propre&  lumière"...)/%%
+* (Il est écrit "les 'stars'&  brillent de leur propre&  lumière"...)/%%
 * (Riche histoire de Tem.)/%%
 * (Un cadre photo vide.)&* (Il est tout poussiéreux...)/%%
 * (Un cadre photo vidre.)&* (Quelqu'un l'a dépoussiéré.)/%%
