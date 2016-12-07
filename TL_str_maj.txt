@@ -4369,7 +4369,7 @@ J'AI RIEN D'AUTRE&À AJOUTER./%%
 * Je crois qu'il est temps pour&  moi d'éteindre ce téléphone,&  maintenant./
 * Tu t'es fait des amis vraiment&  adorables !/
 * Je vais profiter de ton&  absence pour apprendre&  à mieux les connaître./
-* Sois sage^1, d'accord ?/%
+* Sois sage^1, d'accord ?/
 * Cordialement^1, Toriel./%%
 * (Pas de nouveaux messages&  de Toriel.)/%%
 originalstring
