@@ -438,7 +438,7 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * (Il y a une quiche abandonnée&  en dessous de ce banc.)/
 * (Voulez-vous ramasser cet&  objet ?) &         Ramasser    Laisser \C 
 * Ce n'est qu'un banc./%%
-* (Vous obtenez la Quiche&  Abandonnée.)%%
+* (Vous obtenez la Quiche&  Abandonnée.)/%%
 * (Vous n'avez plus de place.)/
 * (C'est beaucoup trop de&  responsabilité pour vous.&* Impossible de la prendre.)/%%
 * (Vous laissez la quiche...&* Seule...)/%%
@@ -1131,7 +1131,7 @@ instance_number
 * vingt-neuf^1, encore&  ça passe^1, mais&  trente.../
 * est-ce que mes bras&  ont l'air de pouvoir&  aller aussi haut ?/%%
 * merci, le mioche^1.&* voilà ton hot-dog./%%
-* merci, le mioche^1.&* voilà ton 'dog./%%
+* merci, le mioche^1.&* voilà ton 'dog./
 * ouais^1. 'dog^1.&* apostrophe-dog^1.&* diminutif de hot-dog./%%
 * un autre h'dog ^1?&* et voilà.../
 * oups^1, en fait, il me&  reste plus de hot-dogs./
@@ -1938,7 +1938,7 @@ scr_papcall
 scr_torcall
 * (La boîte est envahie par&  les poils de chien.)/%%
 \E2* Bienvenue dans ta&  nouvelle maison^1,&  jeune enfant./ 
-* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%%
+* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%
 faceplate
 * Tu peux certainement& trouver bien mieux qu'une& vieille dame comme moi./%
 * Vous rencontrez le Mannequin.
@@ -2847,7 +2847,7 @@ nood
 * Vous mangez la Malbouffe. 
 * Vous mangez la Malbouffe.&* L'audience est dégoûtée.
 * Vous utilisez la Clé&  Mystérieuse^1.&* Mais rien ne se passe./%%
-* Vous utilisez la Clé&  Mystérieuse^1. Vous entendez un&  déclic venant de la porte./%%
+* Vous utilisez la Clé&  Mystérieuse^1. Vous entendez un&  déclic venant de la porte./
 * ... quand bien même la clé&  ne rentre pas dans la serrure./
 * Vous utilisez la Clé&  Mystérieuse^1. Mettaton fait&  comme s'il n'était pas là./%%
 * Vous utilisez la Clé&  Mystérieuse^1. La porte de la&  maison rouge s'ouvre./
@@ -3157,7 +3157,7 @@ ERROR????/%%
 \E2LES SPAGHETTIS QUE&TU M'AS LAISSÉ SONT&TOUJOURS LÀ-BAS !!!/%%
 \E3ENFIN^1, J'IMAGINE&QUE CE N'EST PLUS&VRAIMENT UN PIÈGE../
 \E0SURTOUT DEPUIS QUE&TU AS TOUT DÉVORÉ^1,&N'EST-CE PAS ?!/%%
-RIEN DE TEL QU'UN&BON POT DE SPAGHS&BIEN CHAUD..../%
+RIEN DE TEL QU'UN&BON POT DE SPAGHS&BIEN CHAUD..../%%
 D'HABITUDE CETTE&SALLE EST REMPLIE&DE CES POINTES./
 \E3MAIS IL A ÉTÉ PRÉVU&DE LES RETIRER.../
 \E0LE ROI A SOUMIS UN&DÉCRET SUR LES&ÉNIGMES^1, RÉCEMMENT./
@@ -3875,7 +3875,7 @@ OH NON ^1! CES GENS&N'ONT PAS&PU ALLER TRAVAILLER.../
 * ouep./
 \E1* c'est d'ailleurs&pour ça que je&bosse pas non plus../
 BON SANG^1, SANS^1 !&FILE TOUT DE SUITE&AU(X) BOULOT(S) !!!/%%
-HEUREUX DE NE&PAS VIVRE À&CALCITERRE !!/%%
+HEUREUX DE NE&PAS VIVRE À&CALCITERRE !!/
 ALORS POURQUOI&N'ES-TU PAS AU&TRAVAIL ?!/%%
 J'AI CRU COMPRENDRE&QUE TU ALLAIS VOIR&METTATON !!/
 \E0SI OUI^1, POURRAIS-TU&M'AVOIR UN&AUTOGRAPHE ?!/
@@ -4193,7 +4193,7 @@ SAUF SI TU&ESSAYES DE CUISINER&DES ESQUIMOS./%%
 \E9* Ça s'appelle pas&  vraiment "cuisiner",&  dans ce cas.../
 \E5C'EST POURTANT CE&QUE TU DISAIS LA&DERNIÈRE F..^1. EUH.../
 * Purée^1, j'ai failli ou-&  blier cette histoire ^1!&* On avait tout bousillé !/%%
-* Ça nous a pris une&  plombe pour tout&  nettoyer./%
+* Ça nous a pris une&  plombe pour tout&  nettoyer./%%
 \E0WOW ^1! J'HALLUCINE ^1!&L'ÉNIGME AUX DALLES&MULTICOLORES !/
 \E2TU L'AS RÉUSSIE !^1!&ET CE GRÂCE À&TOUS MES CONSEILS !!/
 JE SUIS DÉCIDÉMENT&UN EXPLICATEUR&HORS PAIR !/
@@ -7036,7 +7036,7 @@ sblconwd
  OH NON !!!/%%
 * Vous FLIRTEZ^1, en vain^1.&* On dirait qu'aucune ACTION ne&  fera avancer les choses.../^
 * Papyrus est trop occupé à&  COMBATTRE pour flirter&  lui aussi./^
- OH NON !!^1! ÇA& CONVIENT À TOUS& MES PRINCIPES !!!/%%
+ OH NON !!^1! ÇA& CONVIENT À TOUS& MES PRINCIPES !!!/
  ÇA VEUT DIRE QU'ON& VA AVOIR NOTRE& PREMIER RENCARD...?/%%
  OH NON !!^1!& TANT D'HUMILITÉ..^1.& ÇA ME FAIT& PENSER À,/
  MOI !!!/
@@ -7612,7 +7612,7 @@ Ha..^1. ha.../
   C'est bien ce&  que je craignais.../
   C'est pour ça&  que je te l'ai&  jamais dit.../
 Non..^1.&Non !/
-Je ne mourrai pas !/%%
+C'est trop tôt !/
 Je ne mourrai pas !/%%
 NGAHHHHHHHH !!^2! %%
  JE NE MOURRAI PAS ^3! %%
@@ -11373,7 +11373,7 @@ canpress
 \E1T'AURAIS TORT DE&TE PRIVER./%%
 \E0ESSAYE ENCORE !/%%
 \E0C'EST MOI QUI AI&AMÉLIORÉ CE HAUT&EN ÉCRIVANT "CHIC"&DESSUS./
-ASTUCE DE PRO^1 :&ÇA MARCHE AVEC&TOUTES LES&FRINGUES./
+ASTUCE DE PRO^1 :&ÇA MARCHE AVEC&TOUTES LES&FRINGUES./%%
 \E1MAIS C'EST PAS&UN SECRET !!!/
 JUSTE UN BON&CONSEIL !!!/%%
 \E2ME TENIR LA MAIN&POUR AVOIR&LA RÉPONSE.../
@@ -11618,7 +11618,7 @@ Alter
 \W* Je suis \BTORIEL\W,&  gardienne des&  \RRUINES\W./
 * Chaque jour, je passe&  par ici pour voir si&  quelqu'un est tombé./
 * Aucun humain ne s'était&  aventuré en ces lieux&  depuis bien longtemps./
-* Je ferai de mon mieux&  pour assurer ta&  protection ici./%%
+* Je ferai de mon mieux&  pour assurer ta&  protection ici./
 * Suis-moi ^2! Je vais te&  guider à travers les&  catacombes./%%
 temptor
 mus
@@ -11988,7 +11988,7 @@ JE PARIE QUE&C'ÉTAIT UN GARDE&ROYAL TRÈS CÉLÈBRE !/
 * Je me suis dit que j'arriverais&  sûrement à vendre si j'allais&  à Calciterre./
 * Mais personne n'en veut^1.&* Tout le monde s'arrache les&  Starfaits et les Glamburgers./
 * Bon !!!/%%
-* Je suis tellement content ^1!&* Les Glaces Gentilly&  changent vraiment le monde !!/%
+* Je suis tellement content ^1!&* Les Glaces Gentilly&  changent vraiment le monde !!/%%
 * Hey ^1!&* Te revoilà ^1!/
 * Les affaires cartonnent ici ^1!&* Ces deux gaillards ont acheté&  TOUTE la glace que j'avais !/
 * Il ne me reste plus&  rien à vendre !!!/
@@ -12595,7 +12595,7 @@ s_click
 * chapeau pour avoir&  résolu ça aussi vite^1./
 * t'as même pas eu besoin&  de mon aide./
 * ce qui m'arrange^1, vu&  que j'adore flemmarder./%%
-* ... tu te débrouilles&  vachement bien avec les&  casses-crânes^1, non ?/%%
+* ... tu te débrouilles&  vachement bien avec les&  casses-crânes^1, non ?/
 * impossible que tu aies&  déjà vu celui-là avant./%%
 * hey^1, pourquoi ne pas&  m'avoir demandé&  de t'aider ?/
 \E1* j'était juste là./%%
@@ -13418,7 +13418,7 @@ rememberyyy
 * ... je vais te raconter la&  tragique histoire de notre&  peuple./
 * Tout commença il y a très,&  très longtemps..../%%
 * Nan^1, tu sais quoi ?/%%
-* ON S'EN TAPE ^3!/%%
+* ON S'EN TAPE ^3!%%
 * À QUOI BON TE RACONTER&  CETTE HISTOIRE^1 %%
 * ALORS QUE JE M'APPRÊTE&  À TE TUER ?!^1? %%
 * NGAAAAAHHHHHHHHHHHHHHH ^1! %%
@@ -13717,7 +13717,7 @@ defaultspeed
 * en fait^1, l'escargot pense qu'il&  a gagné.../
 * oh non..^1. il nous regarde.../
 * attends^1, je vais te filer un&  peu d'argent..^1.&* fais comme si t'avais gagné.../
-* (Vous obtenez 30 PO.)%%
+* (Vous obtenez 30 PO.)/%%
 there
 anti_buffer
 hasdog
@@ -14985,7 +14985,7 @@ animanim
 * Peut-être que je n'ai plus&  envie d'aller travailler...?/%%
 dbud
 * Désolé..^1. UNDYNE nous a&  dit qu'il y avait^1, genre^1,&  un humain dans l'coin./
-* Ngah ^1! Même si les ascenseurs&  ne fonctionnent pas^1, on se&  débrouillera^1, Mlle. UNDYNE !/%%
+* Alors nous, les gardes royaux,&  devons^1, genre^1, bloquer les&  ascenseurs pour l'instant./
 * Ngah ^1! Même si les ascenseurs&  ne fonctionnent pas^1, on se&  débrouillera^1, Mlle. UNDYNE !/%%
 * Genre^1, y'a PAS MOYEN que tu&  passes./
 * Mais^1, entre toi et moi...&* Je crois que tu pourrais passer&  par le labo chelou là-bas./
@@ -15899,7 +15899,7 @@ cantalk
 \R* .../%%
 * C'est un livre d'histoire^1.&* Voici une page au hasard.../
 * Piégés sous la Barrière^1, et&  craignant une autre attaque&  humaine^1, nous fuîmes./
-* Dans les profondeurs^1, nous&  marchâmes^1, jusqu'au bout de la&  caverne./%%
+* Dans les profondeurs^1, nous&  marchâmes^1, jusqu'au bout de la&  caverne./
 * Ce lieu devint notre nouvelle&  maison^1. Nous l'appelâmes../
 * "Maison"./
 * Grand est notre roi^1, mais&  pourraves sont ses choix de&  noms./%%
@@ -16025,7 +16025,7 @@ EH BIEN..^1.&J'AI UNE THÉORIE&SUR LE SUJET./
 MERCI DE NE PAS&ENTRER DANS CETTE&CABANE MYSTÉRIEUSE./%%
 ALLÔ^1.&NON, ÇA N'EST PAS&MA MAISON, ÇA./
 CE N'EST QU'UNE&SIMPLE CABANE À&OUTILS SUPER COOL./
-* Laisse-la-moi pour cinq&  minutes et j'en fais&  une CABANE À ROUSSI !/%%
+* Laisse-la-moi pour cinq&  minutes et j'en fais&  une CABANE À ROUSSI !/
 AH PAS MAL !!^1!&C'EST PLUTÔT&BIEN TROUVÉ./
 QUE FERAIS-JE SANS&UNE AMIE TELLE&QUE TOI^1, UNDYNE ?/
 TES JEUX DE MOTS&CABANESQUES FONT&TOUJOURS SOURIRE./
@@ -17382,7 +17382,7 @@ scr_deaddog
 * E-enfin^1, moi non plus^1, mais&  je ne veux pas qu'elle&  me remarque, en fait.../%%
 * Suis-je le seul à trouver&  bizarre ces amalgamis géants&  qui rôdent...?/%%
 * ....../%%
-* Cette dame semble&  être de bonne humeur&  aujourd'hui.../%%
+* Cette dame semble&  être de bonne humeur&  aujourd'hui.../
 * Je sais pas pourquoi^1, mais&  ça me fait flipper.../%%
 * Cette ville n'a pas de maire./
 * Mais s'il y a le moindre&  problème^1, un squelette ira le&  dire à une dame poisson./
@@ -17569,7 +17569,7 @@ mystvol
 * Fort bien armé, d'une glace&  et d'une épée./
 * C'est ainsi que le monstre&  doit guerroyer./%%
 * Hmmm^1, c'est l'heure à laquelle&  Sans est supposé venir./
-* Puis son frère se ramène^1,&  pas longtemps après.&* Plutôt faché./%%
+* Puis son frère se ramène^1,&  pas longtemps après.&* Plutôt faché./
 * Oui^1, son frère^1.&* Papyrus./
 * C'est un gaillard pour le moins&  intéressant./
 * Tout ce qu'il commande^1,&  c'est du lait.../
@@ -17748,7 +17748,7 @@ dk
 * Oh ^1! Et j'aime bien quand il se&  met à essayer plein de tenues&  tendance !/
 * Même lorsque c'est en&  plein durant un soi-disant&  journal télévisé./%%
 * Mettaton a pris sa&  retraite...?/
-* Est-ce qu'il peut rendre&  sa retraite...?/
+* Est-ce qu'il peut rendre&  sa retraite...?/%%
 * Une fois à la surface, on&  pourra regarder des&  tonnes d'émissions.../
 * Mais j'suis sûr qu'aucune&  arrivera à la cheville de&  celles de Mettaton !/%%
 * (C'est une plante en pot.)/%%
@@ -17985,7 +17985,7 @@ hole
 * tem..^1.&* allergique à tem OSSI !!!/%%
 * Danse champi^2gnon&* Danse champi^2gnon&* Quoi que ça veuille dire/%%
 * Cela symbolise toute ma&  douleur refoulée../%%
-* Ça symbolise mon éternelle&  lutte intérieure. Retenu que je&  suis par mon hyphe./%%
+* Ça symbolise mon éternelle&  lutte intérieure. Retenu que je&  suis par mon hyphe./
 * Mon désir de m'arracher&  à cette existence^1, sans jamais&  y parvenir./%%
 * Si seulement je pouvais&  voir le monde à la&  surface./
 * Mais même si la barrière&  cédait^1, comment pourrais-je&  partir...?/%%
@@ -19138,8 +19138,8 @@ par Toby
 Suit le#courant
 Grenouille#de profession
 ÉMOPLASME
-Culpabilise#Encore
-Plus courageux#de jour en jour 
+Culpabilise#Encores_mettaton_neo
+mus_mettaton_neo.oour 
 JELLYNUSCULE
 S'est trouvé une#nouvelle grotte
 Gogo-danseur
@@ -31145,4 +31145,4 @@ gml_RoomCC_room_fire10_old_6103_Create
 gml_RoomCC_room_fire10_old_6104_Create
 gml_RoomCC_room_fire10_old_6105_Create
 gml_RoomCC_room_fire10A_old_6106_Create
-gml_RoomCC_room_monsteralign_test_6107_Create
+gml_RoomCC_room_monsteralign_test_6107_Cre
