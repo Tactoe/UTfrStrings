@@ -7387,7 +7387,7 @@ Mi So&Mi So&Mi Si Mi&La Si So
 * Vous fredonnez un air funky^1.&* Timorène suit votre rythme./^
 * Vous fredonnez un air triste^1.&* Timorène suit votre rythme./^
 * Vous fredonnez un morceau&  de jazz^1.&* Timorène suit votre rythme./^
-* Vous fredonnez de plus belle^1.&* Des monstres accourent, attirés&  par la musique./^
+* Vous fredonnez de plus belle^1.&* Des monstres accourent, attirés&  par la musique./
 * Soudainement^1, c'est devenu un&  concert.../^
 * Vous fredonnez de plus belle^1.&* Toutes les places sont vendues^1.&* Vous êtes une vraie rockstar./^
 * Vous fredonnez de plus belle^1.&* Mais tout cet entrain.../
