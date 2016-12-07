@@ -315,7 +315,7 @@ gold
 * Qu'il y a des glaces..^1.&* En plein milieu de&  la forêt.../%%
 * Seulement pour 25 PO !& &         Oui         Non \C
 * Hey^1, tu as un parapluie^1,&  comme mon chariot.../
-* Quelle solidarité^1!&* Je ne peux que te&  faire un prix !/
+* Quelle solidarité ^1!&* Je ne peux que te&  faire un prix !/
 * Glace Gentilly en soldes !&  15 PO ! &         Oui         Non \C
 * Solidarité parapluiesque !^1!&* Je vais te faire un&  prix, du coup.../
 itemcount
@@ -673,7 +673,7 @@ s
 * Qu'en dis-tu ?& &         Rester      Partir\C
 jtext
 * Pardon ^1?&* Non^1, tu ne peux pas&  avoir une autre clé !
-* Bonjour^1!&* Désolée^1, pas le temps de&  faire une sieste.../
+* Bonjour ^1!&* Désolée^1, pas le temps de&  faire une sieste.../
 * Couvegîte ferme pour&  qu'on aille tous à&  la surface./%%
 * Oh^1, te voilà^1.&* Je m'inquiétais pour toi !/
 * Tout va bien se passer^1,&  d'accord ?/
@@ -3130,10 +3130,10 @@ EEET J'AI PLUS RIEN&À DIRE^1. ÇA JETTE UN&FROID, HEIN ?/%%
 ÇA DOIT ÊTRE DUR^1,&LA VIE DE BONHOMME&DE NEIGE./
 \E2SOIS COOL AVEC LES&GENS FAITS DE SUB-&STANCES ÉTRANGES./%%
 LE BONHOMME DE&NEIGE EST&TOUJOURS LÀ ?/%%
-OH HO ^1! LE DÉDALE&ÉLECTRIQUE^1! ÇA,&C'ÉTAIT AMUSANT !/
+OH HO ^1! LE DÉDALE&ÉLECTRIQUE ^1! ÇA,&C'ÉTAIT AMUSANT !/
 \E3MIS À PART LE FAIT&QUE J'AIE ÉTÉ&ÉLECTROCUTÉ./%%
-OH HO ^1! LE DÉDALE&ÉLECTRIQUE^1! ÇA C'EST&DU CASSE-CRÂNE !/
-\E3MIS À PART LA PARTIE&OÙ ON A ZAPPÉ LE&CASSE-CRÂNE./
+OH HO ^1! LE DÉDALE&ÉLECTRIQUE ^1! QUEL&BON CASSE-CRÂNE !/
+\E3MIS À PART LA&PARTIE OÙ ON A ZAP-&PÉ LE CASSE-CRÂNE./
 \E0MAIS OUBLIE CE PETIT&DÉTAIL ET IL MÉRITE&UN 10 SUR 10  !/%%
 ÇA ME DÉSOLE^1, MAIS&J'AI DÉSACTIVÉ&L'ÉLECTRICITÉ./%%
 LE FAMEUX JEU DE&BOULES DE NEIGE&DE COUVENEIGE./
@@ -3260,7 +3260,7 @@ C'EST QUOI UNE&CARTE DE MEMBRE ?/%%
 * Mais aujourd'hui, avec&  le recul^1, je trouve ça&  plutôt cool la lecture./%%
 WOW ^1! TU AS MIS&MOINS DE QUATRE&SECONDES À APPELER!/
 TU DOIS AVOIR DÉ-&SESPÉRÉMENT BESOIN&DE MON AIDE !!!/
-SOIT^1. N'AIE CRAINTE^1!&PAPYRUS SERVISTANCE&POUR T'ASSISTIR !!/
+OK^1. N'AIE CRAINTE ^1!&PAPYRUS SERVISTANCE&POUR T'ASSISTIR !!/
 DÉCRIS-MOI JUSTE&TA POSITION^1, ET...!/
 JE TE DÉCRIRAI&QUELQUES ASTUCES !/
 \E0ALORS^1, OÙ ES-TU ?/
@@ -3268,7 +3268,7 @@ JE TE DÉCRIRAI&QUELQUES ASTUCES !/
 \E5... T'ES ENCORE&DANS MA CHAMBRE ??/
 \E3NE SAIS-TU PAS&CE QUE C'EST^1,&UNE..^1.PORTE ?/
 \E0ATTENDS ^1! PANIQUE&PAS ^1! JE VAIS FAIRE&UN DIAGRAMME !/%%
-UNE SECONDE^1!&JE FINIS LE&DESSIN !/%%
+UNE SECONDE ^1!&JE FINIS LE&DESSIN !/%%
 HEIN^1? JE TE CROYAIS&DÉJÀ SORTI DE MA&CHAMBRE./
 \E1IL VA FALLOIR&TOUT REPRENDRE&DEPUIS LE DÉBUT !/
 \E0TOUT D'ABORD :&SAIS-TU QUI EST&PAPYRUS ?!/%%
@@ -3409,7 +3409,7 @@ MERCI D'AVOIR&APPELÉ./%%
 \E4* Évidemment, il&  te faut avoir des&  amis, avant.../
 \E0* Hé^1, si tu organises&  une fête, fais-en une&  costumée !/
 \E6* Histoire que Papyrus&  se sente dans son&  élément !!!/%%
-* Oh^1!&* Il faut aussi que&  j'invite Alphys !/%%
+* Oh ^1!&* Il faut aussi que&  j'invite Alphys !/%%
 DE LA GLACE^1? MERCI^1,&MAIS JE VIS À COU-&VENEIGE, TU SAIS!/
 \E0LE SOL EN EST&LITTÉRALEMENT&JONCHÉ !!/
 * on appelle ça&  de la neige./
@@ -4108,7 +4108,7 @@ POUR BOIRE UN GRAND&VERRE DE SAUCE^1,&PAR EXEMPLE./%%
 \E5À QUELLE COULEUR&PEUT BIEN&CORRESPONDRE LE L ?/
 * Euuhhhh.../
 \E9* Vert Luisant./
-OH^1! ÉVIDEMMENT !/
+OH ^1! ÉVIDEMMENT !/
 ATTENDS^1.&ÇA FAIT DEUX&MOTS, ÇA !/
 * vert clair luisant./
 ÇA EN FAIT&DEUX DE TROP&MAINTENANT !/%%
@@ -4125,7 +4125,7 @@ IL SE FAUFILE SOUS&UNE COUVERTURE^1, ET&SE MET À DORMIR.../%%
 \E9* Le L correspond à&  la couleur "Lime"./
 \E0VRAIMENT !?/
 \E3JE DÉTESTE CE&FRUIT./
-\E1* Quoi ^1? Mais c'est extra^1!&* J'mange aussi la peau,&  c'est encore meilleur !!/
+\E1* Quoi^1? Mais c'est extra^1!&* J'mange aussi la peau,&  c'est encore meilleur!!/
 \E3DISONS QU'UN JOUR,&J'AI VOULU ESSAYER&LE MASSAGE THERMAL./
 \E0J'AI MIS DE LA&LIME SUR MES YEUX^1,&COMME À LA TÉLÉ./
 \E1ET BON SANG QUE&ÇA PIQUE ^1! COMMENT&FONT-ILS TOUS ?/
@@ -5171,7 +5171,7 @@ SALUT SALUT !/
 * Oh^1, elle DIT qu'elle&  est occupée./
 SI ELLE SAVAIT AVEC&QUI ON PARLAIT.../
 * M-mais^1, si tu veux^1,&  appelle-la&  quand tu veux./
-* Ouais^1!&* Ça lui ferait plaisir d'&  avoir de tes nouvelles !/
+* Ouais ^1!&* Ça lui ferait plaisir d'&  avoir de tes nouvelles !/
 * À plus^1, microbe !/
 * A-au..^1.&* Au re.../
 \E4* Hey^1, pourquoi&  c'est moi qui doit&  raccrocher ?/
@@ -7884,7 +7884,7 @@ Salut ?&; )
 * Aaron sue à grosses gouttes^3.&* Littéralement.
 * Aaron admire ses propres&  muscles.
 * Ça sent le corral aquatique.
-* Ça sent l'élevage de moules.
+* Ça sent la culture de moules.
 * Aaron attend votre prochain&  étirement.
 * Les muscles d'Aaron se&  dégonflent de façon comique.
 * AARON - ATQ 24 DÉF 12&* Cet hippocampe a beaucoup&  de PV (Points de Virilité.)/
@@ -13092,7 +13092,7 @@ NON ^1!&PERSONNE N'ÉCHAPPE&À L'AMITIÉ !!/%%
 * Elle est adressée&  au Dr Alphys./
 \E6* OK^1, à plus !!/%%
 * Est-ce que tu.../
-\E1* Hey^1, un instant^1!&* Ton inventaire&  est plein./
+\E1* Hey^1, un instant ^1!&* Ton inventaire&  est plein./
 \E9* Bon^1, bah^1, je serai&  chez Papyrus./
 \E6* Viens me voir lorsque&  tu auras plus de&  place !/%%
 throw
@@ -13162,7 +13162,7 @@ follow
 tent2
 * Hé..^1. toi..^1.&* J'ai remarqué que..^1.&* Tu étais là.../
 \M1* Je suis Onionsan ^1!&* Onionsan^1, t'entends !/%%
-\M1* Tu visites les Chutes, hein ^1!&* C'est super ici^1, hein^1!&* T'adores cet endroit^1, hein !/
+\M1* Tu visites les Chutes, hein ^1!&* C'est super ici^1, hein ^1!&* T'adores cet endroit^1, hein !/
 \M0* Ouais ^1!&* Moi aussi ^1!&* C'est mon Coin Préféré./%%
 \M3* Même si..^1. la place&  commence à manquer&  par ici..^1./
 * Je^1, dois m'asseoir tout le&  temps^1, mais.../
@@ -13526,7 +13526,7 @@ predummy
 * Mais NON !!!/
 * Tu as fui..^1.&* Et tu as brisé son pauvre&  petit coeur d'ectoplasme./
 * C'est méprisable^1.&* Méprisable ^1!&* MÉPRISABLE !/
-* HUMAIN^1!&* Tu vas voir ce que c'est&  d'avoir le coeur BRISÉ !/%%
+* HUMAIN ^1!&* Tu vas voir ce que c'est&  d'avoir le coeur BRISÉ !/%%
 * CE QUE TU AIES DÉTRUIT&  SON FOYER !/
 * Nous autres fantômes&  passons nos vies entières à&  la recherche d'un hôte./
 * Petit à petit^1, nous nous lions&  à nos nouveaux corps.../
@@ -13814,7 +13814,7 @@ song2
 EUH... À PROPOS DE&CET HUMAIN DONT JE&T'AI PARLÉ PLUS TÔT.../
 \M0JE CROIS QUE, EUH...&COMMENT DIRE.../
 \M1.\M6.. HEIN ^1?&EST-CE QUE JE L'AI&COMBATTU ?/
-\M4O-OUI^1!&BIEN SÛR QUE JE&L'AI COMBATTU !/
+\M4O-OUI ^1!&BIEN SÛR QUE JE&L'AI COMBATTU !/
 \M4JE L'AI COMBATTU&VAILLAMMENT !/
 \M5...QUOI ^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 \M0E-EH BIEN.../
@@ -14247,7 +14247,7 @@ connor
 \M3* PAS DE PANIQUE !/
 \M4* VOUS N'AVEZ PAS ENCORE VU&  LE RESTE DE LA SALLE !/%%
 \M3* VOTRE ATTENTION^1, CHER PUBLIC ^1!&* NOTRE REPORTER A TROUVÉ..^1.&  UN SCRIPT DE FILM !/
-\M5* OH LÀ LÀ^1!&* ON DIRAIT LE SCRIPT&  DE MON DERNIER FILM !/
+\M5* OH LÀ LÀ ^1!&* ON DIRAIT LE SCRIPT&  DE MON DERNIER FILM !/
 \M3* DÉPÊCHONS-NOUS DE L'OUVRIR&  SANS PLUS ATTENDRE ^1!&* DÉCOUVRONS CETTE EXCLUSIVITÉ !/%%
 \M4* ... OH ??^1?&* MAIS QU'EST-CE DONC^1,&  À L'INTÉRIEUR ?/
 \M4* CE CLIQUETIS..^1.&* CETTE TIGE ALLUMÉE.../
@@ -14779,7 +14779,7 @@ donkeykongismyfavoritemarvelsuperhero
 wrx
 dgx
 \TS \E4 \F6 \TA %
-\E3* H-h-hé^1!&* Tu as réussi !/
+\E3* H-h-hé ^1!&* Tu as réussi !/
 \E4* J'avais peur d'avoir&  tout fait rater, là.../
 \E0* Mais je constate&  qu'on forme une très&  bonne équipe !/%%
 * Hey ^1! Toi là ^1!&* Pas un geste !/%%
@@ -15154,7 +15154,7 @@ C'EST UN&SOURIRE DE&CONSTERNATION !!!/%%
 * Hey^1, microbe ^1!&* Comment ça va !?/
 \E1* A-ATCHOUM !/
 \E2* Papyrus^1, comment tu&  fais pour supporter&  ce froid ?/
-JE N'AI PAS DE PEAU./
+JE N'AI PAS&DE PEAU./
 * Alors pourquoi ne pas&  aller devant Chez&  Grillby à la place ?/
 PARCE QUE JE&HAIS LA GRAISSE./
 * Mais tu n'as pas&  d'estomac !!/
@@ -15615,7 +15615,7 @@ exception
 * Ces lasers fonctionnent&  de la même manière !/
 \E3* C'est^1, c'est comme&  cet épisode où ils.../
 \TS*\E2 (Crac ^1! Bang ^1! Boum !)/
-\TA*\E4 Euhhhhh^1, j'dois y&  aller^1!&* On se reparle après !/
+\TA*\E4 Euhhhhh^1, j'dois y&  aller ^1!&* On se reparle après !/
 * Euhh ^1!&* S-salut^1, alors^1, les&  lasers bleus.../
 \E4* Euhh^1!&* J'veux dire^1, ici Alphys^1!&* Bonjour!/
 \W*\E6 Les \Llasers bleus\W ne&  font pas mal si tu&  ne bouges pas !/
@@ -18918,7 +18918,7 @@ Hé&ASGORE^1,&c'est&ton ex ?/
 Woah^1.&Dur pour&toi^1, mon&pote./%%
 H-hé&là ^1!/
 Que per-&sonne ne&se tape&dessus !!/
-Oh^1!&Voilà&une&autre&amie ?/
+Oh ^1!&Voilà&une&autre&amie ?/
 Je suis&TORIEL^1.&Bonjour!/%%
 Euh^1,&b-bon-&bonjour!/
 (Y'EN A&DEUX&MAINTE-&NANT???)/%%
