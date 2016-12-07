@@ -324,7 +324,7 @@ itemcount
 * C'est gratuit !& &         Oui         Non \C
 * Super ^1! Et voilà ^1! Ta Carte&  est dans la boîte ! (Vous&  obtenez la Glace Gentilly.)/%%
 * Mmh ^1? Tu n'as pas d'argent ^1?&* Désolé^1, je ne peux pas&  les offrir comme ça./%%
-* Mmh^1? Tu n'as pas assez&  même après la réduction^1?&* Je.../%%
+* Mmh ^1? Tu n'as pas assez&  même après la réduction ^1?&* Je.../%%
 rem
 g
 n
@@ -390,7 +390,7 @@ TU GLISSERAS&JUSQU'À LA CASE&SUIVANTE !/
 CEPENDANT^1, LE&SAVON GLISSANT.../
 EST PARFUMÉ&AU CITRON !!/
 CE QUI DÉPLAÎT AUX&PIRANHAS !/
-DONC BLEU ET&VIOLET, PAS DE&PROBLÈME!/
+DONC BLEU ET&VIOLET, PAS DE&PROBLÈME !/
 ENFIN^1,&LES CASES ROSES./
 ELLE NE FONT&ABSOLUMENT RIEN./
 MARCHE SUR ELLES&AUTANT DE FOIS QUE&TU LE VEUX./
@@ -611,7 +611,7 @@ ET MON NOMBRE&D'AMIS RESTERA&LE MÊME !/
 * (Que dire ?)&         Soyons      Mais quel&         amis        naze\C
 murder
 \E0WOUAHOU !^1!&TU AS RÉUSSI !!!/
-TU N'AS PAS FAIS&USAGE DE LA&VIOLENCE!!!/
+TU N'AS PAS FAIS&USAGE DE LA&VIOLENCE !!!/
 \E5POUR ÊTRE FRANC^1,&JE M'INQUIÉTAIS&UN PEU.../
 \E0MAIS TU ES EN PASSE&DE DEVENIR QUELQU'&UN D'INCROYABLE !/
 \E7JE SUIS SI FIER QUE&J'EN PLEURERAIS !!!/
@@ -663,7 +663,7 @@ DONC..^1.&QU'EN PENSES-TU ?/
 OK.../
 COMPRIS./
 SI TU VEUX QUE&JE TE CAPTURE./
-J'ESSAYERAI&ENCORE!!!/%%
+J'ESSAYERAI&ENCORE !!!/%%
 ... OK.../
 JE VAIS EN RESTER&LÀ, ALORS.../%%
 s
@@ -695,7 +695,7 @@ dsprite
 * en temps normal, c'est&  50000 PO le coup&  d'oeil.../
 * mais bon..^1. &*\E1 vu qu'on s'connaît,&  pour toi c'est gratos./
 \E2* t'en dis quoi ?/
-* (Utiliser le télécope?)& &         Oui         Non\C
+* (Utiliser le télécope ?)& &         Oui         Non\C
 * hein ^1?&* ça te convient pas ?/
 \E1* t'en fais pas./
 \E2* je te rembourse ça&  de suite./%%
@@ -718,7 +718,7 @@ JUSQU'À TOMBER&SUR LE TIEN!!!&NYEH HEH HEH HEH!!/
 \E0ELLE PENSE T'AVOIR&VU AVEC UN&
 ./
 \E3C'EST EXACT ^1?&TU PORTES UN&
-?/
+ ?/
 * (Que répondez-vous ?)& &         Oui         Non\C
 DONC TU PORTES&BIEN UN&
 .../
@@ -901,7 +901,7 @@ lv
 * (Le CD s'arrête.)/%%
 * (Sur ce CD, il est écrit&  "Spookwave".)/
 * (Sur ce CD, il est écrit&  "Affreux Noël".)/
-* (Regarder dans le frigo?)& &         Oui         Non\C
+* (Regarder dans le frigo ?)& &         Oui         Non\C
 * (Il y a un sandwich abandonné&  à l'intérieur.)/%%
 * c'est un sandwich fantôme.../
 * est-ce que tu veux goûter...& &         Oui         Non\C
@@ -910,7 +910,7 @@ lv
 * oh.../
 * comment dire.../%%
 * oh.....................&  ....................&  ................./%%
-* après un bon repas j'aime&  m'allonger par terre et&  me sentir tout pourri.../
+* après un bon repas j'aime&  m'allonger par terre et&  me sentir comme un déchet.../
 * tradition familiale.../
 * est-ce que tu veux..^1.&* ... me rejoindre...&         Oui         Non\C
 * d'accord..^1.&* fais comme moi.../%%
@@ -1005,7 +1005,7 @@ JE LUI AI DIT QUE&TU PORTAIS.../
 \E0MAIS TA SÉCURITÉ&PASSE AVANT LA&MODE./
 \E3MINCE, QUOI !/
 JE VEUX SIMPLEMENT&ÊTRE AMI AVEC TOUT&LE MONDE, MOI.../
-\E3PAPYRUS NE TE&TRAHIRAIS JAMAIS !/
+\E3PAPYRUS NE TE&TRAHIRAIT JAMAIS !/
 \WT\E0U DISAIS DONC NE\Y &PAS PORTER DE&
 \W./
 \E3AINSI LUI AI-JE&DONC LAISSÉ&CROIRE.../
@@ -1118,7 +1118,7 @@ alarm
 \E0* Je suis sûre que&  tu arriveras à le&  raisonner^1, et.../
 * A-avec ton âme humaine^1,&  tu peux traverser la&  barrière sans problème !/
 * Alors pas d'inquiétude ^1!&* G-garde le sourire et&  ou-oublie ces histoires./
-* hé p'tite tête^1, quoi&  d'neuf ^1?&* un hot-dog, ça t'tente?/
+* hé p'tite tête^1, quoi&  d'neuf ^1?&* un hot-dog, ça t'tente ?/
 * seulement 30PO.& &  Oui         Non \C
 instance_number
 * tiens^1.&* régale-toi bien./%%
@@ -1133,7 +1133,7 @@ instance_number
 * merci, le mioche^1.&* voilà ton hot-dog./%%
 * merci, le mioche^1.&* voilà ton 'dog./%%
 * ouais^1. 'dog^1.&* apostrophe-dog^1.&* diminutif de hot-dog./%%
-* un autre h'dog^1?&* et voilà.../
+* un autre h'dog ^1?&* et voilà.../
 * oups^1, en fait, il me&  reste plus de hot-dogs./
 * tiens^1, tu peux avoir&  un hot-cat à la place./%%
 * et un autre dog^1, au&  dessus des autres.../
@@ -1487,7 +1487,7 @@ UN TOAST !!^1!&À TOUS LES LOOSERS&ET CEUX À VENIR !!/
 \E9* Héhé^1.&* Papyrus a tout&  compris./
 \E0* Perdre contre Frisk est&  la meilleure chose qui&  me soit jamais arrivée./
 \E0* Alors j'suis heureuse&  qu'on ait.../
-\E9* Euh..^1.&* Y'a un problème^1,&  Asgore?/
+\E9* Euh..^1.&* Y'a un problème^1,&  Asgore ?/
 scr_asgface
 \E2* Eum..^1. qu'est-ce donc&  qu'un.../
 \E0* ... anime ?/
@@ -1632,13 +1632,13 @@ bs
 \E1* ... Attends^1.&* Ne me dis rien./
 \E0* C'est un MESSAGE D'ERRE!& &  Oui         Non      \C
 \E0* Est-ce le Caramel ?& &  Oui         Non      \C
-\E0* Est-ce la Canelle ?& &  Oui         Non      \C
+\E0* Est-ce la Cannelle ?& &  Oui         Non      \C
 \E0* Hi hi hi^1.&* J'en avais le&  pressentiment./
 \E1* C'est étrange...&* Lorsque les humains&  chutent ici.../
 \E1* J'ai bien souvent&  l'impression de déjà&  les connaître./
 \E0* À dire vrai^1, la première&  fois que je t'ai vu,&  c'était comme si.../
 \E1* ... comme si je voyais&  une vieille connaissance&  pour la première fois./
-\E0* Étrange^1, ne&  trouves-tu pas?/
+\E0* Étrange^1, ne&  trouves-tu pas ?/
 * Bien^1, merci de&  ta réponse./
 \E1* Oh..^1. Je vois./
 \E0* Bien^1, merci^1.&* À bientôt./
@@ -2739,7 +2739,7 @@ scr_monstersum
 * Vous lancez le bâton^1.&* Mais rien ne se passe./%
 * Vous lancez le bâton, les chi-&  ens s'élancent pour l'attraper^1.&* Vous jouez pendant un moment./%
 * Vous lancez le bâton, le chien&  s'élance pour l'attraper^1.&* Vous jouez pendant un moment./%
-* Vous lancez le bâton.&* Papyrus le ramène dans sa&  bouche./%
+* Vous lancez le bâton.&* Papyrus le rapporte dans sa&  bouche./%
 * Vous agitez le bâton.&* Malicien se met à croire que&  c'est une baguette magique./%
 curtype
 * Vous lancez le bâton.&* Mettaton l'attrape avec la&  bouche et fait un clin d'oeil./%
@@ -2785,7 +2785,7 @@ scr_weaponeq
 * Hmm ^1! Ça a un goût de chiot.
 * Vous mangez une moitié de&  Biscuimo.
 * Vous mangez l'Uniscuimo.
-* Vous mangez le Lapain à la&  Canelle.
+* Vous mangez le Lapain à la&  Cannelle.
 * Vous mangez les Temmie Flakes.
 * Vous mangez la quiche.
 * Vous vous équipez du&  Vieux Tutu./%
@@ -2886,7 +2886,7 @@ Glace Gentilly
 Puppydough Icecream
 Biscuimo
 Uniscuimo
-Lapain Canelle
+Lapain Cannelle
 Temmie Flakes
 Quiche Abandonnée
 Vieux Tutu
@@ -3140,7 +3140,7 @@ LE FAMEUX JEU DE&BOULES DE NEIGE&DE COUVENEIGE./
 UN NOUVEAU PRIX&POUR CHAQUE RECORD&DE VITESSE BATTU./
 \E3D'OÙ PROVIENT&L'ARGENT ?/
 \E0DE L'IMPÔT POUR LES&BOULES DE NEIGE^1,&VOYONS !!/%%
-QUOI^1? TU N'AS JA-&MAIS ENTENDU PARLER&D'UN TEL IMPÔT ?/
+QUOI ^1? TU N'AS JA-&MAIS ENTENDU PARLER&D'UN TEL IMPÔT ?/
 \E2ÇA DOIT VRAIMENT&ÊTRE LE PARADIS^1,&À LA SURFACE./%%
 LA GUÉRITE DES&ÉPOUX CANINS.../
 \E3HMM^1. ÇA TE&TENTERAIT DE FAIRE&ÇA UN JOUR, TOI ?/
@@ -3268,7 +3268,7 @@ JE TE DÉCRIRAI&QUELQUES ASTUCES !/
 \E5... T'ES ENCORE&DANS MA CHAMBRE ??/
 \E3NE SAIS-TU PAS&CE QUE C'EST^1,&UNE..^1.PORTE ?/
 \E0ATTENDS ^1! PANIQUE&PAS ^1! JE VAIS FAIRE&UN DIAGRAMME !/%%
-UNE SECONDE^1!&JE FINIS LE DESSIN!/%%
+UNE SECONDE^1!&JE FINIS LE&DESSIN !/%%
 HEIN^1? JE TE CROYAIS&DÉJÀ SORTI DE MA&CHAMBRE./
 \E1IL VA FALLOIR&TOUT REPRENDRE&DEPUIS LE DÉBUT !/
 \E0TOUT D'ABORD :&SAIS-TU QUI EST&PAPYRUS ?!/%%
@@ -3333,7 +3333,7 @@ T'ES TOUJOURS AU&BOUT DU FIL ?/%%
 \E1* Et donc j'y viens&  JAMAIS !^1!&* J'DÉTESTE ME DÉTENDRE !!/%%
 * J'ADORE être en&  PÉTARD et LES NERFS À&  VIF !!!/
 \E0* Nan^1, je blague./%%
-WOUAHOU^1, J'AI PASSÉ&UN MOMENT EMBARRAS-&SANT ICI, PLUS TÔT./
+WOUAHOU^1, J'AI PASSÉ&UN MOMENT GÊNANT&ICI, PLUS TÔT./
 \E0UNE CHANCE QUE&TU N'AIES PAS PU&VOIR ÇA !!/%%
 TU N'AS VRAIMENT&PAS VU ÇA !/
 CET ÉTAT DE FAIT^1,&J'ADORE LE RÉPÉTER !/%%
@@ -3397,7 +3397,7 @@ TU FAIS ATTENTION^1,&ÇA Y EST ?/%%
 QUE FONT DONC&TOUTES CES TABLES&POSÉES PAR ICI ?/%%
 * Mais d'où elles&  sortent, toutes&  ces tables ?/%%
 OH, SANS N'EST PAS&EN TRAIN DE JOUER&AVEC SON TÉLÉSCOPE?/
-\E0WOUAHOU !!^1! PEUT-ÊTRE&S'EST-IL ENFIN MIS&AU BOULOT!!!/
+\E0WOUAHOU !!^1! PEUT-ÊTRE&S'EST-IL ENFIN MIS&AU BOULOT !!!/
 \E2WOW !!^1! C'EST BON^1,&JE PEUX ÊTRE&FIER, MAINTENANT ???/%%
 HEIN ^1? MON FRÈRE ^1?&BIEN SÛR QU'IL&A UN TÉLÉSCOPE./
 \E0SANS ADORE LES&TRUCS SUR L'ESPACE&OU LA SF./
@@ -3454,7 +3454,7 @@ JE CROIS SAVOIR&QU'UN MONSTRE ASSEZ&TIMIDE VIT PAR ICI./
 \E4* Elle était plutôt&  douée..^1. \E9pour quelqu'un&  sans doigts./
 \E4* Un beau jour^1, pourtant^1,&  elle n'est plus venue&  prendre ses leçons.../%%
 \E7* Hum, c'était quoi déjà&  sa chanson...?/%%
-HEIN?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE?/
+HEIN ?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE ?/
 \E2OH NON !!^1!&TU VAS ME FAIRE&ROUGIR, ARRÊTE !!!/%%
 IL FAUT QU'ON&ÉCRIVE NOS AVEN-&TURES EN CHANSON!!!/%%
 \E6* Ha !^1! HA !!^1!&* Il est signé UNDYNE^1,&  ce casse-tête !!/
@@ -3486,7 +3486,7 @@ RIEN DE TEL QU'UN&POT DE PARAPS'&BIEN CHAUD.../%%
 * T'as pris un pépin ?/%%
 TU PEUX PEUT-ÊTRE&VOIR TON REFLET&DANS L'EAU, MAIS.../
 \E1NE LAISSE PAS UNE&MATIÈRE AQUEUSE TE&DICTER TON ESTIME !/%%
-HMMM^1? TU TE&BALADES&AVEC UN AMI ?/
+HMMM ^1? TU TE&BALADES&AVEC UN AMI ?/
 ALORS NE PERDS&PAS TON TEMPS À&M'APPELER.../
 \E0TU VAS FINIR PAR&LE RENDRE JALOUX !/%%
 TE REVOILÀ...?/%%
@@ -3583,7 +3583,7 @@ D'EXTRÊMEMENT COOL&À DIRE AU SUJET DE&TA MAISON !!!/
 * Tu sais où me&  trouver./%%
 OH^1, ÇA C'EST LA&MAISON DE... EUH..^1.&DU VOISIN D'UNDYNE./
 \E3C'ÉTAIT QUOI SON&NOM DÉJÀ ?/
-\E0SPOOKY BLOO BLOO?/%%
+\E0SPOOKY BLOO BLOO ?/%%
 NAPPE À BOUCS...?/%%
 * C'est la maison de&  Napstablook./
 \E9* Un peu renfermé&  sur les bords^1, mais...&* C'est un brave fantôme./
@@ -3657,7 +3657,7 @@ PAPYRUS EST&ACTUELLEMENT&INDISPONIBLE !!/%%
 \E5* Ça fout les jetons^1,&  hein ?/%%
 * Arrête de m'appeler&  depuis cet endroit^1,&  c'est flippant !!/%%
 OH^1?&DES CHAMPIGNONS^1?&COMESTIBLES OU PAS?/
-\E3TU PENSES&QU'ILS NE SONT&PAS COMESTIBLES???/%%
+\E3TU PENSES&QU'ILS NE SONT&PAS COMESTIBLES ???/%%
 MOI^1, J'ESSAYERAIS./%%
 * Une fois que tu connais&  cette salle.../
 \E9* T'as même plus besoin&  d'allumer les&  champignons !/
@@ -3882,7 +3882,7 @@ J'AI CRU COMPRENDRE&QUE TU ALLAIS VOIR&METTATON !!/
 \E2C'EST MON GROS&BLOC DE MÉTAL SEXY&PRÉFÉRÉ !!/%%
 SI SEULEMENT&J'HABITAIS À&CALCITERRE !!/%%
 * Sérieux ^1? Fais gaffe^1,&  ce type m'inspire pas./
-M-MAIS POURQUOI^1?&C'EST UNE STAR&DANS LE COIN.../
+M-MAIS POURQUOI ^1?&C'EST UNE STAR&DANS LE COIN.../
 * J'aime pas les gens&  juste parce qu'ils sont&  populaires, tu sais./
 PFF^1, FACILE À DIRE&QUAND ON L'EST&SOI-MÊME./
 * Pfffffft^1, quoi, moi ?^1!&* Je suis populaire auprès&  de QUI, au juste ?/
@@ -3901,7 +3901,7 @@ NON^1, JE DIRAIS..^1.&AU MOINS QUATRE ?/
 * Mais bon sang, qui&  peut bien embaucher&  autant ce type ?!/%%
 * J'te jure !!/%%
 MON FRÈRE N'EST&PAS ICI ???/
-\E1IL DÉBAUCHE DÉJÀ&DE SA DÉBAUCHE&DE HOTDOGS?/
+\E1IL DÉBAUCHE DÉJÀ&DE SA DÉBAUCHE&DE HOTDOGS ?/
 \E3C'EST VRAIMENT UN&SUR-DÉBAUCHEUR^1,&MA PAROLE.../
 HEIN ^1? TU DOIS&RÉSOUDRE L'ÉNIGME&EN TAPIS ROULANT ?/
 \E3ÇA VA À L'ENCONTRE&DU B.A.-BA DE DE-&SIGN D'ÉNIGMES.../
@@ -3969,7 +3969,7 @@ TOUTE CETTE PIÈCE&EST REMPLIE DE CES&TRUCS À VAPEUR ?/
 \E1SACREBLEU^1,&TU NE POUVAIS PAS&PRENDRE LE BUS ?!?!/
 \E3CALCITERRE,&ÇA PUE.../%%
 NE ME PARLE PLUS&DE CE BOUGE./%%
-UNE PIÈCE REMPLIE&DE CONDUITES D'AIR^1?&OH NON.../
+UNE PIÈCE REMPLIE&DE CONDUITES D'AIR ^1?&OH NON.../
 * Tiens^1, je t'ai déjà&  parlé de ma super idée&  de casse-tête ?/
 * Ça serait un dédale&  composé uniquement de&  ces bouches d'aération.../
 \E2* Sauf qu'elles seraient&  posées sur des tapis&  roulants^1, et.../
@@ -4166,7 +4166,7 @@ ELLE EST ENTIÈREMENT&COMPOSÉE DE&CARTONS-PÂTES !/%%
 MAIS SI TU FAIS&FACE AU&MAUVAIS CÔTÉ.../
 C'EST TOI QUI A&TORT DE DIRE QU'ILS&ONT TORT, NON ?/
 * On va quand même&  pas philosopher sur&  l'alphabet si ?/%%
-\E9PAPYRUS ^1?&MAIS QUI C'EST^1,&CELUI-LÀ?/
+\E9PAPYRUS ^1?&MAIS QUI C'EST^1,&CELUI-LÀ ?/
 MOI C'EST..^1.&SQUELETBG95./
 NAVRÉ^1. PAS L'TEMPS^1.&LA GLOIRE M'ATTEND&SUR LE NET./
 \E0NYEH HEH HEH ^1!&JE PLAISANTE ^1!&TU T'ES FAIT AVOIR !/
@@ -4303,7 +4303,7 @@ OH OH !!!/
 \E1* Euhhh^1, les humains ?&* Histoire que j'apprenne&  leurs points faibles ?/
 \E2* Et l'une d'elles parlait&  de cet humain qui^1,&  euh.../
 \E6* Bon^1, en gros^1,&  il pouvait manipuler&  l'esprit des autres !!!/
-\E3* Ça t'en bouche un coin^1?&* Vos pouvoirs "secrets"&  n'en ont aucun pour moi!/
+\E3* Ça t'en bouche un coin ^1?&* Vos pouvoirs "secrets"&  n'en ont aucun pour moi!/
 \E1* Et donc^1, j'ai dit à ma&  bande que si j'en venais&  à défendre un humain.../
 \E2* Ça voudrait dire que&  je suis tombée sous son&  contrôle !/
 \E6* Auquel cas, ils ne&  devraient accepter AUCUN&  ordre venant de moi !/
@@ -4493,7 +4493,7 @@ battlelv
 * Mitgosp rampe jusqu'à vous !
 * Légumoïde sort de terre !
 * Francil approche !
-* Légumoïde et Francil attaquent!
+* Légumoïde et&  Francil attaquent !
 * Francil et Cie ont décidé&  de s'en prendre à vous !
 * Une paire de Légumoïdes&  sort du sol !
 * Une paire de Francil a décidé&  de s'en prendre à vous !
@@ -5269,12 +5269,12 @@ OH^1, COOL./
 HEY !!^1! UNDYNE&EST DÉSORMAIS&L'IMPÉRATRICE !!/
 C'EST FOU !!!/
 ET ELLE M'A PROMU.../
-AU POSTE ROYAL&LE PLUS IMPORTANT!!!/
+AU POSTE ROYAL&LE PLUS&IMPORTANT !!!/
 \E3OUI^1.&C'EST CARRÉMENT&ÇA, MON TITRE./
 \E0MON DEVOIR ?/
 \E3ELLE ME DEMANDE&DE^1, UM.../
 \E3D'ÊTRE PRÉSENT ET&D'AVOIR L'AIR&MIGNON./
-\E0EH BIEN!!^1!&SI C'EST PAS LE JOB&PARFAIT POUR MOI !!!/
+\E0EH BIEN!!^1!&SI C'EST PAS LE JOB&PARFAIT POUR MOI!!!/
 JE FAIS ÇA TOUT LE&TEMPS SANS LE&MOINDRE EFFORT !!/
 ENFIN !^1!&JE SUIS IMPORTANT./
 ET C'EST ENTIÈREMENT&GRÂCE À TOI,/
@@ -5294,11 +5294,11 @@ IL LE FAUT !!!/
 \E1* il a endoctriné tout&  le monde avec son&  émission débile./
 * et a fait de&  l'outremonde son paradis&  personnel./
 \E3* honnêtement..^1.&* c'est plutôt perturbant./
-\E1* quant à moi^1?&* oh^1, ouais.../
+\E1* quant à moi ^1?&* oh^1, ouais.../
 \E2* je suis son agent./%%
 \E0* COUCOU^1, MON CHOU !/
 * MERCI ÉNORMEMENT POUR&  TON DUR LABEUR.../
-* GRÂCE A TOI, L'OUTREMONDE&  EST PLUS&  EXCITANT QUE JAMAIS!/
+* GRÂCE A TOI, L'OUTREMONDE&  EST PLUS&  EXCITANT QUE JAMAIS !/
 \E7* OOH LÀ LÀ...&* STATUES ET MONUMENTS À&  L'EFFIGIE DE MA BEAUTÉ../
 \E6* DES FLEURS FAÇONNANT&  MON NOM.../
 \E5* DES HAIES À L'EFFIGIE&  DE MON SOURIRE.../
@@ -5332,8 +5332,8 @@ IL LE FAUT !!!/
 HEY !!^1!&C'EST MOI^1, PAPYRUS !!/
 \E2IMAGINE-MOI AVEC&DES LUNETTES COOL^1,&ET UN COSTUME./
 \E0ET SANS AVEC&DES LUNETTES DE&SOLEIL STYLE VIDEUR./
-C'EST ÇA NOTRE&VIE..^1. C'EST&TELLEMENT COOL!!!/
-LES CHOSES VONT&BIEN MIEUX DEPUIS&TA VENUE!!!/
+C'EST ÇA NOTRE&VIE..^1. C'EST&TELLEMENT COOL !!!/
+LES CHOSES VONT&BIEN MIEUX DEPUIS&TA VENUE !!!/
 \E3ENFIN^1, SI ON OUBLIE&LE FAIT QUE&TOUT EST NUL.../
 \E5POUR CEUX QUI&NE VÉNÈRENT PAS&METTATON./
 \E3ET SI ON OMET AUSSI&LE FAIT QU'UNDYNE&EST INTROUVABLE./
@@ -5368,7 +5368,7 @@ CAR JE DEMANDE&À TOUT LE MONDE DE&TRAVAILLER./
 ET^1, PERSONNE N'A&FAIM !!!/
 CAR JE PRÉPARE DES&SPAGHETTIS POUR&TOUT LE MONDE./
 \E3PENDANT CE TEMPS^1,&MON FRÈRE S'OCCUPE&DE LA PAPERASSE./
-\E3CURIEUSEMENT..^1.&IL A L'AIR DE&TRAVAILLER DUR?/
+\E3CURIEUSEMENT..^1.&IL A L'AIR DE&TRAVAILLER DUR ?/
 \E3J'ARRIVE PAS À&CROIRE QUE JE&DISE ÇA^1,&MAIS.../
 \E5JE SUIS FIER..^1.&DE LUI ???/
 OH NON !!!!/
@@ -5430,7 +5430,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E2* je ne sais pas du tout&  comment t'as fait pour&  arriver ici./
 \E1* c'est une sorte de&  message d'erreur./
 \E3* alors^1, si tu obtiens&  cette fin.../
-\E1* préviens celui ou celle&  qui a créé ce jeu^1,&  okay?/
+\E1* préviens celui ou celle&  qui a créé ce jeu^1,&  okay ?/
 \E2* on corrigera l'erreur^1,&  ou si c'est une nouvelle&  situation.../
 \E1* on pourrait même&  ajouter une nouvelle&  fin au jeu./
 \E3* mais c'est plus&  probable^1 que.../
@@ -5515,7 +5515,7 @@ Mais^1, malgré tout ça^1,&tu n'as pas eu de&fin heureuse./
 \E4Va voir le Dr Alphys./
 \E5Ton rencard avec&elle vient juste&de commencer./%%
 Donc tu as fait&tout ce chemin sans&tuer personne.../
-\E5Et tu décides soudain&de tuer ASGORE?/
+\E5Et tu décides soudain&de tuer ASGORE ?/
 \E6Mais c'est QUOI&ton problème, bon&sang ?/
 \E4T'es COMPLÈTEMENT à&côté de la plaque./
 \E2Tu cherches à me&troller ou quoi ?/
@@ -5565,7 +5565,7 @@ Papyrus^1, Undyne^1,&Alphys..^1. Toutes ces&personnes./
 \E4C'est ça./
 J'suis heureux qu'on&soit d'accord sur&la valeur d'une vie./
 J'ai TELLEMENT&appris grâce à toi./
-\E0Mais..^1. Vas tu&VRAIMENT continuer à&faire les choses&à moitié?/
+\E0Mais..^1. Vas tu&VRAIMENT continuer à&faire les choses&à moitié ?/
 \E8Le nombre de gens&que tu as tués.../
 \E9C'est vraiment&DÉCEVANT./
 \E8Espèce&d'IMBÉCILE./
@@ -5599,7 +5599,7 @@ Pourquoi tu continues&à revenir ici ?/
 \E8T'es PATHÉTIQUE./
 \E8Tu crois VRAIMENT&que je veux être ami&avec TOI ?/
 \E5Heh.../
-\E9Tu comprends&VRAIMENT rien^1,&n'est-ce pas?/
+\E9Tu comprends&VRAIMENT rien^1,&n'est-ce pas ?/
 \E5Il n'y a qu'une seule&personne qui me soit&chère, à présent./
 \E6Et même là^1,&je n'y tiens PLUS&VRAIMENT./
 \E5J'aime à penser qu'il&existe quelqu'un^1,&quelque part.../
@@ -5609,7 +5609,7 @@ Quelqu'un avec qui&je m'ennuierai pas./
 Tu me tapes sur&les nerfs./%%
 \E0Et te revoilà./
 \E2C'est quoi ton&problème ?/
-\E4T'essayes de créer&un Fan Club de&Flowey?/
+\E4T'essayes de créer&un Fan Club de&Flowey ?/
 \E5Parce que si tu&veux faire ÇA.../
 \E4Tu devrais d'abord&en parler à Papyrus./
 \E6Ouais^1, il en a&créé un./
@@ -5620,7 +5620,7 @@ Tu me tapes sur&les nerfs./%%
 \E7... Ouais./
 \E4Va lui en&parler./%%
 \E0Alors./
-\E4T'as créé le&Fan Club de&Flowey?/
+\E4T'as créé le&Fan Club de&Flowey ?/
 \E5Ha^1.&Je déconne./
 \E9J'ai tout vu^1.&Je sais que tu&ne l'as pas fait./
 \E5Mais honnêtement^1,&je m'en fiche./
@@ -5647,7 +5647,7 @@ Tu veux juste&voir ce que&j'ai à dire./
 \E9Je ne suis PAS comme&tous les autres./
 \E9Et donc, dorénavant.../
 \E4Tu n'obtiendras&RIEN D'AUTRE&de moi./%%
-\E4Tu n'as rien&de MIEUX à faire?/%%
+\E4Tu n'as rien&de MIEUX à faire ?/%%
 Salut./%%
 On dirait bien que tout&le monde est enfin heureux./
 Les monstres sont&finalement de retour&à la surface./
@@ -5718,7 +5718,7 @@ Flashygoodness#Leon Arnott
 Design Autres Monstres
 Mike Reid#????????????
 Concepts PNJ Vedettes
-Mushroom "Ragel" - Alexander Sward#"Sam Byool" - Ahmed Almutawa#Bah! "Puzzle Guy" - Summer Wine#Stars..? "Loren" - Colin MacDougall#Comedian Dad - Braxton Harris
+Champignon "Ragel" - Alexander Sward#"Sam Byool" - Ahmed Almutawa#Bah! "Papy énigme" - Summer Wine#Étoile..? "Loren" - Colin MacDougall#Papa comédien - Braxton Harris
 Guitare
 Stephanie MacIntire
 Assist. Gatty & Catty 
@@ -5870,7 +5870,7 @@ blconwd
 J'AI EMPRUNTÉ UN&AUTHENTIQUE GUIDE&
 DU RENCARD
 DU TRAÎNAGE AMICAL
-&À LA BIBLIOTHÈQUE!/
+&À LA BIBLIOTHÈQUE !/
 ON VA S'ÉCLATER !/
 \F4 \E8 %
 VOYONS VOIR.../
@@ -5891,8 +5891,8 @@ D'AVOIR UN&RENCARD."/
 DE TRAÎNER&ENSEMBLE."/
 \E0A\F0HEM !/
 \E1HUMAIN ^1!&MOI^1, LE GRAND&PAPYRUS.../
-JE T'INVITE MAINTENANT&À UN RENCARD&AVEC MOI !!!/*
-JE T'INVITE MAINTENANT&À TRAÎNER&AVEC MOI !!!/*
+JE T'INVITE&MAINTENANT&À UN RENCARD&AVEC MOI !!!/*
+JE T'INVITE&MAINTENANT&À TRAÎNER&AVEC MOI !!!/*
                               &   Oui             Non       &                            
 V-VRAIMENT ??^1?&WOUAHOU !!!/
 HEUREUSEMENT^1,&ILS DISENT JUSTE&DE DEMANDER !!!/
@@ -6097,7 +6097,7 @@ J'ai aussi amené de&la crème waterproof&pour tes écailles !/
 De ce kit de&réparation&de lances magiques^1,&que j'ai.../
 \E7Hum.../
 \E5Tu sais quoi^1, on va&faire l'impasse&sur les objets./
-\E0O\M0n n'a qu'à&simplement débuter&ce rendez-vous!/%%
+\E0O\M0n n'a qu'à&simplement débuter&ce rendez-vous !/%%
       DÉBUT !^1! DU RENDEZ-VOUS !^3!%%
 Ouais !!^1!&Ayons ce^1, euh^1,&rendez-vous !/%%
 ... euh.../
@@ -6180,7 +6180,7 @@ Chaque jour,&j'ai peur.../
 \E8Je n'en ai pas le&courage.../
 \E9Je vais tout&gâcher ^1!&Il faut que je&m'entraîne !/%%
 Ouais..^1. non^1, tu&as raison !/
-\E6J\M0'ai géré jusque là^1,&je ne peux pas&tout gâcher&maintenant!/
+\E6J\M0'ai géré jusque là^1,&je ne peux pas&tout gâcher&maintenant !/
 \E7Ç-ça lui ferait&beaucoup de peine&si elle l'apprenait^1,&non ?/
 \E5D-donc ça restera&juste^1, euh^1, un&petit secret !/
 \M1Ce que les gens&ignorent ne peut pas&leur faire de mal !!/
@@ -6639,7 +6639,7 @@ Pas toi.../
 \E4Tu.../
 ... alors que je&me suis rendue&si vulnérable.../
 Et dire que je&craignais que tu&ne t'adaptes&pas ici.../
-\E5Hehehehe!!!&Tu es vraiment&comme les autres !/
+\E5Hehehehe !!!&Tu es vraiment&comme les autres !/
 x1
 gen2
 * Toriel prépare une&  attaque magique.
@@ -6948,7 +6948,7 @@ scr_levelup
  C'EST MON& ATTAQUE& SPÉCIALE !/%%
  HÉ ^1!& CRÉTIN DE CHIEN !/%%
  TU M'ENTENDS !?/
- ARRÊTE DE& MACHOUILLER& CET OS !!!/%%
+ ARRÊTE DE& MÂCHOUILLER& CET OS !!!/%%
  HEY !!!& MAIS QU'EST-CE& QUE TU FAIS !!!/
  MON ATTAQUE& SPÉCIALE S'APPELLE& REVIENS !!!/%%
  .../
@@ -6965,7 +6965,7 @@ sblcon
  ADMIRE !
  HMMM... JE ME& DEMANDE CE QUE& JE DEVRAIS& METTRE... 
  JUSQU'À QUELLE& HAUTEUR PEUX-TU& SAUTER ?
- QUOI!? JE NE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
+ QUOI !? JE NE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
  MAINTIENS LE& BOUTON "HAUT"& POUR SAUTER !!!
 \X C'EST ÇA !& NE M'OBLIGE PAS& À UTILISER MON& \RATTAQUE SPÉCIALE\X!
  MAINTIENS "HAUT"& POUR SAUTER PLUS& HAUT ! ZUT& QUOI !!!
@@ -6975,7 +6975,7 @@ sblcon
  UNDYNE SERA& VRAIMENT FIÈRE& DE MOI !!
  LE ROI TAILLERA& UNE HAIE À& L'EFFIGIE DE& MON SOURIRE !!!
  MON FRÈRE...& ... EH BIEN, IL NE& CHANGERA PAS& BEAUCOUP.
- NOMBREUX SERONT& MES ADMIRATEURS !!& MAIS...
+ NOMBREUX& SERONT MES& ADMIRATEURS !!& MAIS...
  COMMENT SAVOIR& SI LEUR AMOUR& SERA SINCÈRE ???
  M'APPRÉCIERONT-& ILS AUSSI& SINCERÈMENT& QUE TOI ?
  LES GENS& COMME TOI SE& FONT RARES...
@@ -7221,7 +7221,7 @@ Les&mecs...&les&mecs...
 Tu as&bon goût!&(Niveau&blagues)
 Ha! Des&rires!&Prends&ça, papa!
 Merci,&vous êtes&tous&géniaux.
-Mais de&QUI&tu te&moques?!?
+Mais de&QUI&tu te&moques ?!
 J'suis&censé&rire ?
 Ha...&Ha...&Bien&essayé.
 Je l'ai&déjà&entendu&celui-là.
@@ -7897,7 +7897,7 @@ Salut ?&; )
 shack
 dunk
 awwAwa&cé tro&minion !!&(kalin)
-OMG!! lé&zumain cé&TROMINION&(se meur)
+OMG !! lé&zumain cé&TROMINION&(se meur)
 aLU !!!&moi&cé&TEMMIE !!
 fhsdhjf&dsfjsd&dshjfsd
 NAN !!!!&lé muscle&.... PAS&MINION
@@ -8457,7 +8457,7 @@ mysp
 towarddir
 initdir
 lavatime
-Ah! je&vais&aider !&Lavasoin!
+Ah! je&vais&aider!&Lavasoin!
 Tu as&mal ?&Je vais&t'aider !
 Foudre !&Bonus&de&vitesse !
 Esquiver&sera&plus&facile !!
@@ -8601,7 +8601,7 @@ C'est vrai, j'aurais&dû l'enrouler dans ma&toile quand j'en&avais l'occasion~/%
 Et avec le reste..^1.&Nous pourrions prendre&de bonnes vacances~/
 Voire même nous&construire un terrain&de baseball pour&araignées~/%%
 Nous aurions pu&faire de délicieux&beignets avec~~~/%%
-Mais peu importe...&C'est l'heure du&dîner, non?&Ahuhuhu~/%%
+Mais peu importe...&C'est l'heure du&dîner, non ?&Ahuhuhu~/%%
 N'aie pas l'air si&morose^1, mon&sucre~/%%
 idealdmg
 gege
@@ -8723,10 +8723,10 @@ orb3
 * Vous ignorez Malicien, et&  pensez aux fleurs et au soleil^1.&* DÉFENSE augmentée de 1./^
 * Vous visualisez&  des fleurs et du soleil./
 * Vous reprenez vos&  esprits^1.&* DÉFENSE augmentée de 2./^
-* Le "Traqu'orbe" inarrêtable&  est affaibli par votre regard./^
-* Le "Traqu'orbe" incapacitée&  est encore plus affaibli&  par votre regard soutenu./^
-* Le "Coinç'orbe" intimidante&  est affaibli par votre regard./^  
-* Le "Coinç'orbe" inélégante&  est encore plus affaibli&  par votre regard soutenu./^
+* L'infatigable "Traqu'orbe"&  est affaibli par votre regard./^
+* Le "Traqu'orbe" incapacité&  est encore plus affaibli&  par votre regard soutenu./^
+* L'intimidant "Coinç'orbe"&  est affaibli par votre regard./^  
+* Le "Coinç'orbe" inélégant&  est encore plus affaibli&  par votre regard soutenu./^
 odd
 hnum
 nowx
@@ -8914,7 +8914,7 @@ Action
 HyperAction
 Tendance
 Va chercher
-EatingGarbage?
+BeurkMalbouffe
 BouffeTendance
 Dramatique
 Écriture
@@ -9734,7 +9734,7 @@ Je ne peux pas même&t'offrir de dénouement&heureux.../
 Mais je crois que&ta liberté.../
 ... est tout&ce que&mon fils.../
 \E8... tout ce qu'ASRIEL&aurait souhaité./%%
-Tu vois^1?&Je suis pas un&traître ^2! %
+Tu vois ^1?&Je suis pas un&traître ^2! %
 Je jouais&seulement&la comédie,&tu vois ^2? %
 J'attendais juste&de le tuer&pour toi ^2! %
 \E1Après tout c'est moi,&ton meilleur ami ^2! %
@@ -9808,7 +9808,7 @@ Encore et toujours,&j'apparaitrai./
 Et, avec ton aide./
 Nous éradiquerons&l'ennemi et deviendrons&forts./
 Mais./
-Toi et moi sommes&différents^1, n'est-ce pas?/
+Toi et moi sommes&différents^1,&n'est-ce pas ?/
 Cette ÂME abrite&un sentiment&des plus étranges./
 Il y a une raison pour que&tu continues de recréer&ce monde./
 Quelque chose&qui te pousse&à le détruire./
@@ -9822,7 +9822,7 @@ Une autre voie serait&plus appropriée./
 À présent, partenaire./
 Laissons ce monde&sombrer dans les&abysses./%%
 Oui^1. Quelle belle&équipe nous formons./
-Nous serons ensemble&pour toujours^1,&n'est-ce pas?/%%
+Nous serons ensemble&pour toujours^1,&n'est-ce pas ?/%%
 Non...?/
 Hmm.../
 Comme c'est curieux./
@@ -9998,7 +9998,7 @@ que ça ne serait&plus JAMAIS&ton tour./
 \E5j'connais bien&les gens de&ton espèce./
 \E1t'es^1, euh^1, du&genre déterminé^1,&pas vrai ?/
 \E4t'abandonnes&jamais^1, même&si^1, euh.../
-\E3En fin de compte,&tu n'en tires&absolument AUCUN&bénéfice./
+\E3en fin de compte,&tu n'en tires&absolument AUCUN&bénéfice./
 \E1soyons clairs./
 \E4tu t'arrêteras&pas^1, quoi&qu'il advienne./
 \E9non pas par&choix moral,&genre entre bien&et mal.../
@@ -10072,7 +10072,7 @@ j'sais bien que tu&m'as pas répondu&tout à l'heure^1,&mais.../
 \E0une faible trace&de bonté,&au fond de toi./
 \E4les souvenirs d'une&personne qui&voulait faire&le bien./
 \E1quelqu'un qui^1, dans&d'autres circon-&stances^1, aurait même&pu.../
-\E4Faire partie de&mes amis ?/
+\E4faire partie de&mes amis ?/
 \E3allez^1, camarade./
 \E0tu t'souviens de&moi ?/
 \E4s'il te plaît^1,&si tu m'entends.../
@@ -10343,7 +10343,7 @@ Elle a dû t'emmener&quand elle est&partie./
 \E1Et a décidé de te&donner un enterrement&digne de ce nom^1,&plutôt que de.../
 \E0Te laisser traîner&dans ce sous-sol&pour toujours./
 \E1... mais^1, pourquoi,&alors...?/
-Qu'est-ce qui t'a&fait te réveiller?/
+Qu'est-ce qui t'a&fait te réveiller ?/
 \E6Tu m'as entendu&t'appeler...?/%%
 \E1Peu importe./
 \E1Je n'en peux plus^1,&
@@ -10577,7 +10577,7 @@ aaa
 mercyno
 talkt
 Mort&aux&humains&!!!
-C'est&toi&notre&vrai&ennemi!
+C'est&toi&notre&vrai&ennemi !
 La clé&-mence&est inu&-tile.
 * L'Âme Égarée se tient&  devant toi.
 * Tu donnes une pichenette&  à l'Âme Égarée./
@@ -11660,7 +11660,7 @@ FS
 * QUELLE IDIOTE !!/%%
 \E2* Héhéhéhé./
 * T'en as jamais assez^1,&  hein !?/
-\E6* Combien de fois encore&  vas-tu la tuer?/
+\E6* Combien de fois encore&  vas-tu la tuer ?/
 * Ha ha ha ha ha.../
 \E4*\TF T'es vraiment qu'un&  sale monstre./
 * Tu n'as même pas ESSAYÉ&  de l'épargner./%%
@@ -11739,29 +11739,29 @@ d_noise
 * Mais avant que je ne&  puisse le prendre.../
 * Un petit chien blanc me&  l'a piqué./
 \E0* Vraiment, je me demande&  pourquoi./
-\E1* Est-ce que les chiens&  AIMENT la farine au&  moins?/
+\E1* Est-ce que les chiens&  AIMENT la farine&  au moins ?/
 \E8* Euh^1, ça n'a rien à voir&  avec la situation&  actuelle^1, évidemment./
 \E1* J'en ai encore pour un&  moment^1. Merci de ta&  compréhension./
 * (Quelque chose halète&  lourdement à l'autre bout du&  fil...)/
 * Ouaf ^1!&* Ouaf !/
 * Ouaf..^1.&* Ouaf !/
-* (Vous entendez une voix au&  loin.)/
-\TT* Arrête^1, s'il te plaît!/
+* (Vous entendez une voix&  au loin.)/
+\TT* Arrête^1,&  s'il te plaît !/
 * Reviens ici avec mon&  TÉLÉPHONE !/
 * (Zzzz..^1. zzz...)/
 * (On dirait qu'un petit chien&  blanc s'est assoupi sur le&  téléphone.)/
 * (Vous entendez une voix au&  loin.) \TT/
 * Héoooooh ^1?&* Petit toutou...?/
 * Où es-tu...?/
-* Je te ferais une bonne grosse&  caresse sur la tête!/
+* Je te ferai une bonne grosse&  caresse sur la tête !/
 \T0* (Le ronflement s'arrête.)/
 \TT* ... si tu me rends mon&  TÉLÉPHONE./
-\T0* (Le ronflement reprends.)/
+\T0* (Le ronflement reprend.)/
 * (Atchoum !)/
-* (On dirait qu'un petit chien&  blanc a éternué dans son&  sommeil.)/
-* Ici^1, petit-petit toutou !/
+* (On dirait qu'un petit chien&  blanc a éternué dans&  son sommeil.)/
+* Ici^1, petit toutou !/
 * Misère^1, ça ne se fait pas de&  faire attendre un invité comme&  ça./
-* ... Oh non^1, depuis quand&  n'ais-je pas pris le temps de&  lui parler...?/
+* ... Oh non^1, depuis quand&  n'ais-je pas pris le&  temps de lui parler...?/
 * Peut-être aurais-je manqué un&  appel de sa part^1, et que...?/
 * ... par ici^1, toutou !/
 * (Ouaaah...)/
@@ -11769,7 +11769,7 @@ d_noise
 * (Vous entendez une voix&  fatiguée.)\TT/
 * Toutou..^1.&* Viens^1, mon toutou.../
 * Mince, mince.../
-* Je me demande comment l'humain&  s'en sort.../
+* Je me demande comment&  l'humain s'en sort.../
 fademusicout
 torielsong
 * Que fais-tu ici^1,&  mon enfant ^1? &* Tu n'as rien ?/
@@ -11845,7 +11845,7 @@ turts
 \E7* Il n'y a qu'un seul&  moyen de résoudre cela./
 * Prouve-moi.../
 * Prouve-moi que tu as&  assez de force pour&  survivre à l'extérieur./%%
-* Prouve-moi que tu as&  assez de force pour&  survivre à l'extérieur!/
+* Prouve-moi que tu as&  assez de force pour&  survivre à l'extérieur !/
 \E6* ... attends./
 * ... pourquoi me&  regardes-tu de cette&  manière ?/
 * On dirait que tu as vu&  un fantôme./
@@ -12087,7 +12087,7 @@ UN HUMAIN !?!?&!??!?!/
 ET QUI M'A L'AIR SI&FAMILIER...!!!/%%
 \E0SANS !!^1!&OH MON DIEU !!!!/
 \E3J'AI LE TOURNIS^1.&QU'EST-CE QUE J'AI&EN FACE DE MOI ?/
-\E1* admire./%%
+\E1* admire donc./%%
 view_object
 * euhhhh.../
 \E1* en fait^1, je crois que&  c'est un caillou./%%
@@ -12355,7 +12355,7 @@ OH..^1. MAIS OÙ DONC&CET HUMAIN PEUT-IL&BIEN ÊTRE PASSÉ./
 ... MAIS..^1.&IL EST JUSTE&DEVANT MOI !!!/
 BONJOUR ^1!&J'AVAIS PEUR QUE TU&TE SOIS PERDU !/
 QUEL SOULAGEMENT&DE T'AVOIR AVEC MOI.../
-... UNE PETITE SECONDE !!!/
+... UNE PETITE&SECONDE !!!/
 T'AS PAS LE DROIT&DE T'ÉCHAPPER !!!/
 RETOURNE DANS TA&CELLULE !!!/%%
 JE COMMENCE À CROIRE&QUE J'AVAIS RAISON./
@@ -12616,7 +12616,7 @@ s_click
 \E1* je suis en train de me&  recouvrir de coups&  de soleil./%%
 * dis.../
 \E1* tu serais pas en train&  de me coller aux&  pantoufles ?/%%
-* tu as perdu ton&  chemin ?/%%
+* t'en fais une tête./%%
 * Ce chien se voit comme&  un artiste^1, mais il n'a jamais&  d'inspiration./
 * Son cerveau gros comme&  une croquette n'aide&  sûrement pas./%%
 * Le chien de tout à l'heure...^1?&* Il est chez Grillby^1.&* Je crois./
@@ -13364,7 +13364,7 @@ able
 * J..^1.&* J'vais tomber !/%%
 * Undyne..^1. tu m'as sauvé...?/
 * Yo^1, j'ai bien cru que c'était&  la fin^1, haha.../
-* ... hé^1, ça va aller^1?&* On dirait que t'as vraiment&  fait une mauvaise chute.../
+* ... hé^1, ça va aller ^1?&* On dirait que t'as vraiment&  fait une mauvaise chute.../
 * T-tout ça c'est ma faute^1.&* J'aurais dû rentrer^1,&  comme tu m'avais dit./
 * Sérieusement^1, rester là^1, à me&  regarder..^1. et attendre..^1.&* Que je tombe./
 * Sérieusement^1, foncer sur&  toi pour te combattre&  au lieu de m'aider.../
@@ -13392,10 +13392,10 @@ idealxview
 * Parce que si t'essayes de faire&  du mal à qui qu'ce soit..^1.&* T-tu.../
 * Tu devras d'abord me passer&  sur le corps./
 * A..^1. al..^1.alors..^1.%%
-* T-tu vois^1?&* J'savais bien qu-que t'étais&  sympa, finalement !/
+* T-tu vois ^1?&* J'savais bien qu-que t'étais&  sympa, finalement !/
 * Faut que j'prévienne Undyne&  qu'elle se trompait sur toi !/%%
 * Undyne..^1.&* Tu...^1.&* Tu m'as sauvé !/
-* Quoi^1?&* Comment ça, "l'humain a pris&  la fuite" ?/
+* Quoi ^1?&* Comment ça, "l'humain a pris&  la fuite" ?/
 * Hé^1, tu dois te tromper.../
 * L'humain est parti chercher&  de l'aide !/
 * Ça devrait plus être long^1,&  maintenant !!/
@@ -13526,7 +13526,7 @@ predummy
 * Mais NON !!!/
 * Tu as fui..^1.&* Et tu as brisé son pauvre&  petit coeur d'ectoplasme./
 * C'est méprisable^1.&* Méprisable ^1!&* MÉPRISABLE !/
-* HUMAIN^1!&* Tu vas voir ce que c'est&  d'avoir le coeur BRISÉ!/%%
+* HUMAIN^1!&* Tu vas voir ce que c'est&  d'avoir le coeur BRISÉ !/%%
 * CE QUE TU AIES DÉTRUIT&  SON FOYER !/
 * Nous autres fantômes&  passons nos vies entières à&  la recherche d'un hôte./
 * Petit à petit^1, nous nous lions&  à nos nouveaux corps.../
@@ -13534,7 +13534,7 @@ predummy
 * Des êtres capables de rire^1,&  d'aimer et de danser^1, comme&  les autres.../
 * Mais TOI !!!^1!&* L'avenir de mon cousin...^1!&* Tu l'as volé !/
 * HUMAIN ^1!&* J'espère que le devenir de TON&  corps t'importe peu.../
-* Parce que ton ÂME va pas&  tarder à s'en faire VIRER!!!/%%
+* Parce que ton ÂME va pas&  tarder à s'en faire VIRER !!!/%%
 * Quand tu lui as parlé^1,&  il s'attendait à avoir&  une agréable discussion.../
 * Mais tout ce que tu&  lui as DIT...!/
 * Horrible^1.&* Choquant ^1!&* INCONCEVABLE !/
@@ -13816,7 +13816,7 @@ EUH... À PROPOS DE&CET HUMAIN DONT JE&T'AI PARLÉ PLUS TÔT.../
 \M1.\M6.. HEIN ^1?&EST-CE QUE JE L'AI&COMBATTU ?/
 \M4O-OUI^1!&BIEN SÛR QUE JE&L'AI COMBATTU !/
 \M4JE L'AI COMBATTU&VAILLAMMENT !/
-\M5...QUOI^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
+\M5...QUOI ^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 \M0E-EH BIEN.../
 \M1NON./
 \M1J'AI VRAIMENT TOUT&ESSAYÉ^1,UNDYNE^1,&MAIS FINALEMENT.../
@@ -14407,7 +14407,7 @@ LAVTOA NETTOIE LES CRIMES LOCAUX, TROUVE LES CRIMINELS ET LES TREMPE DANS LE SAV
 PÉNURIE DE GROS TITRES À AFFICHER     ||     
 timertimer
 doomx
-120 SECONDES RESTANTES! DÉSAMORCE 6 BOMBES !
+120 SECONDES RESTANTES ! DÉSAMORCE 6 BOMBES !
 dmx
  SECONDES RESTANTES !
  DÉPÊCHE-TOI !
@@ -15782,7 +15782,7 @@ cantalk
 * Euh^1, tu penses vraiment&  que c'est une bonne&  idée de grignoter ?/
 \E8* Enfin bon^1, je suis&  vraiment mal placée&  pour te juger.../ 
 \E0* Je suis moi-même en&  train de manger des&  chips en pyjama !/
-\E5* Enfin^1, je veux dire..^1.&* H-hé^1, va donc&  vers la droite!/%%
+\E5* Enfin^1, je veux dire..^1.&* H-hé^1, va donc&  vers la droite !/%%
 * H-hé ^1!&* Dirige-toi vers&  la droite !/%%
 * J'aime pas manger froid./
 \E0* Donc, Alphys a arrangé&  mon frigo pour qu'il&  réchauffe la bouffe !/
@@ -16307,7 +16307,7 @@ SANS ^1!&RAMASSE TA&CHAUSSETTE, MERCI !/
 NE LA REPOSE PAS&APRÈS ^1!&METS-LÀ AUTRE PART !/
 TU L'AS BOUGÉE DE DEUX&CENTIMÈTRES ^1! METS-LÀ&DANS TA CHAMBRE !/
 ET NE LA RAMÈNE PAS !/
-ELLE EST ENCORE LÀ!/
+ELLE EST ENCORE LÀ !/
 * c'est pas toi qui m'as dit&  de pas la ramener&  dans ma chambre ?/
 RAAH, OUBLIE ÇA !/%%
 * Quoi^1.&* Quoi ^1?&* QUOI !?/
@@ -16658,7 +16658,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E0* M'en souviens pas./%%
 * Pour la dernière fois^1, je&  n'en veux pas !/%%
 \E3* C'est pas en me menaçant&  du bout d'la lame que&  j'achèterai ta pacotille./%%
-* Sois prudent, là-dehors^1,&  bambin !/%%
+* Fais attention à toi là-dehors^1,&  p'tite fripouille !/%%
 * Bon débarras./%%
 * Ça fait longtemps que&  j'suis ici^1.&*\E3 P'têtre trop longtemps, même.../
 \E2* C'est plus facile d'étudier&  l'histoire quand tu en fais&  toi-même partie ^1!&*\E0 Wa ha ha !/%%
@@ -17331,7 +17331,7 @@ dogvolume
 QUOI !?!?/%%
 QU'ON SAISISSE&CE SATANÉ CHIEN !/%%
 MALÉDICTION !!!/%%
-COMMENCE PAS AVEC&TA MUSIQUE DE&CIRCONSTANCE!!!/%%
+COMMENCE PAS AVEC&TA MUSIQUE DE&CIRCONSTANCE !!!/%%
 tv
 \E0OOH, C'EST MON&JEU TÉLÉVISÉ&FAVORI !/
 * (On peut y lire "NOUVEAU&  PROGRAMME DISPONIBLE BIENTÔT&  - MTT".)/
@@ -17345,7 +17345,7 @@ QUE C'EST GENTIL&DE RAMASSER MON&COURRIER POUR MOI./
 \E3ATTENDS^1, NON.&C'EST SUSPECT EN&FAIT./%%
 \E3ARRÊTE DE MATER&MA BOÎTE AUX&LETTRES VIDE./
 \E0C'EST MON&VIDE^1, PAS&LE TIEN./%%
-* Oh mon dieu ^1!&* La lettre n'est&  PAS pour PAPYRUS!!!/
+* Oh mon dieu ^1!&* La lettre n'est&  PAS pour PAPYRUS !!!/
 OUAIS^1, UNDYNE A&RAISON !/
 \E0POURQUOI NE PAS&M'AVOIR ÉCRIT DE&LETTRE ?/
 * Tu veux une lettre !?/
@@ -17711,7 +17711,7 @@ jeffrey
 * Une toute nouvelle boulangerie^1!&* Mon sucre^1, les mots me manquent&  pour exprimer ma gratitude!/
 * Tout ça, c'est grâce à toi.^2 &* (et ton argent)./%%
 * Des vacances n'importe où,&  avec n'importe qui, pour faire&  tout ce qui nous plaira !/
-* Irons-nous sous les tropiques ^1?&* Mais, et ce vieux manoir hanté^1?&* Ah, c'est si dur de choisir~/%%
+* Irons-nous sous les tropiques^1?&* Mais, et ce vieux manoir hanté^1?&* Ah, c'est si dur de choisir~/%%
 \W* Heh^1.&* Moi c'est \RTouffe Toufflam\W.&* N'oublie pas mon nom !/%%
 * Je me rappellerai toujours&  que tu t'en es rappelé !/%%
 * Je n'oublierai jamais&  que tu as oublié !/%%
@@ -17763,7 +17763,7 @@ dk
 * C'est curieux./
 * C'est d'habitude le moment où&  Mettaton débarque pour nous&  féliciter de notre travail./
 * Même durant les mauvais jours^1,&  il vient toujours échanger un&  levage de pouce avec nous./
-* ...oh^1, mais qu'est-ce que je fais^1?&* C'est pas très professionnel^1,&  tout ça./%%
+* ... oh^1, je dois me reprendre ^1!&* C'est pas très professionnel^1,&  tout ça./%%
 * En tant que blob^1,&  je suis choqué./%%
 * En tant que blob^1,&  je suis aux anges./%%
 * En tant que blob^1,&  je suis attristé./%%
@@ -17943,7 +17943,7 @@ max_alpha
 * (C'est un bloc.^1)&* (Il faut le&  pousser, apparemment.)/%%
 * Bah !/%%
 * Mais...^1?&* Qu'est-ce que tu fais !!^1?&* Tu le pousses MAL !/
-* Bah^1, oublie ça ^1!&* Cette génération&  est IRRATTRAPABLE!/%%
+* Bah^1, oublie ça ^1!&* Cette génération&  est IRRATTRAPABLE !/%%
 sistext
 Une partie de moi#voudrait voir mon#"frère", Aaron. 
 Mais les autres#parties... sont#pas trop d'accord. 
