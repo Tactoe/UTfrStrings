@@ -12095,7 +12095,7 @@ view_object
 \E1* parce que c'est un&  caillou ?/%%
 \E0OH MON DIEU !!!/%%
 OH^1./%%
-MAIS POURQUOI TU&ME DIS DE REGARDER&UN CAILLOU./%%
+MAIS POURQUOI TU&ME DIS D'ADMIRER&UN CAILLOU./%%
 * hey^1, mais qu'est-ce qui&  se trouve juste devant&  le caillou ?/%%
 OH MON DIEU !!!/%%
 (EST... EST-CE QUE&C'EST UN HUMAIN)/%%
