@@ -638,7 +638,7 @@ T'Y CROIS TOI ? POUR&SE FAIRE DES AMIS&IL SUFFIT JUSTE DE../
 WOW !!!/
 J'AI DES AMIS !!!/
 ET QUI AURAIT CRU&QUE POUR S'EN FAIRE&IL FALLAIT JUSTE.../
-LEUR DONNER DES&CASSE-CRÂNES IDIOTS&ET LES COMBATTRE???/
+LEUR DONNER DES&CASSE-CRÂNES IDIOTS&ET LES COMBATTRE ??/
 TU M'AS TANT&APPRIS^1, HUMAIN./
 JE T'OCTROIE EN&RETOUR LA PERMISSION&DE PASSER !/
 ET JE VAIS TE DIRE&COMMENT RETOURNER&JUSQU'À LA SURFACE./
@@ -3341,7 +3341,7 @@ CET ÉTAT DE FAIT^1,&J'ADORE LE RÉPÉTER !/%%
 \E2* Si tu SAVAIS à quel&  point j'voulais&  t'arroser de lances !!!/
 \E9* Sauf que^1, euh^1, ces&  algues marines sont une&  espèce protégée./%%
 * Quoi !!!!^1!&* Je plaisante pas !/%%
-UN PONT SE FORME&AVEC QUATRE GRAINES&-PONTS ALIGNÉES./
+UN PONT SE FORME&AVEC QUATRE GRAINES&-PONT ALIGNÉES./
 \E3MAIS LEUR UTILITÉ&EST SOMME TOUTE&LIMITÉE./
 \E2ON DEVRAIT AVOIR&DES GRAINES-&HÉLICOPTÈRES !!!/%%
 OU DES TÉLÉPHONES&QUI SE CHANGENT&EN JETPACKS !!!/%%
@@ -6981,13 +6981,13 @@ sblcon
  LES GENS& COMME TOI SE& FONT RARES...
  JE NE PENSE& PAS QU'ILS TE& LAISSERONT& PARTIR...
  ET AVOIR UN& RENCARD& RISQUE D'ÊTRE& DIFFICILE...
- APRÈS TA& CAPTURE& ET TON& EMPRISONNEMENT.
+ APRÈS TA CAPTURE& ET TON& EMPRISONNEMENT.
  ARGH...& ON S'EN FICHE !& ABANDONNE !!
-\X ABANDONNE OU& FAIS FACE À...& MON \RATTAQUE& SPÉCIALE\X!!!
+\X ABANDONNE OU& FAIS FACE À...& MON \RATTAQUE& SPÉCIALE \X!!!
 \X OUAIS !!! JE VAIS& TRÈS BIENTÔT& UTILISER MON& \RATTAQUE SPÉCIALE\X!
 \X ENCORE UN PEU& ET J'UTILISE MON& \RATTAQUE& SPÉCIALE \X!!!
 \X CECI EST TA& DERNIÈRE CHANCE...& AVANT MON& \RATTAQUE SPÉCIALE\X!
-\X ADMIRE...!& VOILÀ MON \RATTAQUE& SPÉCIALE\X!
+\X ADMIRE...!& VOILÀ MON \RATTAQUE& SPÉCIALE\X !
  *SOUPIR* VOILÀ UNE& ATTAQUE& PARFAITEMENT& NORMALE.
  NYEH HEH HEH !
  JE NE MÉRITE PAS& TANT DE CHARITÉ& VENANT DE TOI...
@@ -12338,14 +12338,14 @@ JE NE PEUX QU'IMAGINER&CE QUE CELA DOIT&TE FAIRE./
 APRÈS TOUT^1, JE SUIS&QUASI-PARFAIT./
 JE N'AI MÊME PAS À&ME DEMANDER CE QUE&ÇA FAIT D'AVOIR DES AMIS./
 COMME JE TE PLAINS..^1.&TU N'AS PERSONNE&POUR T'ADMIRER.../
-MAIS N'AIE CRAINTE !!^1!&TA SOLITUDE&VA ENFIN PRENDRE FIN !/
+MAIS N'AIE CRAINTE !!^1!&TA SOLITUDE VA&ENFIN PRENDRE FIN !/
 MOI^1, LE GRAND&PAPYRUS^1, JE VAIS&DEVENIR TON.../
  ^2.^2../
 NON.../
 NON^1, ÇA NE VA&PAS DU TOUT !/
 JE NE PEUX PAS&ÊTRE TON AMI !!!/
 TU ES UN HUMAIN !/
-JE DOIS TE&CAPTURER !!!/
+JE DOIS TE CAPTURER !!!/
 POUR ENFIN ACCOMPLIR&CE DONT J'AI RÊVÉ&TOUTE MA VIE !!!/
 PUISSANT ^1!&POPULAIRE ^1!&PRESTIGIEUX !!!/
 VOILÀ CE QU'EST&PAPYRUS !!!/
@@ -16065,7 +16065,7 @@ L'INTIMITÉ^1,&TU NE CONNAIS&DONC PAS ?/%%
 * Du fait de leur nature magique^1,&  le corps des monstres est&  fermement attaché à leur ÂME./
 * Si un monstre ne veut pas&  se battre^1, ses défenses&  s'affaibliront, et.../
 * Si les intentions de l'atta-&  quant sont cruelles, le monstre&  en souffrira d'autant plus./
-* En conséquence^1, si un être pourvu&  d'une puissante ÂME frappe&  avec le désir de tuer.../
+* En conséquence^1, si un être doté&  d'une puissante ÂME frappe&  avec le désir de tuer.../
 * Euuh^1, on va s'arrêter là&  pour l'instant.../%%
 * ...!^1?&* Il y a une caméra cachée&  derrière le poste de garde./%%
 * ...!^1?&* Il y a une caméra cachée der-&  rière le..^1. "poste de garde"./%%
@@ -16145,7 +16145,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (Ce lit est presque assez&  grand pour y mettre un&  peuple entier.)/%%
 * "HISTOIRE DES MONSTRES VOL. 4"/
 * Débarrassés de la peur des&  humains^1, nous partîmes de&  notre vieille cité^1, "Maison"./
-* Nous bravâmes le froid mordant^1,&  les marais brumeux^1, et&  la chaleur étouffante.../
+* Nous bravâmes le froid mordant^1,&  les marais brumeux et&  la chaleur étouffante.../
 * Avant d'atteindre ce qui allait&  devenir notre nouvelle&  capitale./
 * "NOUVELLE MAISON"./
 * Une fois de plus^1, notre bon&  Roi et les noms^1, ça fait&  deux.../%%
@@ -17461,16 +17461,16 @@ scr_deaddog
 * Dis, on joue aux Monstres&  et aux Humains ?/%%
 * On continue à jouer aux&  Monstres et aux Humains ?/%%
 * Maintenant^1, on peut jouer&  aux Monstres et aux Humains&  avec de VRAIS humains !/%%
-* Tu vas pas prendre le monstre&  à nouveau^1, dis ?/%%
+* Tu vas pas choisir le monstre&  à nouveau^1, dis ?/%%
 * SÉRIEUSEMENT^1, on peut pas&  jouer à autre chose...?/%%
 * Hmmm..^1.&* Quand les humains jouent aux&  Monstres et aux Humains.../
 * Est-ce qu'ils appellent&  ça Humains et Humains ?/%%
 sansmode
 * Partout où je vais^1, c'est&  toujours les mêmes gens^1,&  le même menu.../
 * Pitié ^1! J'veux du neuf, moi ^1!&* De bons cocktails^1, et des mecs&  qui ont le feu dans les yeux !!/%%
-* ..^1.le barman ne&  c-c-compte pas, hein./%%
+* ..^1. Le barman ne&  c-c-compte pas, hein./%%
 * Allez, tout le monde !!^1!&* ^1F-^1f-^1f-faites tourner les&  chopines !!!/
-* ... non ^1? Personne ^1?/%%
+* ... Non ^1? Personne ^1?/%%
 * Sansouneeet..^1.&* Reviens t'asseoir avec&  moiii.../
 * C'est tellement plus marrant&  quand t'es dans le coin !!!/%%
 * C'est t-t-trop calme^1, dans ce&  bar./
@@ -17921,7 +17921,7 @@ scr_enemynpc1
 * Y'a tellement de monde là-haut^1,&  j'devrais bien trouver une&  personne pour ça, nan ?!/%%
 * Hey^1, arrête de penser&  à mon chapeau !/
 * ... quoi, tu ne pensais pas&  à mon chapeau ?/
-* ... ben^1, euh^1, ça te dérangerais&  de le faire, s'il te plaît ?/%%
+* ... ben^1, euh^1, ça te dérangerait&  de le faire, s'il te plaît ?/%%
 * Ha ^1!&* Après tout ce temps^1, tu penses&  toujours à mon chapeau !/
 * ... allez, sois sympa.../%%
 statuetimer
