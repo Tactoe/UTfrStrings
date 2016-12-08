@@ -910,7 +910,7 @@ lv
 * oh.../
 * comment dire.../%%
 * oh.....................&  ....................&  ................./%%
-* après un bon repas j'aime&  m'allonger par terre et&  me sentir comme un déchet.../
+* après un bon repas j'aime&  m'allonger par terre et&  me sentir tout pourri.../
 * tradition familiale.../
 * est-ce que tu veux..^1.&* ... me rejoindre...&         Oui         Non\C
 * d'accord..^1.&* fais comme moi.../%%
@@ -10702,11 +10702,11 @@ starcon
 bladecon
 guncon
 gonercon
-* Asriel prépare une "ÉTOILE&  HURLANTE".
+* Asriel prépare une "ÉTOILE&  FLAMBOYANTE".
 * Asriel charge sa "FULGURO&  DÉCHARGE".
 * Asriel fait appel au "SABRE&  DU CHAOS".
 * Asriel prépare son "CANON&  DU CHAOS".
-* Asriel prépare une "HYPERNOVA&  HURLANTE".
+* Asriel prépare une "HYPERNOVA&  FLAMBOYANTE".
 * Asriel fait appel au "TRANCHOIR&  DU CHAOS".
 * Asriel prépare une "FULGURO&  DÉCHARGE II".
 * Asriel prépare son "ATOMISATEUR&  DU CHAOS".
@@ -15721,7 +15721,7 @@ cantalk
 * (Vous avez fait tout ce chemin&  pour aller jeter un oeil aux&  chaussettes de Toriel.)/
 * (Vous avez de grandes&  priorités dans la vie.)/%%
 * Dans l'armoire se trouvent&  des robes de chambre^1,&  des chemises.../
-* ... et un pull tricoté à la&  main avec "SI QUELQU'UN TROUVE&  VOUS DITES HEIN" dessus./%%
+* ... et un pull tricoté&  à la main avec&  "Mister Papa" dessus./%%
 \R* Il a toujours ce pull./%%
 * (Ce n'est qu'une chaise.)/%%
 * (C'est un trône.)/%%
