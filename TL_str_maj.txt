@@ -7085,7 +7085,7 @@ Merci&pour&rien !
 * Offrenne semble déçu.
 * Les bois d'Offrenne&  tremblotent.
 * OFFRENNE - ATQ 16 DÉF 8&* Des jeunes l'ont "décoré"&  pour faire une blague./^
-* Vous retirez le sucre d'orge&  avec "N'abusez pas des&  orgies !!" marqué dessus./^
+* Vous sucrez le sucre&  d'orge d'Offrenne./^
 * Vous retirez la boîte&  de raisins qui-n'ont-rien-à-&  voir-avec-les-chiens./^
 * Vous retirez le marque-page&  affichant un ado suffisant&  en 3D./^
 * Vous enlevez les guirlandes&  constituées de brosses à&  ramoner./^
