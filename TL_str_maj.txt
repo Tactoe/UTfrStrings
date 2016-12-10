@@ -98,7 +98,7 @@ room
 * (De temps en temps^1, un déchet&  en tombe...)/ 
 * (... et disparaît dans l'abysse&  sans fond s'étendant sous&  vos pieds.)/
 * (Voir ce cycle sans fin&  de déchets sans valeurs...)/
-* (Faire partie de ces déchets&  vous empli de détermination.)/%%
+* (Faire partie de ces déchets&  vous emplit de détermination.)/%%
 * (Vous ressentez une apaisante&  tranquillité^1. Cela vous&  emplit de détermination...)/%%
 * (Vous ressentez..^1. un truc.)&* (Cela vous emplit de&  détemmienation...)/%%
 * (Le vent hurle^1.&* Vous êtes empli de&  détermination...)/%%
@@ -1491,7 +1491,7 @@ UN TOAST !!^1!&À TOUS LES LOOSERS&ET CEUX À VENIR !!/
 scr_asgface
 \E2* Eum..^1. qu'est-ce donc&  qu'un.../
 \E0* ... anime ?/
-\E1* (O^1.M^1.G ?)/
+\E1* (O^1.M^1.G^1. ?)/
 \E3* (Frisk^1. S'il te plaît.)/
 \E2* (Tu peux m'aider à lui&  expliquer ce qu'est un&  anime ?)/
 \E0* En fait^1, c-c'est comme&  un dessin animé^1,&  m-mais.../
@@ -1669,7 +1669,7 @@ bs
 \E6* Euuh^1, dis^1, ça te dirait&  qu'on regarde une série&  télé humaine ensemble ??/
 * Un de ces quatre ???/
 \E4* Ça s'appelle^1, euh^1,&  M..^1.Miou Miou Mimi&  Bisou.../
- & &         Carrément  ...non...\C
+ & &         Carrément   ...non...\C
 * S-Sérieux !?/
 \E3* C'est vraiment bien ^1!&* C'est euh^1, ma série&  préférée !/
 * Ça parle d'une fille&  humaine^1, Miou Miou^1, qui&  a des oreilles de chat !%
@@ -3454,9 +3454,9 @@ JE CROIS SAVOIR&QU'UN MONSTRE ASSEZ&TIMIDE VIT PAR ICI./
 \E4* Elle était plutôt&  douée..^1. \E9pour quelqu'un&  sans doigts./
 \E4* Un beau jour^1, pourtant^1,&  elle n'est plus venue&  prendre ses leçons.../%%
 \E7* Hum, c'était quoi déjà&  sa chanson...?/%%
-HEIN ?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE ?/
+HEIN ?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE?/
 \E2OH NON !!^1!&TU VAS ME FAIRE&ROUGIR, ARRÊTE !!!/%%
-IL FAUT QU'ON&ÉCRIVE NOS AVEN-&TURES EN CHANSON!!!/%%
+IL FAUT QU'ON&ÉCRIVE NOS AVEN-&TURES EN CHANSON!!/%%
 \E6* Ha !^1! HA !!^1!&* Il est signé UNDYNE^1,&  ce casse-tête !!/
 \E0* Pour être honnête^1,&  j'avais juste envie de&  coller un piano ici./
 \E2* J'adore FRAPPER LES&  TOUCHES BLANCHES !!!/%%
@@ -3512,7 +3512,7 @@ MIEUX VAUT NE PAS&T'AVENTURER PLUS&LOIN./%%
 \E1* ... et par quel miracle&  avais-je raison ???/%%
 * Inutile de&  m'expliquer !!/%%
 DES FLEURS...?/
-\E0EST-CE QU'ELLES&PARLENT ?^1! DIS&COUCOU DE MA PART !/%%
+\E0EST-CE QU'ELLES&PARLENT ?^1! DIS&COUCOU DE MA PART!/%%
 LES FLEURS SONT&NOS AMIES !/%%
 * Ces fleurs.../
 * Un beau jour^1, elles&  ont tout simplement&  poussé là./
@@ -3548,9 +3548,9 @@ OUBLIE QUE JE&T'AIE DIT ÇA./%%
 HÉ ^1!&TU ARRIVES PRÈS DE&CHEZ UNDYNE !/
 C'EST EN HAUT À&GAUCHE^1.&BREF, EN HAUCHE./
 \E3TOUS LES AUTRES&CHEMINS MÈNENT À LA&MAUVAISE MAISON./
-\E0AU NORD:&MAISON DE FANTÔME./
-À L'EST:&MAISON DE TORTUE./
-AU SUD:&MAISON D'ORDURES./%%
+\E0AU NORD :&MAISON DE FANTÔME./
+À L'EST :&MAISON DE TORTUE./
+AU SUD :&MAISON D'ORDURES./%%
 À L'OUEST:&MAISON D'OISEAU./%%
 ON DIRAIT QUE TU&ARRIVES PRÈS DE&CHEZ UNDYNE./
 HÉ ^1!&ET SI ON RENDAIT&VISITE À UNDYNE !/
@@ -3946,7 +3946,7 @@ TU LES AS VUS ?/%%
 * C'est cool de voir les&  gens devenir platonique-&  ment proches, comme ça !/%%
 J'ADORE LES INFOS ^1!&ÇA PERMET DE&S'INFORMER..../
 ET C'EST&TOUJOURS BOURRÉ&D'ACTION !!!/%%
-KA-WOUAHOU !/%%
+BADA-WOUAHOU !/%%
 * Ouais ^1! Tu lui as&  sacrément botté les&  fesses, aux infos !!!/
 \E9* J'imagine qu'Alphys&  y était pour beaucoup^1,&  pas vrai ?/
 \E6* Oh mon dieu !!^1!&* Vous voir devenir&  potes comme ça.../
@@ -3959,7 +3959,7 @@ LE NOYAU..^1.&TU T'APPROCHES DU&BUT^1, HMM...?/
 * Hein ?^1!&* Non^1, on vient à peine&  de devenir potes !!/
 \E4* Tu peux quand même&  pas déjà en être&  aussi proche.../%%
 * Quoi ?/%%
-ÇA PARAÎT ÉTRANGE&QUE DES ARAIGNÉES&DEMANDENT DES DONS./
+ÇA PARAÎT ÉTRANGE&QU'UNE ARAIGNÉE&DEMANDE DES DONS./
 \E0MAIS IMAGINE UN&PEU^1, CHACUNE A&HUIT PATTES./
 \E3ÇA FAIT DONC&QUATRE PAIRES DE&CHAUSSURES./
 \E0UNE ARAIGNÉE AVEC&HUIT BALLERINES&ROSES./
@@ -4472,7 +4472,7 @@ Limande Cheloue
 Amalgami
 Âme Égarée
 Petit Monstre
-Undyne la Digne
+Undyne l'Immortelle
 Sagequin
 Mettaton NEO
 Sans
@@ -7704,7 +7704,7 @@ s_f2
 s_f3
 shk
 shaketime
-* UNDYNE LA DIGNE 99 ATK 99 DÉF&* Héroïne revenue à la vie grâce&  à sa propre DÉTERMINATION./^
+* UNDYNE L'IMMORTELLE 99ATK 99DÉF&* Héroïne revenue à la vie grâce&  à sa propre DÉTERMINATION./^
 Bon sang.../
 Même avec CE&pouvoir..^1.&J'ai pas réussi...?/
 \E1Hah.../
@@ -7756,11 +7756,11 @@ Nous avons tous&le MÊME objectif./
 \E9Moi^1, UNDYNE^1,&vais à présent&mettre un terme à&ton existence !/%%
 risesfx
 pit
-Va falloir que tu&fasses VRAIMENT&mieux que ça./%%
+Va falloir que tu&fasses vraiment&mieux que ÇA./%%
 room_restart
 cc
 Va.../
-\E9Va falloir que tu&fasses VRAIMENT&mieux que ça !/%%
+\E9Va falloir que tu&fasses VRAIMENT&mieux que ÇA !/%%
  Merci !
 Merci !
 Merci&à toi !
@@ -8256,7 +8256,7 @@ Genre,&attaque&en duo !
 Genre...&hein ?&Je pige&pas.
 Genre,&bas les&pattes,&quoi.
 H-HÉ,&ARRÊTE&ÇA !!
-Genre...&ça c'est&pour toi,&02.
+Genre...&ça c'est&pour&toi, 02.
 Genre,&02...
 02...&tu...&tu&es...
 02...&j'ai&jamais&pu lui&dire...
@@ -8282,7 +8282,7 @@ C'est&plus&fort que&moi !!/%%
 conmusic
 Genre^1,&02 !&J'veux&dire.../
 Genre^1, j'te KIFFE^1,&t'sais !/
-Ta façon de te battre..^1.&Ta façon de parler.../
+Ta façon de&te battre..^1.&Ta façon de&parler.../
 Et j'aime trop&nos attaques&en duo./
 J'adore quand on reste&là tous les deux^1,&à faire tournoyer nos&armes en synchro.../
 02..^1.&Je^1, j'veux dire.&J'veux que ça&continue comme ça.../%%
@@ -8505,13 +8505,13 @@ Hoaa !!!&Erreur toute&chaude.
 Brûle,&bébé,&BRÛLE !
 Ça va,&c'est&assez&chaud ?!
 Tu&sens&cette&chaleur ?
-C'est moi&ou il&fait&frisquet ?
+C'est moi&ou il&fait&frisquet?
 Chaud !&CHAUD !&Brûlant.&BRÛLANT !
-BRR,&c'est&quoi&l'emb-&rouille ?
+BRR,&c'est&quoi&l'emb-&rouille?
 Désolé !!&J'ai les&mains&liées !!
 * Pyrolié est protégé par&  son sourire charmeur.
 * Pyrolié feint de déclencher&  l'alarme anti-incendie. 
-* Pyrolié ricane sous&  cape...ou corde, peu importe.
+* Pyrolié ricane sous&  cape... ou corde, peu importe.
 * Pyrolié se prend pour une&  bougie.
 * Ça sent la ficelle brûlée.
 * Pyrolié veut faire grimper&  le mercure. 
@@ -8596,7 +8596,7 @@ Pauvre fille~&Une araignée&n'abandonne&JAMAIS sa toile~/
 (Sauf pour vendre&des pâtisseries~)/%%
 À supposer qu'elles&passent sous la porte,&le froid hivernal de&Couveneige les tuerait./%%
 Maintenant que tu&le dis^1, il se peut que&j'éprouve quelque&regret.../%%
-Mais avec cet argent,&leur louer une voiture&chauffée est une&simple formalité~/%%
+Mais avec cet argent,&leur louer une voiture&chauffée serait une&simple formalité~/%%
 C'est vrai, j'aurais&dû l'enrouler dans ma&toile quand j'en&avais l'occasion~/%%
 Et avec le reste..^1.&Nous pourrions prendre&de bonnes vacances~/
 Voire même nous&construire un terrain&de baseball pour&araignées~/%%
@@ -14722,7 +14722,7 @@ peeepee
 \E0* du coup^1, j'continue d'en&  sortir^1, et elle se met&  à rire de plus belle./
 \E1* personne avait jamais&  trouvé mes blagues&  aussi drôles./
 \E0* je continue^1, et tout à&  coup, ELLE frappe à&  la porte^1 et lance.../
-\Tt* "Toc toc !"/
+\Tt* "toc toc !"/
 \Ts* \E1j'réponds "qui&  est là ?"/
 \Tt* \E0"maria !"/
 \Ts*\E1 "maria qui ?"/
