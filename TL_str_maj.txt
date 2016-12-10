@@ -1617,7 +1617,7 @@ myinteract
 * Que cela soit clair./
 * Ce problème est le mien,&  et le mien uniquement./
 * Mais si jamais je disparais&  pour ne jamais revenir.../
-* Si jamais vous voulez&  connaitre "la vérité"./
+* Si jamais vous voulez&  connaître "la vérité"./
 * Entrez par la porte&  en haut./
 * Vous avez au moins le&  droit de savoir ce que&  j'ai fait./
 * (Et c'est tout.)/%%
@@ -6740,7 +6740,7 @@ Hahaha !&D'où est-ce que&tu sors ça !?!
 * Jerry est blessé.
 * Les autres monstres fêtent&  la disparition de Jerry.
 * Le retour de Jerry.
-* JERRY - ATQ 0 DÉF 20&* Tout le monde connait Jerry.&* Les attaques durent 2 sec de + /^
+* JERRY - ATQ 0 DÉF 20&* Tout le monde connaît Jerry.&* Les attaques durent 2 sec de + /^
 * Vous et les autres monstres&  laissez tomber Jerry dès&  qu'il a le dos tourné !/^
 * ... sans succès !/^
 happy
@@ -6965,7 +6965,7 @@ sblcon
  ADMIRE !
  HMMM... JE ME& DEMANDE CE QUE& JE DEVRAIS& METTRE... 
  JUSQU'À QUELLE& HAUTEUR PEUX-TU& SAUTER ?
- QUOI !? JE NE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
+ QUOI !? JE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
  MAINTIENS LE& BOUTON "HAUT"& POUR SAUTER !!!
 \X C'EST ÇA !& NE M'OBLIGE PAS& À UTILISER MON& \RATTAQUE SPÉCIALE\X!
  MAINTIENS "HAUT"& POUR SAUTER PLUS& HAUT ! ZUT& QUOI !!!
@@ -15923,7 +15923,7 @@ cantalk
 * (Il n'y a presque plus de&  tarte.^1 Vous remarquez des&  empreintes de chien dessus...)/%%
 * Les monstres sont constitués&  principalement de magie,&  contrairement aux humains./
 * Ces derniers^1, constitués d'eau^1,&  possèdent une force physique&  bien supérieure à la nôtre./
-* Mais ils ne connaitront jamais&  les joies de l'expression au&  travers de la magie./
+* Mais ils ne connaîtront jamais&  les joies de l'expression au&  travers de la magie./
 * Ils n'auront jamais la chance&  de recevoir une carte d'&  anniversaire en projectiles.../%%
 * C'est une porte./%%
 \W* \OCourage^1. \YJustice.\W  &*\B Integrité^1. \GGentillesse^1.\W &*\P Persévérance^1. \LPatience. \W /
