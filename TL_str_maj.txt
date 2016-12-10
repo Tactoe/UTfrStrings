@@ -168,7 +168,7 @@ gx
 \E1* Dans l'OUTREMONDE^1, les&  humains sont souvent&  victimes d'attaques./
 \E2* Il faut te préparer à&  y faire face./
 \E0* Mais n'aie crainte !^2 &* Le procédé n'est pas&  compliqué./
-\E2* Lorsque tu croises un&  monstre,^1 un COMBAT&  débutera./
+\E2* Lorsque tu croises un&  monstre,^1 un COMBAT& débute alors./
 * Quand tu es dans un&  COMBAT^1, entame une&  conversation amicale./
 \E2* Essaye de gagner du&  temps. Je viendrai pour&  résoudre le conflit./
 \E2* Entraîne-toi à parler&  au mannequin./%
@@ -190,7 +190,7 @@ gx
 \E0* As-tu besoin d'idées&  de sujets de&  conversation ?/
 * Eh bien^1, en général je&  commence simplement par&  "comment allez-vous ?"../
 * Puis je leur demande&  quels sont leurs livres&  préférés.../
-* Les blagues peuvent&  aider à 'briser la &  glace'./
+* Les blagues peuvent&  aider à "briser la &  glace"./
 * Écoute donc celle-ci.../
 * Avec quelles tuiles&  le squelette couvre-t-il&  son toit ?/
 * ... des ro-TUILES !/
@@ -949,7 +949,7 @@ lv
 * Et donc^1, euuuh.../
 * J'imagine que ça fait&  de nous des ennemis^1,&  et tout./
 * Mais ch'uis pas très à l'aise&  pour ces trucs^1, haha./
-* Yo^1, tu peux m'dire une&  méchanceté^1, histoire que je&  te déteste ?/
+* Yo^1, tu peux m'dire une&  méchanceté^1, histoire que&  j'te déteste ?/
 * S'il te plaît ? & &         Oui         Non \C
 * Euh...?/
 * Yo^1, c'est ça que t'appelles&  une méchanceté ?/
@@ -1224,7 +1224,7 @@ PRENDS TON TEMPS !/%%
 * Hein ???&              JAMAIS &  Oui         avec toi\C
 \E6* Vraiment ^1?&* Comme c'est charmant !^1!&* J'accepte !/
 * Gambadons gaiement dans&  les champs fleuris&  de l'amitié !/
-\E2* ...OU PAS !/
+\E2* ... OU PAS !/
 \E2* Ai-je la MOINDRE&  raison de vouloir être&  ton amie !?/
 \E3* Si t'as encore toutes&  tes dents, c'est parce&  que Papyrus t'a invité !/
 \E0* Tu fais obstacle aux&  rêves et espoirs de&  tout le monde !/
@@ -1503,7 +1503,7 @@ scr_asgface
 \E3* Euh^1, a-attendez..^1.&* Je crois que j'en ai un&  sur mon portable./
 \E0* V-voilà^1, regardez un&  peu ça !/
 \E0* .../
-\E3* ...Oh^1, euh.../
+\E3* ... Oh^1, euh.../
 \E4* C'est..^1. euh..^1.&* C'est pas le bon.../
 \E5* Euh^1, oubliez./
 * Diantre^1.&* Est-ce que ces deux&  robots étaient.../
@@ -1668,7 +1668,7 @@ bs
 \E3* Ça euh^1, n'a pas vraiment&  de rapport avec la&  situation..^1. mais.../
 \E6* Euuh^1, dis^1, ça te dirait&  qu'on regarde une série&  télé humaine ensemble ??/
 * Un de ces quatre ???/
-\E4* Ça s'appelle^1, euh^1,&  M..^1.Miou Miou Mimi&  Bisou.../
+\E4* Ça s'appelle^1, euh^1,&  M..^1. Miou Miou Mimi&  Bisou.../
  & &         Carrément   ...non...\C
 * S-Sérieux !?/
 \E3* C'est vraiment bien ^1!&* C'est euh^1, ma série&  préférée !/
@@ -1888,10 +1888,10 @@ coherent
 * Appel en cours..\E0.\TT /
 \E0* TORIEL à l'appareil./
 * Tu voulais juste me dire&  bonjour...^2?&* Eh bien.../
-\E0* 'Bonjour !'/
+\E0* "Bonjour !"/
 * J'espère que ça te&  convient^1.&* Hihi./
 * Tu souhaites encore me&  dire bonjour ?/
-* 'Salutations !'/
+* "Salutations !"/
 * Est-ce suffisant ?/
 \F1 \TT %
 * Tu t'ennuies ^1?&* J'aurais dû te donner un&  livre./
@@ -2698,11 +2698,11 @@ scr_itemnamelist
 * "Hot-dog...?" Soigne 20 PV&* La "viande" est en fait&  constituée d'une "quenouille"./%%
 * "Hot-cat" Soigne 21 PV&* Comme un hot-dog^1, mais&  avec des oreilles de chat./%%
 * "Glamburger" Soigne 27 PV&* Un hamburger fait de paillettes&  comestibles./%%
-* "Lassi Thé" Soigne 10 PV&* Infusée avec l'eau des marais.&* [VITESSE +] pour un combat./%%
+* "Lassi Thé" Soigne 10 PV&* Infusé avec l'eau des marais.&* [VITESSE +] pour un combat./%%
 * "Starfait" Soigne 14 PV&* Un dessert fait d'étoiles&  scintillantes./%%
 * "Héros Légendaire" Soigne 40 PV&* Un sandwich en forme d'épée.&* [ATTAQUE +] lorsque consommé./%%
 * "Lunettes Sales" - Armure DF 6&* Elles sont marquées par&  l'usure. (Augmente l'INV de 9)/
-* (Après avoir été touché par&  une attaque^1, vous restez invu-&  lnérable plus longtemps.)/%%
+* (Après avoir été touché par&  une attaque^1, vous restez invul-&  nérable plus longtemps.)/%%
 * "Calepin Déchiré" - Arme AT 2&* Contient des notes illisibles.&* Augmente l'INV de 6./%
 * "Tablier Taché" - Armure DF 11&* Soigne 1 PV un tour sur deux./%
 * "Poêle Carbonisée" - Arme AT 10&* Ses dégâts sont constants.&* La nourriture soigne 4 PV de +./%
@@ -3266,7 +3266,7 @@ JE TE DÉCRIRAI&QUELQUES ASTUCES !/
 \E0ALORS^1, OÙ ES-TU ?/
 \E3.../
 \E5... T'ES ENCORE&DANS MA CHAMBRE ??/
-\E3NE SAIS-TU PAS&CE QUE C'EST^1,&UNE..^1.PORTE ?/
+\E3NE SAIS-TU PAS&CE QUE C'EST^1,&UNE..^1. PORTE ?/
 \E0ATTENDS ^1! PANIQUE&PAS ^1! JE VAIS FAIRE&UN DIAGRAMME !/%%
 UNE SECONDE ^1!&JE FINIS LE&DESSIN !/%%
 HEIN^1? JE TE CROYAIS&DÉJÀ SORTI DE MA&CHAMBRE./
@@ -3561,7 +3561,7 @@ VRAIMENT ??^1?&QUAND EST-CE&QU'ON Y VA ???/%%
 C'EST LA MAISON&D'UNDYNE./
 IL FAUT QU'ON AILLE&Y FAIRE LA FÊTE&UN DE CES JOURS !!!/%%
 TU ATTENDS TOUJOURS&DEVANT CHEZ ELLE..?/
-\E0OUAIS^1, ÇA M'ARRIVE&AUSSI^1, DE&FAIRE ÇA !/%%
+\E0OUAIS^1, ÇA&M'ARRIVE AUSSI^1,&DE FAIRE ÇA !/%%
 TU SAIS^1, CELLE AVEC&UN SQUELETTE QUI&ATTEND DEVANT./%%
 C'EST UN CHOUETTE&ENDROIT POUR.../
 \E5EUHHH ?/
@@ -3592,7 +3592,7 @@ NAPPE À BOUCS...?/%%
 * En plus, il peut même&  pas se blesser !!!/%%
 DONC COMME ÇA^1,&TU ES POTE AVEC&UN FANTÔME.../
 \E5N'EST-CE PAS UN&PEU EFFRAYANT ?/
-\E3TU NE PRÉFERES PAS&AVOIR UN AMI PLUS...&VIVANT ?/
+\E3TU NE PRÉFÈRES PAS&AVOIR UN AMI PLUS...&VIVANT ?/
 \E0UN SQUELETTE^1,&PAR EXEMPLE !!!/%%
 TOUT DOUX ET BOURRÉ&DE CALCIUM./%%
 * Oh^1, tu passes du temps&  avec Napstablook ?^1!&* C'est super !!!/
@@ -4269,11 +4269,11 @@ SANS !/
 \E0IL Y A DU VRAI&DANS CE QUE&TU DIS./%%
 \E3UN CROC MERCI POUR&VOTRE VISITE SUR&MON SITE WEB./
 \E0VOILÀ CE QU'ELLES&AIMENT POSTER EN&LIGNE./%%
-HMMM..^1.UNE&MAISON SCIENTIFIQUE&MYSTÉRIEUSE./
+HMMM..^1. UNE&MAISON SCIENTIFIQUE&MYSTÉRIEUSE./
 * l'écriteau indique&  "lab"./
 LAB ?/
 * ouais, comme..^1.&  laboratoire./
-LABRA..^1.DOIRE ?/
+LABRA..^1. DOIRE ?/
 IL Y A DONC&DES CHIENS À&L'INTÉRIEUR ?/
 * ben.../
 \E2* disons que c'est pas&  impossible./%%
@@ -5666,7 +5666,7 @@ Un être ayant le&pouvoir de&TOUT effacer.../
 \E7C'est TOI qui&détiens le pouvoir de&tout remettre à zéro./
 \E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Undyne.../
 Si tu fais ça.../
-Tu arracheras&tout le monde de cet&espace-temps.../
+Tu arracheras&tout le monde à cet&espace-temps.../
 Ce sera comme si&tout ça ne s'était&jamais passé./
 \E6Personne ne&se souviendra&de rien./
 \E5Et tu pourras&alors faire tout ce&que tu désires./
@@ -5865,7 +5865,7 @@ ON A NOTRE&RENCARD !!/
 ON TRAÎNE&ENSEMBLE !!/
 \E3JE N'AI JAMAIS&FAIT ÇA AVANT&AUJOURD'HUI./
 \E0MAIS PAS&D'INQUIÉTUDE !!/
-ON N'ÉCRIT PAS&'PRÉPARÉ' SANS&PLUSIEURS LETTRES&DE MON NOM !!!/%%
+ON N'ÉCRIT PAS&"PRÉPARÉ" SANS&PLUSIEURS LETTRES&DE MON NOM !!!/%%
 blconwd
 J'AI EMPRUNTÉ UN&AUTHENTIQUE GUIDE&
 DU RENCARD
@@ -7306,7 +7306,7 @@ Lav' toa&
 Ton&ÂME est&toute&sale
 Ouste!!!&Pauv'&tache
 Oups, euh&.^1.. à la&claire&fontaine~
-...m'en&allant&nettoyer !
+... m'en&allant&nettoyer !
 Si c'est&vert,&c'est&reluisant
 Eurk !
 Trop&frais !
@@ -7545,7 +7545,7 @@ Grahhh !!
   Tu vas devoir&  faire un peu&  mieux que ça !/%%
   T-tu vois, on est&  imbattables si&  l'on croit en&  nous-mêmes !/%%
   H... haha.../
-  Alors...on&  fatigue déjà ?/%%
+  Alors... on&  fatigue déjà ?/%%
 \E7  .../
   ... Je..^1.&  ... n'abandonnerai&  pas.../%%
 \E7.../%%
@@ -7664,7 +7664,7 @@ Hein./
 \E7Heh^1, tu sais&quoi ?/%%
 Moi non plus&j'ai pas vraiment&envie de te&blesser./
 Bon^1, au début,&je supportais pas&ta stupide&bienveillance.../
-\E3Mais.^1..la façon&dont tu m'as&frappée^1, ça.../
+\E3Mais.^1.. la façon&dont tu m'as&frappée^1, ça.../
 \E4Ça m'a rappelé&quelqu'un avec&qui je&m'entraînais./
 \E7J'vois à présent&que t'es pas juste&un humain&pleurnichard./
 \E9T'es un humain&pleurnichard&avec un coeur&d'or !/
@@ -7981,7 +7981,7 @@ TU N'OSERAIS JAMAIS&PASSER À L'[ACTION] ET&APPUYER SUR CE&BOUTON !/%%
 C'EST CELA !&LAISSE CE BOUTON !&ET LAISSE-MOI TE&DÉTRURE !/%%
 SANS L'AIDE DE CE&BOUTON, TA FIN&APPROCHE À CHAQUE&SECONDE QUI PASSE !/%%
 DANS QUELQUES&SECONDES !/%%
-DANS...QUELQUES...&SE-CONDES !/%%
+DANS... QUELQUES...&SE-CONDES !/%%
 .............&............/%%
 ... (AHEM)/%%
 OOH !!&CETTE AURA JAUNE...!/%%
@@ -8033,7 +8033,7 @@ dark
 * METTATON - ATQ 30 DÉF 255&* Non mais vraiment hein^1,&  il est invulnérable !/^
 * C'est ce qui risque de vous&  arriver si la situation ne fait&  qu'empirer./^
 * Vous dites à Mettaton qu'il y&  a un miroir derrière lui./%%
-Euh...je vois rien&de ce qui se passe&là-dedans, mais.../
+Euh... je vois rien&de ce qui se passe&là-dedans, mais.../
 A-aie confiance,&d'accord ?!/
 I-il y a un autre&moyen d-de vaincre&Mettaton.../
 C-c'est.... euh...&c'est.../
@@ -8297,7 +8297,7 @@ J-je&disais&quoi,&déjà ?/
 C'est le&trou&noir,&mec !/%%
 ...01./%%
 O-ouais,&mec ??/%%
-...ça&te dirait&d'aller.../
+... ça&te dirait&d'aller.../
 ...manger&une glace&.../
 ...&après&ça ?/%%
 J'veux&dire.../
@@ -9006,11 +9006,11 @@ sadmett
 oh......../
 \E1salut..^1.&mettaton.../
 j'ai adoré&regarder ton&émission.../
-ma vie est plutôt&nulle..^1.mais.../
+ma vie est plutôt&nulle..^1. mais.../
 ton émission télé..^1.&a apporté beaucoup&de bonheur dans ma&vie..^1.par procuration./
 je peux me tromper^1,&mais..^1. j'imagine&que c'est le&dernier épisode...?/
 \E3tu vas me manquer..^1.&mettaton....../
-...oh...^1. je pensais&pas parler aussi&longtemps.../
+... oh...^1. je pensais&pas parler aussi&longtemps.../
 \E2oh........../%%
 NON^1, ATTENDS ^1!&ATTENDS^1, BL.../
 \E1IL..^1.&ÇA A RACCROCHÉ./
@@ -9027,7 +9027,7 @@ MERCI..^1.&MERCI INFINIMENT^1,&VOUS TOUS./
 \E0ILS N'ONT QUE MOI./
 \E1SI JE PARTAIS..^1.&L'OUTREMONDE PERDRAIT&DE SON ÉCLAT./
 \E3MON DÉPART LAISSERAIT&UN VIDE IMPOSSIBLE&À COMBLER./
-\E0ALORS..^1.JE CROIS&QUE JE VAIS DEVOIR&REMETTRE ÇA À&PLUS TARD./
+\E0ALORS..^1. JE CROIS&QUE JE VAIS DEVOIR&REMETTRE ÇA À&PLUS TARD./
 \E2ET PUIS./
 \E1TU AS FAIT PREUVE&D'UNE GRANDE FORCE./
 \E0UNE FORCE PEUT-ÊTRE&MÊME SUFFISANTE..^1.&POUR SURVIVRE À&ASGORE./
@@ -9333,10 +9333,10 @@ burston
 \E5TU N'Y AS PAS&MIS TOUT CE QUE&TU AVAIS./
 \E6ALORS...&OUI, IL SE PEUT&QUE TU PULVÉRISES&ASGORE.../
 \E5MAIS TU NE&T'ATTAQUERAS PAS&À L'HUMANITÉ^1,&PAS VRAI ?/
-\E1TU N'ES PAS&'SI' DIABOLIQUE./
+\E1TU N'ES PAS&"SI" DIABOLIQUE./
 \E5ET SI TU ESSAYAIS&DE L'ÊTRE, EH BIEN&C'EST RATÉ./
 \E0ET À LA TOUTE&FIN DU SPECTACLE,&EN PLUS./
-\E0HA...HA...&AU MOINS,&JE PEUX PARTIR&SEREIN./
+\E0HA... HA...&AU MOINS,&JE PEUX PARTIR&SEREIN./
 \E3CAR JE SAIS&QU'ALPHYS ET&LES HUMAINS&SURVIVRONT...!/%%
 \E6GH.../
 \E5JE SUPPOSE QUE&C'EST NON POUR&REJOINDRE MON&FAN-CLUB...?/%%
@@ -11919,7 +11919,7 @@ srx
 * (C'est trop petit pour&  dormir dessus.)/%%
 * (Malheureusement^1, cette&  nourriture est sèche.)/%%
 * (Il y a un hot-dog découpé&  dans la croquette.)/%%
-* (C'est un tas de neige avec le&  mot 'sans' écrit dessus&  au feutre rouge.)/%%
+* (C'est un tas de neige avec le&  mot "sans" écrit dessus&  au feutre rouge.)/%%
 * (C'est un Papyrus de neige.)/%%
 * (Quelle petite niche !)/%%
 * (Elle doit être plus&  grande à l'intérieur.)/%%
@@ -12455,7 +12455,7 @@ dog1
 dog2
 dogmeander
 * C'est quoi cette odeur ^1?&* (D'où elle vient ?)/
-* Cette odeur^1...&* (...je la sens vraiment&  pas !)/%%
+* Cette odeur^1...&* (... je la sens vraiment&  pas !)/%%
 * Hmmm..^1.&* Voilà l'odeur étrange.../
 * Ça me donne envie d'éliminer&  des trucs./
 * (... De t'éliminer TOI !)/%%
@@ -12758,7 +12758,7 @@ sl1
 * C'pas grave^1, yo !&* On la recroisera sûrement !/%%
 * ... yo^1, t'as vu un peu ^1?&* On aurait dit qu'elle était&  en pétard !/
 * Comme si elle pouvait me&  réduire en bouillie juste&  en m'regardant !/
-* Mais..^1.pfff..^1.&* Il a fallu qu'elle me&  repose par terre.../
+* Mais..^1. pfff..^1.&* Il a fallu qu'elle me&  repose par terre.../
 * Yo ^1!&* La prochaine fois peut-être ^1!&* Allez viens !/%%
 vhspeed
 hhspeed
@@ -12899,7 +12899,7 @@ sword
 teacup
 REGARDE^1, UNDYNE./
 L'HUMAIN T'A AMENÉ&UN CADEAU,^1 DE SA&PROPRE INITIATIVE !/%%
-* Uhhh..^1. merci./%%
+* Euhhh..^1. merci./%%
 * Je vais^1, euh^1, le ranger&  avec les autres./%%
 * Donc, on peut&  commencer ?/%%
 ZUT DE FLÛTE ^1!&J'AVAIS TOTALEMENT&OUBLIÉ !/
@@ -13379,7 +13379,7 @@ idealxview
 * Faudra d'abord me passer&  sur le corps./%%
 * Elle est partie.../
 * Yo^1, tu m'as vraiment sauvé&  la peau./
-* C'était ptêtre pas une super&  idée^1, d'être ennemis^1, haha./
+* C'était p'têtre pas une super&  idée^1, d'être ennemis^1, haha./
 * Et si on devenait amis&  à la place ?/
 * ... woah^1, 'faut VRAIMENT que&  je rentre chez moi.../
 * Mes parents doivent être en&  train de se faire un sang&  d'encre !/%%
@@ -13391,7 +13391,7 @@ idealxview
 * T-t'as intérêt à r-re-rester&  où t'es.../
 * Parce que si t'essayes de faire&  du mal à qui qu'ce soit..^1.&* T-tu.../
 * Tu devras d'abord me passer&  sur le corps./
-* A..^1. al..^1.alors..^1.%%
+* A..^1. al..^1. alors..^1.%%
 * T-tu vois ^1?&* J'savais bien qu-que t'étais&  sympa, finalement !/
 * Faut que j'prévienne Undyne&  qu'elle se trompait sur toi !/%%
 * Undyne..^1.&* Tu...^1.&* Tu m'as sauvé !/
@@ -13778,7 +13778,7 @@ musicbox
 * Avoir le ciel au-dessus de la&  tête^1, admirer le paysage tout&  autour..^1. C'est ça mon souhait./%%
 * Mais nan, je vais pas me&  moquer !/%%
 * ... hmmm..^1. Si je te le dis..^1.&* Tu me promets de ne&  pas te moquer de moi ?/%%
-* Mais où diable te caches-&tu, mon enfant...?/
+* Mais où donc te caches-&tu, mon enfant...?/
 * Cela fait des heures que&  je cherche partout.../
 \TS* .../
 \TF* Hi hi hi./
@@ -13816,7 +13816,7 @@ EUH... À PROPOS DE&CET HUMAIN DONT JE&T'AI PARLÉ PLUS TÔT.../
 \M1.\M6.. HEIN ^1?&EST-CE QUE JE L'AI&COMBATTU ?/
 \M4O-OUI ^1!&BIEN SÛR QUE JE&L'AI COMBATTU !/
 \M4JE L'AI COMBATTU&VAILLAMMENT !/
-\M5...QUOI ^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
+\M5... QUOI ^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 \M0E-EH BIEN.../
 \M1NON./
 \M1J'AI VRAIMENT TOUT&ESSAYÉ^1,UNDYNE^1,&MAIS FINALEMENT.../
@@ -14279,7 +14279,7 @@ connor
 \M3* DE DRÔLES D'ENNEMIS ^1!&* DE DRÔLES D'ALLIÉS ^1!&* DES ROBOTS SÉDUISANTS !/
 \M4* AVEC AU MOINS SIX&  CHOIX DE DIALOGUES&  ARBITRAIRES À LA FOIS !/
 \M5* CHER REPORTER ^1!&* VOYONS MAINTENANT LE&  CONTENU DE CETTE BOÎTE !/%%
-\M4* ...MAIS..^1.&* CES CYLINDRES ROUGES^1,&  CES MÈCHES INCANDESCENTES.../
+\M4* ... MAIS..^1.&* CES CYLINDRES ROUGES^1,&  CES MÈCHES INCANDESCENTES.../
 \M5* OH NON ^1!&* MAIS C'EST LITTÉRALEMENT&  UNE BOMBE^1, CE JEU !/
 \M5* C'ÉTAIT DONC VRAI&  DEPUIS LE DÉPART !!!/
 \M5* LES JEUX VIDÉOS ENGENDRENT&  BEL ET BIEN LA VIOLENCE !/
@@ -15454,7 +15454,7 @@ ml
 \E4* (spssst^1, ssspt).../
 \E2* ... tu viens de dire&  "c'est moi^1, le grand&  flatulax ?"/
 \E1* wow./
-\E1* c'est..^1.euh..^1.&* vachement puéril./
+\E1* c'est..^1. euh..^1.&* vachement puéril./
 \E2* pourquoi t'as cru que&  c'était un mot de&  passe super-secret ?/
 \E1* celui qui t'a dit ça&  s'est payé ta poire./
 \E2* j'ai aucun mot de passe&  super-secret./
@@ -15487,7 +15487,7 @@ sansk
 \E1* alors^1, dis-moi^1, après&  "trois"^1, c'est quoi ?/
 \E4* et si on découvrait&  ça ensemble ?/%%
 \E1* c'est celle de quelqu'un&  qui vient de clamser&  quarte fois de suite./
-\E1* quarte ^1?&* qura..^1.quartre ?/
+\E1* quarte ^1?&* qura..^1. quartre ?/
 \E4* bah^1, de toute façon, je&  m'en servirai plus, pas&  vrai ?/%%
 \E1* c'est celle de quelqu'un&  qui vient de clamser&  cinq fois de suite./
 \E2* t'as vu ça ^1?&* j'ai juste assez de&  doigts pour les compter./
@@ -15634,7 +15634,7 @@ ICI PAPYRUS^1.&TON AMI&QUI T'AIME AUSSI./
 \E5TRÈS CHEZ ELLE./
 \E3EUH... ET&MAINTENANT./
 \E0J'AI LA FORTE&ET INEXPLICABLE&IMPRESSION./
-\E3QUE TU DEVRAIS&ALLER..^1.LÀ-BAS./
+\E3QUE TU DEVRAIS&ALLER..^1. LÀ-BAS./
 \E0À SON^1.&LABO..^1. MAISON./
 CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \E5AU REVOIR./
@@ -16125,7 +16125,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (... Mis à part ceux qui&  servent à changer de chaîne.)/%%
 * (Une corde.^1)&* (Le chien ne prend pas de&  doublures lors des cascades.)/%%
 * (On dirait une émission&  mettant Mettaton en vedette.)/%%
-* (Statue de tem..^1.tré tré&  célèbr^1)&* (TRÉ TRÉ !!!!!)/%%
+* (Statue de tem..^1. tré&  tré célèbr^1)&* (TRÉ TRÉ !!!!!)/%%
 * C'est toi !/%%
 * C'est toujours toi^1, Frisk./%%
 * C'est moi^1, 
@@ -16203,7 +16203,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (Une petite flaque est&  en train de se former.)/%%
 * (Une flaque moyenne est&  en train de se former.)/%%
 * (Une grande flaque est&  en train de se former.)/%%
-* (Un petit arbrer est en train&  de pousser dans la flaque.)/%%
+* (Un petit arbre est en train&  de pousser dans la flaque.)/%%
 * (Ce panneau indique&  les toilettes.)/%%
 * (À l'intérieur du tiroir se&  trouve une clé argentée.)/
 * (Vous l'ajoutez à votre&  porte-clés.)/%%
@@ -16680,14 +16680,14 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E0* "Chers citoyens.^1"&* "Merci de votre présence&  ici en ce jour."/
 \E3* " Moi..^1. Sire Popotouffe ... " /
 \E2* La suite, tout l'monde la&  connaît./%%
-\E2* Hein, quoi ^1?&* Tu veux que je répète ?/
+\E2* Hein, quoi ^1?&* Tu veux que j'répète ?/
 \E0* Et puis quoi, encore ^1!&* T'as des yeux, non ^1?&* Va donc lire un bouquin ^1!&* Wahaha !/%%
 \E0* Ah oui..^1.&* La prophétie./
 \E4* La légende raconte qu'un&  "ange" venu de la surface&  descendra ici-bas et nous&  libérera tous./
 \E3* Mais récemment^1, les gens ont&  commencé à rendre c'te&  légende plus... sinistre./
 \E4* Certains appellent&  désormais ce cercle ailé&  "l'Ange de la Mort"./
 \E3* Le héraut de la destruction^1,&  qui viendrait nous "libérer"&  du royaume des mortels.../
-* Moi^1, quand j'vois ce petit&  rond.../
+* Moi^1, quand j'vois ce&  p'tit rond.../
 \E2* J'le trouve juste marrant ^1!&* Wahaha !/%%
 \E0* L'histoire d'ce symbole&  n'est pas consignée dans&  les écrits^1. Sa signification&  s'est perdue au fil des âges.../
 \E4* Tout c'que l'on sait de lui^1,&  c'est qu'ces triangles nous&  représentent nous, les monstres^1,&  et le cercle ailé symbolise.../
@@ -16695,7 +16695,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E0* Y disent tous qu'ça&  représenterait cet "ange"&  prophétique.../%%
 \E0* Hein ^1?&* Comment ça tu sais&  pas c'que c'est ?/
 \E1* Mais qu'est-ce qu'on vous&  colle dans l'crâne à l'école ^1?&*\E2 Wa ha ha !/
-\W*\E0 C'est la \YRune Delta^1,\W voyons !&* L'emblême de notre royaume^1.&* Le Royaume.../
+\W*\E0 C'est la \YRune Delta^1,\W voyons !&* L'emblème de notre royaume^1.&* Le Royaume.../
 * ... des Monstres./
 * Wahaha ^1!&* Pas mal, comme nom^1, hein ^1?&* Comme j'l'ai toujours dit.../
 * C'bon vieux Sire Popotouffe &  saurait même pas nommer&  son peignoir correctement !/%%
@@ -16717,7 +16717,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E3* ... J'sais bien qu'tu peux&  rien m'faire ici./
 \E1* Wah ha.^1..&* C'est le fait de savoir&  autant de choses qui m'a&  permis de dev'nir si vieux./%%
 * Sire Popotouffe ^1?&* C'est un bon gars^1, un doux&  rêveur, plutôt insouciant.../
-\E4* Si tu continues ton chemin^1,&  tu tombera sûrement d'ssus^1.&*\E0 Il aime beaucoup s'promener&  et parler aux gens./
+\E4* Si tu continues ton chemin^1,&  tu tomberas sûrement d'ssus^1.&*\E0 Il aime beaucoup s'promener&  et parler aux gens./
 \E3* Hein ^1?&* Pourquoi j'appelle Dreemurr& "Popotouffe" ^1?&*\E2 Oh^1, c'est toute une histoire !/
 \E0* ...'M'en souviens pas./
 * Si tu repasses un peu plus&  tard^1, j'suis persuadé que&  j'm'en serai rappelé d'ici là./%%
@@ -17670,7 +17670,7 @@ jeffrey
 * Je me demande si ce squelette&  bizarre est un enfant ou&  un adulte./%%
 * Yo..^1.&* Ah, t'es enfin là !/
 * J'me suis un peu inquiété&  pour toi après ta&  fuite./
-* ...mais maintenant j'suis&  juste en pétard^1, haha./
+* ... mais maintenant j'suis&  juste en pétard^1, haha./
 * Si Undyne m'avait pas sauvé^1,&  ça aurait mal tourné.../%%
 * Yo..^1.&* Euh.../
 * Laisse-moi tranquille./%%
@@ -18003,7 +18003,7 @@ scr_enemynpc2
 * J..^1. J'ai p-peur... ; )/
 * Les fantômes n'existent pas^1,&  pas vrai ?&* ; )/
 * Comment ^1? Ils existent ^1?&* Oh noooooon ; )/%%
-* Les fantômes^1, les anime^1, tous&  mes cauchemars sont&  devenus réalité ; )/%%
+* Les fantômes^1, les animes^1, tous&  mes cauchemars sont&  devenus réalité ; )/%%
 * Tout est si sale..^1.&* Si je pouvais tout effacer^1,&  je le ferais./
 * Ohhhh^1.&* Va pas te faire des idées^1.&* J'souhaite la mort de personne./
 * Les gens se transforment en&  poussière à leur mort^1, et&  c'est galère à nettoyer.../%%
