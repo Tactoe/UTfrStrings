@@ -8800,7 +8800,7 @@ Tu en&as vu&assez.
 Un&dernier&coup&d'oeil.
 De quoi&as-tu&donc si&peur ?
 Enfin,&quelqu'un&qui a&pigé.
-Comment&oses&-tu.
+Comment&oses-tu.
 Bah&voilà !
 Tu&oses&me&défier ?
 Tu es&bien&témé-&raire.
@@ -9059,7 +9059,7 @@ Si tu as appuyé&sur ce bouton, ça&ne peut signifier&qu'une chose./
 Tu meurs d'envie&de voir mon&nouveau corps en&avant-première./
 Quel toupet.../
 Une chance pour&toi, je mourais&d'envie de&le montrer./
-Alors..^1.pour te&remercier^1, je veux&bien te faire&une fleur./
+Alors..^1. pour te&remercier^1, je veux&bien te faire&une fleur./
 Je vais rendre&tes derniers&instants.../%%
 ABSOLUMENT fabuleux !/%%
 mb
@@ -11601,7 +11601,7 @@ curf
 \E0* Fais attention à toi^1,&  à la surface^1, OK ?/
 * Malgré ce qu'ils pensent&  tous^1, c'est pas&  aussi rose qu'ici-bas./
 \E7* Il y a beaucoup de&  Flowey là-dehors./
-\E2* Et on peut pas résoudre&  tout les problèmes&  avec un sourire./
+\E2* Et on peut pas résoudre&  tous les problèmes&  avec un sourire./
 * Ne tue pas^1, et&  ne te fais pas tuer^1,&  d'accord ?/
 * C'est tout ce que&  je peux te souhaiter./
 * Voilà^1, à plus./%%
@@ -11977,7 +11977,7 @@ MAIS QUI POURRAIT&BIEN L'AVOIR ÉRIGÉ^1,&VOUS DEMANDEZ-VOUS.../
 JE PARIE QUE&C'ÉTAIT UN GARDE&ROYAL TRÈS CÉLÈBRE !/
 (NOTE : UN GARDE&ROYAL PAS ENCORE&TRÈS CÉLÈBRE.^1)/%%
 (NOTE : UN GARDE&ROYAL PAS ENCORE&TRÈS CÉLÈBRE.^1)/
-(MISE À JOUR : SERAIS-JE&BIENTÔT UN GARDE&ROYAL ???)/%%
+(MISE À JOUR : SERAI-JE&BIENTÔT UN GARDE&ROYAL ???)/%%
 * Ces instructions sont écrites&  en patte de mouche./%%
 * C'est une sorte de stand&  ou de poste de garde./
 * Mais il y a des bouteilles de&  ketchup^1, de moutarde^1, et d'&  autres sauces à l'intérieur.../%%
@@ -16451,7 +16451,7 @@ RAAH, OUBLIE ÇA !/%%
 * Satisfais-toi de ce que tu as^1.&* Même si tu ne peux pas&  reprendre de hot-dog./%%
 * J'me chauffe les miches !/%%
 * (C'est un oeuf dur.)/%%
-* (Vous essayez de carresser&  le chien, mais il se décompose&  en un tas de poils.)/
+* (Vous essayez de caresser&  le chien, mais il se décompose&  en un tas de poils.)/
 * (Ce n'était en fait qu'une&  mue de chien faite de&  résidus canins.)/%%
 * (C'est un tas de&  résidus canins.)/%%
 movementalarm
@@ -16725,7 +16725,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E3* Ça a été une sacrée perte&  quand elle a plié bagage./
 \E1* Après tout, on sait tous que&  c'était elle la tête pensante&  derrière la couronne.../
 \E0* Mais honnêtement, c'était&  quand même une touuute&  petite délivrance^1,&  tu sais ?/
-\E3* C'était une torture d'les&  voir ensemble, ces deux-là^1.&* Et vas-y que j'te bécotte&  devant tout le monde^1, à&  en faire rougir leurs gamins.../
+\E3* C'était une torture d'les&  voir ensemble, ces deux-là^1.&* Et vas-y que j'te bécote&  devant tout le monde^1, à&  en faire rougir leurs gamins.../
 \E0* Leurs mignonneries me&  rendaient MALADE^1.&* Dieu merci, tout ça c'est&  fini, maintenant !/%%
 \E3* Hein ^1? T'affronter ?/
 \E1* Nan..^1. Jouer au héros^1, c'est&  pas mon genre^1.&* Ça l'a jamais été./
@@ -16949,7 +16949,7 @@ mew
 \E8* Oh !^1!&* JUSTE l'autre&  jour !/
 \E3* Il y avait&  ce petit chat&  blanc TROP&  MIGNON qui se&  baladait.../
 \E4* Il était^1, genre^1,&  COMPLÈTEMENT&  perdu./
-\E1* Je l'ai&  carressé&  pendant genre&  une heure !!/%%
+\E1* Je l'ai&  caressé&  pendant genre&  une heure !!/%%
 \M5* ....^1.&* ....^1.&* ... Catty^2./*
 \E7* Ouais^1, Gatty ?/%%
 \M1* Je crois que ça&  c'était^1, genre..^1.&* Un chien^3./*
