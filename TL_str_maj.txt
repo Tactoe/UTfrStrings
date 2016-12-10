@@ -98,7 +98,7 @@ room
 * (De temps en temps^1, un déchet&  en tombe...)/ 
 * (... et disparaît dans l'abysse&  sans fond s'étendant sous&  vos pieds.)/
 * (Voir ce cycle sans fin&  de déchets sans valeurs...)/
-* (Faire partie de ces déchets&  vous empli de détermination.)/%%
+* (Faire partie de ces déchets&  vous emplit de détermination.)/%%
 * (Vous ressentez une apaisante&  tranquillité^1. Cela vous&  emplit de détermination...)/%%
 * (Vous ressentez..^1. un truc.)&* (Cela vous emplit de&  détemmienation...)/%%
 * (Le vent hurle^1.&* Vous êtes empli de&  détermination...)/%%
@@ -537,7 +537,7 @@ scr_murderlv
 * Vous décidez de ne pas en&  prendre./%%
 * zzzzzzzzzzzzzzz..^1.&* zzzzzzzzzzzzzz.../
 * zzzzzzzzzz..^1.&* (allez, pars...^1)&* zzzzzzzzzzzzzzz.../
-* (Ce fantôme n'arrête pas de&  répéter 'z' à voix haute^1, en&  prétendant dormir.)/
+* (Ce fantôme n'arrête pas de&  répéter 'z' à voix haute^1,&  prétendant dormir.)/
 * L'écarter de force ?& &         Oui         Non \C
 * C'est écrit "Prenez tout".&* Prendre un bonbon ?&         Oui         Non \C
 * Vous en prenez un.&* Diantre^1, que c'est lourd./%%
@@ -1491,7 +1491,7 @@ UN TOAST !!^1!&À TOUS LES LOOSERS&ET CEUX À VENIR !!/
 scr_asgface
 \E2* Eum..^1. qu'est-ce donc&  qu'un.../
 \E0* ... anime ?/
-\E1* (O^1.M^1.G ?)/
+\E1* (O^1.M^1.G^1. ?)/
 \E3* (Frisk^1. S'il te plaît.)/
 \E2* (Tu peux m'aider à lui&  expliquer ce qu'est un&  anime ?)/
 \E0* En fait^1, c-c'est comme&  un dessin animé^1,&  m-mais.../
@@ -1669,7 +1669,7 @@ bs
 \E6* Euuh^1, dis^1, ça te dirait&  qu'on regarde une série&  télé humaine ensemble ??/
 * Un de ces quatre ???/
 \E4* Ça s'appelle^1, euh^1,&  M..^1.Miou Miou Mimi&  Bisou.../
- & &         Carrément  ...non...\C
+ & &         Carrément   ...non...\C
 * S-Sérieux !?/
 \E3* C'est vraiment bien ^1!&* C'est euh^1, ma série&  préférée !/
 * Ça parle d'une fille&  humaine^1, Miou Miou^1, qui&  a des oreilles de chat !%
@@ -1910,11 +1910,11 @@ coherent
 \E1* Tu veux en savoir plus&  sur moi ?/
 * Eh bien, j'ai bien peur&  qu'il n'y ait pas&  grand-chose à dire./
 \E0* Je ne suis qu'une&  vieille dame qui&  s'inquiète trop !/
-\E8* Hein ^2?&* Tu viens de&  m'appeler... "Maman" ?/
+\E8* Hein ^2?&* Viendrais-tu de&  m'appeler... "Maman" ?/
 \E1* Eh bien...&* Si tu veux.../
 * Est-ce que ça te ferait&  plaisir ?/
 * De m'appeler..^1.&* "Mère" ?/
-\E0* Alors^1, appelle-moi dès&  que tu en as envie !/!
+\E0* Alors^1, appelle-moi comme&  tu le sens !/!
 \E8* ...^2 hein ???/
 \E1* Oh,^1 euh..^1. euh...^1 \E0 &* Ha ha ha !/
 * Comme c'est mignon...^1 &  Je t'en pincerais&  presque la joue !/
@@ -2789,7 +2789,7 @@ scr_weaponeq
 * Vous mangez les Temmie Flakes.
 * Vous mangez la quiche.
 * Vous vous équipez du&  Vieux Tutu./%
-* Vous vous équipez des&  Ballerines./%
+* Vous vous équipez du&  Ballerines./%
 d
 * OOOORAAAAA !!^1!&* Vous déchirez le poing de&  fidélité en deux !/
 add
@@ -3132,7 +3132,7 @@ EEET J'AI PLUS RIEN&À DIRE^1. ÇA JETTE UN&FROID, HEIN ?/%%
 LE BONHOMME DE&NEIGE EST&TOUJOURS LÀ ?/%%
 OH HO ^1! LE DÉDALE&ÉLECTRIQUE ^1! ÇA,&C'ÉTAIT AMUSANT !/
 \E3MIS À PART LE FAIT&QUE J'AIE ÉTÉ&ÉLECTROCUTÉ./%%
-OH-HO ^1! LE DÉDALE&ÉLECTRIQUE ^1! QUEL&BON CASSE-CRÂNE !/
+OH HO ^1! LE DÉDALE&ÉLECTRIQUE ^1! QUEL&BON CASSE-CRÂNE !/
 \E3MIS À PART LA&PARTIE OÙ ON A ZAP-&PÉ LE CASSE-CRÂNE./
 \E0MAIS OUBLIE CE PETIT&DÉTAIL ET IL MÉRITE&UN 10 SUR 10  !/%%
 ÇA ME DÉSOLE^1, MAIS&J'AI DÉSACTIVÉ&L'ÉLECTRICITÉ./%%
@@ -3154,7 +3154,7 @@ TOUJOURS EN TRAIN&DE REGARDER CES&JEUX DE MOTS ?/%%
 AH^1, LA SALLE PIÉGÉE&AUX SPAGHETTIS.../
 ERROR????/%%
 \E3IL FAUDRAIT QUE J'Y&FASSE UN TOUR^1,&À L'OCCASION.../
-\E2LES SPAGHETTIS QUE&TU AS LAISSÉS SONT&TOUJOURS LÀ-BAS !!!/%%
+\E2LES SPAGHETTIS QUE&TU M'AS LAISSÉ SONT&TOUJOURS LÀ-BAS !!!/%%
 \E3ENFIN^1, J'IMAGINE&QUE CE N'EST PLUS&VRAIMENT UN PIÈGE../
 \E0SURTOUT DEPUIS QUE&TU AS TOUT DÉVORÉ^1,&N'EST-CE PAS ?!/%%
 RIEN DE TEL QU'UN&BON POT DE SPAGHS&BIEN CHAUD..../%%
@@ -3205,7 +3205,7 @@ JE COMMENCE À&PERDRE LE SIGNAL./
 \E0INUTILE D'ALLER PLUS&LOIN, ALORS./%%
 ALLÔ./%%
 LA GUÉRITE DE&MAXICHIEN./
-\E3IL RESSEMBLE ÉTRAN-&GEMENT À UN CERTAIN&CHIEN QUI M'AGACE./
+\E3IL RESSEMBLE ÉTRAN-&GEMENT À UN CERTAIN&CHIEN QUI M'AGAÇE./
 \E0SAUF QUE MAXICHIEN&NE CHAPARDE RIEN./
 \E2IL SOUFFRE SEULE-&MENT DE KLEPTO-&MANIE AFFECTIVE !/%%
 IL A D'AILLEURS&AMASSÉ DE NOMBREUX&CÂLINS ET CARESSES./%%
@@ -3216,7 +3216,7 @@ J'AI MÊME AJOUTÉ&LA CORDE./%%
 COUVENEIGE..^1.&FOYER DE PAPYRUS !/
 \E3C'EST LE SLOGAN^1,&N'EST-CE PAS ???/%%
 JE VAIS LANCER UNE&PÉTITION POUR&CHANGER LE SLOGAN./%%
-CE TYPE POILU PASSE&SES JOURNÉES À&LANCER DES GLAÇONS./
+CE TYPE POILU PASSE&SES JOURNÉES À&LANCER DE LA GLACE./
 PERSONNE NE SAIT&VERS OÙ ELLE PART&ENSUITE./%%
 PERSONNE NE SAIT&VERS OÙ ELLE PART&ENSUITE./
 * Moi je sais ^1!&* Alphys me l'a&  expliqué.../
@@ -3362,7 +3362,7 @@ LA OUICHE SOUS LE&BANC, UN GRAND&CLASSIQUE./%%
 * La ouiche sous le banc^1,&  un grand classique !/%%
 \E3C'EST LA SALLE AUX&SOUHAITS^1. TU EN AS&UN EN RÉSERVE...?/
 \E0NYEH HEH HEH !^1!&MOI OUI !!!/
-\E2JE SOUHAITE PARLER&À MON SUPER&POTE L'HUMAIN !!!/
+\E2JE SOUHAITE PARLER&À MON SUPER&POTE !!!/
 \E0REGARDE !!^1!&ÇA FONCTIONNE !/%%
 ALORS^1, QUE VAS-TU&DONC SOUHAITER ?/%%
 * Chaque jour^1, les gens&  viennent ici faire un&  voeu sous les étoiles.../
@@ -3434,7 +3434,7 @@ TU AS TROUVÉ LE&TRÉSOR ?/%%
 \E3UN MONSTRE OISEAU ^1?&ESSAYE DE LUI&PARLER !!!/
 \E0SINON^1, TU PEUX&AUSSI ME LE&PASSER !/
 \E2JE SUIS&INCOLLABLE EN&CHANTS D'OISEAUX./
-\E0(IMITATIONS&D'OISEAU TRÈS&APPROXIMATIVES.)/%%
+\E0(IMITATIONS&D'OISEAU TRÈS&APPROXIMATIVES)/%%
 ALORS ^1? IL EN A&PENSÉ QUOI ???/%%
 * Ce piaf transporte qui-&  conque souhaite passer^1.&* Et sans JAMAIS broncher./
 \E7* Quand j'étais petite^1,&  il m'aidait à traverser^1.&* Il mettait une heure.../
@@ -3454,9 +3454,9 @@ JE CROIS SAVOIR&QU'UN MONSTRE ASSEZ&TIMIDE VIT PAR ICI./
 \E4* Elle était plutôt&  douée..^1. \E9pour quelqu'un&  sans doigts./
 \E4* Un beau jour^1, pourtant^1,&  elle n'est plus venue&  prendre ses leçons.../%%
 \E7* Hum, c'était quoi déjà&  sa chanson...?/%%
-HEIN ?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE ?/
+HEIN ?^1!&JE RÊVE OU TU ME&JOUES LA SÉRÉNADE?/
 \E2OH NON !!^1!&TU VAS ME FAIRE&ROUGIR, ARRÊTE !!!/%%
-IL FAUT QU'ON&ÉCRIVE NOS AVEN-&TURES EN CHANSON!!!/%%
+IL FAUT QU'ON&ÉCRIVE NOS AVEN-&TURES EN CHANSON!!/%%
 \E6* Ha !^1! HA !!^1!&* Il est signé UNDYNE^1,&  ce casse-tête !!/
 \E0* Pour être honnête^1,&  j'avais juste envie de&  coller un piano ici./
 \E2* J'adore FRAPPER LES&  TOUCHES BLANCHES !!!/%%
@@ -3512,7 +3512,7 @@ MIEUX VAUT NE PAS&T'AVENTURER PLUS&LOIN./%%
 \E1* ... et par quel miracle&  avais-je raison ???/%%
 * Inutile de&  m'expliquer !!/%%
 DES FLEURS...?/
-\E0EST-CE QU'ELLES&PARLENT ?^1! DIS&COUCOU DE MA PART !/%%
+\E0EST-CE QU'ELLES&PARLENT ?^1! DIS&COUCOU DE MA PART!/%%
 LES FLEURS SONT&NOS AMIES !/%%
 * Ces fleurs.../
 * Un beau jour^1, elles&  ont tout simplement&  poussé là./
@@ -3548,9 +3548,9 @@ OUBLIE QUE JE&T'AIE DIT ÇA./%%
 HÉ ^1!&TU ARRIVES PRÈS DE&CHEZ UNDYNE !/
 C'EST EN HAUT À&GAUCHE^1.&BREF, EN HAUCHE./
 \E3TOUS LES AUTRES&CHEMINS MÈNENT À LA&MAUVAISE MAISON./
-\E0AU NORD:&MAISON DE FANTÔME./
-À L'EST:&MAISON DE TORTUE./
-AU SUD:&MAISON D'ORDURES./%%
+\E0AU NORD :&MAISON DE FANTÔME./
+À L'EST :&MAISON DE TORTUE./
+AU SUD :&MAISON D'ORDURES./%%
 À L'OUEST:&MAISON D'OISEAU./%%
 ON DIRAIT QUE TU&ARRIVES PRÈS DE&CHEZ UNDYNE./
 HÉ ^1!&ET SI ON RENDAIT&VISITE À UNDYNE !/
@@ -3946,7 +3946,7 @@ TU LES AS VUS ?/%%
 * C'est cool de voir les&  gens devenir platonique-&  ment proches, comme ça !/%%
 J'ADORE LES INFOS ^1!&ÇA PERMET DE&S'INFORMER..../
 ET C'EST&TOUJOURS BOURRÉ&D'ACTION !!!/%%
-KA-WOUAHOU !/%%
+BADA-WOUAHOU !/%%
 * Ouais ^1! Tu lui as&  sacrément botté les&  fesses, aux infos !!!/
 \E9* J'imagine qu'Alphys&  y était pour beaucoup^1,&  pas vrai ?/
 \E6* Oh mon dieu !!^1!&* Vous voir devenir&  potes comme ça.../
@@ -3959,7 +3959,7 @@ LE NOYAU..^1.&TU T'APPROCHES DU&BUT^1, HMM...?/
 * Hein ?^1!&* Non^1, on vient à peine&  de devenir potes !!/
 \E4* Tu peux quand même&  pas déjà en être&  aussi proche.../%%
 * Quoi ?/%%
-ÇA PARAÎT ÉTRANGE&QUE DES ARAIGNÉES&DEMANDENT DES DONS./
+ÇA PARAÎT ÉTRANGE&QU'UNE ARAIGNÉE&DEMANDE DES DONS./
 \E0MAIS IMAGINE UN&PEU^1, CHACUNE A&HUIT PATTES./
 \E3ÇA FAIT DONC&QUATRE PAIRES DE&CHAUSSURES./
 \E0UNE ARAIGNÉE AVEC&HUIT BALLERINES&ROSES./
@@ -4472,7 +4472,7 @@ Limande Cheloue
 Amalgami
 Âme Égarée
 Petit Monstre
-Undyne la Digne
+Undyne l'Immortelle
 Sagequin
 Mettaton NEO
 Sans
@@ -5875,8 +5875,8 @@ ON VA S'ÉCLATER !/
 \F4 \E8 %
 VOYONS VOIR.../
 \XÉTAPE UNE..^1. AP-&PUYEZ SUR [ C ]&POUR AFFICHER&
-\RL'ÉCRAN DE RENCARD\X./
-\RL'ÉCRAN D'AMITIÉ\X./
+\RL'INTERFACE DE RENCARD\X./
+\RL'INTERFACE D'AMITIÉ\X./
 \E3JE CROIS QUE&C'EST DÉJÀ&FAIT.../%%
 \E3OKAY^1, OUBLIONS ÇA./%%
 graph2
@@ -6024,7 +6024,7 @@ JE NE T'AIME&COMME TU&M'AIMES./
 \E8COMME TU AS&FLIRTÉ AVEC MOI^1,&J'AI CRU QUE.../
 ON SE DEVAIT&D'AVOIR UN RENCARD&ENSEMBLE./
 \E0ET QUE DURANT LE&RENCARD, MES&SENTIMENTS AURAIENT&CHANGÉ !!!/
-\E2JE PENSAIS QU'AINSI&MA PASSION BRÛLE-&RAIT AUSSI VIVEMENT&QUE LA TIENNE!/
+\E2JE PENSAIS QU'AINSI&MA PASSION BRÛLE-&RAIT AUSSI ARDE-&MMENT QUE LA TIENNE!/
 \E4MAIS HÉLAS..^1.&MOI^1, LE GRAND&PAPYRUS.../
 \E5J'AI ÉCHOUÉ./
 RIEN N'A CHANGÉ&POUR MOI./
@@ -7599,7 +7599,7 @@ T'es plus balèze...&Que c'que je croyais.../
 Alors ça y est..^1.&... C'est ainsi.^1..&que ça se termine.../
   Non.../%%
 NON !/
-Je vais pas&mourir comme&ça !/
+Je vais pas&mourir comme&  ça !/
 Alphys..^1.&Asgore..^1.&Papyrus.../
 Ils comptent tous&sur moi pour les&protéger !/
 NNNNGAH !/%%
@@ -7609,7 +7609,7 @@ JE TE VAINCRAI !/%%
 * Undyne semble déterminée.
 Ha..^1. ha.../
 ... Alphys.../
-  C'est bien ce&  que je craignais&.../
+  C'est bien ce&  que je craignais.../
   C'est pour ça&  que je te l'ai&  jamais dit.../
 Non..^1.&Non !/
 C'est trop tôt !/
@@ -7704,7 +7704,7 @@ s_f2
 s_f3
 shk
 shaketime
-* UNDYNE LA DIGNE 99 ATK 99 DÉF&* Héroïne revenue à la vie grâce&  à sa propre DÉTERMINATION./^
+* UNDYNE L'IMMORTELLE 99ATK 99DÉF&* Héroïne revenue à la vie grâce&  à sa propre DÉTERMINATION./^
 Bon sang.../
 Même avec CE&pouvoir..^1.&J'ai pas réussi...?/
 \E1Hah.../
@@ -7756,11 +7756,11 @@ Nous avons tous&le MÊME objectif./
 \E9Moi^1, UNDYNE^1,&vais à présent&mettre un terme à&ton existence !/%%
 risesfx
 pit
-Va falloir que tu&fasses VRAIMENT&mieux que ça./%%
+Va falloir que tu&fasses vraiment&mieux que ÇA./%%
 room_restart
 cc
 Va.../
-\E9Va falloir que tu&fasses VRAIMENT&mieux que ça !/%%
+\E9Va falloir que tu&fasses VRAIMENT&mieux que ÇA !/%%
  Merci !
 Merci !
 Merci&à toi !
@@ -8256,7 +8256,7 @@ Genre,&attaque&en duo !
 Genre...&hein ?&Je pige&pas.
 Genre,&bas les&pattes,&quoi.
 H-HÉ,&ARRÊTE&ÇA !!
-Genre...&ça c'est&pour toi,&02.
+Genre...&ça c'est&pour&toi, 02.
 Genre,&02...
 02...&tu...&tu&es...
 02...&j'ai&jamais&pu lui&dire...
@@ -8282,7 +8282,7 @@ C'est&plus&fort que&moi !!/%%
 conmusic
 Genre^1,&02 !&J'veux&dire.../
 Genre^1, j'te KIFFE^1,&t'sais !/
-Ta façon de te battre..^1.&Ta façon de parler.../
+Ta façon de&te battre..^1.&Ta façon de&parler.../
 Et j'aime trop&nos attaques&en duo./
 J'adore quand on reste&là tous les deux^1,&à faire tournoyer nos&armes en synchro.../
 02..^1.&Je^1, j'veux dire.&J'veux que ça&continue comme ça.../%%
@@ -8505,13 +8505,13 @@ Hoaa !!!&Erreur toute&chaude.
 Brûle,&bébé,&BRÛLE !
 Ça va,&c'est&assez&chaud ?!
 Tu&sens&cette&chaleur ?
-C'est moi&ou il&fait&frisquet ?
+C'est moi&ou il&fait&frisquet?
 Chaud !&CHAUD !&Brûlant.&BRÛLANT !
-BRR,&c'est&quoi&l'emb-&rouille ?
+BRR,&c'est&quoi&l'emb-&rouille?
 Désolé !!&J'ai les&mains&liées !!
 * Pyrolié est protégé par&  son sourire charmeur.
 * Pyrolié feint de déclencher&  l'alarme anti-incendie. 
-* Pyrolié ricane sous&  cape...ou corde, peu importe.
+* Pyrolié ricane sous&  cape... ou corde, peu importe.
 * Pyrolié se prend pour une&  bougie.
 * Ça sent la ficelle brûlée.
 * Pyrolié veut faire grimper&  le mercure. 
@@ -8596,7 +8596,7 @@ Pauvre fille~&Une araignée&n'abandonne&JAMAIS sa toile~/
 (Sauf pour vendre&des pâtisseries~)/%%
 À supposer qu'elles&passent sous la porte,&le froid hivernal de&Couveneige les tuerait./%%
 Maintenant que tu&le dis^1, il se peut que&j'éprouve quelque&regret.../%%
-Mais avec cet argent,&leur louer une voiture&chauffée est une&simple formalité~/%%
+Mais avec cet argent,&leur louer une voiture&chauffée serait une&simple formalité~/%%
 C'est vrai, j'aurais&dû l'enrouler dans ma&toile quand j'en&avais l'occasion~/%%
 Et avec le reste..^1.&Nous pourrions prendre&de bonnes vacances~/
 Voire même nous&construire un terrain&de baseball pour&araignées~/%%
@@ -11739,7 +11739,7 @@ d_noise
 * Mais avant que je ne&  puisse le prendre.../
 * Un petit chien blanc me&  l'a piqué./
 \E0* Vraiment, je me demande&  pourquoi./
-\E1* Est-ce que les chiens&  AIMENT la farine,&  au moins ?/
+\E1* Est-ce que les chiens&  AIMENT la farine&  au moins ?/
 \E8* Euh^1, ça n'a rien à voir&  avec la situation&  actuelle^1, évidemment./
 \E1* J'en ai encore pour un&  moment^1. Merci de ta&  compréhension./
 * (Quelque chose halète&  lourdement à l'autre bout du&  fil...)/
@@ -11816,7 +11816,7 @@ ruff
 * Devant nous se trouve&  la fin des RUINES./
 * Une sortie à sens unique&  menant au reste de&  l'outremonde./
 * Je vais la détruire./
-* Plus personne ne&  quittera jamais cet&  endroit./
+* Plus jamais&  personne ne&  quittera cet endroit./
 * Maintenant sois sage&  et remonte dans&  ta chambre./%%
 * Tous les humains qui&  tombent ici-bas ren-&  contrent le même destin./
 * Je l'ai vu maintes fois./
@@ -11864,7 +11864,7 @@ turts
 * Donc si tu as appelé^1,&  je ne pouvais pas&  t'aider./
 \E0* Cependant^1, je l'ai&  récupéré./
 * Et tu es toujours dans&  cette salle^1, n'est-ce&  pas ?/
-* Tu es vraiment sage,&  comme enfant./
+* Tu es vraiment un enfant&  sage./
 \E1* Il reste encore quelques&  énigmes plus loin que je&  dois t'expliquer./
 \E1* Sois sage^1, d'accord ?/
 \E1* Tu ne DÉTESTES&  pas le caramel^1, si ?/
@@ -12630,7 +12630,7 @@ s_click
 * C'était triste à voir^1,&  mais j'arrivais pas à&  détourner mon regard./%%
 * On est libres ?/
 * OK^1, OK..^1.&* Je vais me bouger, alors^1.&* Le chien est au courant ?/
-* ...il ne sait rien du tout^1,&  pas vrai...?/%%
+* ... il ne sait rien du tout^1,&  pas vrai...?/%%
 rid
 MON FRÈRE COLLEC-&TIONNE LES CHAUS-&SETTES DEPUIS PEU./
 \E3MISÈRE DE MISÈRE.../
@@ -12942,7 +12942,7 @@ tspear
 * C'EST MOI QUI INVITE !^1!&* TU RESTES ASSIS ET TU&  FAIS COMME CHEZ TOI !!!/
 \E9* Euh^1, pourquoi ne pas&  juste pointer ce&  que tu veux ?/
 * Tu peux utiliser&  la lance !/%%
-\E4* Tu sais, j'étais une&  gamine assez turbulente./
+\E4* Tu sais, j'étais une&  enfant assez turbulente./
 * Une fois^1, pour prouver&  ma force aux autres... /
 \E1* J'ai essayé de&  battre ASGORE.&* Et j'insiste sur ESSAYÉ./
 \E0* Impossible de lui&  porter le moindre coup !/
@@ -13778,8 +13778,8 @@ musicbox
 * Avoir le ciel au-dessus de la&  tête^1, admirer le paysage tout&  autour..^1. C'est ça mon souhait./%%
 * Mais nan, je vais pas me&  moquer !/%%
 * ... hmmm..^1. Si je te le dis..^1.&* Tu me promets de ne&  pas te moquer de moi ?/%%
-* Mais où diable te caches-&tu, mon enfant...?/
-* Cela fait des heures que&  je cherche partout.../
+* Mais où diable se cache&  cet enfant...?/
+* Cela fait des heures que&  je le cherche partout.../
 \TS* .../
 \TF* Hi hi hi./
 * Sauf que c'est FAUX./  
@@ -14722,7 +14722,7 @@ peeepee
 \E0* du coup^1, j'continue d'en&  sortir^1, et elle se met&  à rire de plus belle./
 \E1* personne avait jamais&  trouvé mes blagues&  aussi drôles./
 \E0* je continue^1, et tout à&  coup, ELLE frappe à&  la porte^1 et lance.../
-\Tt* "Toc toc !"/
+\Tt* "toc toc !"/
 \Ts* \E1j'réponds "qui&  est là ?"/
 \Tt* \E0"maria !"/
 \Ts*\E1 "maria qui ?"/
@@ -15034,7 +15034,7 @@ o_music
 * Bon^1, je file !/%%
 * Tout le monde a vraiment&  l'air pressé de partir./%%
 \E1* Frisk.../
-\E0* Tu me surprends vrai-&ment, mon enfant./
+\E0* Tu es vraiment un&  enfant étonnant./
 \E1* Rien de tout ceci ne se-&  rait arrivé si tu avais&  fait ce choix plus tôt./
 \E0* C'était judicieux de ta&part de prendre tout ce&temps pour changer d'avis./
 * Hi hi hi./
@@ -16304,11 +16304,11 @@ tread
 * (C'est une chaussette sale avec&  une série de post-it&  au-dessus.)/
 SANS ^1!&RAMASSE TA&CHAUSSETTE, MERCI !/
 * ok./
-NE LA REPOSE PAS APRÈS ^1!&METS-LÀ AUTRE PART !/
+NE LA REPOSE PAS&APRÈS ^1!&METS-LÀ AUTRE PART !/
 TU L'AS BOUGÉE DE DEUX&CENTIMÈTRES ^1! METS-LÀ&DANS TA CHAMBRE !/
 ET NE LA RAMÈNE PAS !/
 ELLE EST ENCORE LÀ !/
-* c'est pas toi qui m'as dit&  de pas la ramener dans&  ma chambre ?/
+* c'est pas toi qui m'as dit&  de pas la ramener&  dans ma chambre ?/
 RAAH, OUBLIE ÇA !/%%
 * Quoi^1.&* Quoi ^1?&* QUOI !?/
 * On vit comme on peut./%%
@@ -16620,7 +16620,7 @@ Armure : 5DF#(
 Arme : 2AT#(
  AT)#Invincible#+ longtemps
 * Allez, sois pas timide./*
-* Hé là ^1!&* J'ai quelques jolies&  babioles à vendre.&* Ça t'intéresse ?/*
+* Hé là ^1!&* J'ai quelques jolies&  babioles à vendre.&  Ça t'intéresse ?/*
 * Wah ha ha ^1!&* J'savais que t'en&  étais capable !/*
 * Wa ha ha..^1.&* T'as pu venir&  jusqu'ici^1.&* Quel honneur tu&  m'fais !/*
 25PO - Pomme Rainette
@@ -17272,7 +17272,7 @@ LE SOLEIL SUR&MA PEAU.../
 \E3BIEN SÛR^1,TOUT ÇA&N'EST QU'UN RÊVE./
 \E0DU COUP, JE&VOYAGE EN&DODOTANT./%%
 MON LIT TE PLAÎT-IL&TANT QUE ÇA ?/
-\E3T'AS PAS DORMI,&HIER ?/%%
+\E3T'AS PAS DORMI&HIER ?/%%
 * (C'est un lit en forme de&  Formule 1^1, soigneusement&  fait.)/%%
 CE LIVRE EST L'UN&DE MES FAVORIS./
 "CRÉER DES ÉNIGMES&SOPHISTIQUÉES POUR&ESPRITS CRITIQUES"./
@@ -17380,7 +17380,7 @@ scr_deaddog
 * Cette dame est sortie&  pour se promener il y a&  quelque temps déjà./
 * ... mais elle n'a pas bougé&  d'un centimètre de là où&  elle est./
 * E-enfin^1, moi non plus^1, mais&  je ne veux pas qu'elle&  me remarque, en fait.../%%
-* Suis-je le seul à trouver&  bizarre ces Amalgamis géants&  qui rôdent partout...?/%%
+* Suis-je le seul à trouver&  bizarre ces amalgamis géants&  qui rôdent...?/%%
 * ....../%%
 * Cette dame semble&  être de bonne humeur&  aujourd'hui.../
 * Je sais pas pourquoi^1, mais&  ça me fait flipper.../%%
