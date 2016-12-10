@@ -1062,7 +1062,7 @@ RENDEZ-VOUS&CHEZ ELLE !/
 * Il existe en effet un certain&  type de monstre^1, le&  monstre "majeur"./
 * Sa croissance particulière le&  dote d'une âme incroyablement&  puissante pour un monstre./
 * Cette âme est capable de&  persister pour un court instant&  après le décès de l'hôte./%%
-* (Tous ces livres sont étiquetés&  Histoire des humains.)&         En lire un  Ne pas lire\C
+* (Tous ces livres sont étiquetés&  "Histoire des humains".)&         En lire un  Ne pas lire\C
 * (Vous consultez un livre.)/
 * (C'est une BD dans laquelle un&  robot géant affronte une belle&  princesse extraterrestre.)/
 * (Vous vous interrogez sur&  la véracité de cette&  représentation.)/%%
@@ -3834,7 +3834,7 @@ CONTENT DE NE PAS&VIVRE À CALCITERRE./%%
 ET ALORS ?&TU AS VOMI ??/
 * Carrément^1, genre 9000&  fois !^1!&* C'était génial !!/%%
 ARRÊTE UN PEU&D'APPELER, ELLE&DEVIENT DÉGOUTANTE./%%
-DES BOUCHES&D'AÉRATION ^1?&WOW..^1.ÇA CRAINT./
+DES BOUCHES&D'AÉRATION ^1?&WOW..^1. ÇA CRAINT./
 \E1IMAGINE SI TU&PORTAIS UNE&ROBE ?/%%
 CONTENT DE NE&PAS VIVRE À&CALCITERRE !!/%%
 * Des bouches d'aération ^1?&* Oh oui, j'crois qu'&  Alphys m'en a parlé./
@@ -8116,7 +8116,7 @@ BIGRE, VOILÀ QUI&EST EMBARRASSANT,&HEIN ?
 TEMPS ÉCOULÉ !&J'IMAGINE QUE LA&RÉPONSE EST NON ??
 NON NON !&TU NE SAIS PAS LIRE ?!
 VOILÀ ! ÇA COMMENCE&À RENTRER !
-CORRECT ! UNE&RÉPONSE&SPLENDIDE !
+CORRECT ! UNE&RÉPONSE SPLENDIDE !
 PAS ASSEZ DUR&POUR TOI, HEIN ???????
 MERVEILLEUX !&MESSIEURS DAMES, J'EN&RESTE ÉBAUBI !
 CORRECT ! TU ES EN&VEINE AUJOURD'HUI !!!
@@ -8148,7 +8148,7 @@ Rêves&Espoirs
 Métal&Magie
 Choux&Roses
 Paix&Amour
-Un train A et un train B#quittent leurs stations respectives# à la même heure.#Les stations A et B sont séparées par 900km.#Le train A roule à 100kmh vers la station B,#le train B à 120kmh vers la station A.#Les deux trains partent simultanément à 10 h,#et il est désormais 10h08. Combien reste t-il#de temps avant que ces deux trains#ne se croisent ?
+Un train A et un train B#quittent leurs stations respectives# à la même heure.#Les stations A et B sont séparées par 900km.#Le train A roule à 100kmh vers la station B,#le train B à 120kmh vers la station A.#Les deux trains partent simultanément à 10 h,#et il est désormais 10h08. Combien reste-t-il#de temps avant que ces deux trains#ne se croisent ?
 3h 32.2 minutes
 4h 54.0 minutes
 4h 02.8 minutes
@@ -13926,7 +13926,7 @@ movemode
 * (Vous avez trouvé les oeufs.)/%%
 inithspeed
 * (Vous avez trouvé le lait.)/%%
-* PARFAIT ^1!&* BEAU TRAVAIL^1, BEAUTÉ !/
+* PARFAIT ^1!&* EXCELLENT TRAVAIL^1, BEAUTÉ !/
 * ON A TOUS LES INGRÉDIENTS&  POUR PRÉPARER LE GÂTEAU !/
 \W* DU \YLAIT\W... &* DU \YSUCRE\W...&* DES \YOEUFS\W.../
 * ... OH LÀ LÀ ^1!&* ATTENDEZ UN SUBLIME INSTANT ^1!&* COMMENT AI-JE PU OUBLIER !!!/
@@ -16185,7 +16185,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * Ça dit toujours&  la même chose./%%
 * (C'est une tasse en forme de&  lézard jaune.^1 Elle est remplie&  à ras bord de soda.)/%%
 * (Ce poster fait la promotion de&  la première apparition de&  Mettaton à la télévision.)/
-* (Au dos, on peut lire "Merci à&  tous pour avoir fait de mes&  rêves une réalité".)/%%
+* (Au dos, on peut lire "Merci à&  toi pour avoir fait de mes&  rêves une réalité".)/%%
 * (Voilà une invention&  incroyable.)/
 * (Quand il n'est pas utilisé^1,&  ce lit se tranforme en boîte-&  extrêmement-facile-à-dessiner.)/%%
 * (Une substance rose et&  visqueuse dégouline de&  cette machine.)/%%
