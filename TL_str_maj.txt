@@ -1246,7 +1246,7 @@ PRENDS TON TEMPS !/%%
 * (S'asseoir et faire avancer&  la scène ?)&         Oui         Non\C
 * Le sucre est pour&  le thé./
 \E2* Je vais pas te donner&  un bol de sucre !/
-\E6* J'ai l'air de quoi^1,&  la vendeuse de glace ?/
+\E6* J'ai l'air de quoi^1,&  la vendeuse de glaces ?/
 \E2* Les glacières humaines& TERRORISENT L'HUMANITÉ à& coup de LANCES D'ÉNERGIE?/
 \E3* Les musiques de leurs&camionnettes sont-elles un&PRÉLUDE À L'APOCALYPSE ?/
 \E1* ... attends ^1?&* POUR DE VRAI ?/
@@ -7647,7 +7647,7 @@ ALLEZ, DÉPÊCHE !
 ÇA COMMENCE&À CHAUFFER DANS&LE COIN !
 * Undyne vous laisse prendre&  l'initiative.
 * UNDYNE - ATQ 41 DÉF 21&* Cette fois^1, c'est le tout&  pour le tout !/^
-* Vous faites mine de vous&  élancer vers UNDYNE de&  toute votre force./%%
+* Vous faites mine de vous&  élancer vers UNDYNE de&  toute vos forces./%%
 Je suis vaincue..^1.&Ma maison est&en ruines.../
 J'ai même pas&réussi à devenir&ton amie./
 Et puis zut./
@@ -7718,7 +7718,7 @@ J'ai des amis..^1.&Sur qui compter./
 Et grâce à tout&ce pouvoir.../%%
 Ce monde&survivra...!/%%
 * Le Petit Monstre frémit, l'air&  inquiet.
-* PETIT MONSTRE 2 ATQ 2 DÉF&* Oh, de l'EXP sur pattes./^
+* PETIT MONSTRE 2 ATQ 2 DÉF&* De l'EXP sur pattes./^
 skiptext
 Undyne..^1.&Tu..^1.&T'es blessée.../%%
 Ça ?&Une égratignure./
@@ -12846,7 +12846,7 @@ jingle
 * PLUS CHAUD^1,&  BON SANG ^2!%%
 * PLUS CHAUD !!!!!!^2!%%
 * Attends^1, c'est trop ^1- %%
-* Voilà !^1!&* C'est comme ça qu'on ^1-%%
+* Voilà !^1!&* C'est comme ça qu'on^1-%%
 dirdir
 hotchocolate
 teabox
@@ -12939,7 +12939,7 @@ mcxp
 mcyp
 tspear
 * HEY !!^1!&* TE LÈVE PAS !!!/
-* C'EST MOI QUI INVITE !^1!&* TU RESTES ASSIS ET TU&  FAIS COMME CHEZ TOI !!!/
+* C'EST MOI QUI INVITE !^1!&* TU RESTES LÀ ET TU&  FAIS COMME CHEZ TOI !!!/
 \E9* Euh^1, pourquoi ne pas&  juste pointer ce&  que tu veux ?/
 * Tu peux utiliser&  la lance !/%%
 \E4* Tu sais, j'étais une&  gamine assez turbulente./
@@ -12980,7 +12980,7 @@ de
 * Allez, c'est parti !^1!&* C'est l'heure des&  spaghettis !/
 * Commençons par&  la sauce !!/%%
 veg
-* Uhh^1, on mettra tout&  ça dans un bol&  plus tard./
+* Euuh^1, on mettra tout&  ça dans un bol&  plus tard./
 \E1* Mais MAINTENANT !/%%
 box
 * Okay ^1!&* Maintenant il&  faut touiller !/
@@ -16350,7 +16350,7 @@ RAAH, OUBLIE ÇA !/%%
 * J'parie que son fan club a&  quasiment doublé en taille&  après ça !/%%
 * (Il y a un morceau de fromage à&  l'intérieur de ce coffre-fort&  laser informatisé.)/
 * (Les lasers ont fait fondre le&  fromage sur les bords..^1.)&* (Il est collé à la table.)/%%
-* (On dirait que la souris a&  réussi à pirater le coffre-fort&  pour en extraire le fromage.)/%%
+* (On dirait que la souris a&  réussi à hacker le coffre-fort&  pour en extraire le fromage.)/%%
 * Quel plaisir de&  t'avoir ici !/
 * Et si tu prenais&  un siège ?/%%
 * Prends ton foutu&  siège espèce de&  minigeek./%%
@@ -17958,7 +17958,7 @@ hole
 * woa..^1. tem o couran..^1.&* TROP CHOUÈT !!/%%
 * oubli pas mon zami !/%%
 * wéWÉ !!^1!&* lé tems sont libr !!/%%
-* 'Lut./
+* Salut./
 * Moi c'est Bob./%%
 * Plutôt pas mal^1, comme&  dénouement^1, non ?/%%
 * awawawawah !!/
