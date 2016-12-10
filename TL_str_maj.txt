@@ -529,7 +529,7 @@ scr_murderlv
 * Il est marqué "prenez-en un".&* Prendre un bonbon ?&         Oui         Non \C
 * Regardez ce que vous avez&  fait./%%
 * Vous prenez un bonbon.&* (Appuyez sur [C] pour ouvrir le&  menu.)/%%
-* Vous prenez encore un bonbon^1.&* C'est répugnant../%%
+* Vous prenez encore un bonbon^1.&* C'est répugnant.../%%
 * Vous prenez encore un bonbon.&* Vous vous sentez comme la pire&  ordure sur Terre.../%%
 * Vous en avez pris trop, trop&  vite : les bonbons se répandent&  sur le sol./%%
 * Dans ce monde infernal^1,&  vous ne pouvez prendre&  que 3 bonbons.../%%
@@ -1897,7 +1897,7 @@ coherent
 * Tu t'ennuies ^1?&* J'aurais dû te donner un&  livre./
 * Toutes mes excuses./
 * Pourquoi ne pas faire&  marcher ton imagination&  pour te distraire ?/
-* Fais comme si tu étais.^1.&* Un monarque !/
+* Fais comme si&  tu étais..^1.&* Un monarque !/
 * Règne sur le tas de&  feuilles d'une main de&  fer./
 * Tu peux faire ça pour&  moi ?/
 * Bonjour^1, mon enfant./
@@ -1908,7 +1908,7 @@ coherent
 * Hm^1, tu n'as pas quitté&  la pièce, au moins ?/
 \E0* Attends un peu et&  nous pourrons la&  résoudre ensemble !/
 \E1* Tu veux en savoir plus&  sur moi ?/
-* Eh bien, j'ai bien peur&  qu'il n'y ait pas grand&  chose à dire./
+* Eh bien, j'ai bien peur&  qu'il n'y ait pas&  grand-chose à dire./
 \E0* Je ne suis qu'une&  vieille dame qui&  s'inquiète trop !/
 \E8* Hein ^2?&* Viendrais-tu de&  m'appeler... "Maman" ?/
 \E1* Eh bien...&* Si tu veux.../
@@ -1916,7 +1916,7 @@ coherent
 * De m'appeler..^1.&* "Mère" ?/
 \E0* Alors^1, appelle-moi comme&  tu le sens !/!
 \E8* ...^2 hein ???/
-\E1* Oh,^1 euh..^1 euh...^1 \E0 &* Ha ha ha !/
+\E1* Oh,^1 euh..^1. euh...^1 \E0 &* Ha ha ha !/
 * Comme c'est mignon...^1 &  Je t'en pincerais&  presque la joue !/
 * Tu peux sûrement trouver&  mieux qu'une vieille&  dame comme moi./
 \E1* Mon dieu,^1 c'était&  sérieux...?/
@@ -3293,7 +3293,7 @@ NOOOOOOOOON !!!/%%
 * Il faudra qu'on se&  fasse un match, un&  de ces quatre !/%%
 LES CHUTES..^1.&C'EST À PEINE SI JE&CONNAIS L'ENDROIT./
 \E0MAIS JE FERAI DE&MON MIEUX POUR&T'INFORMER !!!/%%
-EUH^1, J'AI PAS GRAND&CHOSE À DIRE SUR&CETTE PIÈCE./%%
+EUH^1, J'AI PAS GRAND&-CHOSE À DIRE SUR&CETTE PIÈCE./%%
 * Si tu vas à Couveneige^1,&  j'aurai pas grand-chose&  à te dire sur le sujet./
 MAIS MOI OUI !!/
 * Tout le problème est là^1,&  justement./
@@ -5769,7 +5769,7 @@ rearrange
 currentplace
 * VICTOIRE !&* Vous obtenez 
  XP et 
- pièces d'or.
+ PO.
 &* Votre LOVE augmente.
 rmsg
 SCR_TEXT
@@ -5870,7 +5870,7 @@ blconwd
 J'AI EMPRUNTÉ UN&AUTHENTIQUE GUIDE&
 DU RENCARD
 DU TRAÎNAGE AMICAL
-&À LA BIBLIOTHÈQUE !/
+&À LA BIBLIOTHÈQUE!/
 ON VA S'ÉCLATER !/
 \F4 \E8 %
 VOYONS VOIR.../
@@ -6500,7 +6500,7 @@ scr_blconmatch
 * Alors que vous vous apprêtez&  à parler^1, Émoplasme éclate en&  sanglots et s'enfuit./^
 * Vous levez vos bras&  et remuez vos doigts.&* Émoplasme panique !/^
 SALETÉ&D'ESPRIT&SOLITAIRE
-OBÉIS À&L'&OVERMIND&..
+OBÉIS À&L'OVER-&MIND...
 LÉGION !&NOUS&SOMMES&LÉGION
 ATTENTION&À&L'ESSAIM
 TOUS EN&CHOEUR,&MAIN-&TENANT
@@ -6526,8 +6526,8 @@ Pour Un&Petit&Déjeuner&Complet
 Produit&Local,&Très&Local
 Goût&Frais du&Matin
 T'as&Mangé&Ta&Verdure
-Je Suis&Muet&Comme un&Navet
-Mange&Ta&Verdure
+Les&Légumes&Parlent&Pas&Andouille
+Mange&La&Verdure
 specgreen
 * Légumoïde fait un sourire&  mystérieux.
 * Légumoïde glousse&  doucement.
@@ -6561,7 +6561,7 @@ je traîne&juste&dans le&coin...
 nnnnnn&ggghhh.
 oh, je&suis&VRAIMENT&marrant.
 vas-y,&fais-le.
-je ne&ferai&que te&ralentir..
+je ne&ferai&que te&gêner.
 heh...
 heh&heh...
 laisse-&moi&essayer..
@@ -6571,7 +6571,7 @@ oh&zut...
 euh... tu sais que tu&ne peux pas tuer les&fantômes, non ?/
 vu qu'ils sont&immatériels et&tout/
 je baissais&juste mes&pv pour ne pas&te vexer/
-désolé..^1.&j'ai juste rendu ça&encore plus gênant../
+désolé..^1.&j'ai juste rendu&ça encore&plus gênant.../
 fais comme si&tu m'avais battu.../
 oooooouu^1uh%%
 * Napstablook regarde au loin.
@@ -6652,7 +6652,7 @@ gen2
 * Vous essayez encore une fois&  de trouver quelque chose à&  dire^1, mais.../^
 * Ironiquement^1, parler ne semble&  pas être la solution à cette&  situation./^
 * Vous pensez à dire à Toriel que&  vous l'avez vue mourir./
-* Mais...&* C'est glauque./
+* Mais...&* C'est trop glauque./
 * Pouvez-vous montrer de la&  clémence sans vous battre ou&  vous enfuir...?/^
 * Pouvez-vous montrer de la&  clémence sans vous enfuir...?/^
 * Une perte de temps./^
@@ -6832,7 +6832,7 @@ pet
 * Maxichien se rapproche./^
 * Maxichien finit par se&  lasser de vous./^
 * Vous caressez le chien./^
-* Gratouilles sur le ventre&  interdites./^
+* Grattouilles sur le ventre&  interdites./^
 * Caresse décisive effectuée^1.&* Taux de caresse à &  100 pourcent./
 * Le chien s'affale par terre&  les quatre fers en l'air./^
 * Alors que vous caressez&  le chien^1, il s'affale de tout&  son poids sur vous.../
@@ -10555,7 +10555,7 @@ Chienmois
 mouthspeed
 * Vous essayez de détourner&  votre regard, mais l'Amalgami&  est partout à la fois !/^
 * Vous caressez l'Amalgami./^
-* Vous aimeriez lui gratouiller&  le bidon^1, mais il vous&  faudrait déjà le trouver./^
+* Vous aimeriez lui grattouiller&  le bidon^1, mais il vous&  faudrait déjà le trouver./^
 * Vous caressez l'Amalgami avec&  affection.&* Il a l'air tout content./^
 spared
 * Vous caressez l'Amalgami^1.&* Il commence à générer un&  Précipité de Joie Primaire./^
@@ -11035,7 +11035,7 @@ Mange Tes&Délicieux&Serpents&Verts
 * SERPANAIS - ATQ 30 DÉF 28&* Ce serpent-carotte porte une&  coupe de délicieux serpents./^
 * Vous essayez de manger&  Serpanais^1, mais il n'est pas&  assez affaibli./^
 * Vous commencez à manger les&  serpents comme du spaghetti.&* Vous récupérez 5 PV !/^
-* Serpanais  et lance une poignée&  de délicieux serpents./^
+* Serpanais vous entend mal&  et lance une poignée&  de délicieuses couleuvres./^
 f_siner
 facego
 lie
@@ -11508,7 +11508,7 @@ I WILL BATHE IN&A SHOWER OF KISSES&EVERY MORNING !/
 * Il est collé à la table.../%%
 * (On dirait que le fromage&  a été grignoté.)/%%
 murdererlv1
-* habituellement je viens&  dans les RUINES parce qu'il&  n'y a personne aux alentours.../
+* j'ai l'habitude d'aller&  dans les RUINES parce qu'il&  n'y a personne aux alentours.../
 * mais aujourd'hui j'ai rencontré&  quelqu'un de vraiment gentil.../
 * oh^1, je suis encore en train&  de divaguer/
 * je vais m'écarter de ton chemin/%%
@@ -11746,7 +11746,7 @@ d_noise
 * Ouaf ^1!&* Ouaf !/
 * Ouaf..^1.&* Ouaf !/
 * (Vous entendez une voix&  au loin.)/
-\TT* Arrête^1,&  s'il te plaît !/
+\TT* Arrête^1, s'il te plaît !/
 * Reviens ici avec mon&  TÉLÉPHONE !/
 * (Zzzz..^1. zzz...)/
 * (On dirait qu'un petit chien&  blanc s'est assoupi sur le&  téléphone.)/
@@ -11755,13 +11755,13 @@ d_noise
 * Où es-tu...?/
 * Je te ferai une bonne grosse&  caresse sur la tête !/
 \T0* (Le ronflement s'arrête.)/
-\TT* ... si tu me rends mon&  TÉLÉPHONE./
+\TT* ... si tu rends mon TÉLÉPHONE./
 \T0* (Le ronflement reprend.)/
 * (Atchoum !)/
 * (On dirait qu'un petit chien&  blanc a éternué dans&  son sommeil.)/
 * Ici^1, petit toutou !/
 * Misère^1, ça ne se fait pas de&  faire attendre un invité comme&  ça./
-* ... Oh non^1, depuis quand&  n'ais-je pas pris le&  temps de lui parler...?/
+* ... Oh non^1, depuis quand&  n'ai-je pas pris le&  temps de lui parler...?/
 * Peut-être aurais-je manqué un&  appel de sa part^1, et que...?/
 * ... par ici^1, toutou !/
 * (Ouaaah...)/
@@ -11778,7 +11778,7 @@ torielsong
 * Qui t'a fait ça ^2?\E5 &* Tu auras des excuses./
 \E1* Je n'aurais pas dû&  te laisser comme ça&  aussi longtemps./
 * C'était irresponsable de&  ma part d'essayer de te&  surprendre ainsi./
-\E8* Euh.../
+\E8* Oups.../
 \E0* Bien^1, je suppose que&  je ne peux pas le&  cacher plus longtemps./
 * Viens, petit être !/%%
 torvolume
@@ -11808,9 +11808,9 @@ ruff
 * Voudrais-tu lire&  un livre ?/%%
 \E7* Ton petit jeu me&  déplaît fortement./%%
 \E0* Pourquoi n'irais-tu&  pas te promener dans&  le jardin ?/%%
-* Vraiment./%%
+* Allez, arrête ça./%%
 \E4* .../%%
-* Hey^1, ne va pas en bas./
+* Hé là^1, ne va pas en bas./
 * J'ai quelque chose à te&  montrer à l'étage./%%
 * Tu désires savoir&  comment retourner à la&  "maison", n'est-ce pas ?/
 * Devant nous se trouve&  la fin des RUINES./
@@ -11885,7 +11885,7 @@ touch
 * Un jour tu verras peut-&  être quelque chose dont&  tu auras vraiment envie./
 * Il est alors préférable&  d'avoir de la place dans&  tes poches./
 \E1* J'ai une question./
-* Tu as d'autres&  préférences que le&  caramel et la cannelle^1.../
+* Tu as d'autres préfé-&  rences que le caramel&  et la cannelle^1.../
 * N'est-ce pas ?/
 \E0* ..^1. Oh^1, mais que suis-je&  en train de demander./
 * Je vais continuer à&  chercher./%%
@@ -11894,7 +11894,7 @@ pathtravel
 ns
 destroyme
 read
-* Vous jetez un coup d'oeil&  à l'intérieur..^2.&* Scandaleux !/
+* Vous jetez un coup d'oeil&  à l'intérieur..^2.&* C'est scandaleux !/
 * C'est le tiroir à chaussettes&  de TORIEL./%%
 * Vous continuez à fixer les&  chaussettes malgré vous./%%
 idealvolume
@@ -12720,8 +12720,8 @@ WOW !&C'EST PAS FACILE D'&ÊTRE UN BON HÔTE !/%%
 \E0ÇA DOIT VOULOIR&DIRE QUE JE SUIS&UN BON HÔTE !!!/%%
 scr_npc_watch
 TU DEVRAIS&VISITER UN PEU !/%%
-AINSI TU REVIENS&POUR NOTRE&RENDEZ-VOUS !/
-AINSI TU REVIENS&POUR ME VOIR !/
+AINSI^1, TU REVIENS&POUR NOTRE&RENDEZ-VOUS !/
+AINSI^1, TU REVIENS&POUR ME VOIR !/
 \E3TU AS L'AIR DE&VRAIMENT PRENDRE&ÇA AU SÉRIEUX.../
 \E2JE VAIS T'EMMENER&À UN ENDROIT TRÈS&SPÉCIAL, ALORS.../
 \E0UN ENDROIT OÙ&J'AIME PASSER&DU TEMPS !!!/%%
@@ -16059,7 +16059,7 @@ L'INTIMITÉ^1,&TU NE CONNAIS&DONC PAS ?/%%
 * (Mais il s'agit en fait&  d'un grand lit avec plus&  de place que la moyenne.)/%%
 * Les braises sont&  encore chaudes./%%
 * (C'est une fleur dessinée&  avec des nouilles.^1)&* ('Pour le Roi des Papas !')/%%
-* À l'intérieur du tiroir se&  trouvent des graines de fleur&  et des crayons cassés./%%
+* À l'intérieur du tiroir se&  trouvent des graines de fleurs&  et des crayons cassés./%%
 * Il y a des poils blancs au&  fond de l'évier./%%
 * (Il y a des poils blancs au&  fond de l'évier.)/%%
 * Du fait de leur nature magique^1,&  le corps des monstres est&  fermement attaché à leur ÂME./
@@ -17283,7 +17283,7 @@ LE LIVRE D'À CÔTÉ&EST AUSSI L'UN DE&MES PRÉFÉRÉS./
 * (L'étagère est remplie de&  livres compliqués sur&  la création d'énigmes.)/
 * (Et de livres pour enfants.)/%%
 L'INTERNET ^1! J'Y&SUIS PLUTÔT &POPULAIRE./
-JUSTE UNE&DOUZAINE DE PLUS&ET.../
+JUSTE UNE DOUZAINE&DE PLUS ET.../
 J'AURAI UNE DIZAINE&D'ABONNÉS !/
 \E3HÉLAS^1, IMPOSSIBLE &D'ÉCHAPPER À LA RAN&-ÇON DE LA GLOIRE./
 \E1CES DERNIERS TEMPS,&UN TROLL JALOUX ME&HARCÈLE EN LIGNE./
@@ -17297,11 +17297,11 @@ IL M'ENVOIE SOUVENT&DES BLAGUES IDIOTES&EN MINUSCULE.../%%
 * (On dirait que la majorité des&  choses stupides sur l'internet&  viennent en fait de ce chien.)/
 * (Savoir cela...^1)&* (Vous soulage grandement.)/%%
 AH^1, OUI^1, MES&FIGURINES./
-TRÈS UTILES POUR&METTRE EN SCÈNE D'&ÉPIQUES COMBATS./
+TRÈS UTILES POUR&METTRE EN SCÈNE&D'ÉPIQUES COMBATS./
 \E3POURQUOI J'EN AI&AUTANT ?/
 \E2DISONS QU'ELLES&M'ONT ÉTÉ OFFERTES&PAR UN HOMME.../
 \E0..DODU ET SOURIANT^1,&QUI AIME FAIRE&DES SURPRISES./
-TU AS BIEN&DEVINÉ ^1!!/
+TU AS BIEN&DEVINÉ !^1!/
 C'EST LE PÈRE&NOËL !!!!/%%
 * (Plein de figurines de&  robots sexy.)/%%
 C'EST TOUTES LES&ATTAQUES QUE J'AI&UTILISÉES SUR TOI./
@@ -17322,7 +17322,7 @@ WOW^1, T'AS TELLEMENT&ENVIE QU'ON TRAÎNE&ENSEMBLE.../
 QUE TU TENTES&D'ENTRER CHEZ MOI..&SANS MOI !/
 C'EST BIZARRE^1,&ÇA !!!/%%
 * (C'est ouvert.)/%%
-T'AS VU ^1? J'AI&AUGMENTÉ LA TAILLE&DU LAVABO./ 
+T'AS VU ^1? J'AI&AUGMENTÉ LA TAILLE&DE L'ÉVIER./ 
 JE PEUX Y METTRE&ENCORE PLUS D'OS !&MATE UN PEU !/%%
 OUBLIE ÇA./%%
 * (Ce lavabo est si haut qu'il&  est impossible de s'y&  laver les mains...)/%%
@@ -17593,10 +17593,10 @@ mystvol
 * (Mais bon^1, c'est pas grave.^1)&* (Ça a vraiment "réuni&  nos familles".)/%%
 * Fais gaffe où tu t'assois par&  ici^1, le mioche./
 * Parce que je peux t'ASSURER que&  ce grand dadais va sauter sur&  tes genoux pour te papouiller./%%
-* Il est où Sans..^1.&* Il est supposé me gratouiller&  la tête.../%%
+* Il est où Sans..^1.&* Il est supposé me grattouiller&  la tête.../%%
 * Elle n'a toujours pas répondu&  à nos lettres.../
 * On devrait peut-être arrêter&  de laisser Commandogue&  les écrire./%%
-* Je croyais que Sans&  était venu pour me&  gratouiller la tête./
+* Je croyais que Sans&  était venu pour me&  grattouiller la tête./
 * J'avais tort...!/%%
 * Où est l'autre gros bêta ^1?&* On peut pas commencer&  sans lui./%%
 * Ça sent..^1. plutôt calme./%%
