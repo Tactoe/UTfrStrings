@@ -14068,7 +14068,7 @@ Bou-hou c'est#tellement triste.
 comet
 * TELLEMENT TRISTE./
 * TE VOIR AINSI FINIR&  AU CACHOT./%%
-* OUMPF !&* TANT DE TRAGÉDIE^1, J'EN SUIS&  INNONDÉ DE FAUSSES LARMES./
+* OUMPF !&* TANT DE TRAGÉDIE^1, J'EN SUIS&  INONDÉ DE FAUSSES LARMES./
 * LE ROI A ORDONNÉ QUE L'ON&  TE LAISSE MOISIR DANS LES&  SOUTERRAINS DU CHÂTEAU./
 * ET NOUS N'AVONS&  PAS MÊME EU LE TEMPS&  D'EN COMPOSER UNE CHANSON./
 * MON PAUVRE COEUR ^1!&* POSER LES YEUX SUR TOI^1,&  SACHANT QUEL SORT T'ATTEND.../%%
@@ -14106,7 +14106,7 @@ dia
 * CHACUNE DE CES DALLES&  A SA PROPRE FONCTION./
 * PAR EXEMPLE, LES VERTES&  PRODUIRONT UN SON, ET TU&  DEVRAS COMBATTRE UN MONSTRE./
 * LES ROUGES VONT....&* MAIS.^1.. UNE PETITE MINUTE./
-* NOUS AVOUS DÉJÀ VU CETTE&  ÉNIGME IL Y A UNE CENTAINE DE&  SALLES DE ÇA, NON ?/
+* NOUS AVONS DÉJÀ VU CETTE&  ÉNIGME IL Y A UNE CENTAINE DE&  SALLES DE ÇA, NON ?/
 * MAIS OUI !&* TU TE SOUVIENS TOUJOURS DES&  RÈGLES^1, PAS VRAI ?/
 * SPLENDIDE...&* INUTILE DE TE LES RÉPÉTER^1,&  DANS CE CAS !!/%%
 * OH, ET TU VAS DEVOIR&  PRESSER LE PAS./
@@ -16120,7 +16120,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (... ou alors, il&  s'agit juste d'une très&  mauvaise écriture.)/
 * (Néanmoins, ils semblent&  avoir un rapport avec une&  étrange machine.)/%%
 * oh..^1. c'est ma télé.../
-* j'ai une émission que j'aime&  bien regarder dessus..^1.&* de temps à autres.../%%
+* j'ai une émission que j'aime&  bien regarder dessus..^1.&* de temps à autre.../%%
 * (C'est une vieille télé.^1)&* (Les boutons sont&  extrêmement usés...)/
 * (... Mis à part ceux qui&  servent à changer de chaîne.)/%%
 * (Une corde.^1)&* (Le chien ne prend pas de&  doublures lors des cascades.)/%%
@@ -16823,7 +16823,7 @@ Ouais,&genre,&quoi de&neuf ?/*
 * Donc^1, genre^1,&  Dr Alphys&  a construit&  Mettaton, non ?/*
 \M6* Oh mon Dieu^1.&* Mettaton./
 \M6* Il est genre..^1.&* Mon mari&  robotique.          /
-\M4* Je crois qu'on&  va genre..^1. l'&  épouser toutes&  les deux./%%
+\M4* Je crois qu'on&  va genre..^1.&  l'épouser toutes&  les deux./%%
 \E2* Oh mon DIEU^1,&* METTATON./
 \E2* En fait il&  est genre..^1.&* MON mari&  robotique./
 * On est genre^1,&  toutes les deux&  DÉJÀ mariées&  à lui.      /
@@ -16916,7 +16916,7 @@ mew
 \E7* Mais tu te&  sens pas mal&  pour lui^1,&  Gatty ?/
 \E5* Pauvre&  Mac Futal.../
 \E4* Regarde comme&  on est trop&  cool par &  rapport à lui !!/
-* On sauverait&  sa VIE avec&  notre&  amitié !!/
+* On sauverait&  sa VIE avec&  notre amitié !!/
 \E1* Sa VIE^1,&  Gatty !!/%%
 \M4* Euh^1, oui et ?/%%
 \E7* ..^5. %
