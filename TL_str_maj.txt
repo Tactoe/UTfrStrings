@@ -154,7 +154,7 @@ gx
 * Oh mince./
 * Cela s'avère bien plus&  difficile que je ne&  l'avais prévu.../%%
 \E2* Le premier interrupteur&  se trouve sur le mur./%
-\E1* As-tu besoin d'aide..^1?&* Appuie sur l'inter-&  rupteur sur le mur./
+\E1* As-tu besoin d'aide...^1?&* Appuie sur l'inter-&  rupteur sur le mur./
 \E0* Allez^1, tu peux le&  faire !/%
 \E2* Vas-y^1, appuie sur&  l'interrupteur de&  gauche./%
 \E2* Il me semble avoir dit&  l'interrupteur de&  gauche./%
@@ -184,7 +184,7 @@ gx
 \E0* Peu importe^2.&* Reste près de moi et je&  te garderai en sécurité./%
 \E3* ^1.^1.^1./
 \E4* ^1.^1.^1./
-\E0* La prochain pièce&  nous attend./%
+\E0* La prochaine pièce&  nous attend./%
 \E2* Entraîne-toi à parler&  au mannequin./%
 \E1* ..^2.\E2&* Ça ne devrait pas le&  déranger./%
 \E0* As-tu besoin d'idées&  de sujets de&  conversation ?/
@@ -1575,7 +1575,7 @@ scr_torface
 J'Y CROIS PAS !&JE RENCONTRE&ENFIN LE SOLEIL !!!/
 \E0* Je pourrais rester là&  et admirer tout ça&  pendant des heures.../
 \E0* Oui^1, c'est magnifique^1,&  n'est-ce pas ?/
-\E1* Mais il est peut-être&  temps de réfléchir à la&  suite des évènements./
+\E1* Mais il est peut-être&  temps de réfléchir à la&  suite des événements./
 \E3* Oh^1, bien sûr./
 \E0* Mes amis.../
 * Aujourd'hui, nous&  célébrons l'aube&  d'un futur radieux./
@@ -1594,7 +1594,7 @@ SI TU NE SOUHAITES&PAS DEVENIR NOTRE&AMBASSADEUR.../
 JE M'EN CHARGERAI&POUR TOI !!!/
 * Frisk.../
 \E2* Tu viens de ce monde^1,&  n'est-ce pas...?/
-\E1* Tu as donc un chez-toi&  vers où retourner^1,&  non ?/
+\E1* Tu as donc un&  chez-toi où retourner^1,&  non ?/
 \E2* Que vas-tu faire&  à présent ?/
          Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 * (La porte n'a pas de fente pour&  y insérer la lettre.)/
@@ -1648,7 +1648,7 @@ bs
 * pourtant.../
 * y'a toujours eu un&  truc que je trouvais&  étrange chez toi./
 * bon, je comprends&  que c'était pour toi&  de la légitime défense./
-* tu n'as pas choisi&  de vivre tous ces&  évènements./
+* tu n'as pas choisi&  de vivre tous ces&  événements./
 * et pourtant.../
 * parfois, on dirait&  presque que.../
 * t'agissais comme si&  tu savais déjà ce&  qui allait se passer./
@@ -1934,7 +1934,7 @@ faceemotion
 * Si tu veux me parler^1, je&  suis juste ici./
 * (Quelque part^1, un chien&  perturbe le signal.)/%%
 scr_papcall
-* (Pas de réponse.^1) &* (Son téléphone n'a peut-&  être plus de batterie.)/%%
+* (Pas de réponse.^1) &* (Leur téléphone n'a peut-&  être plus de batterie.)/%%
 scr_torcall
 * (La boîte est envahie par&  les poils de chien.)/%%
 \E2* Bienvenue dans ta&  nouvelle maison^1,&  jeune enfant./ 
@@ -4188,7 +4188,7 @@ POISSONATOR !^1!&RENDS-MOI MON&AMIE UNDYNE !/
 UN TABLIER^1, ICI&À CALCITERRE ^1?&PLUTÔT LOGIQUE./
 LA CUISINE^1, C'EST&BEL ET BIEN UNE&AFFAIRE DE FEU./%%
 SAUF SI TU&ESSAYES DE CUISINER&DES ESQUIMOS./%%
-\E3* Au final^1, la cuisine&  c'est vraiment une&  affaire de feu !/
+\E3* En fait^1, la cuisine&  c'est vraiment une&  affaire de feu !/
 \E3SAUF SI TU&VEUX CUISINER DES&GLACES À L'EAU./
 \E9* Ça s'appelle pas&  vraiment "cuisiner",&  dans ce cas.../
 \E5C'EST POURTANT CE&QUE TU DISAIS LA&DERNIÈRE F..^1. EUH.../
@@ -4345,7 +4345,7 @@ J'AI RIEN D'AUTRE&À AJOUTER./%%
 * Excuse-moi/
 * ./%%
 * (Nouveau message de TORIEL,&  intitulé "Vidéo de chat".)/
-* (Elle y décrit avec précision&  une vidéo d'un petit animal&  blanc qu'elle a visionné.)/
+* (Elle y décrit avec précision&  la vidéo d'un petit animal&  blanc qu'elle a visionnée.)/
 * (Il n'y a en revanche ni lien&  ni pièce jointe dans le&  message.)/%%
 * Cc: envoie ça a 1 prsn a ki tu&  ti1... ou 1 skelett vi1dra&  te cliketer dessus./%%
 * J'ai pensé que ça te ferait&  sourire^1.&* ]: )/
@@ -4357,21 +4357,21 @@ J'AI RIEN D'AUTRE&À AJOUTER./%%
 * "Dreemurr" et "Fémur.^1"&* M-D-R !/
 * PS - Ce n'était qu'une blague^1.&* Ne m'appelle pas Dreemurr./%%
 * Undyne est extrêmement forte./
-* Papyrus a parié avec elle&  qu'il serait impossible pour&  elle de tous nous soulever./
+* Papyrus a parié avec elle&  qu'il lui serait impossible&  de tous nous soulever./
 * Il s'avère qu'elle en est&  capable./
 * L'ennui, c'est qu'elle ne&  savait plus trop comment&  tous nous reposer./%%
 * Alphys a beaucoup d'anecdotes&  à raconter au sujet du&  monde des humains./
 * Beaucoup sont absolument&  fausses^1, en revanche./
 * Frisk^1, tu ne lui aurais pas&  raconté des bêtises^1, dis-moi ^1?&* ]: )/%%
 * J'ai cru comprendre qu'utiliser&  l'ordinateur trop longtemps&  était mauvais pour la santé./
-* Cela dit^1, je ne crois pas me&  souvenir te voir utiliser&  un seul ordinateur./
+* Cela dit^1, je ne crois pas&  me souvenir de t'avoir vu&  utiliser le moindre ordinateur./
 * Tu dois donc être en&  excellente santé ^1!&* C'est bien./%%
 * Je crois qu'il est temps pour&  moi d'éteindre ce téléphone,&  maintenant./
 * Tu t'es fait des amis vraiment&  adorables !/
 * Je vais profiter de ton&  absence pour apprendre&  à mieux les connaître./
 * Sois sage^1, d'accord ?/
 * Cordialement^1, Toriel./%%
-* (Pas de nouveaux messages&  de Toriel.)/%%
+* (Pas de nouveau message&  de Toriel.)/%%
 originalstring
 stringpos
 writer
@@ -5548,7 +5548,7 @@ Dans les deux cas^1,&ça m'intéresse !!!/
 Intéressant.../
 \E6Donc^1, même avec&tout ce que tu as fait.../
 \E5L'issue reste&toujours la même./
-\E9Au final^1, tes&choix n'étaient&qu'illusoires./
+\E9Finalement^1, tes&choix n'étaient&qu'illusoires./
 \E9RIEN de ce que&tu fais n'a&d'importance !/
 \E8Gni hi hi !/
 \E8.../
@@ -7777,7 +7777,7 @@ type2
 con3
 soundbuffer
 \E1AAAÏE^1, bande de&MANNEQUINCAPABLES !/
-\XAttention où vous&tirez avec vos&attaques\R &MAGIQUES\X !/
+\XAttention où vous&tirez avec vos&attaques\R MAGIQUES\X !/
 \XEh ^1!&Toi ^1! \E2J'ai RIEN&dit à propos de\R &MAGIE\X, OK ?!!/%%
 Stupide^1.&Stupide ^1!&STUPIDE !/
 Même si tu frappes&mon enveloppe^1,&tu ne me feras&RIEN !/
@@ -9718,7 +9718,7 @@ Ha ha ha !!!/%%
 Bien^1,&finissons-en./%%
 \E0Non^1.&Ce n'est qu'un&doux rêve^1,&n'est-ce pas ?/
 \E1Jeune enfant^1,&lorsque je te&regarde.../
-\E2Je me rappelle de&l'humain qui est tombé&ici il y a longtemps.../
+\E2Je me souviens de&l'humain qui est tombé&ici il y a longtemps.../
 \E8Tu as cette même&lueur d'espoir&dans les yeux./
 \E7Il y a une ancienne&prophécie connue&de notre peuple.../
 Un jour^1, un&sauveur tombera&des cieux./
@@ -10193,7 +10193,7 @@ ASRIEL^1, le fils&du roi^1, entendit&son appel./*
 Et ramena l'humain&jusqu'au château./%%
 Au fil du temps^1,&ASRIEL et l'humain&devinrent très&proches./*
 Le Roi et la Reine&considérèrent&l'humain comme&leur propre enfant./*
-L'Outremonde&était rempli&d'espoir./%%
+L'outremonde&était rempli&d'espoir./%%
 blcon3
 blconwd3
 Puis..^1.&Un jour.../*
@@ -10645,7 +10645,7 @@ Personne&ne&sortira&d'ici.
 * Tes mots semblent&  l'émouvoir profondément./^
 * Elle semble&  profondément émue..^1.&* Tout à coup, tout lui revient !/%%
 * Tout à coup^1, tous ses&  souvenirs lui reviennent !/
-* En la voyant se souvenir de&  toi^1, l'autre Âme Égarée fait au&  mieux pour se rappeller aussi !/%%
+* En la voyant se souvenir de&  toi^1, l'autre Âme Égarée fait au&  mieux pour se souvenir aussi !/%%
 * Tu refuses de combattre&  l'Âme Égarée./
 * Cette situation lui&  est familière.../^
 * Tu fais un câlin à l'Âme Égarée&  et lui dis que vous vous&  reverrez bientôt./
@@ -11482,7 +11482,7 @@ stepped
 * Croâ croâ^1.&* (Comment était ton aventure ?)/
 * (Ça a dû etre difficile sans&  être capable de comprendre&  les sentiments des ennemis.)/%%
 * Croâ croâ^1.&* (Enfin^1, nous pouvons enlever&  ces noms roses vieillots.)/
-* (Tout le monde t'as rendu&  un grand service aujourd'hui.^1)&* (Ça se respecte !)/%%
+* (Tout le monde t'a rendu&  un grand service aujourd'hui.^1)&* (Ça se respecte !)/%%
 xed
 * Croâ^1, croâ^1.&* (Soupire...)/
 * (Mon ami ne m'écoute jamais.)/
@@ -11537,7 +11537,7 @@ curf
 \E0* Frisk.../
 \E7* Dis./
 \E0* Je peux te poser&  une question ?/
-* Frisk..^1. Comment as-tu&  fait pour arriver dans&  l'Outremonde ?/
+* Frisk..^1. Comment as-tu&  fait pour arriver dans&  l'outremonde ?/
 * Tout le monde connaît&  la légende^1, pourtant.../
 * "De ceux qui gravissent&  le Mont Ebott^1, jamais&  aucun ne revient."/
 * Frisk./
@@ -11558,7 +11558,7 @@ curf
 \E2* Frisk..^1.&* Tu es VRAIMENT pas&  comme 
 \E0* Même si vous avez&  les mêmes^1, euh^1, goûts&  vestimentaires.../
 * Je sais pas ce qui m'a&  poussé à croire que tu&  étais la même personne./
-\E7* Peut-être..^1.&* La vérité c'est que.../
+\E7* Peut-être que..^1.&* La vérité c'est que.../
 \E1* 
  n'était&  peut-être pas quelqu'un&  de si bien./
 \E7* Mais toi^1, Frisk.../
@@ -11575,7 +11575,7 @@ curf
 \E1* ... utiliser nos&  pouvoirs pour.../
 \E2* J'ai décidé de lui&  résister./
 \E7* Et finalement^1, à cause&  de moi,^1 on est.../
-\E1* Bref^1, c'est comme ça&  que j'ai fini dans&  une fleur./
+\E1* Bref^1, c'est comme ça&  que j'ai fini&  en fleur./
 * Durant tout ce temps^1,&  j'ai jamais cessé&  de m'en vouloir./
 * C'est à cause de ça que&  j'ai adopté cette af-&  freuse vision du monde./
 * "Tuer ou être tué."/
@@ -11587,7 +11587,7 @@ curf
 \E0* Et puis après tout^1,&  tout le monde est libre&  maintenant^1, pas vrai ?/
 \E7* Ça me rend juste triste&  quand je vois tout le&  temps qu'il aura fallu../
 \E0* ... donc c'était&  peut-être pas la&  meilleure décision./
-* Mais c'est idiot de&  regretter toute sa vie&  les choix qu'on a fait./
+* Mais c'est idiot de&  regretter toute sa vie&  les choix qu'on a faits./
 \E7* Enfin^1, c'est pas comme&  si j'avais encore une&  vie, de toute façon./
 \E0* Mais c'est&  pas la question./%%
 * Frisk^1, c'est gentil&  à toi de m'avoir&  écouté./
@@ -11595,12 +11595,12 @@ curf
 * Oh^1, et^1, s'il&  te plaît.../
 \E7* À l'avenir^1, si tu&  euh^1, me revois.../
 * Rappelle-toi seulement&  que ça n'est pas&  "moi"^1, OK ?/
-\E0* Je veux que tu te&  rappelles de moi comme&  je suis là, maintenant./
+\E0* Je veux que tu te&  souvienne de moi tel que&  je suis là, maintenant./
 \E0* Quelqu'un qui aura pu&  être ton ami, même pour&  un court instant./
 \E2* Oh^1, et Frisk.../
 \E0* Fais attention à toi^1,&  à la surface^1, OK ?/
 * Malgré ce qu'ils pensent&  tous^1, c'est pas&  aussi rose qu'ici-bas./
-\E7* Il y a beaucoup de&  Floweys là-dehors./
+\E7* Il y a beaucoup de&  Flowey là-dehors./
 \E2* Et on peut pas résoudre&  tout les problèmes&  avec un sourire./
 * Ne tue pas^1, et&  ne te fais pas tuer^1,&  d'accord ?/
 * C'est tout ce que&  je peux te souhaiter./
@@ -11626,7 +11626,7 @@ flow
 flow_m
 Met1
 * Hi hi hi.../
-* Me présenter à nouveau ?&  Et puis quoi encore ?/
+* Me présenter à nouveau ?&* Et puis quoi encore ?/
 * C'est pas très poli de&  faire comme si tu ne me&  connaissais pas./
 * Quelqu'un se doit de&  t'apprendre les bonnes&  manières !/
 * Tu n'as vraiment rien de&  mieux à faire ?/%%
@@ -13599,13 +13599,13 @@ tc
 * ......................&  ...... un truc cool./
 * humain...^1.&* jamais je n'oublierai le moment&  où tu m'as encouragé./
 * quand je faisais semblant&  de dormir.../
-* personne n'avait jamais&  autant cru en mon faux&  sommeil.../
+* personne n'avait jamais&  autant cru en mon&  sommeil simulé.../
 * humain..^1.&* je n'oublierai jamais.../
 * la fois où tu as essayé&  de me détruire..^1.&* mais... t'as pas réussi.../
 * désolé..^1.&* j'ai tout fichu en l'air/
 * euh........^1.&* en passant.....^1.&* c'est indiscret... mais/
 * c'est...^1.&  quoi ton nom ?/
-* tout le monde à l'air de le&  savoir maintenant^1,&  sauf moi.../
+* tout le monde a l'air de le&  savoir maintenant^1,&  sauf moi.../
 * on dirait que j'ai raté&  des choses dernièrement/
 * j'étais à la maison en train&  d'écouter de la musique/
 * quand il y a eu un éclat de&  lumière à ma fenêtre/
@@ -15107,7 +15107,7 @@ C'EST UN&SOURIRE DE&CONSTERNATION !!!/%%
 * N'est-ce pas ?/%%
 * Frisk^1, et si tu allais&  faire un tour avant que&  l'on s'en aille ?/
 * Si j'en juge par&  tous tes amis&  ici présents.../
-* Je suis certaine que&  tu t'en es fait bien&  d'autres chemin faisant./%%
+* Je suis certaine que&  tu t'en es faits bien&  d'autres chemin faisant./%%
 * eh^1, frisk^1, pourquoi&  tu tires cette&  tronche ?/
 \E2* Sans^1, t'ai-je parlé de&  la fois où Frisk a tenté&  de me courtiser...?/
 \E8* Avant de demander à&  m'appeler "mère" ?/
@@ -15898,9 +15898,9 @@ cantalk
 * (C'est une photo de famille.^1)&* (Tout le monde sourit.)/%%
 \R* .../%%
 * C'est un livre d'histoire^1.&* Voici une page au hasard.../
-* Piégés sous la Barrière^1, et&  craignant une autre attaque&  humaine^1, nous fuîmes./
+* Piégés sous la barrière^1, et&  craignant une autre attaque&  humaine^1, nous fuîmes./
 * Dans les profondeurs^1, nous&  marchâmes^1, jusqu'au bout de la&  caverne./
-* Ce lieu devint notre nouvelle&  maison^1. Nous l'appelâmes../
+* Ce lieu devint notre nouvelle&  maison^1. Nous l'appelâmes.../
 * "Maison"./
 * Grand est notre roi^1, mais&  pourraves sont ses choix de&  noms./%%
 * C'est une armoire./
@@ -16312,7 +16312,7 @@ ELLE EST ENCORE LÀ !/
 RAAH, OUBLIE ÇA !/%%
 * Quoi^1.&* Quoi ^1?&* QUOI !?/
 * On vit comme on peut./%%
-* Au final^1, c'est toi qui nous&  a permis d'être libres.../
+* Finalement^1, c'est toi qui nous&  a permis d'être libres.../
 * Je filais vraiment un mauvais&  coton en me mettant en travers&  de ton chemin.../%%
 * Désolé de t'avoir donné du&  fil à retordre auparavant./
 * Tu nous as été d'une aide&  immense !!/%%
@@ -16338,7 +16338,7 @@ RAAH, OUBLIE ÇA !/%%
 * Les effets spéciaux étaient&  incroyables aujourd'hui^1!&* Cet humain semblait quasi-RÉEL!/%%
 * Mais bien sûr^1, un spectateur&  chevronné comme moi reconnaît&  vite ce genre de supercherie.../%%
 * La barrière est ouverte^1, donc&  on peut ne pas aller au&  boulot aujourd'hui./
-* Après^1, c'est vrai^1, on est&  libres^1, mais c'est tous ces&  petit trucs^1, tu sais ?/%%
+* Ouais^1, d'accord^1, on est&  libres^1, mais c'est tous ces&  petit trucs^1, tu sais ?/%%
 * Ce dernier épisode m'a&  vraiment remué.../
 * Mais Mettaton va bien^1.&* Tout le monde sait que c'est&  que des images de synthèse !/%% 
 * Mettaton ^1?&* Ouais^1, c'est la star la plus&  populaire de l'outremonde !/
@@ -16381,7 +16381,7 @@ RAAH, OUBLIE ÇA !/%%
 \E0* Pour l'instant^1, Timorène&  a accepté d'être&  ma choriste./
 \E0* Et Bl..^1.&* Napstablook^1, juste là^1,&  sera mon nouveau DJ !/
 \E2* Être tous les trois^1,&  ensemble sur la scène.../
-\E4* On aurait dû faire&  come ça bien plus tôt !/%%
+\E4* On aurait dû faire&  comme ça bien plus tôt !/%%
 \E0* Frisk^1, trésor^1.&* Pourrais-tu m'aider?/
 \E2* Quel genre de produits&  dérivés pourraient bien&  plaire aux humains...?/
 \E1* Voici mes idées&  jusque-là :/
@@ -16564,7 +16564,7 @@ Dire bonjour
 Que faire ici ?
 Histoire du village
 Vie quotidienne
-Que s'est-il passé
+Ce qu'il s'est passé
 L'humain
 Les Ruines
 Le futur
@@ -16593,8 +16593,8 @@ scr_itemroom
 * La ville est devenue bien plus&  animée depuis ^1- pas que je&  m'en plaigne !/%%
 \E0* On dit que c'est parce qu'un&  humain est dans le coin./
 * Un humain..^1.&* J'ai du mal à y croire !/
-* S'il lui venait l'dée de passer&  par mon auberge^1, je lui&  donnerais un accueil&  du tonnerre !/%%
-\E4* Rappelle-toi tes cours&  d'histoire.../
+* S'il lui venait l'idée de passer&  par mon auberge^1, je lui&  réserverais un accueil&  du tonnerre !/%%
+\E4* Souviens-toi de tes&  cours d'histoire.../
 \E0* Il y a longtemps^1, les monstres&  vivaient dans les RUINES de la&  forêt./
 * Pour faire simple^1, on a tous&  décidé de quitter les ruines&  pour nous diriger vers le&  fond des cavernes./
 * En chemin^1, des gars pas frileux&  ont décidé qu'ils aimaient le&  climat et sont restés ici./
@@ -16647,7 +16647,7 @@ Destinée
 Menace
 Affronte-moi
 Héros
-Popotouffe Pourquoi ?
+Pourquoi Popotouffe ?
 ASGORE est-il une chèvre
 ASGORE et TORIEL
 Tu veux&savoir&quoi,&au juste ?/*
@@ -16666,10 +16666,10 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E3* Puisque les humains nous&  auraient tous tués une fois&  la surface atteinte./
 \E1* Je m'suis donc senti un peu&  trahi lorsqu'il a finalement&  retourné sa veste./
 \E4* Mais à présent^1, j'crois..^1.&* Qu'il avait peut-être raison./
-\E2* Au final^1, même si on s'est&  jamais échappé.../
+\E2* Tout compte fait^1, même si on&  s'est jamais échappé.../
 \E3* C'est bien un humain qui vient&  nous achever^1, j'me trompe ?/%%
 * OK^1, OK ^1!&* Je m'souviens maintenant./
-\E3* C'était lors d'un discours&  au château^1. La Reine faisait&  son rapport habituel sur&  les derniers évènements./
+\E3* C'était lors d'un discours&  au château^1. La Reine faisait&  son rapport habituel sur&  les derniers événements./
 \E0* Après avoir terminé^1,&  elle s'est déplacée pour&  tendre le micro au roi./
 \E3* ... et sans se rendre compte&  qu'elle tenait toujours le&  micro, elle a lancé :/
 \E2* "C'est à toi^1, Popotouffe." /
@@ -16702,7 +16702,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E3* Hein ^1?&* Une chèvre ?/
 \E2* Tiens^1, ça m'fait penser^1.&* Pendant un temps, Toriel&  portait une muu-muu à fleurs./
 \E0* Tout l'monde n'arrêtait pas&  d'lui dire "jolie muu-muu"^1,&  mais elle pensait qu'ils la&  traitaient tous de vache./
-\E1* Elle l'a jamais plus porté&  par la suite./
+\E1* Elle l'a plus jamais portée&  par la suite./
 \E3* C'tait quoi déjà, ta question ?/
 \E0* Oh^1.&* Oui^1.&* ASGORE./
 \E3* Un monstre intéressant^1,&  le gaillard^1.&* D'la plus puissante espèce./
@@ -16722,7 +16722,7 @@ Vraiment ?&TOI^1,&discuter&avec moi ?/*
 \E0* ...'M'en souviens pas./
 * Si tu repasses un peu plus&  tard^1, j'suis persuadé que&  j'm'en serai rappelé d'ici là./%%
 \E2* Ah, ouais ^1!&* Donc^1.&* Toriel était la reine^1, et&  Asgore le roi./
-\E3* Ça a été une sacrée perte&  quand elle a plié bagages./
+\E3* Ça a été une sacrée perte&  quand elle a plié bagage./
 \E1* Après tout, on sait tous que&  c'était elle la tête pensante&  derrière la couronne.../
 \E0* Mais honnêtement, c'était&  quand même une touuute&  petite délivrance^1,&  tu sais ?/
 \E3* C'était une torture d'les&  voir ensemble, ces deux-là^1.&* Et vas-y que j'te bécotte&  devant tout le monde^1, à&  en faire rougir leurs gamins.../
@@ -17085,7 +17085,7 @@ Gatty et Catty
 \E3* Comme la fois où ces deux&  nanas m'ont demandé de leur&  chourer des Glamburgers./
 \E6* Et où moi^1, tel l'ado naïf que&  j'étais^1, j'ai mordu à l'hameçon./
 \E4* Mauvaise idée./%%
-\E4* Ces filles ?&* Celles qui m'ont vu perdre&  mon froque ?/
+\E4* Ces filles ?&* Celles qui m'ont vu perdre&  mon froc ?/
 \E5* Ben^1, on sera tous&  libres^1, donc au moins&  je les verrai plus jamais !/%%
 \E4* Donc on est libres&  maintenant./
 \E5* Ça veut dire que mon&  double-rencard est annulé...?/
@@ -17110,7 +17110,7 @@ Gatty et Catty
 \E5* Quand je suis arrivé à&  Calciterre^1, c'était mon rêve&  de travailler avec Mettaton./
 \E3* Moralité, fais attention à&  ce que tu souhaites,&  mon p'tit pote !/%%
 \E3* Ne répète ça à personne^1,&  mon p'tit pote./
-\E4* (Parce qu'on se moquerait&  de moi,)/
+\E4* (Parce qu'on se moquerait&  de moi.)/
 \E5* Mais j'ai..^1.l'impression que j'ai&  joué un rôle dans la&  libération de tout le monde&  d'une certaine manière./
 \E1* Même si ça a surtout consisté&  à faire ce job affreux.../
 \E5* Je crois que j'ai servi à&  quelque chose !/
@@ -17126,7 +17126,7 @@ Gatty et Catty
 \E6* Alors ne perds pas espoir^1,&  mon p'tit pote^1.&* Quand je serai célèbre^1, je&  me souviendrai de toi./%%
 \E3* Mon p'tit pote ^1!&* Il y a un tout nouveau monde&  qui nous attend là-bas./
 \E6* Je suis sûr qu'avec mes&  (ahem) compétences^1, je&  deviendrai une star du cinéma&  en un rien de temps.../
-\E4* Ou^1, peut-être que je finirai&  encore tourneur de&  steaks hachés./
+\E4* Ou peut-être que je finirai&  encore retourneur de&  steaks hachés./
 \E3* Mais c'est comme je le dis ^1!&* Ça sera jamais pire que&  maintenant !&* Juste plus haut !/%%
 \E6* Désolé^1, l'asticot^1.&* Les menaces ne marchent pas&  sur moi./
 * Je peux pas aller au&  diable^1.&* J'ai plus de jours de&  congé./%%
@@ -17445,7 +17445,7 @@ scr_deaddog
 * Il va falloir mettre des&  chaises sur le toit./%%
 * Hé ^1! Personne ne va être obligé&  de quitter la ville^1,&  en fin de compte !/
 * Du coup, notre culture locale&  va s'en sortir indemne./
-* ... même si on&  s'en va tous^1,&  finalement./
+* ... même si on&  s'en va tous^1,&  en fait./
 * Mais bon^1. On ne peut pas avoir&  le beurre et l'argent du&  beurre^1, après tout./%%
 * ... qui sait^1.&* On aura peut-être beaucoup&  de place./%%
 * Ah^1, j'aimerais être jeune&  à nouveau^1.&* Le monde semblait sans limite./%%
@@ -17457,7 +17457,7 @@ scr_deaddog
 * Cet endroit me semble dangereux&  aujourd'hui./%%
 * Loup Glacé n'a plus à&  balancer des glaçons./
 * Loup Glacé peut faire une pause&  pour aller s'acheter un&  pantalon maintenant./%%
-* Loup glacé pense à changer son&  nom en "Jimmy Loubar"./%%
+* Loup Glacé pense à changer son&  nom en "Jimmy Loubar"./%%
 * Dis, on joue aux Monstres&  et aux Humains ?/%%
 * On continue à jouer aux&  Monstres et aux Humains ?/%%
 * Maintenant^1, on peut jouer&  aux Monstres et aux Humains&  avec de VRAIS humains !/%%
@@ -17513,7 +17513,7 @@ sansmode
 * Il m'a dit qu'il avait trouvé&  un nouvel appât pour moi./
 * Bon, j'imagine que c'était&  encore une de ses farces./
 * Mais même ses farces&  m'intéressent, moi !/%%
-* Au final^1, j'aurai pas réussi à& "pécho la daurade"^1, comme&  on dit./
+* Finalement^1, j'aurai pas réussi à& "pécho la daurade"^1, comme&  on dit./
 * Alors que ça te serve&  d'exemple^1, le mioche.../
 * Ne tente jamais de "pécho"&  à la canne à pêche./
 * (Un gémissement déséspéré&  retentit plus loin.)/%%
@@ -17589,8 +17589,8 @@ mystvol
 * (Et après son frère se fâche..^1)&* (Pourquoi !^1? On est grands !^1)&* (On a le droit !)/%%
 * (Mais où est Commandogue ?^1)&* (J'espère qu'il ne s'est&  pas perdu à nouveau.)/%%
 * (Y'a pas un chat aujourd'hui.^1) &* (Si nos amis viennent pas, ça&  te dirait de jouer avec nous ?)/%%
-* (Tous nos parents ont étés&  recombinés en un unique&  monstre effrayant.)/
-* (Mais bon^1, c'est pas grave.^1)&* (Ça a vraiment "réuni nos&  familles ensemble".)/%%
+* (Tous nos parents ont été&  recombinés en un unique&  monstre effrayant.)/
+* (Mais bon^1, c'est pas grave.^1)&* (Ça a vraiment "réuni&  nos familles".)/%%
 * Fais gaffe où tu t'assois par&  ici^1, le mioche./
 * Parce que je peux t'ASSURER que&  ce grand dadais va sauter sur&  tes genoux pour te papouiller./%%
 * Il est où Sans..^1.&* Il est supposé me gratouiller&  la tête.../%%
@@ -17617,7 +17617,7 @@ mystvol
 * Des fois les gens me font des&  blagues^1. Ils s'assoient et du&  coup je peux plus les voir./
 * Je suis sûr qu'ils sont là^1, à&  se moquer de moi./
 * Je ne bougerais pas tant&  qu'ils n'auront pas bougé !/%%
-* C'est vraiment génial d'avoir&  un truc informe et tremblottant&  comme membre de sa famille./
+* C'est vraiment génial d'avoir&  un truc informe et tremblotant&  comme membre de sa famille./
 * Vu qu'il bouge tout le temps^1,&  je peux le voir en permanence !/%%
 * (Il est en train de jouer au&  poker contre lui-même.)/
 * (On dirait bien qu'il est en&  train de perdre.)/%%
@@ -17636,7 +17636,7 @@ mystvol
 * Quand j'étais plus jeune^1, les&  professeurs en manque d'idées&  me donnaient des mots mêlés./
 * À l'époque, je pensais que&  c'était une perte de temps./
 * Et regarde-moi aujourd'hui.../
-* Seule spécialiste senior en&  création de mots mêlés de&  tout l'Outremonde !/%%
+* Seule spécialiste senior en&  création de mots mêlés de&  tout l'outremonde !/%%
 * (kof^1, kof)/
 * Il y a bien un jour durant&  lequel je ne veux pas&  travailler./
 * Et c'est aujourd'hui./%%
@@ -17713,7 +17713,7 @@ jeffrey
 * Des vacances n'importe où,&  avec n'importe qui, pour faire&  tout ce qui nous plaira !/
 * Irons-nous sous les tropiques^1?&* Mais, et ce vieux manoir hanté^1?&* Ah, c'est si dur de choisir~/%%
 \W* Heh^1.&* Moi c'est \RTouffe Toufflam\W.&* N'oublie pas mon nom !/%%
-* Je me rappellerai toujours&  que tu t'en es rappelé !/%%
+* Je me souviendrai toujours&  que tu t'en es souvenu !/%%
 * Je n'oublierai jamais&  que tu as oublié !/%%
 * Quoi ?&* Tu veux qu'on le&  refasse ?/%%
 * Ouais^1, je vais pas pouvoir&  rentrer, ce soir... euh.../
@@ -17755,7 +17755,7 @@ dk
 * (La plante en pot vous&  juge^1, vous et vos péchés.)/%%
 * (C'est un troupeau de ficus.)/%%
 * (Occupé, on dirait.)/%%
-* (A encore du pain&  sur les planches.)/%%
+* (A encore du pain&  sur la planche.)/%%
 * (Sérieusement. À quoi bon.)/%%
 * bepis/%%
 * Mes excuses^1, nous n'acceptons&  plus de visiteurs à cette&  heure./
@@ -17810,7 +17810,7 @@ dk
 * L'docteur^1.&* Elle m'a ramené ma femme.&* Elle l'a ramenée à la vie./
 * Mon fils^1.&* Maintenant, il a l'air de&  nouveau heureux./
 * Not'famille^1.&* L'est plus grande que jamais./
-* Surtout d'puis que^1.&* Ma femme a été mélangée^1.&* Avec 16 aut'personnes./%%
+* Surtout d'puis que^1.&* Ma femme a été mélangée^1.&* Avec seize aut'personnes./%%
 * Mon patron ne répond même&  plus à mes appels./
 * Impossible de savoir la date&  de mon prochain spectacle./
 * Je pense qu'il est temps de&  faire tomber le masque...&* J'arrête la comédie./
@@ -17831,7 +17831,7 @@ dk
 * Comme le NOYAU change sans&  arrêt de forme^1, c'était mon jeu&  d'essayer de le retrouver./
 * Maintenant, c'est mon coin^1.&* C'est pratique pour griller&  des chamallows./%%
 * Mettaton nous a embauchés&  pour qu'on t'éradique./
-* Mais il ne nous a toujours pas&  payé^1, alors on s'est dit qu'on&  allait laisser tomber tout ça./
+* Mais il ne nous a toujours pas&  payés^1, alors on s'est dit qu'on&  allait laisser tomber tout ça./
 * Sans rancune^1, hein./%%
 * Zzzzzzz.../
 * (Il fait une sieste.)/%%
@@ -17864,7 +17864,7 @@ dk
 * L'idée du romantisme^1,&  le concept de s'aimer&  l'un l'autre.../
 * Perdue dans mes rêveries^1,&  j'ai fini par t'associer à&  ces concepts dans ma tête./
 * En sachant cela, nul doute&  que notre relation se&  serait mal terminée./
-* Au final^1, je pense qu'il est&  préférable que je me sois tue&  sur le moment./
+* Finalement^1, je pense qu'il est&  préférable que je me sois tue&  sur le moment./
 * B..^1. B-baka.../%%
 * Ne compte pas sur moi pour&  répéter tout ça./%%
 * H-hé^1, qu'est-ce que t'as&  à me suivre comme ça !!!&* Pauvre malade !!!/
@@ -17906,7 +17906,7 @@ scr_enemynpc1
 * Je m'en fiche ^1!&* Je me fiche totalement de ce&  qu'il pense de mes blagues !/%%
 * Même si maman partage le même&  esprit que d'autres gens,&  elle reste ma maman./
 * Moi, je trouve ça "cool" !/
-* Genre, tu sais, cool, le froid,&  la glace, le truc dont on est&  fait, tout ça./
+* Genre, tu sais, cool, le froid,&  la glace, le truc dont on est&  faits, tout ça./
 * ALLEZ !^1!&* C'est une BLAGUE !^1!&* D'habitude les gens RIGOLENT !!/%%
 * Les chapeaux sont devenus&  mainstream^1.&* Je devrais peut-être changer./
 * Mini-short glacé./
@@ -19161,7 +19161,7 @@ exper
 COLHIVERT
 par Magnolia Porter
 Cherche toujours#son public
-Comédien à#célèbrité modérée
+Comédien à#célébrité modérée
 C. GLACÉE
 Pense à son#chapeau
 Styliste de#mode
@@ -19189,7 +19189,7 @@ Toujours en train#de s'étirer
 Détective du#paranormal
 JELLYGANTESQUE
 A du mal à s'adapter#à la vie moderne
-Vit un idylle#à la plage
+Vit une idylle#à la plage
 LAVTOA
 Inspiration par OMOCAT
 Concierge#commun
@@ -19212,7 +19212,7 @@ S'attire toujours#des ennuis
 Sert de bougie sur#le plus gros gâteau#au monde
 MUFFET
 par Michelle
-Araignée renommée.#A ouvert#une Boulangerie
+Araignée#renommée.#A ouvert#une Boulangerie
 GARDES ROYAUX
 Faites travailler#votre imagination
 CROÂPAUD ULTIME
@@ -19330,7 +19330,7 @@ st_f3
 st_y2
 MENTIONS TOUCHÉES
 Impressionnant.#Quelque part, une#porte s'est ouverte...!
-Merci à nos amis et à nos#familles pour leur#support. La TEAM UNDERTALE vous#remercie vous, le joueur,#de tout notre coeur.#Sans vous, rien de tout cela#n'aurait pu voir le jour.# #Bonne nuit.
+Merci à nos amis et à nos#familles pour leur#soutien. La TEAM UNDERTALE vous#remercie vous, le joueur,#de tout son coeur.#Sans vous, rien de tout cela#n'aurait pu voir le jour.# #Bonne nuit.
 * (La garde-robe est remplie de&  blouses de laboratoire sales.^1.)&* (Et une seule robe propre.)/%%
 * (C'est une lampe avec des pois-&  sons roses sur l'abat-jour.^1)&* (Il n'y a pas d'ampoule.)/%%
 * (Il y a des lettres de monstres&  ici, comme Croâpaud^1, Colly^1,&  ou Commandogue...)/  
