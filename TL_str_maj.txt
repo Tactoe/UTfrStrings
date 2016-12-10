@@ -72,7 +72,7 @@ xpreward
 goldreward
    * Vous fuyez avec 
  EXP&     et 
- PO.
+ PIÈCES D'OR.
 room
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
@@ -277,7 +277,7 @@ scr_sansface
 * oups./
 * j'savais que j'aurais&  plutôt dû utiliser les&  mots croisés de c'matin./
 scr_papface
-HEIN !^1?&DES MOTS CROISÉS !?/
+HEIN !^1?&DES MOTS&CROISÉS !?/
 J'ARRIVE PAS À&CROIRE QUE TU&DISES ÇA !!/
 POUR MOI.../
 \E3LES MOTS MÊLÉS&SONT DE LOIN&LES PLUS DURS./
@@ -313,10 +313,10 @@ gold
 * On dirait que tu transportes&  trop de choses ^1!&* Tant pis !/%%
 * Eh bien..^1.&* Va donc dire à tes amis.../
 * Qu'il y a des glaces..^1.&* En plein milieu de&  la forêt.../%%
-* Seulement pour 25 PO !& &         Oui         Non \C
+* Seulement pour 25PO !& &         Oui         Non \C
 * Hey^1, tu as un parapluie^1,&  comme mon chariot.../
 * Quelle solidarité ^1!&* Je ne peux que te&  faire un prix !/
-* Glace Gentilly en soldes !&  15 PO ! &         Oui         Non \C
+* Glace Gentilly en soldes !&  15PO ! &         Oui         Non \C
 * Solidarité parapluiesque !^1!&* Je vais te faire un&  prix, du coup.../
 itemcount
 * Hey ^1!&* Te voilà avec 3 "poings" de&  fidélité !/
@@ -332,14 +332,14 @@ scr_itemshift
 * Tiens ^1! Ta Glace Gentilly ^1!&* (Vous échangez vos 3 cartes&  contre une Glace Gentilly.)/%%
 * Qu'il y a de la glace..^1.&* Cachée dans les profondeurs&  d'une grotte humide.../%%
 * moi aussi j'ai envie de&  me lancer dans le&  business des friandises./
-* de la neige grillée à&  5 PO, ça te tente ?&  Acheter     Non\C
-* j'ai dit 5 PO ^1?&* je voulais dire 50 PO^1.&  Acheter     Non\C
+* de la neige grillée à&  5PO, ça te tente ?&  Acheter     Non\C
+* j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
   
 * t'as raison./
 * je devrais faire payer&  bien plus que ça./%%
-* vraiment ^1?&* et pour 5000 PO ?&  Acheter     Non\C
+* vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
 * c'est toujours pas&  assez./%%
-* 50000 PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
+* 50000PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
 * il faut que je puisse me&  procurer la matière&  première, tu sais./%%
 * hein ^1?&* tu n'as pas l'argent ?/
 * hey^1, c'est pas grave./
@@ -692,7 +692,7 @@ view_yview
 view_xview
 dsprite
 * j'comptais me lancer&  dans la location de&  téléscopes./
-* en temps normal, c'est&  50000 PO le coup&  d'oeil.../
+* en temps normal, c'est&  50000PO le coup&  d'oeil.../
 * mais bon..^1. &*\E1 vu qu'on s'connaît,&  pour toi c'est gratos./
 \E2* t'en dis quoi ?/
 * (Utiliser le télécope ?)& &         Oui         Non\C
@@ -826,7 +826,7 @@ burg
 * merci./%%
 \E1* ah^1, au fait.../
 \E0* j'ai plus un rond^1.&* ça te dérange pas de&  régler ?/
-* c'est seulement&  10000 PO.&  Oui         Non    \C
+* c'est seulement&  10000PO.&  Oui         Non    \C
 * J'ai l'esprit en ébullition ^1!&* Cela fait longtemps que je ne&  me suis pas senti comme ça.../%%
 * Je te prie de t'en&  aller./%%
 * Toi..^1.&* Tu viens de l'extérieur^1,&  non ?/
@@ -916,7 +916,7 @@ lv
 * d'accord..^1.&* fais comme moi.../%%
 * tu veux jouer à un jeu ^1?&* ça s'appelle course-scargot./
 * les escargots font la course^1,&  et si le jaune gagne^1, tu&  gagnes./
-* c'est 10 PO la partie.& &         Jouer       Non\C
+* c'est 10PO la partie.& &         Jouer       Non\C
 * euh..^1.&* t'as pas d'argent ?/
 * n-non^1, mais y'a pas de&  problème^1, tu peux jouer.../
 * d'accord..^1.&* martèle la touche [Z] pour&  encourager ton escargot./
@@ -5769,7 +5769,7 @@ rearrange
 currentplace
 * VICTOIRE !&* Vous obtenez 
  XP et 
- PO.
+ pièces d'or.
 &* Votre LOVE augmente.
 rmsg
 SCR_TEXT
@@ -6561,7 +6561,7 @@ je traîne&juste&dans le&coin...
 nnnnnn&ggghhh.
 oh, je&suis&VRAIMENT&marrant.
 vas-y,&fais-le.
-je ne&ferais&que te&ralentir..
+je ne&ferai&que te&ralentir..
 heh...
 heh&heh...
 laisse-&moi&essayer..
@@ -6577,7 +6577,7 @@ oooooouu^1uh%%
 * Napstablook regarde au loin.
 * Napstablook aimerait être autre&  part.
 * Napstablook fait semblant de&  dormir.
-* La légère odeur d'ectoplasme&  s'immisce autour de vous.
+* Une légère odeur d'ectoplasme&  s'immisce autour de vous.
 * Napstablook a l'air d'aller un&  tout petit peu mieux.
 * Les encouragements semblent&  avoir amélioré l'humeur de&  Napstablook une fois de plus.
 * NAPSTABLOOK - ATQ 10 DÉF 10&* Ce monstre semble dépourvu de&  sens de l'humour.../^
@@ -7099,7 +7099,7 @@ Merci&pour&rien !
 * Impossible d'améliorer&  la perfection./^
 mypart6
 * Vous décidez de faire des&  économies et lui offrez..^1.&* Votre amitié./^
-* You lui offrez 35 PO&  à défaut de trouver un&  cadeau convenable./^
+* You lui offrez 35PO&  à défaut de trouver un&  cadeau convenable./^
 * Vous lui donnez ce qu'il&  vous reste d'argent à défaut&  de trouver mieux./^
 * Offrenne refuse votre cadeau./^
 * Hola, hola^1.&* Ne jette pas ton argent par&  les fenêtres./^
@@ -7801,7 +7801,7 @@ ROBO-&QUINS !&ATTAQUE&FINALE !
 side
 choice2
 choice3
-* Ragequin danse le ska.&  Mais sans bras.
+* Ragequin danse le ska. Mais&  sans bras.
 * Ragequin inspecte ses troupes^1,&  enfin^1, ses projectiles plutôt.
 * Ragequin grimace devant&  un miroir^1, puis se tourne&  vers vous avec le même air.
 * Ragequin sautille comme un fou.
@@ -11931,7 +11931,7 @@ srx
 * Est-ce vraiment un&  tas de neige ?/%%
 * Attention ^1! Un tas de neige./%%
 * Comment ça s'appelle ?/%%
-* Hein ^1? Il y a 30 PO dans&  ce..^1. ce quoi déjà ?/%%
+* Hein ^1? Il y a 30PO dans&  ce..^1. ce quoi déjà ?/%%
 * (On dirait une boule&  de neige...)/
 * (En réalité^1, c'est un&  décagone de neige.)/%%
 * (C'est une boule de neige.)/%%
@@ -13522,7 +13522,7 @@ predummy
 * TON ARRIVÉE !/
 * Il était du genre timide^1.&* Il vivait en ermite dans&  les RUINES.../
 * En te voyant, il espérait&  te PARLER./
-* Peut-être même lancer&  une conversation amicale avec&  toi./
+* Peut-être même lancer&  une conversation amicale&  avec toi./
 * Mais NON !!!/
 * Tu as fui..^1.&* Et tu as brisé son pauvre&  petit coeur d'ectoplasme./
 * C'est méprisable^1.&* Méprisable ^1!&* MÉPRISABLE !/
@@ -13560,7 +13560,7 @@ predummy
 * pas de problème.../
 * pas de soucis.../
 * je voulais juste&  te proposer.../%%
-* juste un petit truc.../
+* je te préviens&  juste comme ça.../
 * pour ne pas que tu&  me suives chez moi&  par accident.../
 * je suppose que ça&  serait embêtant.../%%
 * ...?/
@@ -13711,13 +13711,13 @@ defaultspeed
 * toute cette pression&  pour réussir..^1.&* ça l'a accablé.../
 * oh......../%%
 * tu as gagné..^1. bravo./
-* le premier prix^1, c'est 9 PO./
+* le premier prix^1, c'est 9PO./
 * désolé..^1. faut bien qu'on&  fasse de la marge.../%%
 * ton escargot était à&  deux doigts de gagner./
 * en fait^1, l'escargot pense qu'il&  a gagné.../
 * oh non..^1. il nous regarde.../
 * attends^1, je vais te filer un&  peu d'argent..^1.&* fais comme si t'avais gagné.../
-* (Vous obtenez 30 PO.)/%%
+* (Vous obtenez 30PO.)/%%
 there
 anti_buffer
 hasdog
@@ -15928,17 +15928,17 @@ cantalk
 * C'est une porte./%%
 \W* \OCourage^1. \YJustice.\W  &*\B Integrité^1. \GGentillesse^1.\W &*\P Persévérance^1. \LPatience. \W /
 \W* En y ayant recours^1, vous vous&  êtes avéré capable de gagner&  au "\RJeu de Balle\W"./
-* (Vous obtenez 50 PO en&  récompense.)/%%
+* (Vous obtenez 50PO en&  récompense.)/%%
 \W* \RROUGE\W - Quoi que vous fassiez^1,&  vous continuez d'être ce que&  vous êtes./
-* (Vous obtenez 10 PO en&  récompense.)/%%
+* (Vous obtenez 10PO en&  récompense.)/%%
 \W* \OORANGE\W - Vous êtes le genre de&  personne à foncer tête baissée&  au travers des obstacles./
-* (Vous obtenez 5 PO en&  récompense.)/%%
+* (Vous obtenez 5PO en&  récompense.)/%%
 \W* \YJAUNE\W - Votre précision&  chirurgicale a mis fin au&  désordre de "Balle"./
-* (Vous obtenez 3 PO en&  récompense.)/%%
+* (Vous obtenez 3PO en&  récompense.)/%%
 \W* \BBLEU\W - Sautillant et pirouet-&  tant, votre style original&  vous a permis de triompher./
-* (Vous obtenez 2 PO en&  récompense.)/%%
+* (Vous obtenez 2PO en&  récompense.)/%%
 \W* \GVERT\W - Vos soins attentionés&  envers "Balle" vous ont mené à&  une délicieuse victoire./
-* (Vous obtenez 1 PO en&  récompense.)/%%
+* (Vous obtenez 1PO en&  récompense.)/%%
 \W* \PVIOLET\W - Alors que vous étiez&  piégé^1, vous avez pris des notes&  pour venir à bout de "Balle"./
 \W* \LCYAN\W - "Balle" est "Ébranlé.^1"&* Vous avez attendu^1, impassible^1,&  cette opportunité.../
 * ... pour enfin détrôner "Balle"&  d'une attaque éclair./
