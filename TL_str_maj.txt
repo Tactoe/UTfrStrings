@@ -794,7 +794,7 @@ burg
 * de mon frère ?& &  Cool        Pas cool\C
 * évidemment qu'il&  est cool./
 \E1* toi aussi t'aurais la&  classe si tu portais le&  même costume./
-\E0* d'ailleurs^1,c'est vraiment&  une plaie pour lui faire&  retirer./
+\E0* d'ailleurs^1, c'est&vraiment une plaie&  pour lui faire retirer./
 * bah^1.&* au moins il le lave./
 \E1* et j'entends par là&  qu'il le porte même&  sous la douche./%%
 * hé^1, mon pote./
@@ -3392,7 +3392,7 @@ FAIS ATTENTION OÙ&TU MARCHES !/
 \E3CURIEUSEMENT^1, UNDY-&NE TIENT BEAUCOUP&À CETTE HERBE./%%
 TU FAIS ATTENTION^1,&ÇA Y EST ?/%%
 * Si tirer sur ces algues&  m'était pas défendu^1, je&  t'aurais déjà botté le../
-\E9* Euh^1, n'eût été pour ces&  algues altières^1,je t'au-&  rais botté le derrière./%%
+\E9* Euh^1, n'eût été pour ces&  algues altières^1, j't'au-&  rais botté le derrière./%%
 * Et non, je ne sais&  pas c'que veut&  dire "altière" !!!/%%
 QUE FONT DONC&TOUTES CES TABLES&POSÉES PAR ICI ?/%%
 * Mais d'où elles&  sortent, toutes&  ces tables ?/%%
@@ -3520,7 +3520,7 @@ LES FLEURS SONT&NOS AMIES !/%%
 * Pff ^1! Je sais.&* Quelle idée&  stupide, hein !/%%
 DES ORDURES^1, HM ^1?&LES ORDURES^1,&ÇA ME CONNAÎT !!/
 \E4APRÈS TOUT, JE SUIS&LE COLOC D'UN SAC&POUBELLE AMBULANT !/
-\E0IL S'APPELLE&CRADO^1,ET VIT&PARMI LES ORDURES./%%
+\E0IL S'APPELLE&CRADO^1, ET VIT&PARMI LES ORDURES./%%
 ÇA T'ÉTONNE À CE&POINT QUE JE NOMME&MES ORDURES ?/%%
 \E1* C'est ici que j'ai&  rencontré Alphys pour&  la première fois !!/
 \E0* Je cherchais des épées&  stylées^1, et je suis&  tombée sur elle.../
@@ -5970,7 +5970,7 @@ VAS-Y ^1!&OUVRE-LE !/
 \E0EST-CE QUE TU SAIS&CE QUE C'EST ?/*
                               &   Bien sûr        Aucune idée  &                            
 \E0"DES SPAGHETTIS."/
-\E3C'EST CE QUE&TU TE DIS^1,HEIN ?/
+\E3C'EST CE QUE&TU TE DIS^1, HEIN ?/
 \E0BIEN SÛR.../
 \E1MAIS TU AS TORT !/%%
 \E0NYEH HEH HEH ^1!&EH OUI./
@@ -6032,7 +6032,7 @@ ET AVEC CE&RENDEZ-VOUS.../
 JE N'AI FAIT QUE TE&POUSSER.../
 \E6À M'AIMER&ENCORE PLUS&INTENSÉMENT !/
 \E5UNE SOMBRE PRISON&DE PASSION^1, SANS&LA MOINDRE ISSUE./
-COMMENT AURAIS-JE&PU TE FAIRE ÇA,&ALORS QU'ON EST&AMIS...?/
+COMMENT AI-JE&PU TE FAIRE ÇA,&ALORS QU'ON EST&AMIS...?/
 \E6NON ^1! ATTENDS ^1!&C'EST FAUX !/
 JE N'AI JAMAIS&BAISSÉ LES BRAS&FACE À QUOI QUE&CE SOIT !!!/
 \E1HUMAIN !!^1!&JE T'AIDERAI&À SURMONTER CETTE&SITUATION !!!/
@@ -7099,7 +7099,7 @@ Merci&pour&rien !
 * Impossible d'améliorer&  la perfection./^
 mypart6
 * Vous décidez de faire des&  économies et lui offrez..^1.&* Votre amitié./^
-* You lui offrez 35PO&  à défaut de trouver un&  cadeau convenable./^
+* Vous lui offrez 35PO&  à défaut de trouver un&  cadeau convenable./^
 * Vous lui donnez ce qu'il&  vous reste d'argent à défaut&  de trouver mieux./^
 * Offrenne refuse votre cadeau./^
 * Hola, hola^1.&* Ne jette pas ton argent par&  les fenêtres./^
@@ -7169,7 +7169,7 @@ Pleur-&niche.
 (À genoux&devant&ton bour-&reau !)
 (Je vais&te tran-&cher en&deux !)
 gen1
-* Les Chiens se protègent&  l'un et l'autre avec&  leurs haches.
+* Les Chiens se protègent&  l'un l'autre avec&  leurs haches.
 * Les Chiens évaluent de&  nouveau votre odeur.
 * Les Chiens s'entraînent pour&  le prochain concours de&  couples.
 * Les Chiens s'échangent des&  mièvreries entre eux.
@@ -13819,7 +13819,7 @@ EUH... À PROPOS DE&CET HUMAIN DONT JE&T'AI PARLÉ PLUS TÔT.../
 \M5... QUOI ^1? \M1EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 \M0E-EH BIEN.../
 \M1NON./
-\M1J'AI VRAIMENT TOUT&ESSAYÉ^1,UNDYNE^1,&MAIS FINALEMENT.../
+\M1J'AI VRAIMENT TOUT&ESSAYÉ^1, UNDYNE^1,&MAIS FINALEMENT.../
 \M0J'AI ÉCHOUÉ./
 \M6... Q-QUOI ?/
 \M1TU VAS PRENDRE L'ÂME&DE L'HUMAIN PAR&TOI-MÊME.../
@@ -14450,7 +14450,7 @@ ss4
 * Chaque araignée ici bas tient&  à t'exprimer ses plus sincères&  remerciements !/
 * Nous te sommes tous&  redevables^1, mon sucre~/%%
 * ... qu'ils manquent cruellement&  de goût./
-* Quelle déception^1.&* Le seul humain qui tombe ici^1,et&  il n'est même pas comestible~/
+* Quelle déception^1.&* Le seul humain qui tombe ici&  n'est même pas comestible~/
 * Oh, après tout..^1.&* Les produits périmés, ça se&  remplace, n'est-ce pas~/%%
 * Voilà qui était amusant ^1!&* À une prochaine fois^1,&  mon sucre !/%%
 onner
@@ -15643,7 +15643,7 @@ CELA NE PEUT&PAS NE PAS BIEN&SE PASSER./
 \E3* T-tu vois ces&  interrupteurs là-bas ?/
 \E0* T-tu vas devoir appuyer&  sur les trois en moins&  de trois secondes./
 \E6* Je vais t-tenter de&  t'aider pour&  le rythme !/
-\YALPHYS a changé son statut.\W &* oups,atta j'me demande cmt&  l'humain s'en sort/%%
+\YALPHYS a changé son statut.\W &* oups, atta j'me demande cmt&  l'humain s'en sort/%%
 \YALPHYS a changé son statut.\W &* Top 10 Des Séries Qui Vous&  Distraient De Votre Fichu Job/%%
 \YALPHYS a changé son statut.\W &* OMG? les gens pensent que Miou&  Miou 2 est meilleur que le 1?/
 * MDRRRRR c une blague&  j'espère.../%%
@@ -15955,7 +15955,7 @@ C'EST LE CAILLOU DE&COMPAGNIE DE MON&FRÈRE./
 IL EST PAS COOL^1,&CE DRAPEAU ?/
 UNDYNE L'A TROUVÉ&DANS LA BAIE.../
 \E3JE PENSE QU'IL&VIENT DU MONDE&DES HUMAINS ?/
-\E0VU TA TÊTE^1,TU&DOIS TE DIRE.../
+\E0VU TA TÊTE^1, TU&DOIS TE DIRE.../
 \E3POURQUOI LES&HUMAINS&COLLERAIENT-ILS.../
 UN SQUELETTE&AUSSI COOL&SUR UN DRAPEAU ?/
 EH BIEN..^1.&J'AI UNE THÉORIE&SUR LE SUJET./
@@ -17269,7 +17269,7 @@ SI UN JOUR^1, JE&VAIS À LA&SURFACE.../
 JE VOUDRAIS&CONDUIRE SUR UNE&LONGUE ROUTE./
 SENTIR LE VENT DANS&MES CHEVEUX.../
 LE SOLEIL SUR&MA PEAU.../
-\E3BIEN SÛR^1,TOUT ÇA&N'EST QU'UN RÊVE./
+\E3BIEN SÛR^1, TOUT ÇA&N'EST QU'UN RÊVE./
 \E0DU COUP, JE&VOYAGE EN&DODOTANT./%%
 MON LIT TE PLAÎT-IL&TANT QUE ÇA ?/
 \E3T'AS PAS DORMI&HIER ?/%%
@@ -17524,7 +17524,7 @@ mystery
 * salut^1, tout le monde./%%
 * Héééé^1, Sans !&* (Salut^1, Sans.)/%%
 * Bonjour^1, Sans.&* Coucou^1, Sansounet~/%%
-* Eh, Sans^1, t'es pas déjà&  passé prendre un petit&  déj' y'a à peine un moment ?/
+* Eh, Sans^1, t'es pas déjà&  passé prendre un petit&  déj' y'a quelques minutes ?/
 * nan^1, ça doit bien faire&  une heure que j'ai pas&  pris de p'tit déj'./
 \E2* tu confonds sûrement&  avec le brunch./%%
 * vas-y^1, mets-toi&  à l'aise./%%
@@ -18739,34 +18739,34 @@ word
 VIE
 word2
 chooser
-DESESPOIR
+DÉSESPOIR
 ESPOIR
 CAUCHEMAR
-REVES
+RÊVES
 TRISTESSE
 JOIE
 RUINE
-SUCCES
+SUCCÈS
 HAINE
 AMOUR
 ISOLEMENT
-LIBERTE
+LIBERTÉ
 MASSACRE
-CLEMENCE
-TRAGEDIE
+CLÉMENCE
+TRAGÉDIE
 CHANCE
 TERREUR
 CALME
 HORREUR
 SOULAGEMENT
-CRUAUTE
+CRUAUTÉ
 GENTILLESSE
 MEURTRIER
-REVEUR
-DETRUIRE
-CREER
+RÊVEUR
+DÉTRUIRE
+CRÉER
 CORROMPRE
-PROTEGER
+PROTÉGER
 remspeed
 Vous appelez à l'aide...
 booky
