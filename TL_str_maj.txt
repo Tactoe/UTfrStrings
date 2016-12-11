@@ -5420,7 +5420,7 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E4* va au diable./%%
 \E1* on dirait que beaucoup&  de gens importants ont&  disparu cette nuit./
 * mais personne d'autre&  n'a été blessé./
-\E0* les gens étaient&  totalements perdus^1.&* une vraie pagaille./
+\E0* les gens étaient&  totalement perdus^1.&* une vraie pagaille./
 \E3* et puis^1, finalement^1,&  pour une raison&  quelconque.../
 \E1* un petit chien blanc&  est devenu le président&  de l'outremonde./
 \E0* il dort sur le trône&  et ne fait absolument&  rien./
@@ -5621,7 +5621,7 @@ Tu me tapes sur&les nerfs./%%
 \E4Va lui en&parler./%%
 \E0Alors./
 \E4T'as créé le&Fan Club de&Flowey ?/
-\E5Ha^1.&Je déconne./
+\E5Ha^1.&J'rigole./
 \E9J'ai tout vu^1.&Je sais que tu&ne l'as pas fait./
 \E5Mais honnêtement^1,&je m'en fiche./
 \E6Il aurait probable-&ment invité son&ordure de frère./
@@ -6018,13 +6018,13 @@ EUH.../
 \E5OH^1, ET PUIS ZUT./
 HUMAIN^1, JE.../
 JE SUIS DÉSOLÉ./
-JE NE T'AIME&COMME TU&M'AIMES./
+JE NE T'AIME&PAS COMME&TU M'AIMES./
 \E4PAS AMOUREUSEMENT^1,&JE VEUX DIRE./
 \E6ENFIN^1, J'AI ESSAYÉ&DE MON MIEUX !/
 \E8COMME TU AS&FLIRTÉ AVEC MOI^1,&J'AI CRU QUE.../
 ON SE DEVAIT&D'AVOIR UN RENCARD&ENSEMBLE./
 \E0ET QUE DURANT LE&RENCARD, MES&SENTIMENTS AURAIENT&CHANGÉ !!!/
-\E2JE PENSAIS QU'AINSI&MA PASSION BRÛLE-&RAIT VIVEMENT&QUE LA TIENNE!/
+\E2QUE MA PASSION&BRÛLERAIT AUSSI&VIVEMENT QUE&LA TIENNE!/
 \E4MAIS HÉLAS..^1.&MOI^1, LE GRAND&PAPYRUS.../
 \E5J'AI ÉCHOUÉ./
 RIEN N'A CHANGÉ&POUR MOI./
@@ -6045,7 +6045,7 @@ JE N'AI JAMAIS&BAISSÉ LES BRAS&FACE À QUOI QUE&CE SOIT !!!/
 \E4PARCE QUE HÉ^1,&JE N'AI MÊME PAS&DE LÈVRES./
 \E0ET PUIS^1, UN JOUR^1,&TU TROUVERAS&QUELQU'UN D'AUSSI&COOL QUE MOI./
 \E8ENFIN, NON^1.&PAS EXACTEMENT./
-\E0MAIS JE T'AIDERAI À&TROUVER UN TYPE&PRESQUE AUSSI&COOL QUE MOI !!!/
+\E0MAIS JE T'AIDERAI À&TROUVER QUELQU'UN&PRESQUE AUSSI&COOL QUE MOI !!!/
 NYEH HEH HEH&HEH HEH !!!/%%
 \E8HMM.../
 \E0EH BIEN^1, JE SUIS&FLATTÉ PAR TA&DÉVOTION.../
@@ -9662,7 +9662,7 @@ En vérité.../
 Je ne cherche pas le&pouvoir./
 Je ne veux faire&de mal à personne./
 Je voulais juste que&tout le monde&garde espoir.../
-Je ne peux&plus&supporter ça&plus longtemps./
+Je ne peux&plus supporter&ça plus longtemps./
 Je veux juste&revoir ma femme./
 Je veux juste&revoir mon fils./
 Jeune enfant..^1.&Je t'en prie.../
@@ -11373,7 +11373,7 @@ canpress
 \E1T'AURAIS TORT DE&TE PRIVER./%%
 \E0ESSAYE ENCORE !/%%
 \E0C'EST MOI QUI AI&AMÉLIORÉ CE HAUT&EN ÉCRIVANT "CHIC"&DESSUS./
-ASTUCE DE PRO^1 :&ÇA MARCHE AVEC&TOUTES LES&FRINGUES./%%
+ASTUCE DE PRO^1 :&ÇA MARCHE AVEC&TOUTES LES&FRINGUES./
 \E1MAIS C'EST PAS&UN SECRET !!!/
 JUSTE UN BON&CONSEIL !!!/%%
 \E2ME TENIR LA MAIN&POUR AVOIR&LA RÉPONSE.../
@@ -11595,7 +11595,7 @@ curf
 * Oh^1, et^1, s'il&  te plaît.../
 \E7* À l'avenir^1, si tu&  euh^1, me revois.../
 * Rappelle-toi seulement&  que ça n'est pas&  "moi"^1, OK ?/
-\E0* Je veux que tu te&  souvienne de moi tel que&  je suis là, maintenant./
+\E0* Je veux que tu te sou-&  viennes de moi tel que&  je suis là, maintenant./
 \E0* Quelqu'un qui aura pu&  être ton ami, même pour&  un court instant./
 \E2* Oh^1, et Frisk.../
 \E0* Fais attention à toi^1,&  à la surface^1, OK ?/
@@ -15381,7 +15381,7 @@ ml
 \E1* ouep^1.&* plutôt triste, vraiment./
 \E3* j'suis sûr que tu savais&  même pas ce que tu&  faisais.../
 * et c'était déjà trop&  tard quand t'as&  enfin compris./
-\E2* naan^1, je déconne./
+\E2* naan^1, j'te fais marcher./
 \E1* atteindre le lv2 par&  accident ^1?&* 'puis quoi encore./%%
 \E3* lv3.../
 \E1* j'imagine que ça peut&  "éventuellement" passer./
@@ -16026,7 +16026,7 @@ MERCI DE NE PAS&ENTRER DANS CETTE&CABANE MYSTÉRIEUSE./%%
 ALLÔ^1.&NON, ÇA N'EST PAS&MA MAISON, ÇA./
 CE N'EST QU'UNE&SIMPLE CABANE À&OUTILS SUPER COOL./
 * Laisse-la-moi pour cinq&  minutes et j'en fais&  une CABANE À ROUSSI !/
-AH PAS MAL !!^1!&C'EST PLUTÔT&BIEN TROUVÉ./
+NE CUISINE PAS&LÀ-DEDANS^1, MERCI.&MAIS BIEN TROUVÉ !/
 QUE FERAIS-JE SANS&UNE AMIE TELLE&QUE TOI^1, UNDYNE ?/
 TES JEUX DE MOTS&CABANESQUES FONT&TOUJOURS SOURIRE./
 * Mec^1, c'est la première&  fois que j'en fais un./%%
@@ -17325,7 +17325,7 @@ C'EST BIZARRE^1,&ÇA !!!/%%
 T'AS VU ^1? J'AI&AUGMENTÉ LA TAILLE&DE L'ÉVIER./ 
 JE PEUX Y METTRE&ENCORE PLUS D'OS !&MATE UN PEU !/%%
 OUBLIE ÇA./%%
-* (Ce lavabo est si haut qu'il&  est impossible de s'y&  laver les mains...)/%%
+* (Cet évier est si haut qu'il&  est impossible de s'y&  laver les mains...)/%%
 thedog
 dogvolume
 QUOI !?!?/%%
@@ -17364,7 +17364,7 @@ nn
 * Il est juste très lent./%%
 * Le garçon là-bas m'a dit&  que c'est bizarre d'avoir&  un lapin de compagnie./
 * D'abord^1, c'est pas bizarre^1.&* C'est mignon !/
-* Ensuite..^1.&* De quoi ?/
+* Ensuite..^1.&* ... Eh^1, quoi ?/
 * C'est normal de promener&  son petit frère en&  laisse^1, non ?/%%
 scr_deaddog
 * Ah^1, tout est si calme ici.../
