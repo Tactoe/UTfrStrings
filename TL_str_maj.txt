@@ -101,7 +101,7 @@ room
 * (Faire partie de ces déchets&  vous emplit de détermination.)/%%
 * (Vous ressentez une apaisante&  tranquillité^1. Cela vous&  emplit de détermination...)/%%
 * (Vous ressentez..^1. un truc.)&* (Cela vous emplit de&  détemmienation...)/%%
-* (Le vent hurle^1.&* Vous êtes empli de&  détermination...)/%%
+* (Le vent hurle^1.&* Cela vous emplit de&  détermination...)/%%
 * (Le vent hurlant est devenu une&  brise^1. Cela vous donne de&  la détermination...)/%%
 * (Le vent a laissé place au&  silence^1. Vous êtes empli&  de détermination...)/%%
 * (Voir un laboratoire si étrange&  dans un endroit comme&  celui-ci...)/
@@ -7748,7 +7748,7 @@ Les monstres..^1.&Les humains..^1.&Tout le monde./
 Tous ces rêves^1.&Tous ces espoirs^1.&Annihilés en un&battement de cil./
 \E6Mais ça n'arrivera&PAS./
 À cet instant^1,&les habitants du&monde entier.../
-\E7Je peux sentir&leur coeur&battre à l'unisson./
+\E7Je peux sentir&leurs coeurs&battre à l'unisson./
 Nous avons tous&le MÊME objectif./
 \E8Te vaincre TOI./
 \E7Toi, l'humain^1.&Non^1, quoi que&tu sois d'autre./
