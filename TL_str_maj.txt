@@ -162,7 +162,7 @@ gx
 \E0* Appuie sur l'inter-&  rupteur que j'ai&  marqué pour toi./%
 \E1* Tu sais où se trouve ta&  gauche, n'est-ce pas ?/%%
 \E1* Tu aimes bien mettre&  ton nez partout^1,&  dis donc./
-\E1* Essaye de me comprendre.^2&  \E0Je fais ça pour ton&  bien./%
+\E1* Essaye de me comprendre^2.&* \E0Je fais ça pour ton&  bien./%
 \E0* Superbe !^2 &* Je suis fière de toi^1,&  mon enfant./ 
 * Passons à la pièce&  suivante./%
 \E1* Dans l'OUTREMONDE^1, les&  humains sont souvent&  victimes d'attaques./
@@ -554,7 +554,7 @@ scr_murderlv
 * C'est un interrupteur.&* Appuyer dessus ?&         Oui         Non \C
 * Rien ne se passe./%%
 * Vous rendez les interrupteurs&  mal à l'aise avec toute cette&  attention./%%
-* Vous entendez un clic./%%
+* Vous entendez un déclic./%%
 plot
 snd_play
 * Vous avez trouvé le Couteau&  en Plastique./%%
@@ -931,7 +931,7 @@ lv
 * ... deviendra un dieu./
 \W* Avec leur pouvoir^1, \RASGORE\W &  pourra enfin détruire&  la barrière./
 * Et alors^1, il pourra enfin&  reprendre la surface des&  mains de l'humanité.../
-* Tout en leur rendant au&  centuple toute la souffrance&  que nous avons endurée./
+* Tout en lui rendant au&  centuple toute la souffrance&  que nous avons endurée./
 * Tu saisis^1, l'humain ?/
 * Ceci est ton ultime chance&  de rédemption./
 * Donne-moi ton âme.../
@@ -1654,7 +1654,7 @@ bs
 * t'agissais comme si&  tu savais déjà ce&  qui allait se passer./
 * comme si tu l'avais déjà&  vécu auparavant./
 * ça va te paraître&  bizarre, comme question^1,&  mais.../
-\W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W&  .../
+\W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W.../
 * tu crois pas que c'est&  ta responsabilité de t'en&  servir judicieusement ?/
  & &         Oui         Non\C      
 \E1* ah./
@@ -3301,7 +3301,7 @@ UN PROBLÈME ^1?&GENRE UNE ÉNIGME ^1?!&OÙ ÇA !?!?/
 * À Couveneige^1,&  gros malin !!!/%%
 LAISSEZ-MOI FAIRE^1,&JE TROUVE TOUJOURS&LES PROBLÈMES./
 * Hey^1, je crois que j'ai&  trouvé quelque chose !/
-OOH^1, OÙ ÇA ?&^1AAH !/
+OOH^1, OÙ ÇA ^1?&AAH !/
 \E5NOOON, ARRÊTE ! JE&N'AIME PAS QU'ON ME&FROTTE LE CRÂNE !/
 * Ça^1, mon vieux^1, c'est TON&  problème !!!/%%
 MON FRÈRE EST&EN POSTE ICI./
@@ -4164,7 +4164,7 @@ ELLE EST ENTIÈREMENT&COMPOSÉE DE&CARTONS-PÂTES !/%%
 \E9* Bah voyons !&* C'est N'IMPORTE quoi./
 \E6* Si tu te retournes&  ils sont plus dans&  le bon sens !/%%
 MAIS SI TU FAIS&FACE AU&MAUVAIS CÔTÉ.../
-C'EST TOI QUI A&TORT DE DIRE QU'ILS&ONT TORT, NON ?/
+C'EST TOI QUI AS&TORT DE DIRE QU'ILS&ONT TORT, NON ?/
 * On va quand même&  pas philosopher sur&  l'alphabet si ?/%%
 \E9PAPYRUS ^1?&MAIS QUI C'EST^1,&CELUI-LÀ ?/
 MOI C'EST..^1.&SQUELETBG95./
@@ -4515,7 +4515,7 @@ battlelv
 * Calotte Glacée et Coolhivert&  prennent des poses de&  grands méchants.
 * Calotte Glacée et Colhivert&  prennent des poses de&  grands méchants.
 * Jerry se cramponne à vous !
-* Calotte Glacée apparait^1.&* Ah, et Jerry est venu aussi.
+* Calotte Glacée apparaît^1.&* Ah, et Jerry est venu aussi.
 * Calotte Glacée et Colhivert&  vous font face^1, soupirants.&* Jerry.
 * Aaron fait une arrivée&  musclée !
 * L'ennemi spécial Temmie est là&  pour en finir avec toi !!
@@ -4572,7 +4572,7 @@ caster_is_playing
 * L'Âme Égarée apparaît.
 * Les Âmes Égarées apparaissent.
 * Hors de mon chemin.
-* L'héroïne apparait.
+* L'héroïne apparaît.
 * Sagequin vous laisse passer.
 * Mettaton NEO bloque le&  passage !
 * ASGORE attaque !
@@ -5070,11 +5070,11 @@ C'EST DUR DE LA&MOTIVER POUR QUOI&QUE CE SOIT./
 \E6LA REVANCHE NE&RAMÈNE PAS LES&MORTS À LA VIE./
 \E3JE N'AI AUCUNE&IDÉE DE CE QUE TU&AS FAIT^1, MAIS.../
 \E5TU POURRAIS LUI&RAMENER SES AMIS ?/
-SI C'EST TOI QUI&LES A FAIT&DISPARAÎTRE ?/
+SI C'EST TOI QUI&LES AS FAIT&DISPARAÎTRE ?/
 \E6JE T'EN SUPPLIE.../
 UNDYNE NE VA&VRAIMENT PAS BIEN./
 AU REVOIR./%%
-\E3ELLE TE TIENS&TOUJOURS&RESPONSABLE POUR.../
+\E3ELLE TE TIENT&TOUJOURS&RESPONSABLE POUR.../
 \E3LA DISPARITION&D'ASGORE./
 \E3ELLE ME PARLE&BEAUCOUP.../
 \E5DE SA FERME&INTENTION DE SE&VENGER DE TOI./
@@ -5124,7 +5124,7 @@ NE MALTRAITE PAS&LE SQUELETTE, JE&T'EN PRIE./
 \E0* Ben^1, elle n'a pas&  changé d'un poil./
 \E4* Peut-être un peu plus&  renfermée que&  d'habitude...?/
 \E7* Comme s'il y avait&  quelque chose qui la&  dérangeait.../
-\E1* Mais elle va s'en&  sortir !/
+\E1* Mais elle va&  s'en sortir !/
 \E2* Je suis là pour la&  soutenir !!/
 \E9* C'est à ça que servent&  les amis^1, pas vrai ?/
 \E0* Hé^1, où que tu sois.../
@@ -6475,7 +6475,7 @@ Miaou.
 * L'ennemi concocte un petit&  bol de mouches.
 * Vous n'arrivez pas à vous&  concentrer à cause&  des croassements.
 * Le champ de bataille est empli&  de l'odeur de graines&  de moutarde.
-* Vous pensez très fort à des&  mots qui riment avec "Crapaud".^4&* Chapeau.^4 Chiot.^4 Croc^1. Nabot ?  
+* Vous pensez très fort à des&  mots qui riment avec "Crapaud"^4.&* Chapeau.^4 Chiot.^4 Croc^1. Nabot ?
 * Une grenouille ne peut pas&  lécher ses blessures car&  sa langue est trop élastique.
 * Vous tenez des propos&  tendancieux aux grenouilles.&  C'est chaud !/
 * On peut être sûr que&  ça a fait de l'effet./^
@@ -6518,7 +6518,7 @@ bullettype
 * Ça commence à sentir le&  produit anti-cafards.
 * Mitgosp ne se sent pas concerné&  le moins du monde.
 * Mitgosp refuse d'abandonner.
-* MITGOSP - ATQ 7 DÉF 5 &* Il parait méchant^1, mais c'est&  à cause de son entourage.../^
+* MITGOSP - ATQ 7 DÉF 5 &* Il paraît méchant^1, mais c'est&  à cause de son entourage.../^
 eat
 ate
 Contient&des&Vitamines&A
@@ -6724,7 +6724,7 @@ Et bam^1,&je soupire.
 Bon bah... et si&TU me ramenais&à la maison ?
 Alors comme ça on&m'abandonne..? Tu&parles d'amis !
 Ce blaaanc.
-Mais, genre, qu'&est-ce que t'es-&saies de faire ?
+Mais, genre, qu'&est-ce que t'es-&sayes de faire ?
 Le wi-fi est&vraiment naze&ici.
 Regarde-&toi avant&de m'&insulter!
 Désolé,&j'suis&occupé à&assurer
@@ -7732,7 +7732,7 @@ Je suis.../
 B..^1. Bon sang.../%%
 Papyrus..^1.&Alphys..^1.&ASGORE.../
 Un simple coup^1,&et.../
-Je vous ai tous&laissés tomber./%%
+Je vous ai tous&laissé tomber./%%
 Non.../%%
 truthmusic
 Mon corps..^1.&J'ai l'impression&qu'il est en train&de se déchirer./
@@ -7753,7 +7753,7 @@ Nous avons tous&le MÊME objectif./
 \E8Te vaincre TOI./
 \E7Toi, l'humain^1.&Non^1, quoi que&tu sois d'autre./
 \E8Pour le bien de&ce monde.../%%
-\E9Moi^1, UNDYNE^1,&vais à présent&mettre un terme à&ton existence !/%%
+\E9Moi^1, UNDYNE^1,&je vais à présent&mettre un terme à&ton existence !/%%
 risesfx
 pit
 Va falloir que tu&fasses vraiment&mieux que ÇA./%%
@@ -7886,7 +7886,7 @@ Salut ?&; )
 * Ça sent le corral aquatique.
 * Ça sent la culture de moules.
 * Aaron attend votre prochain&  étirement.
-* Les muscles d'Aaron se&  dégonflent de façon comique.
+* Les muscles d'Aaron se&  dégonflent d'une façon comique.
 * AARON - ATQ 24 DÉF 12&* Cet hippocampe a beaucoup&  de PV (Points de Virilité.)/
 * Toutes ses attaques sont&  plus dures à éviter en bas&  du cadre./^
 * Vous demandez à Aaron de&  partir^1.&* Il obtempère./^
@@ -9165,7 +9165,7 @@ captivan
 Quel soucis du&détail...c'est bien&vrai que je suis&sublime./%%
 Merveilleux ! Excellent !&10 sur 10...&Je SUIS époustouflant./%%
 Tu me fais rou-&gir... c'est&vrai, je suis&magnifique !/%%
-Oh ciel...j'en reste sans&voix... tu as&parfaitement&décrit ma beauté./%%
+Oh ciel...&j'en reste sans&voix...tu as&parfaitement&décrit ma beauté./%%
 C'est exact.&La réponse était&bien "jambes" !/%%
 Mes bras. Audacieux.&La plupart des gens&aurait parlé de&mes jambes./%%
 Mes cheveux...oui,&j'utilise du gel&anti-rouille./%%
@@ -9804,7 +9804,7 @@ Effaçons ce&monde inutile^1, et&passons au suivant./%%
 Le démon qui répond&à l'appel de son nom./
 Peu importe quand./
 Peu importe où./
-Encore et toujours,&j'apparaitrai./
+Encore et toujours,&j'apparaîtrai./
 Et, avec ton aide./
 Nous éradiquerons&l'ennemi et deviendrons&forts./
 Mais./
@@ -12027,7 +12027,7 @@ draw_me
 * Un jour^1, tes amis se rendront&  compte que ton coeur est aussi&  froid que mon derrière./%%
 * (Vous transportez trop&  de choses.)/%%
 * Bonjour^1.&* Je suis un bonhomme de neige^1.&* Je ne peux pas bouger./
-* Toi qui aime voyager^1,&  pourrais-tu.../
+* Toi qui aimes voyager^1,&  pourrais-tu.../
 * (Vous récupérez un&  Morceau de Bonhomme de Neige.)/%%
 * Oh^1, oh ciel^1.&* Mais que fais-tu ?/
 * Bientôt il ne restera plus&  rien de moi.../
@@ -12299,7 +12299,7 @@ EXACTEMENT !^1!&QUEL INTERÊT ?!/
 \E3J'AURAIS MIEUX&FAIT DE NE RIEN&FAIRE, COMME TOI./
 * quoi^1, et prendre exemple&  sur moi ?&* sérieusement ?/
 \E0OUAIS !^1!&QU'EST-CE QUE JE&RACONTE !/
-TU AS TOUJOURS&AUSSI TORT POUR&TOUT !/
+DEPUIS QUAND TU&AS RAISON SUR QUOI&QUE CE SOIT !?/
 J'AI JUSTE BESOIN&D'UN NOUVEAU&PUBLIC !/
 IMAGINE COMME&UNDYNE SE SERAIT&AMUSÉE AVEC ÇA !/
 DU FEU^1, DE LA&VIOLENCE^1. C'EST PILE&DANS SES CORDES !/
@@ -12422,7 +12422,7 @@ AVEC MOI^1, TU VAS&REPRENDRE TA VIE&EN MAIN !!!/%%
 JE VOIS QUE TU&TE RAPPROCHES./
 VOUDRAIS-TU ME&FAIRE UN CÂLIN&D'APPROBATION ?/
 WOUAHOU !^1! MES&LEÇONS PORTENT DÉJÀ&LEURS FRUITS !!/
-C'EST À BRAS OUVERTS&QUE MOI, PAPYRUS,&T'ACCUEILLE !/%%
+C'EST À BRAS OUVERTS&QUE MOI, PAPYRUS,&JE T'ACCUEILLE !/%%
 ALLEZ ! UN PEU DE&POLITESSE, QUE&DIABLE !!!/
 J'AI CONSTRUIT CE&CASSE-CRÂNE JUSTE&POUR TOI !/%%
 \E3C'EST COMME ÇA QUE&TU RÉAGIS FACE À&TA MÈRE.../
@@ -13299,7 +13299,7 @@ tmp_idealy
 alcovecheck
 * Et donc^1, une fois, à l'école.../
 * On a eu cet atelier, où on&  devait s'occuper d'une&  fleur./
-* Et le roi ^1- fallait l'appeler& " Monsieur Dreemurr " ^1- nous a&  offert ses propres fleurs./
+* Et le roi ^1- fallait l'appeler& "Monsieur Dreemurr" ^1- nous a&  offert ses propres fleurs./
 * Et puis après^1, il est venu à&  l'école^1, pour nous apprendre à&  devenir responsables, et tout./
 * Et ça m'a fait penser.../
 * YO ^1!&* Ça serait pas trop COOL&  si UNDYNE venait à l'école ?!/
@@ -19175,7 +19175,7 @@ A son propre#chien d'aveugle
 CANISSE & CANIBELLE
 par Toby...?
 Ce bâton leur est#monté à la tête
-Champions de Frotte-#Museaux. Enfin.
+Champions de#Frot'Nez. Enfin.
 MINICHIEN
 par Temmie & Toby
 En quête d'un#peu d'affection
