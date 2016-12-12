@@ -4964,12 +4964,12 @@ musiccon
 \E2* bon^1, je vais juste&  laisser un message&  alors.../%%
 \E2* bon..^1. j'appelais juste&  pour te dire./
 \E1* t'as rendu un bonhomme&  de neige vraiment&  heureux./
-\E2* ... ah^1, aussi^1,&  une autre chose./%%
+\E2* ... ah^1, et^1,&  autre chose./%%
 \E1* ça fait quand même&  un bail^1, tu devrais pas&  SAUVER ta progression ?/
 \E2* bon..^1. j'appelle juste&  parce que je voulais&  savoir.../
 \E1* t'as toujours pas&  retiré ce bandage&  tout dégueu...?/
-\E1* ça t'es jamais&  arrivé de manger&  un bout ?/
-\E1* tu aimes t'imposer&  des défis^1,&  à ce que je vois.../
+\E1* ça t'est jamais&  arrivé de manger&  un bout ?/
+\E1* tu aimes t'imposer&  des défis^1,&  à ce que j'vois.../
 \E2* ben..^1. bravo^1./
 \E1* évite juste de trop&  t'en vanter^1,&  d'accord ?/
 * okay^1, j'ai le&  numéro./%%
@@ -5016,7 +5016,7 @@ UNDYNE L'AIDE&AUSSI !/
 COMMENT VAS-TU ^1?&MOI, JE VAIS&BIEN !!!/
 \E3ENFIN, IL Y A BIEN&UN TRUC QUI ME&TRACASSE.../
 \E3LA REINE A DISSOUS&LA GARDE ROYALE./
-PUISQU'ON N'A PLUS&BESOIN DE COMBAT-&TRE LES HUMAINS./
+PUISQU'ON N'A PLUS&BESOIN DE COM-&BATTRE LES HUMAINS./
 \E0WOW !!!/
 \E3JE SAIS ABSOLUMENT&PAS QUOI FAIRE&DE MA VIE./
 \E0MAIS^1, C'EST&PAS GRAVE !/
@@ -5039,7 +5039,7 @@ OH^1, ET ON LUI A&TROUVÉ UN JOB^1,&AUSSI./
 JE NE SAIS PAS TROP&COMMENT TE LE DIRE^1,&MAIS.../
 \E3ELLE^1, EUH^1, TE&DÉTESTE ENCORE PLUS&MAINTENANT./
 \E6PLUS QU'ELLE NE T'A&JAMAIS DÉTESTÉ./
-C'EST PARCE QU'ELLE&EST DEVENUE TON&AMIE^1, PUIS.../
+C'EST PARCE QU'ELLE&EST DEVENUE TON&AMIE^1, ET.../
 \E5ELLE DIT QUE TU AS&TUÉ QUELQU'UN ?/
 \E3JE SAIS^1, C'EST&COMPLÈTEMENT&RIDICULE, HEIN ?/
 \E6MAIS ELLE SE SENT&VRAIMENT TRAHIE.&ÇA LA MINE./
@@ -5048,7 +5048,7 @@ ELLE DIT.../
 QU'ELLE NE&COMPRENDS PAS&COMMENT.../
 ELLE A PU FAIRE&L'ERREUR DE DEVENIR&TON AMIE./
 QU'ELLE SAVAIT&COMMENT SONT LES&HUMAINS.../
-\E3ET A MALGRÉ&TOUT ÉCHOUÉ À&RÉSISTER./
+\E3ET QUE MALGRÉ&TOUT, ELLE N'A&PAS PU RÉSISTER./
 \E6DES GENS ONT&SOUFFERT À CAUSE&DE SON ERREUR./
 \E5LES MOTS ME&MANQUENT POUR&DÉCRIRE./
 À QUEL POINT&ELLE TE HAIT./
@@ -5060,7 +5060,7 @@ CE SERAIT MIEUX&QUE TU NE REVIENNES&JAMAIS ICI./
 TU VAS ME MANQUER^1,&CHER HUMAIN./%%
 \E5ET TU AS FAIT&DISPARAÎTRE ASGORE ?/
 \E3ET TU AS FAIT&DISPARAÎTRE ALPHYS^1,&AUSSI./
-\E6SHE'S NOT VERY&HAPPY./
+\E6ELLE N'A VRAIMENT&PAS L'AIR TRÈS&HEUREUSE./
 ELLE DIT DES&CHOSES COMME.../
 "JE N'AI PAS PU LA&PROTÉGER.../"
 C'EST DUR DE LA&MOTIVER POUR QUOI&QUE CE SOIT./
@@ -5082,7 +5082,7 @@ SON PLAN EST&POUR LE MOINS&INSENSÉ.../
 ELLE VEUT FRANCHIR&LA BARRIÈRE ET&TE PASSER A TABAC./
 \E3POUR ÊTRE HONNÊTE^1,&JE PENSE QUE C'EST&IMPOSSIBLE./
 \E0LE CONTRAIRE ME&FERAIT BIEN PLAISIR&CELA DIT !!!/
-PARCE QUE JE&VEUX L'ACCOMPAGNER!/
+PARCE QUE&JE VEUX&L'ACCOMPAGNER !/
 COMME ÇA JE&POURRAI TE&REVOIR !/
 \E3MÊME SI JE DEVRAI&TE COMBATTRE&ENSUITE./
 \E0EN TOUT CAS^1, GARDE&LES DOIGTS&CROISÉS !/
@@ -5094,7 +5094,7 @@ AU REVOIR !/%%
 \E6ELLE DIT DES TRUCS&DU STYLE.../
 \E3MAIS ELLE M'A&JUSTE REGARDÉ EN&DISANT.../
 \E3JE NE SAIS PAS DU&TOUT CE QUE TU&AS FAIT^1, MAIS.../
-* Hey ^1!&* Comment ça va^1,&  microbe !?/
+* Hey ^1!&* Comment ça va^1,&  le nabot !?/
 \E1* Ngahhhh !/
 NE MALTRAITE PAS&LE TÉLÉPHONE, JE&T'EN PRIE./
 \E2* Hé ^1!&* C'est qui le patron&  ici !?/
@@ -5128,24 +5128,24 @@ NE MALTRAITE PAS&LE SQUELETTE, JE&T'EN PRIE./
 \E2* Je suis là pour la&  soutenir !!/
 \E9* C'est à ça que servent&  les amis^1, pas vrai ?/
 \E0* Hé^1, où que tu sois.../
-\E4* J'espère que c'est&  mieux qu'ici./
+\E4* J'espère que c'est&  mieux que cet endroit./
 \E7* On a abandonné tellement&  de choses pour que tu&  sortes d'ici.../
 * Alors^1, peu importe&  où t'es maintenant.../
 \E6* Fais en sorte d'avoir&  une vie heureuse^1,&  okay ?!/
 \E2* Fais-le pour nous !/
-\E0* On sera content de&  savoir que nos efforts&  n'auront pas été vains./
+\E0* On sera contents de&  savoir que nos efforts&  n'auront pas été vains./
 \E9* On est avec toi ^1!&* Tout le monde ^1!&* Même la reine !/
 \E2* HÉÉÉ ^1!&* ATTENDS une seconde !/
 \E6* TORIEL ^1!&* TORIEL ^1!&* Est-ce que tu veux...?/
 \E9* Ah^1, elle dit qu'elle&  est occupée./
 MAIS SI ELLE&SAVAIT À QUI ON&PARLAIT.../
-* on ne pourrait pas&  reprendre le téléphone&  avant des heures./
+* on pourrait plus&  reprendre le téléphone&  avant des heures./
 NOUS AVONS&LA CLÉMENCE DE&TE L'ÉPARGNER !!/
 * Mais appelle n'importe&  quand^1, OK ?!&* Ça lui fera plaisir !/
 * oh^1, oups./
 \E0* ce truc n'a quasiment&  plus de batterie./
 \E1* bon^1, désolé de devoir&  couper comme ça^1,&  mais.../
-\E2* à un de ces quatre^1,&  ok mon pote ?/
+\E2* à un de ces quatre^1,&  ok ?/
 SALUT SALUT !/
 * À plus^1, microbe !/%%
 * H-hé^1, Undyne^1, tu&  vas bien...?/
@@ -5156,26 +5156,26 @@ SALUT SALUT !/
 \E4* D-désolée^1, je&  déteste parler&  au téléphone./
 \E3* Je ne sais pas&  vraiment quoi dire./
 \E7* Hey^1, pourquoi tu ne m'as&  pas dit que la reine&  était toute mignonne ?/
-\E3* Euh^1, J'veux dire^1,&  euh.../
+\E3* Euh^1, j'veux dire^1,&  euh.../
 \E6* Mettaton va bien !/
 * Et ^1! Hum !/
-\E6* Je cherche un moyen&  pour qu'on&  sorte d'ici !/
+\E6* Je cherche un moyen&  pour qu'on&  sorte tous d'ici !/
 \E4* M-mais en fait je ne&  sais pas du tout&  ce que je fais./
-\E0* Je finirais par&  trouver un jour,&  j'imagine/
+\E0* Je finirai par&  trouver un jour,&  j'imagine/
 \E3* La reine est très&  différente d'&  ASGORE.../
-\E7* Elle fait bien attention&  à ce que je fais lors&  de mes recherches./
+\E7* Elle garde un oeil sur&  ce que je fais lors&  de mes recherches./
 \E0* Cet endroit est&  méconnaissable depuis&  son arrivée !/
-\E3* Oh ^1!&* Hey ^1!&* Juste une seconde !/
+\E3* Oh ^1!&* Hé ^1!&* Attends une seconde !/
 \E0* Hey ^1! TORIEL ^1!&* Tu veux parler avec...?/
 \E0* Bon^1, elle dit qu'elle&  est occupée./
 * Oh^1, elle DIT qu'elle&  est occupée./
 SI ELLE SAVAIT AVEC&QUI ON PARLAIT.../
-* M-mais^1, si tu veux^1,&  appelle-la&  quand tu veux./
-* Ouais ^1!&* Ça lui ferait plaisir d'&  avoir de tes nouvelles !/
+* M-mais^1, si tu veux^1,&  rappelle-la&  quand tu veux./
+* Ouais ^1! Ça lui&  ferait plaisir d'avoir&  de tes nouvelles !/
 * À plus^1, microbe !/
 * A-au..^1.&* Au re.../
-\E4* Hey^1, pourquoi&  c'est moi qui doit&  raccrocher ?/
-\E7* Hehehe..^1.&* Je déteste&  les adieux.../
+\E4* Hé^1, pourquoi&  c'est moi qui dois&  raccrocher ?/
+\E7* Hahaha..^1.&* Je déteste&  les adieux.../
 \E3* Hum^1, on se reverra&  un de ces jours !/%%
 mf
 SPECIALK
@@ -5184,23 +5184,23 @@ SPECIALK
 \E3* les humains tombant ici&  ne sont plus traités&  comme des ennemis.../
 \E3* .../
 \E1* mais le peuple n'a&  VRAIMENT pas aimé&  cette politique./
-\E0* par ta faute^1, non&  seulement le roi n'est&  plus.../
+\E0* par ta faute^1, non&  seulement le roi n'est&  plus d'ce monde.../
 \E3* mais les âmes humaines&  ont également&  disparu.../
 * avec les vies&  d'innombrables citoyens./
 * avec la vie de.../
 * avec la vie d'undyne^1,&  leur plus grande&  héroïne./
 * personne ne veut que&  ça se reproduise./
 \E0* du coup, le peuple s'est&  révolté pour renverser&  le règne de la reine./
-\E2* mais^1, elle^1, euh^1, a&  abandonné calmement&  devant leur réaction./
+\E2* mais^1, elle^1, euh^1, a&  abdiqué calmement&  devant leur réaction./
 \E1* en définitive^1, elle est&  retournée dans&  les ruines./
 \E0* en gros^1, l'outremonde&  est sous une anarchie&  bizarre maintenant./
-\E0* chacun essaye de vivre&  leur vie comme ils&  l'ont toujours fait.../
-\E3* mais ce n'est pas&  vraiment facile^1,&  t'sais ?/
+\E0* chacun essaye de vivre&  sa vie comme si de&  rien n'était.../
+\E3* mais c'est pas&  vraiment facile^1,&  t'sais ?/
 * quand tous tes&  espoirs passent tout&  simplement à la trappe.../%%
 \E1* undyne a été à la tête&  de la révolte^1, bien&  sûr./
 \E3* elle était plutôt en&  rogne après ce qui est&  arrivé à asgore./
 \E3* elle était plutôt en ro-&  gne après ce qui est ar-&  rivé à asgore et alphys./
-\E1* elle a jeté la reine en&  en dehors du château&  de toutes ses forces./
+\E1* elle a jeté la reine&  hors du château&  de toutes ses forces./
 \E0* elle est ensuite devenue&  l'impératrice de&  l'outremonde.../
 * et a exilé la reine&  dans les ruines./
 \E1* on dirait qu'undyne..^1.&* hmmm.../
@@ -5209,13 +5209,13 @@ SPECIALK
 \E2* mais hey ^1!&* le bon côté&  des choses.../
 \E0* c'est qu'elle n'est plus&  seule./
 \E1* moi et papyrus, on lui&  rend visite.../
-\E0* on lui ramène des&  livres de la bibli^1, ou&  on joue à des jeux.../
-\E2* on l'a même convaincu&  pour qu'elle sorte&  de temps en temps./
+\E0* on lui ramène des&  livres de la biblio^1,&  on joue à des jeux.../
+\E2* on l'a même convaincue&  de prendre l'air&  de temps en temps./
 \E1* tant que moi ou papyrus&  restons derrière au cas&  où un humain arriverait./
 \E2* mais papyrus&  adore faire ça./
 OUAIS !!^1!&J'ADORE REMPLACER&LA REINE !!!/
 JE ME SUIS SUPER&ENTRAÎNÉ POUR RE-&CEVOIR LES HUMAINS./
-JE FERAI UNE&PARFAITE MAMAN !!!/
+JE FERAIS UNE&PARFAITE MAMAN !!!/
 \E3SINON^1,&À QUI TU&PARLES ?/
 OH, COOL^1. PASSE-&LUI LE BONJOUR&DE MA PART !!!/
 * papyrus te dit bonjour./
@@ -5230,10 +5230,10 @@ OH, COOL^1. PASSE-&LUI LE BONJOUR&DE MA PART !!!/
 \E1* parfois la reine me&  raconte.../
 \E0* à quel point elle&  aimerait te revoir./
 \E1* tu trouves pas ça&  mignon ?/
-\E3* j'ai pas le coeur&  à lui dire ce que&  tu as fait./
+\E3* j'ai pas le coeur&  de lui dire ce que&  tu as fait./
 \E0* tu imagines comment elle&  réagirait ?/
 \E3* si je lui disais que&  c'est parce qu'elle&  t'as protégé.../
-\E4* ... que tu as fini par&  tuer mon frère...?/
+\E4* ... que t'as fini par&  tuer mon frère...?/
 \E1* bref^1, ne reviens&  jamais ici./
 \E0* on ne veut pas de toi./
 * depuis ton départ^1,&  les choses ici sont.../
@@ -5244,7 +5244,7 @@ OH, COOL^1. PASSE-&LUI LE BONJOUR&DE MA PART !!!/
 \E3* et comme les âmes&  humaines ont disparu.../
 \E0* elle cherche aussi&  un moyen de&  détruire la barrière.../
 * quand ça sera fait^1,&  elle déclarera la&  guerre à l'humanité./
-\E1* j'veux dire^1, c'était&  le plan d'asgore^1, aussi./
+\E1* j'veux dire^1, c'était&  aussi le plan d'asgore^1./
 \E2* mais il était vraiment^1,&  euh^1, pas doué pour ça./
 \E0* undyne a aussi agrandi&  la garde royale,&  et pas qu'un peu./
 * elle dit que la première&  chose qu'elle fera&  quand on sera libres.../
@@ -5259,23 +5259,23 @@ OH, COOL^1. PASSE-&LUI LE BONJOUR&DE MA PART !!!/
 \E4* tu ferais mieux de&  faire gaffe^1, le mioche./
 \E4* ça va vraiment&  mal aller pour toi./%%
 \E3* j'ai toqué à la porte&  qui mène aux&  RUINES.../
-\E3* mais cette dame ne m'a&  pas répondu.../
+\E3* mais la dame ne m'a&  pas répondu.../
 HEY^1, SANS^1, AVEC&QUI TU PARLES ?/
 * oh^1, juste avec&  l'humain./
 OH^1, COOL./
 \E5ATTENDS, TU&VIENS DE DIRE&AVEC L'HUMAIN !?/
 \E0JE PEUX LUI&PARLER ???/
 * bien sûr^1,&  fais-toi plaisir./
-HEY !!^1! UNDYNE&EST DÉSORMAIS&L'IMPÉRATRICE !!/
+HÉ !!^1! UNDYNE&EST DÉSORMAIS&IMPÉRATRICE !!/
 C'EST FOU !!!/
 ET ELLE M'A PROMU.../
 AU POSTE ROYAL&LE PLUS&IMPORTANT !!!/
-\E3OUI^1.&C'EST CARRÉMENT&ÇA, MON TITRE./
+\E3OUI^1. C'EST&ÇA, MON TITRE.&MOT POUR MOT./
 \E0MON DEVOIR ?/
-\E3ELLE ME DEMANDE&DE^1, UM.../
+\E3ELLE ME DEMANDE&DE^1, EUH.../
 \E3D'ÊTRE PRÉSENT ET&D'AVOIR L'AIR&MIGNON./
 \E0EH BIEN!!^1!&SI C'EST PAS LE JOB&PARFAIT POUR MOI!!!/
-JE FAIS ÇA TOUT LE&TEMPS SANS LE&MOINDRE EFFORT !!/
+JE FAIS ÇA TOUT LE&TEMPS SANS LE&MOINDRE EFFORT !!!/
 ENFIN !^1!&JE SUIS IMPORTANT./
 ET C'EST ENTIÈREMENT&GRÂCE À TOI,/
 ET LES HORRIBLES&CHOSES QUE TU AS&FAITES./
@@ -5296,11 +5296,11 @@ IL LE FAUT !!!/
 \E3* honnêtement..^1.&* c'est plutôt perturbant./
 \E1* quant à moi ^1?&* oh^1, ouais.../
 \E2* je suis son agent./%%
-\E0* COUCOU^1, MON CHOU !/
+\E0* COUCOU^1, TRÉSOR !/
 * MERCI ÉNORMEMENT POUR&  TON DUR LABEUR.../
 * GRÂCE A TOI, L'OUTREMONDE&  EST PLUS&  EXCITANT QUE JAMAIS !/
 \E7* OOH LÀ LÀ...&* STATUES ET MONUMENTS À&  L'EFFIGIE DE MA BEAUTÉ../
-\E6* DES FLEURS FAÇONNANT&  MON NOM.../
+\E6* MON NOM EN COMPOSITIONS&FLORALES.../
 \E5* DES HAIES À L'EFFIGIE&  DE MON SOURIRE.../
 \E8* SOUS MON RÈGNE,&  L'OUTREMONDE N'A PLUS DE&  PROBLÈMES, MON CHOU !/
 \E7* LA FOULE ?&* LA LASSITUDE ???/
@@ -5325,7 +5325,7 @@ IL LE FAUT !!!/
 \E7* VAUT LE COUP&  D'AVOIR ÉTÉ VÉCUE./
 \E6* ÇA DOIT ÊTRE DIFFICILE&  DE PARTIR./
 \E0* PENSE TOUJOURS À MOI,&  JE T'EN SERAIS&  RECONNAISSANT./
-\E5* SANS CESSE.&* PENSE À MOI EN TRAIN DE&  POSER AVEC GRÂCE.../
+\E5* PENSES-Y SANS CESSE.&* PENSE À MOI EN TRAIN DE&  POSER AVEC GRÂCE.../
 \E6* OH OUIIII !!!/
 \E6* OH OUIIII !!!/%%
 \E2* OH^1, MON AUTRE AGENT&  VEUT TE PARLER./
@@ -5337,7 +5337,7 @@ LES CHOSES VONT&BIEN MIEUX DEPUIS&TA VENUE !!!/
 \E3ENFIN^1, SI ON OUBLIE&LE FAIT QUE&TOUT EST NUL.../
 \E5POUR CEUX QUI&NE VÉNÈRENT PAS&METTATON./
 \E3ET SI ON OMET AUSSI&LE FAIT QU'UNDYNE&EST INTROUVABLE./
-QUI SAIT OÙ ELLE&A PU ALLER./
+QUI SAIT OÙ ELLE&A BIEN PU ALLER./
 ELLE N'A JAMAIS&AIMÉ L'ÉMISSION DE&METTATON./
 \E3CEUX QUI NE L'AIMENT&PAS ONT TENDANCE&À.../
 \E5DISPARAÎTRE./
@@ -5347,12 +5347,12 @@ MERCI ^1!&À PLUS !/%%
 \E3* et ben.^1.&* ça fait un bail./
 * depuis ton départ.../
 \E1* les choses sont devenues&  vraiment bizarres./
-\E0* dans la nuit^1,&  un paquet de gens a&  mystérieusement disparu./
+\E0* dans la nuit^1,&  beaucoup de gens ont&  mystérieusement disparu./
 \E3* pareil pour les âmes&  humaines./
 \E3* le peuple a été&  dévasté. tous ceux&  qu'ils admiraient.../
-* tout ce sur quoi ils&  comptaient^1 a disparu&  en une nuit./
-* le peuple a réclamé&  l'élection d'un nouveau&  dirigeant rapidement./
-\E1* donc^1, hum..^1.&* par élémination.../
+* tout ce sur quoi ils&  comptaient^1, disparu&  en une nuit./
+* le peuple a rapidement&  réclamé l'élection&  d'un nouveau dirigeant./
+\E1* donc^1, hum..^1.&* par élimination.../
 \E2* papyrus est devenu&  le nouveau dirigeant ?/
 \E1* j'lui laisse la parole&  à ce propos.../
 \E0ALLÔ !!^1!&OH, L'HUMAIN !!!/
@@ -5360,9 +5360,9 @@ MERCI ^1!&À PLUS !/%%
 \E3ASGORE^1, ALPHYS^1,&METTATON^1, ET&UNDYNE SONT PARTIS./
 \E0SANS DIT QU'ILS&SONT EN VACANCES./
 J'ESPÈRE QU'ILS&S'AMUSENT BIEN !!!/
-\E3OH, EN PLUS.../
-\E0JE SUIS LE DIRIGEANT&DE L'OUTREMONDE&MAINTENANT !!!/
-TOUT S'AMÉLIORE&BIEN ICI./
+\E3OH, ET EN PLUS.../
+\E0C'EST MOI QUI&DIRIGE L'OUTREMONDE&MAINTENANT !!!/
+TOUT S'AMÉLIORE&PETIT À PETIT, ICI./
 LA PRODUCTIVITÉ EST&EN HAUSSE !/
 CAR JE DEMANDE&À TOUT LE MONDE DE&TRAVAILLER./
 ET^1, PERSONNE N'A&FAIM !!!/
@@ -5372,7 +5372,7 @@ CAR JE PRÉPARE DES&SPAGHETTIS POUR&TOUT LE MONDE./
 \E3J'ARRIVE PAS À&CROIRE QUE JE&DISE ÇA^1,&MAIS.../
 \E5JE SUIS FIER..^1.&DE LUI ???/
 OH NON !!!!/
-\E0QUANT À NOTRE&RÉGLEMENT POUR&LES HUMAINS.../
+\E0QUANT À NOTRE&RÈGLEMENT POUR&LES HUMAINS.../
 \E3ON A DÉCIDÉ&DE^1, UM./
 SANS^1, ON A DÉCIDÉ&QUOI DÉJÀ ?/
 \E2* on peut pas juger&  les humains comme étant&  juste bons ou mauvais./
@@ -5387,16 +5387,16 @@ MALGRÉ LES&PROGRÈS QU'ON&A FAIT.../
 CE RÔLE EST PARFOIS&PLUTÔT DIFFICILE./
 DEPUIS QUE LE ROI&NOUS A QUITTÉS.../
 BEAUCOUP DE GENS&VEULENT JUSTE&ABANDONNER./
-DES FOIS, MÊME MES&MEILLEURS&ENCOURAGEMENTS.../
+DES FOIS, MÊME&MES MEILLEURS&ENCOURAGEMENTS.../
 NE SUFFISENT PAS./
 ET^1, AUSSI^1, UNDYNE&ME MANQUE^1./
 ELLE NE RÉPOND&JAMAIS À MES&APPELS.../
 \E5ELLE DOIT VRAIMENT&BEAUCOUP S'AMUSER&EN VACANCES./
 \E6J'AURAIS ESPÉRÉ&QU'ELLE ENVOIE&UNE CARTE POSTALE./
-\E5MAIS HEY !!!/
+\E5MAIS HÉ !!!/
 \E4JE N'ABANDONNERAI&PAS !/
 JE NE PEUX PAS&ABANDONNER !/
-JE VAIS TOUS LEUR&FAIRE ABANDONNER L'&IDÉE D'ABANDONNER !/
+JE VAIS À TOUS LEUR&FAIRE ABANDONNER L'&IDÉE D'ABANDONNER !/
 \E0ON VA SORTIR&D'ICI^1, LENTEMENT !!!/
 ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E0NYEH HEH HEH !!!/%%
@@ -5413,16 +5413,16 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E3* ... c'est une blague./
 \E3* voilà ce qui arrive&  quand des gens comme&  moi se la coulent douce./
 \E4* à plus./%%
-\E0* hey^1, au moins c'est&  moins bondé par ici./
+\E0* hé^1, au moins c'est&  moins bondé par ici./
 \E1* avec toutes&  les personnes que tu&  as tuées./
-\E2* j'espère que tu t'es&  bien marré./
+\E2* j'espère que ça t'a&  bien fait marrer./
 \E2* j'déconne^1.&* je l'espère&  vraiment pas./
 \E4* va au diable./%%
 \E1* on dirait que beaucoup&  de gens importants ont&  disparu cette nuit./
 * mais personne d'autre&  n'a été blessé./
 \E0* les gens étaient&  totalement perdus^1.&* une vraie pagaille./
 \E3* et puis^1, finalement^1,&  pour une raison&  quelconque.../
-\E1* un petit chien blanc&  est devenu le président&  de l'outremonde./
+\E1* un petit chien blanc&  est devenu président&  de l'outremonde./
 \E0* il dort sur le trône&  et ne fait absolument&  rien./
 \E1* c'est bizarre^1, mais tout&  le monde a l'air&  épanoui avec cette vie./
 \E2* merci./%%
@@ -5433,10 +5433,10 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E1* préviens celui ou celle&  qui a créé ce jeu^1,&  okay ?/
 \E2* on corrigera l'erreur^1,&  ou si c'est une nouvelle&  situation.../
 \E1* on pourrait même&  ajouter une nouvelle&  fin au jeu./
-\E3* mais c'est plus&  probable^1 que.../
-\E4* tu sois juste un sale&  hackeur^1, j'me trompe ?/
+\E3* mais le plus probable^1,&  c'est que.../
+\E4* tu sois juste une saleté&  de hacker^1, j'me trompe ?/
 \E1* ouais^1, dégage d'ici./%%
-\E1* H..^1. hey./
+\E1* H..^1. hé./
 \E0* Alors..^1. c'est toi&  qui as tué tous mes&  amis./
 \E1* J'appelais juste pour&  te dire./
 \E0* Je te déteste./
@@ -5469,8 +5469,8 @@ ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E4* C'est..^1.&* C'est un bon gars^1.&* Et à ses côtés.../
 \E4* Je.../
 \E2* Soupir./
-\E1* Tu sais^1.&* Je rêve un peu trop là^1.&* Mais.../
-\E5* J'aurais vraiment dû&  te tuer quand j'en&  avais l'occasion./%%
+\E1* Tu sais^1.&* Je rêvasse un peu, là^1.&* Mais.../
+\E5* J'aurais vraiment dû&  te tuer quand j'en&  ai eu l'occasion./%%
 fimg
 facetype
 AF
@@ -9653,7 +9653,7 @@ Pris de colère,&je déclarai la&guerre./
 Je jurai que&j'exécuterai tout&humain qui oserait&venir ici./
 Que j'utiliserais&leurs âmes pour&devenir un dieu.../
 ... et nous libérerais&de cette infâme&prison./
-Et qu'ensuite, je&détruirais l'humanité.../
+Et qu'ensuite, je&détruirais l'humanité&.../
 Et laisserais les&monstres régner en&paix sur la&surface./
 Rapidement, l'espoir&du peuple revint./
 Cependant, ma femme&fut horrifiée par&mes actes./
@@ -9662,7 +9662,7 @@ En vérité.../
 Je ne cherche pas le&pouvoir./
 Je ne veux faire&de mal à personne./
 Je voulais juste que&tout le monde&garde espoir.../
-Je ne peux&plus supporter&ça plus longtemps./
+Je ne peux&pas supporter&ça plus longtemps./
 Je veux juste&revoir ma femme./
 Je veux juste&revoir mon fils./
 Jeune enfant..^1.&Je t'en prie.../
