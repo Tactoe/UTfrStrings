@@ -9650,7 +9650,7 @@ Je me souviens du&jour où mon fils&est mort./
 Tout l'outremonde&avait perdu espoir./
 Notre avenir nous&avait de nouveau&été volé par les&humains./
 Pris de colère,&je déclarai la&guerre./
-Je jurai que&j'exécuterai tout&humain qui oserait&venir ici./
+Je jurai que&j'exécuterais tout&humain qui oserait&venir ici./
 Que j'utiliserais&leurs âmes pour&devenir un dieu.../
 ... et nous libérerais&de cette infâme&prison./
 Et qu'ensuite,&je détruirais&l'humanité.../
@@ -9659,7 +9659,7 @@ Rapidement, l'espoir&du peuple revint./
 Cependant, ma femme&fut horrifiée par&mes actes./
 Elle partit d'ici,&et disparut aux&yeux de tous./%%
 En vérité.../
-Je ne cherche pas le&pouvoir./
+Je ne cherche pas&le pouvoir./
 Je ne veux faire&de mal à personne./
 Je voulais juste que&tout le monde&garde espoir.../
 Je ne peux&pas supporter&ça plus longtemps./
