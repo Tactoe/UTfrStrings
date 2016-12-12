@@ -742,7 +742,7 @@ MAIS FOURRÉE AVEC&UNE SUBSTANCE SUC-&RÉE. ET SANS OEUFS!/
 * (Vous décidez d'arrêter là.)/%%
 VOICI MA CHAMBRE ^1!/
 SI TU AS FINI&DE VISITER.../
-ON POURRAIT ALLER&DEDANS ET../
+ON POURRAIT ALLER&DEDANS ET.../
 "TRAÎNER ENSEMBLE"&COMME DEUX SUPER&POTES ?/
 \E3FAIRE CE QU'ON EST&CENSÉS FAIRE LORS&D'UN RENCARD ???/
 * (Entrer ?)& &         Oui         Non\C
@@ -5094,7 +5094,7 @@ AU REVOIR !/%%
 \E6ELLE DIT DES TRUCS&DU STYLE.../
 \E3MAIS ELLE M'A&JUSTE REGARDÉ EN&DISANT.../
 \E3JE NE SAIS PAS DU&TOUT CE QUE TU&AS FAIT^1, MAIS.../
-* Hey ^1!&* Comment ça va^1,&  le nabot !?/
+* Hey ^1!&* Comment ça va^1,&  microbe !?/
 \E1* Ngahhhh !/
 NE MALTRAITE PAS&LE TÉLÉPHONE, JE&T'EN PRIE./
 \E2* Hé ^1!&* C'est qui le patron&  ici !?/
@@ -5184,7 +5184,7 @@ SPECIALK
 \E3* les humains tombant ici&  ne sont plus traités&  comme des ennemis.../
 \E3* .../
 \E1* mais le peuple n'a&  VRAIMENT pas aimé&  cette politique./
-\E0* par ta faute^1, non&  seulement le roi n'est&  plus d'ce monde.../
+\E0* par ta faute^1, non&  seulement le roi n'est&  plus de ce monde.../
 \E3* mais les âmes humaines&  ont également&  disparu.../
 * avec les vies&  d'innombrables citoyens./
 * avec la vie de.../
@@ -5362,7 +5362,7 @@ MERCI ^1!&À PLUS !/%%
 J'ESPÈRE QU'ILS&S'AMUSENT BIEN !!!/
 \E3OH, ET EN PLUS.../
 \E0C'EST MOI QUI&DIRIGE L'OUTREMONDE&MAINTENANT !!!/
-TOUT S'AMÉLIORE&PETIT À PETIT, ICI./
+TOUT S'AMÉLIORE&PETIT À&PETIT, ICI./
 LA PRODUCTIVITÉ EST&EN HAUSSE !/
 CAR JE DEMANDE&À TOUT LE MONDE DE&TRAVAILLER./
 ET^1, PERSONNE N'A&FAIM !!!/
@@ -5396,7 +5396,7 @@ ELLE NE RÉPOND&JAMAIS À MES&APPELS.../
 \E5MAIS HÉ !!!/
 \E4JE N'ABANDONNERAI&PAS !/
 JE NE PEUX PAS&ABANDONNER !/
-JE VAIS À TOUS LEUR&FAIRE ABANDONNER L'&IDÉE D'ABANDONNER !/
+JE VAIS TOUS LEUR&FAIRE ABANDONNER L'&IDÉE D'ABANDONNER !/
 \E0ON VA SORTIR&D'ICI^1, LENTEMENT !!!/
 ENSUITE ON POURRA&DE NOUVEAU TRAÎNER&TOUS ENSEMBLE !!!/
 \E0NYEH HEH HEH !!!/%%
@@ -5718,7 +5718,7 @@ Flashygoodness#Leon Arnott
 Design Autres Monstres
 Mike Reid#????????????
 Concepts PNJ Vedettes
-Champignon "Ragel" - Alexander Sward#"Sam Byool" - Ahmed Almutawa#Bah! "Papy énigme" - Summer Wine#Étoile..? "Loren" - Colin MacDougall#Papa comédien - Braxton Harris
+Champi "Ragel" - Alexander Sward#"Sam Byool" - Ahmed Almutawa#Bah! "Papy énigme" - Summer Wine#Étoile..? "Loren" - Colin MacDougall#Papa comédien - Braxton Harris
 Guitare
 Stephanie MacIntire
 Assist. Gatty & Catty 
@@ -8965,7 +8965,7 @@ Peux-tu seulement&protéger l'humanité ?!/%%
 * Ça sent le Mettaton.
 * Le monstre a l'air satisfait.
 * Mettaton n'a plus beaucoup&  de PV.
-* METTATON EX - ATQ 47 DÉF 47&* Son noyau en forme de&  coeur est son point faible../^
+* METTATON EX - ATQ 47 DÉF 47&* Son noyau en forme de&  coeur est son point faible./^
 * Vous prétendez pouvoir éviter&  TOUTES les attaques./
 * L'audimat augmente&  graduellement pendant le tour&  de Mettaton./^
 * Vous prenez une pause&  dramatique^1.&* Le public approuve./^
@@ -9653,7 +9653,7 @@ Pris de colère,&je déclarai la&guerre./
 Je jurai que&j'exécuterai tout&humain qui oserait&venir ici./
 Que j'utiliserais&leurs âmes pour&devenir un dieu.../
 ... et nous libérerais&de cette infâme&prison./
-Et qu'ensuite, je&détruirais l'humanité&.../
+Et qu'ensuite,&je détruirais&l'humanité.../
 Et laisserais les&monstres régner en&paix sur la&surface./
 Rapidement, l'espoir&du peuple revint./
 Cependant, ma femme&fut horrifiée par&mes actes./
@@ -11629,7 +11629,7 @@ Met1
 * Me présenter à nouveau ?&* Et puis quoi encore ?/
 * C'est pas très poli de&  faire comme si tu ne me&  connaissais pas./
 * Quelqu'un se doit de&  t'apprendre les bonnes&  manières !/
-* Tu n'as vraiment rien de&  mieux à faire ?/%%
+* T'as vraiment rien&  de mieux à faire ?/%%
 * Error/%%
 * Vraiment^1, 
 \E5* Très bien^1, fais come&  tu veux./
@@ -13620,7 +13620,7 @@ tc
 * oh non..^1.&* les lettres dans ma&  main fusionnent/
 * oh non..^1.&* je risque d'oublier ton&  nom.../
 * oh non..^1.&* je vais larmoyer plus de&  lettres dans ma main.../
-* oh non^1.&* les lettres s'emmêlent&  toutes.../
+* oh non..^1.&* les lettres s'emmêlent&  toutes.../
 * oh non..^1.&* ton nom est très long&  maintenant/%%
 wavein
 * oh..^1. salut..^1. tu..^1./
@@ -15237,13 +15237,13 @@ JE RESTERAI TOUJOURS&TON FIDÈLE AMI !!!/
 \E7* Évidemment^1, Undyne !/
 \E2* Pour quoi crois-tu&  qu'on se battait jusqu'à&  présent ?/
 \E2* ouais^1, pour quoi cr.../
-\E1* oops./
+\E1* oups./
 \E1* Chips ^1!&* Je savais que tu pour-&  rais pas t'en empêcher !/
 \E3MINUTE^1, ALPHYS^1,&J'IGNORAIS QUE TU&CONNAISSAIS SANS./
 \E5* Eh ben..^1.&* Je.../
 \E2* tout le monde me&  connaît./
-\E0* Ah ^1? C'est qui ça^1,&  Sans ?/
-\E0* Mais qui DIABLE est&  donc ce Sans ?/
+\E0* Ah ^1? Mais qui diable&  est donc ce Sans ?/
+\E0* Mais qui DONC est&  donc ce Sans ?/
 \E1* TORIEL ?!?!/%%
 \E0* Dis Frisk^1, pourquoi&  t'irais pas voir&  Mettaton ?/
 \E8* Il est resté un bon&  moment ici^1, lui aussi.../
@@ -16174,7 +16174,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (Des fleurs dorées.)/%%
 * (C'est la pile de chaussettes&  sales de Sans.^1)&* (C'est..^1. c'est scandaleux...?)/%%
 * (Il y a une étrange machine&  derrière les rideaux.^1)&* (Elle semble hors-service.)/%%
-* (Vous déverouillez la porte&  et entrez dans la chambre.)/%%
+* (Vous déverrouillez la porte&  et entrez dans la chambre.)/%%
 * (Enfin^1, les pièces du puzzle&  commencent à s'emboîter.^1)/%%
 * Oh !^1?&* Il y a une caméra cachée&  derrière la cascade./%%
 * (Il y a beaucoup de pulls&  rayés dans cette armoire.)/%%
@@ -16382,11 +16382,11 @@ RAAH, OUBLIE ÇA !/%%
 \E0* Et Bl..^1.&* Napstablook^1, juste là^1,&  sera mon nouveau DJ !/
 \E2* Être tous les trois^1,&  ensemble sur la scène.../
 \E4* On aurait dû faire&  comme ça bien plus tôt !/%%
-\E0* Frisk^1, trésor^1.&* Pourrais-tu m'aider?/
+\E0* Frisk^1, trésor^1.&* Pourrais-tu m'aider ?/
 \E2* Quel genre de produits&  dérivés pourraient bien&  plaire aux humains...?/
 \E1* Voici mes idées&  jusque-là :/
-\E6* Des boutons, des pin's&  et des CDs.&* (Avec mon visage)/
-\E7* Des posters, des&  T-shirts, et des boxers.&* (Avec mon visage)/
+\E6* Des boutons, des pin's&  et des CDs.&* (Avec mon visage.)/
+\E7* Des posters, des&  T-shirts, et des boxers.&* (Avec mon visage.)/
 \E9* ... et des peluches&  de TORIEL./
 \E8* Mais, comme d'habitude^1.&* Avec mon visage à&  la place du sien./
 \E0* Alors^1, qu'en penses-tu ?/
@@ -16817,7 +16817,7 @@ Ouais,&genre,&quoi de&neuf ?/*
 * Enfin^1, genre^1,&  à quel autre&  endroit&  trouver des&  armes^1, de la&  bouffe^1, ou.../*
 * Les trucs à&  l'intérieur^1,&  sont genre.../*
 \M2* Oh^1, oups^1,&  sérieux ?/
-\M3* Oh^1, eh bien^1,&  quand on a&  dit^1, euh.../
+\M3* Oh^1, euh ben^1,&  quand on a&  dit^1, euh.../
 * Qu'on était à&  donf pour la&  destruction&  de l'humanité.../
 * C'était juste^1,&  genre^1, une&  blague, quoi./%%
 * Donc^1, genre^1,&  Dr Alphys&  a construit&  Mettaton, non ?/*
@@ -16843,9 +16843,9 @@ Ouais,&genre,&quoi de&neuf ?/*
 \E7* Olala^1, on a&  genre.../
 \E1* TROP la&  hype pour la&  destruction de&  l'humanité./%%
 \M0* Moi ^1?&* Ouais^1, j'ADORE&  les chats !/
-\M1* C'est^1,&  genre^1,&  TROP bon !!/%%
+\M1* C'est&  genre^1,&  TROP bon !!/%%
 \E8* Moi ^1?&* Ouais^1, j'ADORE&  les chats !/
-\E1* Ils sont^1,&  genre^1,&  TROP mignons !!!/%%
+\E1* Ils sont&  genre^1,&  TROP mignons !!!/%%
 * Salut^1, c'est&  Gatty !/*
 * Salut^1, c'est&  Catty ! /%%
 mew
@@ -16930,7 +16930,7 @@ mew
 \E7* On a dit ça ?/%%
 \M4* Probablement ?/
 \M1* C'est^1, genre^1,&  presque&  notre&  slogan./%%
-\E8* Vraiment ^1?&* Je pensais que&  notre slogan&  était.../
+\E8* Vraiment ^1?&* Je pensais que&  notre slogan&  c'était.../
 \E4* G-G-Gatty elle&  est géniale^1,&  C-C-Catty c'est&  la plus cool !/%%
 \M1* Euh^1, non ?/
 * On a genre&  carrément&  JAMAIS dit ça./%%
@@ -17030,7 +17030,7 @@ Gatty et Catty
 \E6* J'ai 19 ans et j'ai déjà&  fichu toute ma vie en l'air./%%
 \E0* Alors on est libres^1, hein ^1?&* C'est ce que Mettaton&  nous a dit./
 \E4* Puis il est venu me dire^1,&  "ça ne signifie pas que tu&  pourras quitter le travail&  plus tôt."/
-\E6* Ah^1, là là..^1. Mon patron.&* J'adore ce type./
+\E6* Ah là là..^1. Mon patron.&* J'adore ce type./
 \E3* Et par "adorer"^1, je veux dire&  par là que je le déteste^1,&  mais d'une force./%%
 \E1* L'évacuation ^1?&* Te fiche pas de moi^1,&  l'asticot./
 \E3* Tout le monde est déjà&  parti du boulot ?&* ET ALORS ?&* Personne n'achète rien ?&* ET ALORS ?/
@@ -17992,7 +17992,7 @@ hole
 * Ça veut dire que ta vie n'est&  que péché./%%
 * Ça veut dire que..^1.&* Fiche-moi la paix./%%
 * Ça symbolise ma joie sans&  bornes./
-* Le gouvernement m'a fait&  savoir qu'ils étaient prêts&  à me transplanter dehors !/
+* Le gouvernement m'a fait&  savoir qu'il était prêt&  à me transplanter dehors !/
 * Pourquoi n'as-tu pas souri &  quand je dansais ^1? C'en est&  presque un peu vexant.../%%
 scr_enemynpc2
 * Depuis qu'on s'est étirés&  ensemble^1, j'ai réfléchi à&  beaucoup de choses ; )/
@@ -18367,7 +18367,7 @@ floss
 * Honnêtement^1, se&  battre contre toi&  EST assez divertissant.../
 * ... Donc même si tu&  ES dingue^1, je vais&  pas me priver !/%%
 * Tu te demandes&  peut-être si je&  me lasse de gagner.../
-* Tu veux voir ma réponse ?/%%
+* Tu veux voir&  ma réponse ?/%%
 fplot
 clapper
 claps
