@@ -392,7 +392,7 @@ EST PARFUMÉ&AU CITRON !!/
 CE QUI DÉPLAÎT AUX&PIRANHAS !/
 DONC BLEU ET&VIOLET, PAS DE&PROBLÈME !/
 ENFIN^1,&LES CASES ROSES./
-ELLE NE FONT&ABSOLUMENT RIEN./
+ELLES NE FONT&ABSOLUMENT RIEN./
 MARCHE SUR ELLES&AUTANT DE FOIS QUE&TU LE VEUX./
 ALORS !^1?&TU AS TOUT&COMPRIS ???/
 * (Avez-vous compris les&  explications ?) &         Évidemment  Non        \C
@@ -11632,7 +11632,7 @@ Met1
 * T'as vraiment rien&  de mieux à faire ?/%%
 * Error/%%
 * Vraiment^1, 
-\E5* Très bien^1, fais come&  tu veux./
+\E5* Très bien^1, fais comme&  tu veux./
 \E4* Je t'attendrai aussi&  longtemps qu'il faudra !/%%
 \E0* Hey^1.&* N'oublie pas./
 \E2* Ne tue PERSONNE./
@@ -13480,7 +13480,7 @@ ax
 * Minichien^1, qui cherchait&  juste un simple té-&  moignage d'affection.../
 * L'Unité Canine de&  Couveneige^1,&  entièrement décimée./
 * Mes soldats^1, mes amis^1,&  tous détruits..^1.&* Tu trouves ça amusant ?/
-\E5* Pas moi./
+\E5* Eh bien pas moi./
 \E3* Mais ton&  heure a sonné^1,&  crapule !/
 \E0* Jamais plus tu&  ne feras de mal&  à quiconque !/
 * Un chevalier à l'armure&  étincelante est apparu./
@@ -17068,7 +17068,7 @@ Gatty et Catty
 \E4* Une blague ^1?&* Mais EN QUOI c'est UNE BLAGUE ?/
 \E3* T'as dessiné une image de deux&  gars en train de se câliner avec&  "J'adore les câlins !" à côté./
 \E3* Son sens de l'humour est&  ENCORE PIRE que l'autre comédien&  qui passe son temps à chouiner&  à propos de sa famille./
-\E5* Mais^1, je^1, euh^1, contente-toi de&  lui dire que c'est hilarant^1,&  parce qu'il me file des glaces&  gentilly gratos après.../%%
+\E5* Mais^1, je^1, euh^1, me contente de&  lui dire que c'est hilarant^1,&  parce qu'il me file des glaces&  gentilly gratos après.../%%
 \E4* Tout le monde&  m'appelle Mac Futal&  maintenant./
 \E5* Mais toi^1, tu le feras pas^1,&  pas vrai mon p'tit pote ?/%%
 \E6* Je suis allé dans la ruelle&  voir ces deux demoiselles^1,&  pour euh..^1.&  tenter ma chance, quoi./
