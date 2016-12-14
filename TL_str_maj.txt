@@ -15024,7 +15024,7 @@ doorx
 thisblend
 o_music
 \E0* bon bah./
-\E1* va falloir que je me&  dévoue pour l'empêcher&  de s'attirer des ennuis./
+\E1* quelqu'un va devoir se&  dévouer pour l'empêcher&  de s'attirer des ennuis./
 \E2* ciao tout le monde./%%
 \E0* Bon sang^1, c'est&  toujours à moi de&  faire TOUT^1, ici ?/
 \E6* Papyrus^1, reviens !!!/%%
@@ -16573,7 +16573,7 @@ scr_itemroom
 /8
 \E3* Hein ^1?&* Vendre quelque chose ^1?&* Tu te crois dans&  une brocante ?/
 \E4* Je ne sais pas comment ça&  marche là d'où tu&  viens... mais.../
-\E0* Si je me mettais à dépenser&  de l'argent pour des brindilles&  ou des vieux pansements^1, je&  ferai faillite en une semaine !/%%
+\E0* Si je me mettais à dépenser&  de l'argent pour des brindilles&  ou des vieux pansements^1, je&  ferais faillite en une semaine !/%%
 \E4* Si t'as vraiment besoin&  d'argent^1, tu pourrais essayer&  de faire du crowdfunding./
 * On dit que les gens achètent&  N'IMPORTE QUOI ces temps-ci./%%
 * Vous avez pris 758PO derrière&  le comptoir./%%
@@ -19138,8 +19138,8 @@ par Toby
 Suit le#courant
 Grenouille#de profession
 ÉMOPLASME
-Culpabilise#Encores_mettaton_neo
-mus_mettaton_neo.oour 
+Culpabilise#encore
+S'enhardit de#jour en jour
 JELLYNUSCULE
 S'est trouvé une#nouvelle grotte
 Gogo-danseur
