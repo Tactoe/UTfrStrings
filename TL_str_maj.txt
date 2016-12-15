@@ -17513,7 +17513,7 @@ sansmode
 * Il m'a dit qu'il avait trouvé&  un nouvel appât pour moi./
 * Bon, j'imagine que c'était&  encore une de ses farces./
 * Mais même ses farces&  m'intéressent, moi !/%%
-* Finalement^1, j'aurai pas réussi à& "pécho la daurade"^1, comme&  on dit./
+* Finalement^1, j'aurai pas réussi& à "pécho la daurade"^1,&  comme on dit./
 * Alors que ça te serve&  d'exemple^1, le mioche.../
 * Ne tente jamais de "pécho"&  à la canne à pêche./
 * (Un gémissement déséspéré&  retentit plus loin.)/%%
