@@ -794,7 +794,7 @@ burg
 * de mon frère ?& &  Cool        Pas cool\C
 * évidemment qu'il&  est cool./
 \E1* toi aussi t'aurais la&  classe si tu portais le&  même costume./
-\E0* d'ailleurs^1, c'est&vraiment une plaie&  pour lui faire retirer./
+\E0* d'ailleurs^1, c'est&  vraiment une plaie&  pour lui faire retirer./
 * bah^1.&* au moins il le lave./
 \E1* et j'entends par là&  qu'il le porte même&  sous la douche./%%
 * hé^1, mon pote./
@@ -17188,7 +17188,7 @@ s !!!/
 \E4* hnnn..^1.&* il me fau des 
 s..^1.&* mé je doi payé pour l'ékol./
 s..^1.&* mé je doi payé pour la fak./
-\E5* hnnnn...!!^1!&* tem veu toujour des 
+\E5* hnnnn...!!^1!&* tem veu toujour des&   
 s...!/%%
 \E2* m..^1. mais.../
 \E4* stp !!!!!!!!!!/%%
