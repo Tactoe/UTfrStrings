@@ -458,10 +458,10 @@ card
  cartes&  se trouve dans la boîte.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C 
-* (C'est une boîte pour ranger&  vos poings de fidélité^1.)&* (Elle est vide pour l'instant.)/%%
+* (C'est une boîte pour ranger&  vos poings fidélité^1.)&* (Elle est vide pour l'instant.)/%%
 * (Vous obtenez un Poing de&  Fidélité.)/%%
-* (Tout jeu doit se terminer un&  jour ou l'autre.^1 Vous obtenez&  un Poing de Fidélité.)/%%
-* (Toute joie n'est que&  temporaire.^1 Vous obtenez un&  Poing de Fidélité.)/%%
+* (Tout jeu doit se terminer un&  jour ou l'autre.^1 Vous obtenez&  un Poing Fidélité.)/%%
+* (Toute joie n'est que&  temporaire.^1 Vous obtenez un&  Poing Fidélité.)/%%
 * (La maison s'effondre.^1)&* (Vous obtenez un Poing de&  Fidélité.)/%%
 * (C'est une paire de&  ballerines.)/
 * (Vous obtenez les Ballerines.)/%%
@@ -2658,7 +2658,7 @@ scr_itemnamelist
 * If you are reading this,&  I messed up somehow./%
 * "Bonbon Monstre" - Soigne 10 PV&* A un goût très prononcé&  d'absence de réglisse./%
 * "Rouleau Croe" - Soigne 15 PV&* Fried dough traditionally&  served with a mallet./%
-* "Bâton" - Arme AT 0&* Il aboie mais ne mord&  pas./%
+* "Bâton" - Arme AT 0&* En bois, mais ne mord&  pas./%
 * "Pansement" - Soigne 10 PV&* Il a déjà été utilisé&  plusieurs fois./%
 * "Pomme d'amour" - Soigne 1 PV&* Voici une recette pour en faire&  à la maison :/
 * 1. Trouvez une pomme.&* 2. Aimez-la tendrement./%
@@ -2891,7 +2891,7 @@ Temmie Flakes
 Quiche Abandonnée
 Vieux Tutu
 Ballerines
-Poing de Fidélité
+Poing Fidélité
 Chien Pénible
 SalaCanin
 Résidus Canins
@@ -5181,7 +5181,7 @@ mf
 SPECIALK
 \E0* la reine est revenue^1, et&  a tenté de reprendre&  le pouvoir ici./
 * elle a mis en place une&  nouvelle politique.../
-\E3* les humains tombant ici&  ne sont plus traités&  comme des ennemis.../
+\E3* les humains tombant ici&  ne seront plus traités&  comme des ennemis.../
 \E3* .../
 \E1* mais le peuple n'a&  VRAIMENT pas aimé&  cette politique./
 \E0* par ta faute^1, non&  seulement le roi n'est&  plus de ce monde.../
@@ -8580,7 +8580,7 @@ Te libérer ^1?&Ne sois pas bête~/%%
 Le bonheur de beaucoup&d'araignées repose&sur ton ÂME~~~/%%
 Tu fais fuir&tous mes clients !/%%
 Oh, quelle impolie !&J'en ai presque&oublié de te présenter&mon familier~/
-C'est l'heure du casse&-croûte, après tout.&Amusez-vous bien~/%%
+C'est l'heure du&petit déjeuner,&après tout.&Amusez-vous bien~/%%
 L'individu qui nous a&parlé de toi.../%%
 Nous a offert un&PAQUET d'argent pour&récupérer ton ÂME./%%
 Elle faisait un peu&paumée sur les bords./%%
@@ -12002,7 +12002,7 @@ JE PARIE QUE&C'ÉTAIT UN GARDE&ROYAL TRÈS CÉLÈBRE !/
 * Si tous les humains sont comme&  toi^1, je pense qu'elles se ven-&  dront comme des petits pains !/%%
 * OH !!!^1!&* DE LA CLIENTÈLE !!!/%%
 * Cependant^1, j'ai trouvé&  comment y remédier !!/
-* Des "poings" de fidélité !!&* Dessinés avec soin sur des&  cartes de très bonne facture !!/
+* Des "poings" fidélité !!&* Dessinés avec soin sur des&  cartes de très bonne facture !!/
 * Pour chaque Glace Gentilly&  achetée^1, tu peux prendre&  une carte dans la boîte./
 * Si tu as 3 cartes^1, tu peux les&  échanger gratuitement contre&  une Glace Gentilly !/
 * Ça va sûrement me rapporter&  des clients !/%%
@@ -12598,7 +12598,7 @@ s_click
 * ... tu te débrouilles&  vachement bien avec les&  casses-crânes^1, non ?/
 * impossible que tu aies&  déjà vu celui-là avant./%%
 * hey^1, pourquoi ne pas&  m'avoir demandé&  de t'aider ?/
-\E1* j'était juste là./%%
+\E1* j'étais juste là./%%
 * quoi d'neuf ?/%%
 * tu aimes te dégourdir&  les jambes à ce que&  je vois./%%
 * je ne sais pas ce que&  va faire mon frère&  ensuite./
@@ -13104,15 +13104,15 @@ lapbg
 rman
 snapper
 tilex
-* Tra la la^1.&* Les eaux sont agitées^1.&* C'est un bon signe.../%%
+* Tra la la^1.&* Les eaux sont agitées^1.&* C'est bon signe.../%%
 * Tra la la./%%
-* Tra la la^1.&* Les eaux sont agitées^1.&* C'est un mauvais signe.../%%
+* Tra la la^1.&* Les eaux sont agitées^1.&* C'est mauvais signe.../%%
 * Tra la la^1.&* Mange cinq champignons par jour./
 * Pourquoi donc ^1?&* Pour que je sache que tu&  écoutes ce que je te dis.../%%
 * Tra la la^1.&* N'oublie pas de faire une pause&  de temps à autre.../%%
 * Tra la la^1.&* As-tu déjà entendu la mélopée&  venant de la mer ?/%%
 * Tra la la^1.&* Qu'y a-t-il dans une graine ^1?&* C'est un grand mystère./%%
-* Tra la la^1.&* Danser sur un bâteau..^1.&* Dangereux mais formateur.../%%
+* Tra la la^1.&* Danser sur un bateau..^1.&* Dangereux mais formateur.../%%
 * Tra la la^1.&* J'ai entendu dire qu'ASGORE&  a un plat préféré./%%
 * Tra la la^1.&* J'ai entendu dire que les&  araignées ont un plat préféré./
 * Il s'agit des araignées./%%
@@ -13134,8 +13134,8 @@ tilex
 * Tra la la^1.&* Chante donc avec moi^1.&* Tra la la./%%
 * Tra la la^1.&* Oh oh^1.&* Que c'est dépaysant.../%%
 * Tra la la^1.&* Hmmm.../
-* J'aurais dû mettre quelque&  pantalons en plus&  aujourd'hui./%%
-* J'aurais dû mettre quelque&  millions de pantalons en&  plus aujourd'hui./%%
+* J'aurais dû mettre quelques&  pantalons en plus&  aujourd'hui./%%
+* J'aurais dû mettre quelques&  millions de pantalons en&  plus aujourd'hui./%%
 * Tra la la^1.&* Tri li li^1.&* Tre le le./%%
 Dimanche
 Lundi
@@ -13300,7 +13300,7 @@ alcovecheck
 * Et donc^1, une fois, à l'école.../
 * On a eu cet atelier, où on&  devait s'occuper d'une&  fleur./
 * Et le roi ^1- fallait l'appeler& "Monsieur Dreemurr" ^1- nous a&  offert ses propres fleurs./
-* Et puis après^1, il est venu à&  l'école^1, pour nous apprendre à&  devenir responsables, et tout./
+* Et puis après^1, il est venu à&  l'école pour nous apprendre à&  devenir responsables et tout./
 * Et ça m'a fait penser.../
 * YO ^1!&* Ça serait pas trop COOL&  si UNDYNE venait à l'école ?!/
 * Elle pourrait taper sur TOUS&  les profs !!/%%
@@ -13921,7 +13921,7 @@ movemode
 * JE NE VAIS PAS TE DÉTRUIRE&  SANS TÉLÉSPECTATEURS !!/
 * ON DIRAIT QUE TU M'AS EU&  UNE FOIS DE PLUS, GRÂCE À&  L'INGÉNIEUX DR ALPHYS !!!/
 * À LA PROCHAINE, BEAUTÉ !/
-* À TOUTE !/%%
+* TCHA-TCHAOW !/%%
 * (Vous avez trouvé le sucre.)/%%
 * (Vous avez trouvé les oeufs.)/%%
 inithspeed
@@ -15320,7 +15320,7 @@ pass
 * Lorsque tu tues^1,&  ton EXP augmente./
 * Lorsque tu en as suffisamment^1,&  c'est ton LOVE qui augmente./
 * LOVE^1 est également&  un acronyme./
-\W* Cela signifie "\RLevel of&  Violence\W".&* Ton Niveau d'Agression./
+\W* Cela signifie "\RLevel of&  Violence\W".&* Ton niveau de violence./
 * Ce dernier reflète ta&  capacité à infliger la&  souffrance./
 * Plus tu tues^1, plus il&  t'est facile de te perdre&  toi-même de vue./
 * Plus tu te perds toi-même&  de vue^1, moins tu&  souffres./
@@ -16077,7 +16077,7 @@ L'INTIMITÉ^1,&TU NE CONNAIS&DONC PAS ?/%%
 * En cas d'erreur, la Cloche&  Corolle ramènera les Graines-&  Pont à leur place de départ./%%
 * SALLE AUX SOUHAITS/%%
 * Mais les humains ont une&  faiblesse. Ironiquement, il s'&  agit de la force de leur ÂME./
-* Elle est telle qu'elle lui per-&  met de persister en dehors de&  leur corps, même après la mort./%%
+* Elle est telle qu'elle lui per-&  met de persister en dehors du&  corps, même après la mort./%%
 * Il y a une seule exception à&  cette règle./
 * L'ÂME d'une race spéciale de&  monstres appelés les&  "Monstres Majeurs"./
 * L'ÂME d'un Monstre Majeur est&  assez puissante pour persister&  après sa mort.../
@@ -16904,7 +16904,7 @@ mew
 \M5* Mais il se&  comporte..^1.&* Vraiment&  bizarrement./*
 \E5* Puis il fait&  comme si&  c'était de&  notre faute !/%%
 \M0* Genre^1, quand&  on lui a demandé&  de chercher ces&  Glamburgers.../*
-\E0* Il les a laissé&  tomber et a fui&  avant qu'on&  puisse dire quoi&  que ce soit !/%%
+\E0* Il les a laissés&  tomber et a fui&  avant qu'on ait&  pu dire quoi&  que ce soit !/%%
 \M3* On allait^1,&  genre^1, les&  partager./*
 \E7* Sérieux ^1?&* Moi pas./%%
 \M1* Catty !!/%%
