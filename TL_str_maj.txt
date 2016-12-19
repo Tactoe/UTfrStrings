@@ -695,7 +695,7 @@ dsprite
 * en temps normal, c'est&  50000PO le coup&  d'oeil.../
 * mais bon..^1. &*\E1 vu qu'on s'connaît,&  pour toi c'est gratos./
 \E2* t'en dis quoi ?/
-* (Utiliser le télécope ?)& &         Oui         Non\C
+* (Utiliser le téléscope ?)& &         Oui         Non\C
 * hein ^1?&* ça te convient pas ?/
 \E1* t'en fais pas./
 \E2* je te rembourse ça&  de suite./%%
@@ -9720,7 +9720,7 @@ Bien^1,&finissons-en./%%
 \E1Jeune enfant^1,&lorsque je te&regarde.../
 \E2Je me souviens de&l'humain qui est tombé&ici il y a longtemps.../
 \E8Tu as cette même&lueur d'espoir&dans les yeux./
-\E7Il y a une ancienne&prophécie connue&de notre peuple.../
+\E7Il y a une ancienne&prophétie connue&de notre peuple.../
 Un jour^1, un&sauveur tombera&des cieux./
 \E1... Je pense que c'est&toi, cette personne&prophétisée./
 Quelque part&là-dehors.../
