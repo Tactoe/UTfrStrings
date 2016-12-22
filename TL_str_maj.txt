@@ -912,7 +912,7 @@ lv
 * oh.....................&  ....................&  ................./%%
 * après un bon repas j'aime&  m'allonger par terre et&  me sentir tout pourri.../
 * tradition familiale.../
-* est-ce que tu veux..^1.&* ... me rejoindre...&         Oui         Non\C
+* est-ce que tu veux..^1.&* ... faire comme moi...&         Oui         Non\C
 * d'accord..^1.&* fais comme moi.../%%
 * tu veux jouer à un jeu ^1?&* ça s'appelle course-scargot./
 * les escargots font la course^1,&  et si le jaune gagne^1, tu&  gagnes./
@@ -10530,7 +10530,7 @@ dnoise
 * On dirait qu'il ne se sent plus&  concerné le moins du monde.
 * Aucune donnée disponible./^
 * L'ennemi insère un morceau&  de lui-même dans votre&  inventaire./^
-* Mais votre inventaire est plein./^
+* Mais votre inventaire est&  plein./^
 * AT - 
  DF - 
  /^
@@ -13107,7 +13107,7 @@ tilex
 * Tra la la^1.&* Les eaux sont agitées^1.&* C'est bon signe.../%%
 * Tra la la./%%
 * Tra la la^1.&* Les eaux sont agitées^1.&* C'est mauvais signe.../%%
-* Tra la la^1.&* Mange cinq champignons par jour./
+* Tra la la^1.&* Mange cinq champignons&  par jour./
 * Pourquoi donc ^1?&* Pour que je sache que tu&  écoutes ce que je te dis.../%%
 * Tra la la^1.&* N'oublie pas de faire une pause&  de temps à autre.../%%
 * Tra la la^1.&* As-tu déjà entendu la mélopée&  venant de la mer ?/%%
@@ -13480,7 +13480,7 @@ ax
 * Minichien^1, qui cherchait&  juste un simple té-&  moignage d'affection.../
 * L'Unité Canine de&  Couveneige^1,&  entièrement décimée./
 * Mes soldats^1, mes amis^1,&  tous détruits..^1.&* Tu trouves ça amusant ?/
-\E5* Eh bien pas moi./
+\E5* Je ne trouve pas ça&  drôle, moi./
 \E3* Mais ton&  heure a sonné^1,&  crapule !/
 \E0* Jamais plus tu&  ne feras de mal&  à quiconque !/
 * Un chevalier à l'armure&  étincelante est apparu./
@@ -13527,7 +13527,7 @@ predummy
 * Tu as fui..^1.&* Et tu as brisé son pauvre&  petit coeur d'ectoplasme./
 * C'est méprisable^1.&* Méprisable ^1!&* MÉPRISABLE !/
 * HUMAIN ^1!&* Tu vas voir ce que c'est&  d'avoir le coeur BRISÉ !/%%
-* CE QUE TU AIES DÉTRUIT&  SON FOYER !/
+* JUSQU'À CE QUE TU&  DÉTRUISES SON FOYER !/
 * Nous autres fantômes&  passons nos vies entières à&  la recherche d'un hôte./
 * Petit à petit^1, nous nous lions&  à nos nouveaux corps.../
 * Jusqu'au jour où nous aussi&  devenons des êtres physiques./
@@ -13903,7 +13903,7 @@ movemode
 * ON DIRAIT QUE TU M'AS SURPASSÉ./
 * MAIS C'EST SEULEMENT&  GRÂCE À L'AIDE DU BRILLANT&  DOCTEUR ALPHYS !/
 * OH^1, J'OSE À PEINE IMAGINER&  CE QU'IL TE SERAIT ARRIVÉ&  SANS SON INTERVENTION !!!/
-* SUR CE^1, À TOUTE !!/%%
+* SUR CE^1, TCHA-TCHAOW !!/%%
 * OH OUI ^1!&* À PROPOS DE LA SUBSTITUTION.../
 * TU N'AS JAMAIS VU UNE&  ÉMISSION DE CUISINE&  AUPARAVANT ?/
 * LE GÂTEAU EST PRÉPARÉ&  À L'AVANCE !!!!!&* ALORS OUBLIE ÇA !!!/%%
@@ -14752,7 +14752,7 @@ peeepee
 \E1* tu sais ce qui&  serait arrivé si elle&  m'avait rien dit ?/
 \E3* ... p'tite tête./%%
 * ... Tu serais déjà&  six pieds sous&  terre./%%
-\E1* hé^1, détends-toi^1,&  poto !/
+\E1* hé^1, détends-toi^1,&  poteau !/
 \E2* j'plaisantais,&  c'est tout./
 \E1* et puis.../
 \E0* tu trouves pas que j'ai&  assuré ta protection&  comme un pro jusqu'ici ?/
@@ -17816,7 +17816,7 @@ dk
 * Je pense qu'il est temps de&  faire tomber le masque...&* J'arrête la comédie./
 * Elle a réduit ma&  famille en miettes. /%%
 * Mon fils..^1.&* Il passait son temps à faire&  des jeux de mots sur la glace./
-* Elles étaient insupportables.&* Je lui ai fait savoir^1, et&  il a fugué peu après.../
+* C'était insupportable.&* Je lui ai fait savoir^1, et&  il a fugué peu après.../
 * Un jour, je recollerai les&  morceaux avec lui.&* C'est la moindre des choses./
 * L'aurais-tu croisé, par&  hasard ^1? Aurais-tu vu mon&  fils ? Comment va-t-il ?/%%
 * Oh..^1.&* Quand tu me fais un câlin^1, je&  me sens... tout piquant./%%
@@ -18412,7 +18412,7 @@ laugh
 \TfM\E3ais t'en fais pas./
 \E0Ton vieil ami FLOWEY.../
 \E1En a bricolé une&rien que pour toi !/
-\TFJ\E6e SAUVERAI sur ta&propre mort./
+\TFJ\E6e SAUVERAI juste&avant ta mort./
 \E7Pour que tu puisses me voir&te réduire en bouillie&sanguinolente.../
 \E8Encore^1, et encore^1, et encore.../%%
 \E9... quoi ?/
