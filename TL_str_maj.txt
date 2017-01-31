@@ -2721,7 +2721,7 @@ scr_itemnamelist
 * "Chisps" Soigne 13 PV&* De bonnes vieilles chisps&  de tomme de perre./%%
 * "Malbouffe" Soigne 17 PV&* Vous vous sentez mal rien qu'en&  voyant les apports caloriques./%%
 * "Clé Mystérieuse" Unique&* Elle est trop tordue pour&  la mettre sur votre porte-clés./%%
-* "Steak Visage" Soigne 60 PV&* Un gros steak en forme de la&  tête de Mettaton./
+* "Steak Visage" Soigne 60 PV&* Un gros steak ayant la forme&  de la tête de Mettaton./
 * (Vous avez l'impression&  que ce n'est pas de la&  viande...)/%%
 * "Chiocolatine" Soigne 65 PV&* C'est comme ça qu'on dit, ici.&* Neutralise la magie canine./%%
 * "Tarte Escargot" Soigne qlqe PV&* On peut aimer à force&  d'en manger./%%
@@ -2823,7 +2823,7 @@ nood
 &* Votre VITESSE augmente !
 * Vous buvez le Starfait.
 * Vous buvez le Starfait.&* L'audience adore cette marque.
-* Vous mangez le Hé. Légendaire.
+* Vous mangez le Héros Légend.
 &* ATTAQUE augmentée de 4 !
 * Vous vous équipez des&  lunettes./%
 * Vous vous équipez du&  Cahier Déchiré./%
@@ -2959,7 +2959,7 @@ LapainCan
 TemFlakes
 Quiche Ab
 Quiche   
-Vieux tu.
+VieuxTutu
 Tutu     
 Ballrines
 Ballrines
@@ -3789,7 +3789,7 @@ IL ADORE LA&SCIENCE-FICTION !!/
 SURTOUT LORSQU'ELLE&EST VRAIE./%%
 CETTE NOURRITURE&POUR CHIEN ME DIT&QUELQUE CHOSE.../
 ELLE DEVAIT SE&TROUVER DANS..^1. LA&CHAMBRE DE SANS ?/
-\E1C'EST ÇA ^1! JE&LUI AVAIT DEMANDÉ&D'OÙ ELLE VENAIT !/
+\E1C'EST ÇA ^1! JE&LUI AVAIS DEMANDÉ&D'OÙ ELLE VENAIT !/
 \E0IL M'A DIT QU'IL&ESSAYAIT DE MANGER&PLUS SAIN./%%
 * T'es dans le labo&  d'Alphys ^1? Elle est&  dans le coin...?/
 \E1* Hé^1, passe-lui le bonjour&  de ma part^1, okay !?/
@@ -3842,7 +3842,7 @@ CONTENT DE NE&PAS VIVRE À&CALCITERRE !!/%%
 \E9* Et ça peut également&  servir de moyen de&  transport express !/
 \E6* Plutôt cool^1, à condition&  de ne pas porter de&  jupette !/%%
 * Hein ?^1!&* Tu viens vraiment&  d'enfiler une jupette ?/%%
-DES LASERS BLEUS&ET ORANGES^1,&MAINTENANT ?/
+DES LASERS BLEUS&ET ORANGE^1,&MAINTENANT ?/
 \E3SOUVIENS-TOI&JUSTE DE LEUR&SIGNIFICATION./
 \E0QUAND C'EST BLEU^1,&IL FAUT SAUTER./
 \E3ET QUAND C'EST&ORANGE^1... TU ^1EUH...&SENS L'ORANGE./
@@ -4220,7 +4220,7 @@ ARRÊTE UN PEU ^1!&INUTILE DE SE&DIRE AU REVOIR !/%%
 * T'as tes propres trucs&  à régler^1,&  pas vrai...?/
 * Bon.../
 \E9* Même sans te parler^1,&  on reste de tout coeur&  avec toi^1, OK !?/
-\E0OUAIS ^1! COMME SI TU&POUVAIS TE DÉBA-&RRASSER DE NOUS !/
+\E0OUAIS ^1! COMME SI TU&POUVAIS TE DÉBAR-&RASSER DE NOUS !/
 \E9* On compte sur toi^1,&  alors fous pas tout en&  l'air, hein !/%%
 * On est pas près de&  te dire au revoir&  de sitôt !/%%
 \E0UN POSTER&DE L'ÉMISSION DE&METTATON ?/
@@ -8047,7 +8047,7 @@ Il deviendra&vulnérable./
 Bon, j-j-j'te&laisse !/%%
 * Le moment semble bien choisi&  pour 'switcher' Mettaton.
 OH ???&UN MIROIR, DIS-TU ???&OUI, TU AS RAISON !/
-JE ME DOIS DE FAIRE&BONNE IMPRESSION POUR&NOTRE GRANDE FINALE !/%%
+JE ME DOIS DE FAIRE&BONNE IMPRESSION POUR&NOTRE GRAND FINAL !/%%
 behind
 HMMM...&JE NE VOIS RIEN...&OÙ EST-IL...?/%%
 TU VIENS./
@@ -13219,7 +13219,7 @@ onionsprite
 * Des croquis préparatoires&  pour un corps qu'elle veut&  me fabriquer.../
 * Un corps qui dépasse&  toutes mes fantaisies./
 * Sous cette forme^1, je&  pourrai enfin me&  sentir..."moi-même"./
-* Après tout^1, je ne peux&  pas être une star comme&  je suis maintenant./
+* Après tout^1, tel que je suis&  maintenant^1, je ne peux pas&  être une star./
 * Désolé^1, Blooky^1.&* Mes rêves ne peuvent&  plus attendre.../%%
 interacter
 solider
@@ -16208,7 +16208,7 @@ IL ME RAPPELLERA&TOUJOURS CE QUI&COMPTE DANS LA VIE./%%
 * (À l'intérieur du tiroir se&  trouve une clé argentée.)/
 * (Vous l'ajoutez à votre&  porte-clés.)/%%
 * (Des vêtements ainsi que&  des trombones y ont été&  enfoncés en vrac.)/%%
-* (C'est une tornade de déchets.)&* (Elle ne semble pas prête&  de s'arrêter...)/%%
+* (C'est une tornade de déchets.)&* (Elle ne semble pas près&  de s'arrêter...)/%%
 * (C'est collé à la table.)/%%
 xstring1
 xno
@@ -16797,7 +16797,7 @@ Liberté
 Je suis humain
 Est-ce Que T'aimes Les Chats
 Ouais,&genre,&quoi de&neuf ?/*
-* Merci^1, mais on^1,&  a genre^1, pas&  vraiment besoin&  de quoi que&  ce soit./*
+* Merci^1, mais on&  a^1, genre^1, pas&  vraiment besoin&  de quoi que&  ce soit./*
 \M2* Oh mon Dieu^1.&* C'est un&  Glamburger ?/*
 * Vous volez&  5PO de la&  caisse./%%
 * La caisse&  est vide./%%
@@ -17852,7 +17852,7 @@ dk
 * Haha^1, ha ha ha^1.&* Je me demande si les humains&  me trouveront attachant./
 * TROP LA BLAAAAGUE ^1!&* Même^1. Pas^1. En^1. Rêve ^1!/%%
 * J'suis trop piquant pour&  avoir des amis./%%
-* Hey ^1!&* Fais gaffe ou tu marches^1,&  espèce de malade !/
+* Hey ^1!&* Fais gaffe où tu marches^1,&  espèce de malade !/
 * M-mais^1, s'il n'y a pas de place&  ailleurs^1, j'imagine que tu peux&  te mettre à côté de moi.../%%
 * Être debout c'est&  trop piquant./%%
 * A-ah..^1. H-humain..^1.&* Tu t'en vas ?/
