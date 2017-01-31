@@ -10613,13 +10613,13 @@ fais&comme&moi. aban&-donne.
 à quoi&bon&essayer&?
 tu les&reverras&jamais.
 * Tu suggères à l'Âme Égarée&  de mettre ce combat en pause./
-* Il a l'air d'en mourir d'envie./^
-* Il hoche la tête&  solennellement..^1.&* Allez, on fait comme ça !/%%
+* Elle a l'air d'en&  mourir d'envie./^
+* Elle hoche la tête&  solennellement..^1.&* Allez, on fait comme ça !/%%
 * Tu racontes une mauvaise&  blague sur les squelettes&  à l'Âme Égarée./
-* Il a l'air de l'adorer..^1.&* On ne peut pas en dire&  autant de l'autre Âme Égarée./^
+* Elle a l'air de l'adorer..^1.&* On ne peut pas en dire&  autant de l'autre Âme Égarée./^
 * Tu dis à l'Âme Égarée que&  tu as réfléchi à propos de&  tes actes./
-* Il semble essayer de se&  souvenir de quelque chose.../^
-* Il hoche la tête&  solennellement...!/%%
+* Elle semble essayer de se&  souvenir de quelque chose.../^
+* Elle hoche la tête&  solennellement...!/%%
 * Tu dis à l'Âme Égarée que&  les mots mêlés sont plus durs&  que les mots croisés./
 * Tu dis à l'Âme Égarée que&  les mots croisés sont plus durs&  que les mots mêlés./
 * De vagues souvenirs semblent&  lui revenir à ce sujet.../^
