@@ -6931,16 +6931,16 @@ SCR_TEXT_55
 SCR_TEXT_61
 \p
 SCR_TEXT_62
-* You bid a quiet farewell&  to the \[I].
-* You put the \[I]&  on the ground and gave it a&  little pat.
-* You threw the \[I]&  on the ground like the piece&  of trash it is.
-* You abandoned the &  \[I].
-* The \[I] was&  thrown away.
+* Vous faites calmement vos&  adieux au \[I].
+* Vous mettez le \[I]&  par terre et le tapotez&  brièvement.
+* Vous jetez le \[I]&  par terre comme un vieux&  détritus. Bon débarras.
+* Vous abandonnez le&  \[I].
+* Vous vous débarrassez du&  \[I].
 * J'me casse d'ici.
 * J'ai mieux à faire.
 * Vous avez fui...
 * Ne me ralentissez pas.
-* Ran away with \[1] EXP&     and \[2] GOLD.
+* Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
 * (Faire crisser les feuilles&  avec espièglerie vous emplit de&  détermination.)/
@@ -7165,7 +7165,7 @@ NYEH HEH HEH !!!/%%
 * j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
 
 * t'as raison./
-* i should charge way&  more than that./%%
+* je devrais faire payer&  bien plus que ça./%%
 * vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
 * c'est toujours pas&  assez./%%
 * 50000PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
@@ -7274,9 +7274,9 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Y'a rien ici !!!/%%
 * (Vous obtenez le Vieux Tutu.)/%%
 * (Vous n'avez plus de place.)/%%
-* (The box contains \[1] cards.)/
-* (Two bugs in the box are&  playing a \[1]-card game.)/
-* (There's a smiley face made&  of \[1] cards in the box.)/
+* (La boîte contient \[1] cartes.)/
+* (Deux insectes jouant avec&  \[1] cartes se trouvent dans&  la boîte.)/
+* (\[1] cartes dans la boîte sont&  disposées de manière à former&  un smiley.)/
 * (A house made of \[1] cards&  sits in the box.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C
@@ -31417,13 +31417,13 @@ Vendredi
 weekday_5
 Samedi
 weekday_6
-* You recovered \[1] HP!/%
+* Vous récupérez  \[1] PV !/%
 * PV entièrement restaurés./%
 *
 PAGE 1
 PAGE 2
 * Épargner
-* Flee
+* Fuir
 A
 B
 C
@@ -32721,12 +32721,12 @@ item_use_62
 * Vous mangez la Tarte Escargot.&* PV entièrement restaurés./
 * Vous enfilez l'Armure Temmie./%
 item_use_64
-* The \[1] was&  put away.
-* The \[1] was&  tossed inside recklessly.
-* The \[1] was&  placed thoughtfully inside.
-* The \[1] was&  taken out.
-* The \[1] was&  grabbed impatiently.
-* The \[1] was&  taken out and held like a&  small puppy.
+* Le \[1] a été&  mis dans la boîte.
+* Le \[1] a été&  jeté à l'intérieur sans pitié.
+* Le \[1] a été&  déposé avec délicatesse dans&  la boîte.
+* Le \[1] a été&  retiré.
+* Le \[1] a été&  arraché de la boîte&  impatiemment.
+* Le \[1] a été&  retiré avec la tendresse qu'on&  donnerait à un chiot.
 * Vous ne pouvez rien transporter&  de plus./%%
 * La boîte est pleine./%%
 * Légumoïde sort de terre !
