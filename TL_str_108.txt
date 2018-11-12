@@ -7277,7 +7277,7 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * (La boîte contient \[1] cartes.)/
 * (Deux insectes jouant avec&  \[1] cartes se trouvent dans&  la boîte.)/
 * (\[1] cartes dans la boîte sont&  disposées de manière à former&  un smiley.)/
-* (A house made of \[1] cards&  sits in the box.)/
+* (Une maison faite de \[1] cartes&  se trouve dans la boîte.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C
 * (C'est une boîte pour ranger&  vos poings fidélité^1.)&* (Elle est vide pour l'instant.)/%%
