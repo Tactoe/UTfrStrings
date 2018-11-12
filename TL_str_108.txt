@@ -7326,7 +7326,7 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Jette un truc./%%
 * La vie..^1. n'est que souffrance./%%
 * (Des fleurs dorées.^1)&* (Elles ont dû amortir votre&  chute.)/%%
-* "Press \*Z to read signs!"/%%
+* "Appuyez sur \*Z pour&  lire les panneaux !"/%%
 * Juste un vieux pilier normal./%%
 * Ne marchez pas sur les&  feuilles SVP./%%
 * Vous n'avez pas lu le panneau&  en bas ?/%%
@@ -7343,10 +7343,10 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Les choses ne sont-elles pas&  plus simples quand tu&  demandes ?/%%
 * La sortie est ouverte ^1?&* Je suppose que je ferais mieux&  de rouler vers elle.../
 * Hé^1, ça te dérangerait de&  m'pousser un coup^1,&  mon lapin ?/%%
-* 'Take one.'&* Take a candy?&         Yes         No \C
+* "Prenez-en un."&* Prendre un bonbon ?&     	Oui     	Non \C
 * Il est marqué "prenez-en un".&* Prendre un bonbon ?&         Oui         Non \C
 * Regardez ce que vous avez&  fait./%%
-* You took a piece of candy.&* (Press \*C to open the menu.)/%%
+* Vous prenez un bonbon.&* (Appuyez sur \*C pour ouvrir le&  menu.)/%%
 * Vous prenez encore un bonbon^1.&* C'est répugnant.../%%
 * Vous prenez encore un bonbon.&* Vous vous sentez comme la pire&  ordure sur Terre.../%%
 * Vous en avez pris trop, trop&  vite : les bonbons se répandent&  sur le sol./%%
@@ -7517,8 +7517,8 @@ ALLÔ ^1!&C'EST PAPYRUS À&L'APPAREIL !!!/
 JUSQU'À TOMBER&SUR LE TIEN!!!&NYEH HEH HEH HEH!!/
 \E2ET DONC..^1.&TU PORTES QUOI,&AU JUSTE...?/
 \E3SI JE TE DEMANDE&ÇA^1, C'EST POUR UNE&AMIE./
-\E0SHE THOUGHT SHE&SAW YOU WEARING A&\[1]./
-\E3IS THAT TRUE^1?&ARE YOU WEARING A&\[1]?/
+\E0ELLE PENSE T'AVOIR&VU AVEC UN&\[1]./
+\E3C'EST EXACT ^1?&TU PORTES UN&\[1]?/
 * (Que répondez-vous ?)& &         Oui         Non\C
 SO YOU ARE WEARING&A \[1].../
 COMPRIS !!^1!&(CLIN D'OEIL&MALICIEUX !!!)/
