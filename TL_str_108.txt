@@ -6931,16 +6931,16 @@ SCR_TEXT_55
 SCR_TEXT_61
 \p
 SCR_TEXT_62
-* Vous faites calmement vos&  adieux au \[I].
-* Vous mettez le \[I]&  par terre et le tapotez&  brièvement.
-* Vous jetez le \[I]&  par terre comme un vieux&  détritus. Bon débarras.
-* Vous abandonnez le&  \[I].
-* Vous vous débarrassez du&  \[I].
+* You bid a quiet farewell&  to the \[I].
+* You put the \[I]&  on the ground and gave it a&  little pat.
+* You threw the \[I]&  on the ground like the piece&  of trash it is.
+* You abandoned the &  \[I].
+* The \[I] was&  thrown away.
 * J'me casse d'ici.
 * J'ai mieux à faire.
 * Vous avez fui...
 * Ne me ralentissez pas.
-* Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
+* Ran away with \[1] EXP&     and \[2] GOLD.
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
 * (Faire crisser les feuilles&  avec espièglerie vous emplit de&  détermination.)/
@@ -7165,7 +7165,7 @@ NYEH HEH HEH !!!/%%
 * j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
 
 * t'as raison./
-* je devrais faire payer&  bien plus que ça./%%
+* i should charge way&  more than that./%%
 * vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
 * c'est toujours pas&  assez./%%
 * 50000PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
@@ -7274,9 +7274,9 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Y'a rien ici !!!/%%
 * (Vous obtenez le Vieux Tutu.)/%%
 * (Vous n'avez plus de place.)/%%
-* (La boîte contient \[1] cartes.)/
-* (Deux insectes jouant avec&  \[1] cartes se trouvent dans&  la boîte.)/
-* (\[1] cartes dans la boîte sont&  disposées de manière à former&  un smiley.)/
+* (The box contains \[1] cards.)/
+* (Two bugs in the box are&  playing a \[1]-card game.)/
+* (There's a smiley face made&  of \[1] cards in the box.)/
 * (Une maison faite de \[1] cartes&  se trouve dans la boîte.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C
@@ -7520,10 +7520,10 @@ JUSQU'À TOMBER&SUR LE TIEN!!!&NYEH HEH HEH HEH!!/
 \E0ELLE PENSE T'AVOIR&VU AVEC UN&\[1]./
 \E3C'EST EXACT ^1?&TU PORTES UN&\[1]?/
 * (Que répondez-vous ?)& &         Oui         Non\C
-SO YOU ARE WEARING&A \[1].../
+DONC TU PORTES&BIEN UN&\[1].../
 COMPRIS !!^1!&(CLIN D'OEIL&MALICIEUX !!!)/
 BONNE JOURNÉE&À TOI !/
-SO YOU AREN'T&WEARING A&\[1].../
+AINSI DONC, TU&NE PORTES PAS DE&\[1].../
 COMPRIS !/
 JE TE CROIS À 100&POURCENT^1. ON EST&AMIS^1, APRÈS TOUT./
 * (Il y a un moule à tarte vide à&  l'intérieur de la cuisinière.)/%%
@@ -7680,7 +7680,7 @@ JE COMPRENDS SI MES&VÊTEMENTS SONT TROP&INTIMIDANTS./%%
 * c'est 10PO la partie.& &         Jouer       Non\C
 * euh..^1.&* t'as pas d'argent ?/
 * n-non^1, mais y'a pas de&  problème^1, tu peux jouer.../
-* okay..^1.&* press \*Z repeatedly to&  encourage your snail./
+* d'accord..^1.&* martèle la touche \*Z pour&  encourager ton escargot./
 * on commence ?/%%
 * euh..^1. c'est moins de 10PO./
 * mais y'a que toi qui participes&  vraiment, du coup^1, je vais&  me contenter de ça.../
@@ -7750,20 +7750,20 @@ PAPYRUS NE TRAHIT&PAS SES AMIS !/
 \E0J'ASPIRE JUSTE À&ÊTRE BON ET À&AIDER MON PROCHAIN./
 PAPYRUS !&IL SENT COMME&LA LUNE./
 C'EST CETTE BONTÉ&NATURELLE QUI M'A&POUSSÉ À LUI DIRE../
-I TOLD HER YOU&WERE NOT WEARING&A \[1]!/
+...QUE TU NE&PORTAIS PAS DE&\[1]!/
 \E3ET CE MÊME SI TU&M'AVAIS DIT LE&CONTRAIRE !/
 J'AI DONC INVENTÉ&AUTRE CHOSE !/
 JE LUI AI DIT QUE&TU PORTAIS.../
-\E0A \[2]./
+\E0UN \[2]./
 \E3UN TEL MENSONGE&ÉHONTÉ, ÇA M'A&RENDU HONTEUX./
 I KNOW YOU WOULD&NEVER EVER WEAR&A \[2]./
 \E0MAIS TA SÉCURITÉ&PASSE AVANT LA&MODE./
 \E3MINCE, QUOI !/
 JE VEUX SIMPLEMENT&ÊTRE AMI AVEC TOUT&LE MONDE, MOI.../
 \E3PAPYRUS NE TE&TRAHIRAIT JAMAIS !/
-\WY\E0OU SAID YOU WERE\Y &NOT WEARING A&\[1]\W./
+\WT\E0U DISAIS DONC NE\Y &PAS PORTER DE&\[1]\W./
 \E3AINSI LUI AI-JE&DONC LAISSÉ&CROIRE.../
-\E0YOU WERE&INDEED WEARING&A \[1]!/
+\E0QUE TU PORTAIS&BEL ET BIEN UN& \[1]!/
 BUT SINCE YOU&AREN'T WEARING&A \[1]./
 \E0ELLE NE RISQUE&PAS DE&T'ATTAQUER !/
 TE VOILÀ DONC&HORS DE DANGER./
@@ -31417,13 +31417,13 @@ Vendredi
 weekday_5
 Samedi
 weekday_6
-* Vous récupérez  \[1] PV !/%
+* You recovered \[1] HP!/%
 * PV entièrement restaurés./%
 *
 PAGE 1
 PAGE 2
 * Épargner
-* Fuir
+* Flee
 A
 B
 C
@@ -32721,12 +32721,12 @@ item_use_62
 * Vous mangez la Tarte Escargot.&* PV entièrement restaurés./
 * Vous enfilez l'Armure Temmie./%
 item_use_64
-* Le \[1] a été&  mis dans la boîte.
-* Le \[1] a été&  jeté à l'intérieur sans pitié.
-* Le \[1] a été&  déposé avec délicatesse dans&  la boîte.
-* Le \[1] a été&  retiré.
-* Le \[1] a été&  arraché de la boîte&  impatiemment.
-* Le \[1] a été&  retiré avec la tendresse qu'on&  donnerait à un chiot.
+* The \[1] was&  put away.
+* The \[1] was&  tossed inside recklessly.
+* The \[1] was&  placed thoughtfully inside.
+* The \[1] was&  taken out.
+* The \[1] was&  grabbed impatiently.
+* The \[1] was&  taken out and held like a&  small puppy.
 * Vous ne pouvez rien transporter&  de plus./%%
 * La boîte est pleine./%%
 * Légumoïde sort de terre !
