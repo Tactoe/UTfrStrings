@@ -10152,7 +10152,7 @@ J'en&avais&assez d'&être une&fleur./%%
 obj_asrielappear_111
 Coucou !/
 obj_asrielappear_147
-\[C]^1,&are you&there?/
+\[C]^1,&tu es&là ?/
 obj_asrielappear_148
 C'est&moi^1, ton&meilleur&ami./%%
 obj_asrielappear_149
@@ -13492,7 +13492,7 @@ Euh^1, ouais ^1!&P-pardon^1, je me&suis laissée&emporter./%%
 obj_friendscene_1066
 Hi hi hi./
 obj_friendscene_1082
-My child^1, it&seems as if you&must stay here&for a while./
+Mon enfant^1, il&semble que tu vas&devoir rester&ici un moment./
 obj_friendscene_1083
 \E6Mais avec tous&ces merveilleux&amis que tu&t'es faits.../
 obj_friendscene_1084
@@ -14852,7 +14852,7 @@ obj_labelevator_a_245
 obj_labelevator_b_122
 * (Vous n'avez jamais&  entendu cette voix&  auparavant.)/%%
 obj_labelevator_b_123
-* \[C]..^1.&* Are you there?/
+* \[C]..^1.&* Tu es là ?/
 obj_labelevator_b_131
 * Ça fait un bail^1,&  pas vrai...?/
 obj_labelevator_b_132
@@ -14927,7 +14927,7 @@ obj_labtv_event_313
 obj_labtv_event_314
 * Oh mince^1, il fait sans doute&  trop noir pour voir quoi que&  ce soit sur la vidéo.../%%
 obj_labtv_event_315
-* Okay^1, \[C]^1, are you ready?/
+* Okay^1, \[C]^1, c'est bon&  pour toi ?/
 obj_labtv_event_350
 * Fais ta tête qui fait peur !/
 obj_labtv_event_351
@@ -14939,7 +14939,7 @@ obj_labtv_event_353
 obj_labtv_event_354
 * Arrête de me faire&  tourner en bourrique !&* Haha !/%%
 obj_labtv_event_355
-* Howdy^1, \[C]^1!&* Smile for the camera!/
+* Coucou^1, \[C] ^1!&* Souris à la caméra !/
 obj_labtv_event_391
 * Ha^1, cette fois JE t'ai eu ^1!&* J'ai laissé le capuchon..^1.&* EXPRÈS !/
 obj_labtv_event_392
@@ -14963,7 +14963,7 @@ obj_labtv_event_400
 obj_labtv_event_401
 * Hein ^1?&* Éteindre la caméra...^1?&* OK./%%
 obj_labtv_event_402
-* I..^1. I don't like this idea^1,&  \[C]./
+* Je..^1. j'aime pas trop ça^1,&  \[C]./
 obj_labtv_event_435
 * H.^1. hein ^1?&* N-non, je suis pas.../
 obj_labtv_event_436
@@ -14971,20 +14971,20 @@ obj_labtv_event_436
 obj_labtv_event_437
 * Ouais^1, t'as raison./
 obj_labtv_event_438
-* No^1!&* I'd never doubt you^1, \[C]..^1.&* Never!/
+* Non ^1!&* Je ne douterais jamais&  de toi^1, \[C]..^1.&* Jamais !/
 obj_labtv_event_439
 * O..^1. ouais ^1!&* On sera super forts ^1!&* Et on libérera tout le monde./
 obj_labtv_event_440
 * Je vais aller chercher les&  fleurs./%%
 obj_labtv_event_441
-* \[C]..^1.&* Can you hear me^1?&* We want you to wake up...\Ta/
+* \[C]..^1.&* Tu m'entends ^1?&* Il faut que tu te réveilles...\Ta/
 obj_labtv_event_473
-* \[C]^1!&* You have to stay determined!/
+* \[C] ^1!&* Garde ta détermination !/
 obj_labtv_event_474
 * Tu ne peux pas abandonner..^1.&* Tu représentes l'avenir des&  humains et des monstres...\TR/
 obj_labtv_event_475
 obj_labtv_event_476
-* Psst... \[C]..^1.&* Please..^1. wake up.../
+* Psst... \[C]..^1.&* Réveille-toi..^1. s'te plaît.../
 obj_labtv_event_477
 * Ça me plaît plus du tout,&  ce plan./
 obj_labtv_event_478
@@ -24750,16 +24750,16 @@ obj_shop3_658
 obj_shop3_668
 * La caisse&  est vide./%%
 obj_shop3_673
-* Like^1, see&  you later!/*
+* Genre^1, à&  plus tard !/*
 obj_shop3_683
-* Like^1, later&  and stuff!/*
+* Genre^1,&  à plus&  et tout !/*
 obj_shop3_685
 * .../*
 obj_shop3_690
 obj_shop3_692
-* I'm Bratty^1, and&  this is my&  best friend^1,&  Catty./*
+* Je suis Gatty^1,&  et elle c'est ma&  meilleure amie^1,&  Catty/*
 obj_shop3_710
-* I'm Catty^1, and&  this is my&  best friend^1,&  Bratty./*
+* Je suis Catty^1,&  et elle c'est ma&  meilleure amie^1,&  Gatty/*
 obj_shop3_713
 \M3* Eh ben^1, ce genre&  de mec.../
 obj_shop3_726
@@ -24797,13 +24797,13 @@ obj_shop3_822
 obj_shop3_829
 \M6* Il est genre..^1.&* Mon mari&  robotique.          /
 obj_shop3_830
-\M4* I think we're&  like..^1. both&  going to marry&  him./*
+\M4* Je crois qu'on&  va genre..^1.&  l'épouser toutes&  les deux./*
 obj_shop3_831
 \E2* Oh mon DIEU^1,&* METTATON./
 obj_shop3_833
 \E2* En fait il&  est genre..^1.&* MON mari&  robotique./
 obj_shop3_834
-* We're both&  like^1, ALREADY&  married to&  him./*
+* On est genre^1,&  toutes les deux&  DÉJÀ mariées&  à lui./*
 obj_shop3_835
 \E6* Genre^1, il&  ne le sait&  pas encore^1,&  c'est tout./%%
 obj_shop3_836
@@ -24811,11 +24811,11 @@ obj_shop3_836
 obj_shop3_845
 \M5* Oh mon Dieu^1.&* Alphys./
 obj_shop3_859
-\M0* She used to&  live on our&  street./*
+\M0* Elle habitait&  dans la même&  rue que nous,&  avant./*
 obj_shop3_860
 \E7* Oh mon dieu^1,&* ALPHYS./
 obj_shop3_862
-\E0* She was like&  a big sister./*
+\E0* Elle était&  comme une&  grande soeur./*
 obj_shop3_863
 \M0* Donc Alphys&  a toujours&  été^1, genre.../*
 obj_shop3_870
@@ -24825,7 +24825,7 @@ obj_shop3_879
 obj_shop3_880
 \M5* Olala^1, on a&  genre.../
 obj_shop3_881
-\M1* SO hyped for&  the destruction&  of humanity./*
+\M1* TROP la&  hype pour la&  destruction de&  l'humanité./*
 obj_shop3_882
 \E0* C'est une&  grosse boule&  de poils un&  peu bébête !   /
 obj_shop3_884
@@ -24833,19 +24833,19 @@ obj_shop3_884
 obj_shop3_885
 \E7* Olala^1, on a&  genre.../
 obj_shop3_886
-\E1* SO hyped for&  the destruction&  of humanity./*
+\E1* TROP la&  hype pour la&  destruction de&  l'humanité./*
 obj_shop3_887
 \M0* Moi ^1?&* Ouais^1, j'ADORE&  les chats !/
 obj_shop3_898
-\M1* They're^1,&  like^1,&  SO tasty!!/*
+\M1* Ils sont&  genre^1,&  TROP bons !!/*
 obj_shop3_899
 \E8* Moi ^1?&* Ouais^1, j'ADORE&  les chats !/
 obj_shop3_901
-\E1* They're^1,&  like^1,&  SO cute!!!/*
+\E1* Ils sont&  genre^1,&  TROP mignons !!!/*
 obj_shop3_902
 * Salut^1, c'est&  Gatty !/*
 obj_shop3_910
-* Hey^1, this is&  Catty!/*
+* Salut^1, c'est&  Catty !/*
 obj_shop3_912
 \E3* CARRÉMENT hyper&  chers./%%
 obj_shop3_959
@@ -24855,11 +24855,11 @@ obj_shop3_970
 obj_shop3_980
 \M5* Tu devrais.../
 obj_shop3_991
-\M1* TOTALLY wicked&  buy all of&  it?/*
+\M1* CARRÉMENT hyper&  tout acheter ?/*
 obj_shop3_992
 \E7* Genre...      /
 obj_shop3_994
-\E4* TOTALLY wicked&  buy all of&  it?/*
+\E4* CARRÉMENT hyper&  tout acheter ?/
 obj_shop3_995
 \E1* On les a trouvés&  dans les&  ordures !/%%
 obj_shop3_1014
@@ -24869,7 +24869,7 @@ obj_shop3_1033
 obj_shop3_1035
 \M5* ...../
 obj_shop3_1055
-\M1* Waterfall&  mostly./*
+\M1* Ça vient&  des Chutes&  principalement./*
 obj_shop3_1056
 \E7* ...../
 obj_shop3_1058
@@ -24999,7 +24999,7 @@ obj_shop3_1761
 obj_shop3_1773
 \E0* Ouais^1, genre^1,&  cool./%%
 obj_shop3_1785
-* Like^1,&  millennia&  of being&  imprisoned&  finally over?/*
+* Genre^1,&  un millénaire&  d'emprisonnement&  enfin terminé ?/*
 obj_shop3_1797
 \E0* Ouais^1, c'est&  genre assez&  posé./%%
 obj_shop3_1809
@@ -25081,15 +25081,15 @@ obj_shop3_2162
 obj_shop3_2174
 * Ouais ^1!&* Loser !!^1!&* Nya ha ha !!!/%%
 obj_shop3_2184
-* Signed^1,&  Bratty <3/*
+* Cordialement^1,&  Gatty <3/*
 obj_shop3_2196
-* Signed^1,&  Catty <3/*
+* Cordialement^1,&  Catty <3 /*
 obj_shop3_2198
-\E0* The customer is&  always right./*
+\E0* Le client a toujours raison./*
 obj_shop4_244
 \E0* Bienvenue aux Galeries&  MTT-Lapaillette^1,&  terre natale&  du Glamburger^1.&* Nous illuminerons&  votre journée (TM)./*
 obj_shop4_245
-\E3* Anything else you&  need?/*
+\E3* Vous désirez autre chose ?/*
 obj_shop4_249
 \E3* Qu'est-ce que je peux&  faire pour toi^1,&  mon p'tit pote ?/*
 obj_shop4_250
@@ -25428,13 +25428,13 @@ obj_shop5_579
 obj_shop5_584
 \E1* WOA !!/
 obj_shop5_589
-\E2* u gota... \[1]s!!!/
+\E2* tu as... \[1]s!!!/
 obj_shop5_590
-\E4* hnnn...^1.&* i gota have dat \[1]s..^1.&* but i gota pay for colleg,/
+\E4* hnnn...^1.&* il me fau des \[1]s..^1.&* mé je doi payé pour l'ékol./
 obj_shop5_591
-\E4* hnnn...^1.&* i gota have dat \[1]s..^1.&* but i gota pay for gradskool,/
+\E4* hnnn...^1.&* il me fau des \[1]s..^1.&* mé je doi payé pour la fak./
 obj_shop5_594
-\E5* hnnnn....!!^1!&* tem always wanna \[1]s...!/%%
+\E5* hnnnn....!!^1!&* tem veu toujour des&  \[1]s...!/%%
 obj_shop5_596
 \E2* m..^1. mais.../
 obj_shop5_601
@@ -31451,17 +31451,17 @@ AT  \[1] (\[2])
 stat_menu_at
 DF  \[1] (\[2])
 stat_menu_df
-WEAPON: \[1]
+ARME: \[1]
 stat_menu_weapon
-ARMOR: \[1]
+ARMURE: \[1]
 stat_menu_armor
-GOLD: \[G]
+P. D'OR: \[G]
 stat_menu_gold
-KILLS: \[1]
+TUÉS: \[1]
 stat_menu_kills
 EXP: \[1]
 stat_menu_exp
-NEXT: \[1]
+SUIV.: \[1]
 stat_menu_next
 Armure Temmie
 stat_armor_temmie
@@ -31747,7 +31747,7 @@ INVENTAIRE
 itembox_title_inventory
 BOÎTE
 itembox_title_box
-Press \*X to Finish
+Appuyez sur \*X pour quitter
 itembox_close
 * (Vous mettez le chien par&  terre.)/%%
 item_drop_27
@@ -31770,9 +31770,9 @@ labtv_tape4
 Cassette 5
 labtv_tape5
 labtv_cancel
-FILE \[1] SAVED
+FILE \[1] SAUVÉ
 flowey_save
-FILE \[1] LOADED
+FILE \[1] CHARGÉ
 flowey_load
 ÉCHEC CHARGMT
 flowey_load_failed
@@ -32222,7 +32222,7 @@ TERMINÉ !!!
 mett_essay_timeup
 $ - \[G]G
 obj_golddisplay_42
-SPACE - \[1]/8
+PLACE - \[1]/8
 obj_golddisplay_44
 Acheter
 Vendre
@@ -32241,9 +32241,9 @@ shop_buy_prompt1
 shop_buy_prompt2
 Prends-le.
 shop_take_prompt
-Weapon: 5AT#(\[1] AT)#Slap 'em.
+Weapon: 5AT#(\[1] AT)#Baffe-les.
 shop1_itemdesc_14
-Armor: 7DF#(\[2] DF)#It has abs#on it.
+Armor: 7DF#(\[2] DF)#Il y a des#abdos dessus.
 shop1_itemdesc_15
 Soigne 11PV x2#Deux#bouchées !
 shop1_itemdesc_19
@@ -32268,9 +32268,9 @@ Soigne 18PV#(On dirait#un batracien.)
 shop2_itemdesc_37
 Soigne 10PV#Booste la#VITESSE en#combat.
 shop2_itemdesc_41
-Armor: 5DF#(\[2] DF)#Invincible#longer
+Armor: 5DF#(\[2] DF)#Invincible#+ longtemps
 shop2_itemdesc_44
-Weapon: 2AT#(\[1] AT)#Invincible#longer
+Weapon: 2AT#(\[1] AT)#Invincible#+ longtemps
 shop2_itemdesc_45
 À propos de vous
 shop2_talk1_title
@@ -32303,9 +32303,9 @@ Héros
 shop2_talk12_title
 Soigne 17PV#A déjà bien#été entamé.
 shop3_itemdesc_59
-Weapon: 12AT#(\[1] AT)#Bullets NOT#included.
+Weapon: 12AT#(\[1] AT)#Balles NON#incluses.
 shop3_itemdesc_49
-Armor: 12DF#(\[2] DF)#ATTACK up#when worn.
+Armor: 12DF#(\[2] DF)#[ATTAQUE +]#quand porté.
 shop3_itemdesc_48
 ?????#Probablement#de la maison#d'un gars MDR
 shop3_itemdesc_60
@@ -32405,15 +32405,15 @@ Menacer
 shop4_talk12_title
 tem flake
 shop5_itemname_22a
-tem flake (ON SALE,)
+tem flake (EN SOLD,)
 shop5_itemname_22b
-tem flake (expensiv)
+tem flake (tré chèr)
 shop5_itemname_22c
-tem flake (premiem)
+tem flake (praimiom)
 shop5_itemname_22d
-tem pay 4 colleg
+pour ke tem aitudi
 shop5_itemname_college
-temy ARMOR!!!
+ARMURE temy !!!
 shop5_itemname_64
 Soigne 2PV#nourritur#à tem
 shop5_itemdesc_22a
@@ -32436,16 +32436,16 @@ NAN !!!
 shop5_buy_no
 NAN !
 shop5_sell_unsellable
-\[1]G
+\[1]PO
 shop5_sell_price
 shop5_sell_separator
-(\[G] G)
+(\[G] PO)
 shop5_sell_gold
 (merci pour le ZACHAT)
 shop5_sell_sold
-tem buy \[1] for... \[2]G!!!
+tem achét \[1] pour... \[2]PO!!!
 shop5_sell_prompt
-OK!! TEM BUY \[1] FOR \[2]G!!!
+OK!! TEM ACHÈT \[1] POUR \[2]PO!!!
 shop5_sell_prompt_special
 wéwÉ !
 shop5_sell_yes
