@@ -3253,7 +3253,7 @@ F-fais pas ça.
 alphy
 あるっち
 う…　うん#いいよ…
-Uh... OK?
+Euh... OK ?
 papyru
 ぱぴるす
 オレさまは#べつに#いいよッ！
@@ -3263,7 +3263,7 @@ blooky
 なぷすた
 ぶるっち
 …………#(とめるちからは　ない)
-...........#(They're powerless to#stop you.)
+............#(Pas moyen de#t'en empêcher.)
 ころす
 みのがす
 こんな　なまえで#いいんですか？
@@ -6734,7 +6734,7 @@ item_desc_20_0
 item_desc_21_0
 * "Temmie Flakes" - Soigne 2 PV&* Ce ne sont que des morceaux&  de papier colorés./%%
 item_desc_22_0
-* "Abandoned Quiche" Heals 34 HP&* A psychologically damaged&  spinach egg pie./%%"
+* "Quiche Abandonnée" Rend 34 PV&* Une quiche traumatisée aux&  oeufs et aux épinards./%%
 item_desc_23_0
 * "Vieux Tutu" - Armure DF 10&* Enfin^1, une armure qui sert&  à quelque chose./%%
 item_desc_24_0
@@ -6931,16 +6931,16 @@ SCR_TEXT_55
 SCR_TEXT_61
 \p
 SCR_TEXT_62
-* Vous faites calmement vos&  adieux au \[I].
-* Vous mettez le \[I]&  par terre et le tapotez&  brièvement.
-* Vous jetez le \[I]&  par terre comme un vieux&  détritus. Bon débarras.
-* Vous abandonnez le&  \[I].
-* Vous vous débarrassez du&  \[I].
+* You bid a quiet farewell&  to the \[I].
+* You put the \[I]&  on the ground and gave it a&  little pat.
+* You threw the \[I]&  on the ground like the piece&  of trash it is.
+* You abandoned the &  \[I].
+* The \[I] was&  thrown away.
 * J'me casse d'ici.
 * J'ai mieux à faire.
 * Vous avez fui...
 * Ne me ralentissez pas.
-* Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
+* Ran away with \[1] EXP&     and \[2] GOLD.
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
 * (Faire crisser les feuilles&  avec espièglerie vous emplit de&  détermination.)/
@@ -6996,7 +6996,7 @@ SCR_TEXT_62
 * On peut y aller ^2?&* C'est parti !/%%
 \E2* Par ici./%%
 \E2* Bienvenue dans ta&  nouvelle maison^1,&  jeune enfant./
-* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%%
+* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%
 \E2* Les RUINES sont remplies&  d'énigmes./
 * Elles consistent en un&  amalgame archaïque&  de clés et subterfuges./
 * Il est nécessaire de les&  résoudre afin de&  progresser./
@@ -7165,7 +7165,7 @@ NYEH HEH HEH !!!/%%
 * j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
 
 * t'as raison./
-* je devrais faire payer&  bien plus que ça./%%
+* i should charge way&  more than that./%%
 * vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
 * c'est toujours pas&  assez./%%
 * 50000PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
@@ -7274,9 +7274,9 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Y'a rien ici !!!/%%
 * (Vous obtenez le Vieux Tutu.)/%%
 * (Vous n'avez plus de place.)/%%
-* (La boîte contient \[1] cartes.)/
-* (Deux insectes jouant avec&  \[1] cartes se trouvent dans&  la boîte.)/
-* (\[1] cartes dans la boîte sont&  disposées de manière à former&  un smiley.)/
+* (The box contains \[1] cards.)/
+* (Two bugs in the box are&  playing a \[1]-card game.)/
+* (There's a smiley face made&  of \[1] cards in the box.)/
 * (Une maison faite de \[1] cartes&  se trouve dans la boîte.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C
@@ -7326,7 +7326,7 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Jette un truc./%%
 * La vie..^1. n'est que souffrance./%%
 * (Des fleurs dorées.^1)&* (Elles ont dû amortir votre&  chute.)/%%
-* "Press \*Z to read signs!"/%%
+* "Appuyez sur \*Z pour&  lire les panneaux !"/%%
 * Juste un vieux pilier normal./%%
 * Ne marchez pas sur les&  feuilles SVP./%%
 * Vous n'avez pas lu le panneau&  en bas ?/%%
@@ -7343,10 +7343,10 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Les choses ne sont-elles pas&  plus simples quand tu&  demandes ?/%%
 * La sortie est ouverte ^1?&* Je suppose que je ferais mieux&  de rouler vers elle.../
 * Hé^1, ça te dérangerait de&  m'pousser un coup^1,&  mon lapin ?/%%
-* 'Take one.'&* Take a candy?&         Yes         No \C
+* "Prenez-en un."&* Prendre un bonbon ?&     	Oui     	Non \C
 * Il est marqué "prenez-en un".&* Prendre un bonbon ?&         Oui         Non \C
 * Regardez ce que vous avez&  fait./%%
-* You took a piece of candy.&* (Press \*C to open the menu.)/%%
+* Vous prenez un bonbon.&* (Appuyez sur \*C pour ouvrir le&  menu.)/%%
 * Vous prenez encore un bonbon^1.&* C'est répugnant.../%%
 * Vous prenez encore un bonbon.&* Vous vous sentez comme la pire&  ordure sur Terre.../%%
 * Vous en avez pris trop, trop&  vite : les bonbons se répandent&  sur le sol./%%
@@ -7517,13 +7517,13 @@ ALLÔ ^1!&C'EST PAPYRUS À&L'APPAREIL !!!/
 JUSQU'À TOMBER&SUR LE TIEN!!!&NYEH HEH HEH HEH!!/
 \E2ET DONC..^1.&TU PORTES QUOI,&AU JUSTE...?/
 \E3SI JE TE DEMANDE&ÇA^1, C'EST POUR UNE&AMIE./
-\E0SHE THOUGHT SHE&SAW YOU WEARING A&\[1]./
-\E3IS THAT TRUE^1?&ARE YOU WEARING A&\[1]?/
+\E0ELLE PENSE T'AVOIR&VU AVEC UN&\[1]./
+\E3C'EST EXACT ^1?&TU PORTES UN&\[1]?/
 * (Que répondez-vous ?)& &         Oui         Non\C
-SO YOU ARE WEARING&A \[1].../
+DONC TU PORTES&BIEN UN&\[1].../
 COMPRIS !!^1!&(CLIN D'OEIL&MALICIEUX !!!)/
 BONNE JOURNÉE&À TOI !/
-SO YOU AREN'T&WEARING A&\[1].../
+AINSI DONC, TU&NE PORTES PAS DE&\[1].../
 COMPRIS !/
 JE TE CROIS À 100&POURCENT^1. ON EST&AMIS^1, APRÈS TOUT./
 * (Il y a un moule à tarte vide à&  l'intérieur de la cuisinière.)/%%
@@ -7680,7 +7680,7 @@ JE COMPRENDS SI MES&VÊTEMENTS SONT TROP&INTIMIDANTS./%%
 * c'est 10PO la partie.& &         Jouer       Non\C
 * euh..^1.&* t'as pas d'argent ?/
 * n-non^1, mais y'a pas de&  problème^1, tu peux jouer.../
-* okay..^1.&* press \*Z repeatedly to&  encourage your snail./
+* d'accord..^1.&* martèle la touche \*Z pour&  encourager ton escargot./
 * on commence ?/%%
 * euh..^1. c'est moins de 10PO./
 * mais y'a que toi qui participes&  vraiment, du coup^1, je vais&  me contenter de ça.../
@@ -7750,36 +7750,36 @@ PAPYRUS NE TRAHIT&PAS SES AMIS !/
 \E0J'ASPIRE JUSTE À&ÊTRE BON ET À&AIDER MON PROCHAIN./
 PAPYRUS !&IL SENT COMME&LA LUNE./
 C'EST CETTE BONTÉ&NATURELLE QUI M'A&POUSSÉ À LUI DIRE../
-I TOLD HER YOU&WERE NOT WEARING&A \[1]!/
+...QUE TU NE&PORTAIS PAS DE& \[1]!/
 \E3ET CE MÊME SI TU&M'AVAIS DIT LE&CONTRAIRE !/
 J'AI DONC INVENTÉ&AUTRE CHOSE !/
 JE LUI AI DIT QUE&TU PORTAIS.../
-\E0A \[2]./
+\E0UN& \[2]./
 \E3UN TEL MENSONGE&ÉHONTÉ, ÇA M'A&RENDU HONTEUX./
-I KNOW YOU WOULD&NEVER EVER WEAR&A \[2]./
+ÇA N'EST ÉVIDEMMENT&PAS TON STYLE^1, CE& \[2]./
 \E0MAIS TA SÉCURITÉ&PASSE AVANT LA&MODE./
 \E3MINCE, QUOI !/
 JE VEUX SIMPLEMENT&ÊTRE AMI AVEC TOUT&LE MONDE, MOI.../
 \E3PAPYRUS NE TE&TRAHIRAIT JAMAIS !/
-\WY\E0OU SAID YOU WERE\Y &NOT WEARING A&\[1]\W./
+\WT\E0U DISAIS DONC NE\Y &PAS PORTER DE&\[1]\W./
 \E3AINSI LUI AI-JE&DONC LAISSÉ&CROIRE.../
-\E0YOU WERE&INDEED WEARING&A \[1]!/
-BUT SINCE YOU&AREN'T WEARING&A \[1]./
+\E0QUE TU PORTAIS&BEL ET BIEN UN& \[1]!/
+MAIS PUISQUE TU&NE PORTES PAS DE& \[1]./
 \E0ELLE NE RISQUE&PAS DE&T'ATTAQUER !/
 TE VOILÀ DONC&HORS DE DANGER./
 \E2WOUHAOU..^1.&C'EST PAS FACILE./
 TOUT CE QUE JE VEUX&C'EST ÊTRE L'AMI&DE TOUT LE MONDE !/
 \E0JE ME DOUTAIS&BIEN QUE, QUAND TU&DISAIS :/
-\E3"I AM NOT&WEARING A&\[1]."/
+\E3"JE NE PORTE&PAS DE&\[1]."/
 \E0IL S'AGISSAIT EN&FAIT D'UN CODE&SECRET !/
 \E3CE QUE TU VOULAIS&DIRE, EN VRAI,&C'ÉTAIT.../
-\E0"I ACTUALLY AM&WEARING&A \[1]!"/
+\E0"EN FAIT, JE PORTE&BEL ET BIEN UN& \[1]!"/
 TU COUVRAIS AINSI&À LA FOIS TES&ARRIÈRES.../
 MAIS AUSSI LES MIEN&-NES, AFIN QUE JE&N'AIE PAS À MENTIR !/
 J'AI ALORS SAISI&L'OCCASION ET AI&SUIVI TON PLAN./
 JE SUIS MÊME&ALLÉ PLUS LOIN,&FIGURE-TOI !/
 \E3JE LUI AI DIT QU'IL&SE "POURRAIT".../
-\E0WEARING A&\[2]!/
+\E0QUE TU PORTES UN&\[2]!/
 \E3BIEN SÛR, ON SAIT&BIEN QUE ÇA N'EST&PAS TON STYLE./
 \E0MAIS C'EST LÀ&TOUT LE GÉNIE&DE LA CHOSE !/
 DÉSORMAIS, ELLE&NE TE RECONNAÎTRA&PAS !/
@@ -8140,10 +8140,10 @@ Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
 * (L'alimentation a été&  mise en marche.)/%%
 * (Ça a l'air de contrôler&  l'alimentation de l'ascenseur.)/
 * (L'allumer ?)& &         Oui         Non\C
-\E7* I always was a crybaby^1,&  wasn't I^1, \[C]?/
+\E7* J'ai toujours été un&  pleurnichard^1,&  pas vrai^1, \[C] ?/
 \E2* ... oui, je sais./
-\E0* You're not actually&  \[C], are you?/
-\E7* \[C]'s been gone for&  a long time./
+\E0* T'as jamais vraiment&été  \[C], pas vrai ?/
+\E7* \[C] n'est plus là&  depuis longtemps./
 \E9* Euh..^1. c'est.../
 \E0* C'est quoi, ton nom ?/
 \E5* "Frisk" ?/
@@ -8551,7 +8551,7 @@ Ainsi^1, c'est fait./%%
 * Examiner      * Flirter&   * S'approcher
 * Examiner      * Critiquer&   * Encourager    * Câliner
 * Examiner      * Refroidir&   * Réchauffer    * Inviter
-\W   * Check         * Struggle&   * Pay \[1]G&         \YYour Money: \[G]G \W
+\W   * Examiner  	* Se débattre&   * Payer \[1]PO&         \YArgent: \[G]PO \W
 * Examiner      * Hurler
 \W   * Examiner      \Y* Jaune \W
 * Examiner      * Pichenette
@@ -8584,7 +8584,7 @@ Ainsi^1, c'est fait./%%
 * Erreur
 * Se débattre
 \W   * Undyne
-\W   \Y* (Saved)    \W
+\W   \Y* (Sauvée) 	\W
 * Alphys \W &
 \Y* (Sauvée)\W &
 \W   * Papyrus       * Sans \W &
@@ -9362,7 +9362,7 @@ obj_adate_1336
 obj_adate_1349
 \E2De tout !/%%
 obj_adate_1350
-\E7I told you that&seaweed was like...&scientifically&important...%
+\E7Je t'ai dit que&les algues avaient...&une grande importance&scientifique...%
 obj_adate_1366
 \F5Mais en fait, je...&je m'en sers juste&pour faire des&glaces ^1!%%
 obj_adate_1367
@@ -9785,11 +9785,11 @@ obj_artclass_sign_231
 obj_artclass_sign_281
 * Je suis tellement désolé !!!/%%
 obj_artclass_sign_282
-* (A strange light fills the&  room.^5)   %
+* (Le crépuscule éclaire&  la salle.^5)   %
 obj_asgore_finalintro_178
-* (Twilight is shining through&  the barrier.^3)   %
+* (Son étrange lueur perce&  à travers la barrière.^3)   %
 obj_asgore_finalintro_179
-* (It seems your journey is&  finally over.^4)%
+* (Votre voyage touche&  maintenant à sa fin.^4)%
 obj_asgore_finalintro_180
 * (Cela vous emplit de&          DÉTERMINATION.^5) %%
 obj_asgore_finalintro_181
@@ -10046,7 +10046,7 @@ obj_asgoreb_723
 obj_asgoreb_729
 * COMBATTRE est la seule&  option./^
 obj_asgoreb_731
-* You tell ASGORE that he's&  killed you \[1]./
+* Vous dites à ASGORE qu'il&  vous a tué \[1]./
 obj_asgoreb_748
 une fois&  auparavant
 obj_asgoreb_killcount_1
@@ -10244,7 +10244,7 @@ obj_asrielb_671
 obj_asrielb_672
 \E2Voyons ce que vaut&ta DÉTERMINATION&face à ÇA !!/%%
 obj_asrielb_673
-* \[C]^1, please.../
+* \[C]^1, je t'en&  supplie.../
 obj_asrielbed_87
 * Réveille-toi !/
 obj_asrielbed_88
@@ -10359,13 +10359,13 @@ obj_asrielfinal_827
 obj_asrielfinal_828
 obj_asrielfinal_833
 obj_asrielfinal_834
-\[C]..^1.&Do you know why&I'm doing this...?/
+\[C]..^1.&Tu sais pourquoi&je fais tout ça...?/
 obj_asrielfinal_835
 Pourquoi je&m'acharne à te&garder à&mes côtés...?/%%
 obj_asrielfinal_836
 \E4Je fais ça&parce que.../
 obj_asrielfinal_841
-\E6Because you're&special^1, \[C]./
+\E6Parce que tu es&quelqu'un de&spécial^1, \[C]./
 obj_asrielfinal_842
 Tu es la seule&personne qui me&comprenne./
 obj_asrielfinal_843
@@ -10378,7 +10378,7 @@ obj_asrielfinal_850
 obj_asrielfinal_851
 Je..^1. je.../
 obj_asrielfinal_852
-\E4I'm doing this&because I care&about you^1, \[C]!/
+\E4Je m'acharne parce&que tu comptes&pour moi^1, \[C] !/
 obj_asrielfinal_853
 \E4Tu comptes pour&moi plus que&quiconque !/%%
 obj_asrielfinal_854
@@ -10396,11 +10396,11 @@ obj_asrielfinal_869
 obj_asrielfinal_877
 \[C].../%%
 obj_asrielfinal_878
-\E5I'm so alone^1,&\[C].../%%
+\E5Je suis si seul^1,&\[C].../%%
 obj_asrielfinal_886
-\E5I'm so afraid^1,&\[C].../%%
+\E5J'ai si peur^1,&\[C].../%%
 obj_asrielfinal_894
-\[C]^1, I.../%%
+\[C]^1, je.../%%
 obj_asrielfinal_903
 Je...
 obj_asrielfinal_911
@@ -10701,7 +10701,7 @@ obj_battlebomb_536
 obj_battlebomb_541
 * Chien désamorcé !
 obj_battlebomb_542
-* YOU WON!&* You earned \[1] EXP and \[2] gold.
+* VICTOIRE !&* Vous obtenez \[1] EXP et \[2] PO.
 obj_battlecontroller_286
 &* Votre LOVE augmente.
 obj_battlecontroller_287
@@ -11070,23 +11070,23 @@ obj_colorlever_140
 obj_colorlever_144
 * (Clic !^1)&* (La clé jaune s'insère&  parfaitement dans la fente.)/%%
 obj_colorlever_152
-* Aim with arrows and select with \*Z.
+* Visez avec les flèches et#choisissez avec \*Z.
 obj_controlspear_89
 * Aim with \*A \*D and select with \*Z.
 obj_controlspear_90
-* Teabox - Blatantly correct choice.
+* Boite à thé - Le choix à faire.
 obj_controlspear_132
-* Hot Chocolate - Green cylinder.
+* Chocolat chaud - Cylindre vert.
 obj_controlspear_143
-* Soda - Sickly yellow liquid.
+* Soda - Liquide jaune écoeurant.
 obj_controlspear_154
-* Sugar - Goes in tea.
+* Sucre - C'est pour le thé.
 obj_controlspear_165
 * Undyne.
 obj_controlspear_176
-* Fridge - Full of food.
+* Réfrigérateur - Rempli de nourriture.
 obj_controlspear_192
-* Sword - Acquired taste.
+* Épée - A un goût acquis.
 obj_controlspear_204
 * Select with \*Z.
 obj_controlspear_select
@@ -11142,7 +11142,7 @@ obj_cookshowevent_90
 obj_cookshowevent_91
 \E6* Pas d'inquiétude !/
 obj_cookshowevent_92
-\E0*\M8 I'll hack into the&  light system and&  brighten it up!/%%
+\E0*\M8 Je vais pirater le&  système des lumières&  et éclairer un peu !/%%
 obj_cookshowevent_93
 obj_cookshowevent_135
 * OHHHH OUI !!!/
@@ -11732,7 +11732,7 @@ obj_dogboat_thing_431
 obj_dogboat_thing_432
 * Tra la la^1.&* Tri li li^1.&* Tre le le./%%
 obj_dogboat_thing_433
-* Tra la la^1.&* Somewhere^1, it's \[1]^1.&* So be careful./%%
+* Tra la la^1.&* Quelque part, on est \[1]^1.&* Prends soin de toi./%%
 obj_dogboat_thing_447
 * Tra la la^1.&* Qu'il fasse chaud ou froid^1,&  tu peux compter sur moi./%%
 obj_dogboat_thing_450
@@ -11848,7 +11848,7 @@ obj_doodlebug_368
 obj_doodlebug_371
 * Vous dessinez un bateau.&* "Dès que le vent soufflera..."/^
 obj_doodlebug_381
-* say.../
+* dis.../
 obj_doublesans_75
 \E1* tu serais pas en train&  de me coller aux&  pantoufles ?/%%
 obj_doublesans_76
@@ -12102,7 +12102,7 @@ obj_echoflower_262
 obj_echoflower_301
 * (L'ascenseur ne marche pas.)/
 obj_elevatordoor_215
-\S-\Sp* Ring...\S+/
+\S-\Sp* Dring...\S+/
 obj_elevatordoor_218
 obj_elevatordoor_219
 * Quoi ^1?&* L'ascenseur devrait&  marcher.../
@@ -12299,7 +12299,7 @@ obj_endflowey_355
 obj_endflowey_356
 \E4Tu peux vraiment RIEN&faire correctement./%%
 obj_endflowey_357
-Why^1, \[C]...?/
+Pourquoi^1, \[C]...?/
 obj_endflowey_372
 \E3Pourquoi ?/
 obj_endflowey_373
@@ -12333,7 +12333,7 @@ Avant qu'on le leur&ARRACHE./
 obj_endflowey_394
 Ahahaha.../
 obj_endflowey_395
-\E9Genius^1, \[C]./
+\E9C'est du génie^1, \[C]./
 obj_endflowey_396
 \E4Très bien^1, je vais&te laisser t'amuser./
 obj_endflowey_397
@@ -13000,7 +13000,7 @@ obj_floweytrigger_322
 obj_floweytrigger_327
 * Error/%%
 obj_floweytrigger_338
-* Really^1, \[C]?/
+* Vraiment^1, \[C] ?/
 obj_floweytrigger_342
 \E5* Très bien^1, fais comme&  tu veux./
 obj_floweytrigger_343
@@ -13112,9 +13112,9 @@ obj_floweytrigger2_226
 obj_floweytrigger2_227
 \E1* En effet.^2 Tu es vide à&  l'intérieur^2. \E4Tu es comme&  moi^1. Dis-moi.../
 obj_floweytrigger2_228
-\E8* You're \[C],^1 right?/
+\E8* Tu es \[C],^1 c'est&  bien ça ?/
 obj_floweytrigger2_229
-\E0* We're still inseparable^1,&  after all these years.../
+\E0* Nous sommes toujours&  inséparables^1, après&  toutes ces années.../
 obj_floweytrigger2_230
 * Écoute^1.&* J'ai un plan pour&  devenir très puissant./
 obj_floweytrigger2_231
@@ -14261,37 +14261,37 @@ obj_gyftrotnpc_76
 obj_gyftrotnpc_77
 Tu ne peux pas&  abandonner&  maintenant.../
 obj_heartdefeated_0_0
-\[C]^1!&  Stay determined.../%%
+\[C]^1!&  Garde ta&  détermination.../%%
 obj_heartdefeated_0_1
-\[C], this is just&  a bad dream.../
+\[C], ce n'est qu'un&  mauvais rêve.../
 obj_heartdefeated_100_0
 Réveille-toi ^1!&  Ce n'est pas fini !/%%
 obj_heartdefeated_100_1
-\[C]! It's like&  he says.../
+\[C] ! C'est comme&  il a dit.../
 obj_heartdefeated_101_0
 Tu dois garder&  ta détermination.../%%
 obj_heartdefeated_101_1
-\[C]! Please&  don't give up.../
+\[C] ! N'abandonne&  pas, s'il&  te plaît.../
 obj_heartdefeated_102_0
 Prends ma &  détermination.../%%
 obj_heartdefeated_102_1
-\[C]! You're&  \[C]!/
+\[C] ! Tu es&  \[C] !/
 obj_heartdefeated_103_0
 Ne t'arrêtes pas ^1!&  Garde ta&  détermination.../%%
 obj_heartdefeated_103_1
-\[C], is this&  a kind of joke?/
+\[C], c'est une&  blague ?/
 obj_heartdefeated_104_0
 Ça suffit ^1!&  Réveille-toi !/%%
 obj_heartdefeated_104_1
-\[C], it's not&  time to leave!/
+\[C], l'heure n'est&  pas aux adieux !/
 obj_heartdefeated_105_0
 Accroche-toi !/%%
 obj_heartdefeated_105_1
-\[C], gather&  your strength./
+\[C], rassemble&  tes forces./
 obj_heartdefeated_106_0
 Garde ta&  détermination !/%%
 obj_heartdefeated_106_1
-\[C], you have&  to keep going./
+\[C], tu ne dois&  pas t'arrêter./
 obj_heartdefeated_107_0
 obj_heartdefeated_107_1
 obj_heartdefeated_200_0
@@ -14523,15 +14523,15 @@ obj_instantnoodleitem_44
 obj_instantnoodleitem_45
 * Vous avalez les Nouilles&  Instantanées.
 obj_instantnoodleitem_85
-Long ago^1, two races&ruled over Earth^1:&HUMANS and MONSTERS^6. \E1 ^1 %
+Jadis^1, les HUMAINS&et les MONSTRES&régnaient sur le monde^6. \E1 ^3 %
 obj_introimage_70
 One day^1, war broke&out between the two&races^6. \E0 ^1 %
 obj_introimage_71
-After a long battle^1,&the humans were&victorious^6. \E1 ^1 %
+Après une longue&bataille^1, les humains&furent victorieux^6. \E1 ^1 %
 obj_introimage_72
-They sealed the monsters&underground with a magic&spell^6. \E0 ^1 %
+Avec un sortilège, ils&scellèrent les&monstres sous terre^6. \E0 ^1 %
 obj_introimage_73
-Many years later^2.^2.^5.  \E1 ^1 %
+Maintes années passèrent^2.^2.^5.  \E1 ^1 %
 obj_introimage_74
 MT. EBOTT&         201X^9 \E0 %
 obj_introimage_75
@@ -17246,7 +17246,7 @@ Va dans le menu&[[ACTION]] du&téléphone et&appuie dessus !/%%
 obj_mettatonb_second_655
 * Le menu [[ACTION]] du&  téléphone est en&  surbrillance !
 obj_mettatonb_second_662
-Now press \*Z!!!
+Vas-y, appuie&sur \*Z !!!
 obj_mettatonb_second_703
 OOOH !/
 obj_mettatonb_second_746
@@ -19725,9 +19725,9 @@ DÉBUT^1 DU RENCARD !^5 %%
 obj_papdate_150
 DÉBUT DU...^1 TRAÎNAGE ?^5 %%
 obj_papdate_151
-HERE WE ARE!^1!&ON OUR DATE!!/
+ET VOILÀ !^1!ON A NOTRE&RENCARD !!/
 obj_papdate_166
-HERE WE ARE!^1!&HANGING OUT!!/
+ET VOILÀ !^1!ON TRAÎNE&ENSEMBLE !!/
 obj_papdate_167
 \E3JE N'AI JAMAIS&FAIT ÇA AVANT&AUJOURD'HUI./
 obj_papdate_169
@@ -19735,9 +19735,9 @@ obj_papdate_169
 obj_papdate_170
 ON N'ÉCRIT PAS&"PRÉPARÉ" SANS&PLUSIEURS LETTRES&DE MON NOM !!!/%%
 obj_papdate_171
-I SNAGGED AN&OFFICIAL&DATING RULEBOOK&FROM THE LIBRARY!/
+J'AI EMPRUNTÉ UN&AUTHENTIQUE GUIDE&DU RENCARD&À LA BIBLIOTHÈQUE!/
 obj_papdate_198
-I SNAGGED AN&OFFICIAL&HANGOUT GUIDEBOOK&FROM THE LIBRARY!/
+J'AI EMPRUNTÉ UN&AUTHENTIQUE GUIDE&DU TRAÎNAGE AMICAL&À LA BIBLIOTHÈQUE!/
 obj_papdate_199
 ON VA S'ÉCLATER !/
 obj_papdate_201
@@ -19745,9 +19745,9 @@ obj_papdate_201
 obj_papdate_202
 VOYONS VOIR.../
 obj_papdate_203
-\XSTEP ONE..^1. PRESS&THE [ C ] KEY ON&YOUR KEYBOARD FOR&"\RDATING HUD\X."/
+\XÉTAPE UNE..^1. AP-&PUYEZ SUR [ C ]&POUR AFFICHER&\RL'ÉCRAN DE RENCARD\X./
 obj_papdate_204
-\XSTEP ONE..^1. PRESS&THE [ C ] KEY ON&YOUR KEYBOARD FOR&"\RFRIENDSHIP HUD\X."/
+\XÉTAPE UNE..^1. AP-&PUYEZ SUR [ C ]&POUR AFFICHER&\RL'ÉCRAN D'AMITIÉ\X./
 obj_papdate_205
 \XSTEP ONE..^1. PRESS&YOUR CONTROLLER'S&\*C BUTTON FOR&"\RDATING HUD\X."/
 obj_papdate_206
@@ -19765,9 +19765,9 @@ obj_papdate_280
 ON DEVRAIT&ÊTRE OK POUR&L'ÉTAPE DEUX !!!/
 obj_papdate_281
 obj_papdate_282
-"STEP TWO..^1.&ASK THEM&ON A DATE."/
+"ÉTAPE DEUX..^1.&PROPOSEZ-LUI&D'AVOIR UN&RENCARD."/
 obj_papdate_283
-"STEP TWO..^1.&ASK THEM&TO HANG OUT."/
+"ÉTAPE DEUX..^1.&PROPOSEZ-LUI&DE TRAÎNER&ENSEMBLE."/
 obj_papdate_284
 \E0A\F0HEM !/
 obj_papdate_286
@@ -19901,7 +19901,7 @@ obj_papdate_683
 obj_papdate_684
 MAIS TU N'Y&ARRIVERAS PAS !!/%%
 obj_papdate_685
-* (Move and inspect with \*Z.)
+* (Bougez et examinez avec \*Z.)
 obj_papdate_705
 \E3MA CASQUETTE...?/
 obj_papdate_721
@@ -21646,7 +21646,7 @@ obj_playmovement_797
 obj_playmovement_798
 * BON^1, TCHA-TCHAOW !/%%
 obj_playmovement_821
-* Hold \*D to turn up the heat!
+* Maintenez \*D pour chauffer !
 obj_potheat_73
 * À gauche ^1? Quelle idée ^2!%
 obj_potheat_108
@@ -21664,7 +21664,7 @@ obj_potheat_196
 obj_potheat_211
 * Voilà !^1!&* C'est comme ça qu'on^1-%%
 obj_potheat_232
-* Press \*Z repeatedly to stir!
+* Martelez \*Z pour touiller !
 obj_potstir_64
 * Touille plus fort ^2!%%
 obj_potstir_81
@@ -23246,11 +23246,11 @@ obj_reaperbird_450
 * Moisseauneur semble s'être&  apaisé.
 obj_reaperbird_451
 obj_reaperbird_452
-* ASTIGMATISM - ATK \[1] DEF \[2]&* This relentless bully ALWAYS&  gets its way.
+* ASTIGMATE - ATQ \[1] DÉF \[2]&* Cette forte tête finit&  TOUJOURS par avoir raison.
 obj_reaperbird_488
-* WHIMSALOT - ATK \[1] DEF \[2]&* It finally stopped worrying.
+* HÉROPLASME - ATQ \[1] DÉF \[2]&* Ses craintes se sont&  finalement envolées.
 obj_reaperbird_492
-* FINAL FROGGIT - ATK \[1] DEF \[2]&* Its future looks brighter and&  brighter         ./^
+* FINAL FROGGIT - ATQ \[1] DÉF \[2]&* Son avenir semble de plus&  en plus radieux     	./^
 obj_reaperbird_496
 * MOISSEAUNEUR - ATQ ?? DÉF ??&* Ce fort avenir semble&  finalement plus radieux./^
 obj_reaperbird_505
@@ -23393,9 +23393,9 @@ obj_ripoff_papyrus_683
 obj_ripoff_papyrus_686
 obj_ripoff_papyrus_692
 obj_ripoff_papyrus_693
-NO! WAIT!^1!& YOU'RE MY FRIEND^1!& I COULD NEVER&  CAPTURE YOU!!/*
+NON ! ATTENDS !^1!& ON EST AMIS ^1!& IMPOSSIBLE DE& TE CAPTURER !!/*
 obj_ripoff_papyrus_767
-nah^1, i'm rootin for&ya^1, kid./*
+nah^1, j'compte sur&toi^1, le mioche./*
 obj_ripoff_papyrus_774
 fais&comme&moi. aban&-donne.
 obj_ripoff_sans_212
@@ -23480,9 +23480,9 @@ obj_ripoff_toriel_595
 obj_ripoff_toriel_598
 obj_ripoff_toriel_604
 obj_ripoff_toriel_605
-Your fate is up to&you now!/*
+Tu es libre&de choisir&ta voie !/*
 obj_ripoff_toriel_665
-You are our future!/*
+Tu représentes&notre futur !/*
 obj_ripoff_toriel_672
 obj_ripoff_undyne_287
 Mort&aux&humains&!!!
@@ -25714,9 +25714,9 @@ obj_smallfrog_151
 obj_smallfrog_xadvice_59
 * (Mon ami ne m'écoute jamais.)/
 obj_smallfrog_xadvice_60
-* (Whenever I talk^1, they skip&  through my words by pressing&  \*X.)/
+* (À chaque fois que je parle^1,&  il saute mon texte en&  appuyant sur \*X.)/
 obj_smallfrog_xadvice_61
-* (That's right.......^1)&* (Pressing \*X............^1)&* (................)/
+* (C'est ça.......^1)&* (En appuyant sur \*X..........^1)&* (................)/
 obj_smallfrog_xadvice_62
 * (Bon^1, au moins toi tu&  m'écoutes.)/%%
 obj_smallfrog_xadvice_63
@@ -25724,7 +25724,7 @@ obj_smallfrog_xadvice_63
 obj_smallfrog_xadvice_67
 * (Maintenant que ton voyage est&  terminé^1, peut-être que tu auras&  le temps de m'écouter.)/
 obj_smallfrog_xadvice_68
-* (Since most people just&  press \*X to skip through&  my dialogue.)/
+* (Puisque la majorité des&  gens appuient sur \*X pour&  passer mon texte.)/
 obj_smallfrog_xadvice_69
 obj_smallfrog_xadvice_70
 * (Tu as mûri^1,&  on dirait bien.)/%%
@@ -26386,7 +26386,7 @@ obj_spiderb_649
 * Vos pitreries amusent tellement&  Muffet qu'elle vous offre une&  réduction !/^
 obj_spiderb_650
 obj_spiderb_656
-* You pay \[1]G^1.&* Muffet reduces her ATTACK&  for this turn!/^
+* Vous payez \[1]PO^1.&* Muffet réduit son ATQ&  pour un tour !/^
 obj_spiderb_678
 * Vous videz vos poches^1, mais&  vous êtes à sec.&* Muffet baisse ses prix./^
 obj_spiderb_693
@@ -26623,7 +26623,7 @@ obj_storybattle_gen_1014
 obj_storybattle_gen_1023
 Tu vas&bientôt&être&libre./%%
 obj_storybattle_gen_1047
-\E0Howdy^1, \[C]!/
+\E0Coucou^1, \[C] !/
 obj_storybattle_gen_1073
 Te revoilà enfin&à la maison./
 obj_storybattle_gen_1074
@@ -26651,7 +26651,7 @@ obj_storybattle_gen_1098
 obj_storybattle_gen_1107
 Je lui ai expliqué ce&qui m'était arrivé./
 obj_storybattle_gen_1108
-Then he held me^1,&\[C]./
+Il m'a pris dans ses&mains^1,&\[C]./
 obj_storybattle_gen_1109
 Et il m'a soulevé,&les larmes aux yeux,&et m'a dit.../
 obj_storybattle_gen_1110
@@ -26677,7 +26677,7 @@ Je me suis donc&enfui d'ici./
 obj_storybattle_gen_1128
 Au bout d'un&moment^1, j'ai atteint&les RUINES./
 obj_storybattle_gen_1129
-\E0Inside I found HER^1,&\[C]./
+\E0À l'intérieur^1, je l'ai&trouvée^1,&\[C]./
 obj_storybattle_gen_1130
 Je pensais qu'elle^1,&au moins^1, pourrait&me rendre de nouveau&moi-même./
 obj_storybattle_gen_1131
@@ -26694,7 +26694,7 @@ Je voulais juste&aimer quelqu'un./
 obj_storybattle_gen_1146
 Je voulais juste&que quelqu'un me&tienne à coeur./
 obj_storybattle_gen_1147
-\[C]^1, you might&not believe this.../
+\[C]^1, ça va peut&-être te sembler&difficile à&croire, mais.../
 obj_storybattle_gen_1148
 \E2J'ai décidé..^1.&Que ça ne valait&plus la peine&que je vive./
 obj_storybattle_gen_1149
@@ -26741,7 +26741,7 @@ Mais tant que&j'étais déterminé à&vivre.../
 obj_storybattle_gen_1186
 \E0Je pouvais revenir&en arrière./
 obj_storybattle_gen_1187
-\E6Amazing^1, isn't it^1,&\[C]?/
+\E6Incroyable^1,&n'est-ce pas^1,&[C]?/
 obj_storybattle_gen_1188
 \E0J'étais stupéfait^1,&moi aussi./%%
 obj_storybattle_gen_1189
@@ -26785,7 +26785,7 @@ obj_storybattle_gen_1224
 obj_storybattle_gen_1225
 \E1Mais maintenant^1, même&ça^1, c'est devenu&lassant./
 obj_storybattle_gen_1235
-\E7You understand^1,&\[C]./
+\E7Tu comprends^1,&\[C]./
 obj_storybattle_gen_1236
 \E6J'ai vu tout ce&que ce monde avait&à offrir./
 obj_storybattle_gen_1237
@@ -26799,7 +26799,7 @@ Séries de chiffres..^1.&Lignes de dialogue..^1.&J'ai tout vu./
 obj_storybattle_gen_1241
 \E1Mais toi..^1.&TOI, tu n'es pas&comme les autres./
 obj_storybattle_gen_1242
-\E0I never could&predict YOU^1, \[C]./%%
+\E0TOI, Je n'ai jamais&pu te prédire^1,&\[C]./%%
 obj_storybattle_gen_1243
 \E1Quand on s'est&croisés dans les&RUINES^1, je n'ai pas&pu te reconnaître./
 obj_storybattle_gen_1252
@@ -26811,7 +26811,7 @@ obj_storybattle_gen_1254
 obj_storybattle_gen_1255
 \E1Ça n'a pas&fonctionné./
 obj_storybattle_gen_1256
-\E9\[C]..^1.&Your DETERMINATION!/
+\E9\[C]..^1.&Ta DETERMINATION !/
 obj_storybattle_gen_1257
 \E8Pour une raison&que j'ignore^1, elle&surpasse la mienne !/%%
 obj_storybattle_gen_1258
@@ -26835,7 +26835,7 @@ obj_storybattle_gen_1274
 obj_storybattle_gen_1275
 \E1Peu importe./
 obj_storybattle_gen_1286
-\E1I'm so tired of&this^1, \[C]./
+\E1Je n'en peux plus^1,&\[C]./
 obj_storybattle_gen_1287
 J'en ai assez de&tous ces gens./
 obj_storybattle_gen_1288
@@ -26867,7 +26867,7 @@ obj_storybattle_gen_1310
 obj_storybattle_gen_1311
 \E1Mais te voir ici m'a&fait changer d'idée./
 obj_storybattle_gen_1312
-\E6\[C]..^1.&I think if you're&around.../
+\E6\[C]..^1.&Je pense que&si t'es là.../
 obj_storybattle_gen_1313
 \E7Vivre à la surface&n'est peut-être&pas si mal./%%
 obj_storybattle_gen_1314
@@ -26885,7 +26885,7 @@ obj_storybattle_gen_1328
 obj_storybattle_gen_1329
 \E0Pourquoi je te&raconte tout ça ?/
 obj_storybattle_gen_1339
-\E6\[C]^1, I said it&before./
+\E6\[C]^1, je l'ai dit&tout à l'heure./
 obj_storybattle_gen_1340
 \E1Même après tout&ce temps.../
 obj_storybattle_gen_1341
@@ -26909,7 +26909,7 @@ obj_storybattle_gen_1385
 Pourquoi je..^1.&Tremble ?/
 obj_storybattle_gen_1386
 obj_storybattle_gen_1387
-Hey..^1. \[C]..^1.&No hard feelings about&back then^1, right?/
+Hé..^1. \[C]..^1.&Sans rancune pour la&dernière fois^1, hein ?/
 obj_storybattle_gen_1388
 obj_storybattle_gen_1389
 \E4H-Hé^1, qu'est-ce que&tu fais !?/
@@ -26920,7 +26920,7 @@ J'ai..^1. J'ai changé&d'avis à propos&de tout ça./
 obj_storybattle_gen_1412
 C'est plus&une bonne idée./
 obj_storybattle_gen_1413
-Y-you should go back^1,&\[C]./
+T-tu devrais repartir^1,&\[C]./
 obj_storybattle_gen_1414
 \E0Cet endroit est&très bien comme&il est !/
 obj_storybattle_gen_1415
@@ -27172,7 +27172,7 @@ obj_tordogcall_113
 obj_tordogcall_114
 * (Vous entendez une voix au&  loin.) \TT/
 obj_tordogcall_115
-* Stop^1, please!/
+* Arrête^1, s'il te plaît !/
 obj_tordogcall_116
 * Reviens ici avec mon&  TÉLÉPHONE !/
 obj_tordogcall_117
@@ -27187,15 +27187,15 @@ obj_tordogcall_153
 obj_tordogcall_154
 * Héoooooh ^1?&* Petit toutou...?/
 obj_tordogcall_155
-* Où es-tu...?/
+* Où es-tu...?/*
 obj_tordogcall_156
-* I will give you a nice pat&  on the head!\T0/
+* Je te ferai une bonne grosse&  caresse sur la tête !\T0/
 obj_tordogcall_157
-* (The snoring stops.)\TT/
-obj_tordogcall_158
-* ... if you return my CELLPHONE.\T0/
+* (Le ronflement s'arrête.)\TT/
+obj_tordogcall_158	
+* ... si tu rends mon TÉLÉPHONE.\T0/
 obj_tordogcall_159
-* (The snoring resumes.)/
+* (Le ronflement reprend.)/
 obj_tordogcall_160
 obj_tordogcall_161
 obj_tordogcall_162
@@ -27725,19 +27725,19 @@ obj_torinteractable7_127
 obj_torinteractable7_128
 \E0* Toi, tu connais&  la réponse^1, pas&  vrai...?/%%
 obj_torinteractable7_129
-\E2* I know why \[C]&  climbed the mountain./
+\E2* Je sais pourquoi \[C]&  a voulu escalader la&  montagne./
 obj_torinteractable7_135
 \E7* Et la raison n'était&  pas très joyeuse./
 obj_torinteractable7_136
 \E2* Frisk^1.&* Je vais être honnête&  avec toi./
 obj_torinteractable7_137
-\E7* \[C] hated humanity./
+\E7* \[C] haïssait&  l'humanité./
 obj_torinteractable7_138
 \E2* Pour quelles raisons^1,&  je l'ai jamais su./
 obj_torinteractable7_139
 \E1* Mais..^1.&* C'était sa grande&  obsession./%%
 obj_torinteractable7_140
-\E2* Frisk..^1.&* You really ARE different&  from \[C]./
+\E2* Frisk..^1.&* Tu es VRAIMENT pas&  comme \[C]./
 obj_torinteractable7_146
 \E0* Même si vous avez&  les mêmes^1, euh^1, goûts&  vestimentaires.../
 obj_torinteractable7_147
@@ -27745,7 +27745,7 @@ obj_torinteractable7_147
 obj_torinteractable7_148
 \E7* Peut-être que..^1.&* La vérité c'est que.../
 obj_torinteractable7_149
-\E1* \[C] wasn't really&  the greatest person./
+\E1* \[C] n'était&  peut-être pas quelqu'un&  de si bien./
 obj_torinteractable7_150
 \E7* Mais toi^1, Frisk.../
 obj_torinteractable7_151
@@ -28219,7 +28219,7 @@ obj_triswitchevent_218
 obj_triswitchevent_219
 Salutations./
 obj_truechara_94
-I^2 am \[C]./%%
+Je^2 suis \[C]./%%
 obj_truechara_95
 Je te remercie./
 obj_truechara_111
@@ -28446,7 +28446,7 @@ obj_undyne1_158
 obj_undyne1_159
 \M4JE L'AI COMBATTU&VAILLAMMENT !/
 obj_undyne1_160
-\M5...WHAT^1?\M1 &DID I CAPTURE THEM...?/
+\M5...QUOI ^1?\M1 &EST-CE&QUE LA CAPTURE S'EST&BIEN PASSÉE...?/
 obj_undyne1_161
 \M0E-EH BIEN.../
 obj_undyne1_162
@@ -28533,7 +28533,7 @@ obj_undyne_ex_867
 obj_undyne_ex_868
 Que je vais&abandonner tout&espoir^1, t'as tort./
 obj_undyne_ex_869
-Cause I've..^1.&Got my friends&behind me./
+J'ai des amis..^1.&Sur qui compter./
 obj_undyne_ex_870
 \E3Alphys m'a dit&qu'elle regarderait&ce combat.../
 obj_undyne_ex_871
@@ -29435,7 +29435,7 @@ obj_undyneencounter4_257
 Tiens^1, lève-toi.../
 obj_undyneencounter4_258
 obj_undyneencounter4_259
-\[C]^1, huh?/
+\[C]^1, hein ?/
 obj_undyneencounter4_260
 C'est chouette, comme&nom./%%
 obj_undyneencounter4_261
@@ -29483,11 +29483,11 @@ obj_undynetrigger_boss_165
 obj_undynetrigger_boss_190
 * Nan^1, tu sais quoi ?/%%
 obj_undynetrigger_boss_191
-* SCREW IT^3! %%
+* ON S'EN TAPE ^3! %%
 obj_undynetrigger_boss_199
-* WHY SHOULD I TELL THAT STORY^1  %%
+* À QUOI BON TE RACONTER&  CETTE HISTOIRE^1  %%
 obj_undynetrigger_boss_206
-* WHEN YOU'RE ABOUT TO DIE!?^1!   %%
+* ALORS QUE JE M'APPRÊTE&  À TE TUER ?!^1?   %%
 obj_undynetrigger_boss_213
 * NGAAAAAHHHHHHHHHHHHHHH ^1! %%
 obj_undynetrigger_boss_220
@@ -29802,7 +29802,7 @@ obj_vulkinnpc_84
 obj_vulkinnpc_88
 * La surface est sûrement&  remplie d'amis à aider !!!/%%
 obj_vulkinnpc_89
-\R* Strongly felt \[1] left^1.&* Shouldn't proceed yet./%%
+\R* Il en reste encore \[1] c'est certain^1.&* Il faut faire demi-tour./%%
 obj_water_doomreminder_95
 * (Error.)/%%
 obj_watercooler_99
@@ -30025,7 +30025,7 @@ L'ÂME
 obj_woshua_250
 la Main
 obj_woshua_251
-Wosh u&\[1]
+Lav' toa&\[1]
 obj_woshua_252
 *sifflot-&te tout&en&rinçant*
 obj_woshua_254
@@ -30254,8 +30254,8 @@ PERSONNE NE SAIT&VERS OÙ ELLE PART&ENSUITE./%%
 PERSONNE NE SAIT&VERS OÙ ELLE PART&ENSUITE./
 * Moi je sais ^1!&* Alphys me l'a&  expliqué.../
 * Elle est acheminée vers&  Calciterre pour&  refroidir le NOYAU !/
-WOW^1, UNDYNE!^1!&I DIDN'T KNOW YOU&LIKED NERDY STUFF!/
-\E3JUST STRENGTH&AND FIGHTING.../
+WOW^1, UNDYNE !^1!&JE NE TE SAVAIS PAS&SI GEEKETTE !/
+\E3JE CROYAIS QUE&TU N'AIMAIS QUE LA&MUSCU ET LE COMBAT./
 \E0* Tu veux rire ?!&* Évidemment que j'aime&  ça^1, les trucs de geek !!/
 \E6* Et puis après tout, le&  cerveau est le plus gros&muscle du corps, non ?!/%%
 CAPTIVANT^1, &N'EST-CE PAS ???/%%
@@ -31417,13 +31417,13 @@ Vendredi
 weekday_5
 Samedi
 weekday_6
-* Vous récupérez  \[1] PV !/%
+* You recovered \[1] HP!/%
 * PV entièrement restaurés./%
 *
 PAGE 1
 PAGE 2
 * Épargner
-* Fuir
+* Flee
 A
 B
 C
@@ -31480,20 +31480,20 @@ title_press_button_pc
 [PRESS ANY BUTTON]
 title_press_button_console
 --- Instructions ---
-[Z or ENTER]
+[Z ou ENTRÉE]
 instructions_confirm_key
-Confirm
-[X or SHIFT]
+Confirmer
+[X ou SHIFT]
 instructions_cancel_key
 Annuler
-[C or CTRL]
+[C ou CTRL]
 instructions_menu_key
-Menu (In-game)
+Menu (En jeu)
 [F4]
 instructions_fullscreen_key
-Fullscreen
+Plein écran
 instructions_fullscreen_label
-[Hold ESC]
+[Maintenir ESC]
 instructions_quit_key
 Quitter
 instructions_quit_label
@@ -31607,7 +31607,7 @@ Une partie de moi#voudrait voir mon#"frère", Aaron.
 obj_shyrensisternpc_74
 Mais les autres#parties... sont#pas trop d'accord.
 obj_shyrensisternpc_75
-Welcome to the Sound Test!#Listen to all your favorites.#Press Left or Right to select.#Press \*Z to play a song.#
+Bienvenue dans le Sound Test !#Écoutez vos musiques favorites.#Droite ou Gauche pour choisir.#Appuyez sur \*Z pour jouer un morceau.#
 soundtest_welcome
 SOUND TEST
 soundtest_title
@@ -32190,9 +32190,9 @@ PÉNURIE DE GROS TITRES À AFFICHER     ||
 mettnews_ticker_9
 120 SECONDES RESTANTES ! DÉSAMORCE 6 BOMBES !
 mettnews_ticker_doom_start
-\[1] SECONDS LEFT!
+\[1] SECONDES RESTANTES !
 mettnews_ticker_doom_timeleft
-\[1] BOMBS LEFT!
+\[1] BOMBES RESTANTES !
 mettnews_ticker_doom_bombsleft
 DÉPÊCHE-TOI !
 mettnews_ticker_doom1
@@ -32208,13 +32208,13 @@ DONNE TOUT CE QUE T'AS !
 mettnews_ticker_doom6
 PERDS PAS DE TEMPS !
 mettnews_ticker_doom7
-TIME:\[1]
+TEMPS:\[1]
 mettnews_timer
-RATINGS \[1]
+AUDIMAT \[1]
 mett_ratings
-ESSAY PROMPT:#What do you#love most about#Mettaton?#(No X or Z)
+SUJET :#Qu'est-ce que#tu aimes le plus#chez Mettaton ?#X et Z interdits
 mett_essay_prompt_pc
-ESSAY PROMPT: What do you love most about Mettaton?
+SUJET :#Qu'est-ce que#tu aimes le plus#chez Mettaton ?
 mett_essay_prompt_console
 [ÉCRIVEZ]
 mett_essay_start
@@ -32626,7 +32626,7 @@ item_use_24
 item_use_25
 * OOOORAAAAA !!^1!&* Vous déchirez le poing de&  fidélité en deux !/
 item_use_26
-* Your hands are burning^1!&* AT increased by \[1]!/%
+* Vos mains sont brûlantes ^1!&* ATQ augmentée de \[1]!/%
 * Mais rien ne se passe./%
 * Vous déployez le chien./%%
 item_use_27
@@ -32721,12 +32721,12 @@ item_use_62
 * Vous mangez la Tarte Escargot.&* PV entièrement restaurés./
 * Vous enfilez l'Armure Temmie./%
 item_use_64
-* Le \[1] a été&  mis dans la boîte.
-* Le \[1] a été&  jeté à l'intérieur sans pitié.
-* Le \[1] a été&  déposé avec délicatesse dans&  la boîte.
-* Le \[1] a été&  retiré.
-* Le \[1] a été&  arraché de la boîte&  impatiemment.
-* Le \[1] a été&  retiré avec la tendresse qu'on&  donnerait à un chiot.
+* The \[1] was&  put away.
+* The \[1] was&  tossed inside recklessly.
+* The \[1] was&  placed thoughtfully inside.
+* The \[1] was&  taken out.
+* The \[1] was&  grabbed impatiently.
+* The \[1] was&  taken out and held like a&  small puppy.
 * Vous ne pouvez rien transporter&  de plus./%%
 * La boîte est pleine./%%
 * Légumoïde sort de terre !
@@ -32768,7 +32768,7 @@ scr_battlegroup_654
 * Le piège de Muffet se&  referme sur vous !
 * Malicien sort de son propre&  chapeau !
 * Paladodo bloque le passage !
-* Final Froggit was already there^1,&  waiting for you.
+* Croâpaud ultime était déjà là^1,&  attendant votre venue.
 * L'Astigmate approche.
 * Héroplasme déboule à&  toute vitesse !
 * Héroplasme et Croâpaud Ultime&  apparaissent.
