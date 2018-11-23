@@ -22083,13 +22083,13 @@ obj_readable_room1_67
 obj_readable_room1_68
 * (Vous apercevez une minuscule &  grenouille dans une fissure...^1)&* (Elle vous fait coucou.)/%%
 obj_readable_room1_69
-* (There's a small crack in the&  wall here.)/
+* (Il y a une petite fissure&  dans le mur à cet endroit.)/
 obj_readable_room1_69_console_1
-* (There's a frog inside...^2)&* (Wait^1! There are two!)/
+* (Il y a une&  grenouille à l'intérieur...^2)&* (Ah non ^1! Il y en a deux !)/
 obj_readable_room1_69_console_2
-* (You had a wonderful,&  exclusive experience...)/
+* (Vous passez un incroyable&  moment^1, en toute exclusivité...)/
 obj_readable_room1_69_console_3
-* (... that only someone who&  saw two frogs could feel.)/%%
+* (... un moment que seul&  quelqu'un ayant vu deux gre-&  nouilles peut avoir ressenti.)/%%
 obj_readable_room1_69_console_4
 * Il n'y a qu'un seul&  interrupteur./%%
 obj_readable_room1_70
@@ -25688,13 +25688,13 @@ obj_smallfrog_118
 obj_smallfrog_119
 * (Troublant^1, vraiment&  troublant.^1)&* Croâ./%%
 obj_smallfrog_120
-* Ribbit ribbit^1.&* (I heard using "Borders" can&  add some color to the world.)/
+* Croâ croâ^1.&* (On raconte que les "Bordures"&  rendent ton monde plus coloré.)/
 obj_smallfrog_117_console
-* (It seems you can choose&  them in the "Settings" menu&  before you load your game.)/
+* (On dirait que tu peux les choi&  -sir dans le menu "Paramètres"&  avant de commencer à jouer.)/
 obj_smallfrog_118_console
-* (However, there isn't a&  frog-themed border.)/
+* (En revanche, il n'y a pas&  de thèmes avec des crapauds.)/
 obj_smallfrog_119_console
-* (So it's just pointless.^1)&* Ribbit./%%
+* (Donc tout cela ne sert&  pas vraiment à grand-chose.^1)&* Croâ./%%
 obj_smallfrog_120_console
 * Croâ croâ^1.&* (As-tu enfin trouvé le 4ème&  Croâpaud de cette salle ?)/%%
 obj_smallfrog_124
@@ -26815,7 +26815,7 @@ obj_storybattle_gen_1256
 obj_storybattle_gen_1257
 \E8Pour une raison&que j'ignore^1, elle&surpasse la mienne !/%%
 obj_storybattle_gen_1258
-\E1I just have one&question for you^1,&\[C]./
+\E1J'ai une seule&question pour toi^1,&\[C]./
 obj_storybattle_gen_1267
 Comment as-tu fait&pour revenir&aux RUINES&depuis ici...?/
 obj_storybattle_gen_1268
@@ -28882,7 +28882,7 @@ JE NE&  PERDRAI PAS !
 obj_undyneboss_664
 GARDE ! TA !&  MAUDITE !&  CLÉMENCE !
 obj_undyneboss_666
-\X  YOU'LL NEVER \RESCAPE\X&  FROM ME!!!
+\X  TU NE T'\ÉCHAPPERAS\X&  JAMAIS !!!
 obj_undyneboss_672
 Alors quoi^1, c'est&  tout ce&  que t'as ?!/%%
 obj_undyneboss_682
@@ -31389,8 +31389,8 @@ J'AI RIEN D'AUTRE&À AJOUTER./%%
 * Frisk^1, tu ne lui aurais pas&  raconté des bêtises^1, dis-moi ^1?&* ]: )/%%
 * J'ai cru comprendre qu'utiliser&  l'ordinateur trop longtemps&  était mauvais pour la santé./
 * Cela dit^1, je ne crois pas&  me souvenir de t'avoir vu&  utiliser le moindre ordinateur./
-* I heard that playing&  video games for too long&  is bad for you./
-* However^1, I have not seen&  you playing video games&  at all./
+* J'ai cru comprendre que jouer&  aux jeux vidéos trop longtemps&  était mauvais pour la santé./
+* Cela dit^1, je ne crois pas&  me souvenir de t'avoir vu&  jouer au moindre jeu./
 * Tu dois donc être en&  excellente santé ^1!&* C'est bien./%%
 * Je crois qu'il est temps pour&  moi d'éteindre ce téléphone,&  maintenant./
 * Tu t'es fait des amis vraiment&  adorables !/
@@ -32749,7 +32749,7 @@ item_use_64
 * Jerry se cramponne à vous !
 * Calotte Glacée apparaît^1.&* Ah, et Jerry est venu aussi.
 * Calotte Glacée et Colhivert&  vous font face^1, soupirants.&* Jerry.
-* Icecap and Chilldrake&  confront you^1, sighing.&* Jerry.
+* Calotte Glacée et Coolhivert&  vous font face^1, soupirants.&* Jerry.
 * Aaron fait une arrivée&  musclée !
 * L'ennemi spécial Temmie est là&  pour en finir avec toi !!
 * Vous marchez sur Jellynuscule.
@@ -47987,7 +47987,7 @@ scr_monsterdefeat
 * Une grenouille ne peut pas&  lécher ses blessures car&  sa langue est trop élastique.
 * Vous tenez des propos&  tendancieux aux grenouilles.&  C'est chaud !/
 * On peut être sûr que&  ça a fait de l'effet./^
-* What's your favorite color?& &    * Red           * Orange
+* Quelle est votre&  couleur favorite ?&    * Rouge         * Orange
 * Do robots dream of&electric sex?/^
 * I hate programming this./^
 path_start
