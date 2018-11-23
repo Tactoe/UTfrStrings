@@ -23140,40 +23140,40 @@ obj_readable_room5_192
 obj_readable_room5_197
 * (C'est collé à la table.)/%%
 obj_readable_room5_203
-* (What the hey is this?)/%
+* (Mais qu'est-ce&  que c'est que ça ?)/%
 obj_readable_room5_209
-* (Dumplings.)&* (They look slightly nibbled...)/
+* (Des ravioles.)&* (Elles ont déjà été&  machouillées par quelqu'un...)/
 obj_readable_room5_216
-* (Looks like the dog didn't&  like them very much...)/
+* (On dirait qu'elles n'ont&  pas beaucoup plu au chien...)/
 obj_readable_room5_217
-* (So far the donation money&  has been totally wasted.)/%
+* (Pour l'instant^1, l'argent des&  offrandes a été&  complètement gaspillé.)/%
 obj_readable_room5_218
-* (Looks like the dog bought a&  CD for the boombox.)/
+* (On dirait que le chien a&  acheté un CD-ROM&  pour la radiocassette.)/
 obj_readable_room5_226
-* (... but^1, it's a game CD.^1)&* (... so it won't work...)/%
+* (... mais c'est un CD&  contenant un jeu.^1)&* (... ça ne marchera pas...)/%
 obj_readable_room5_227
-* (It's some kind of inflatable&  mascot.)/
+* (C'est une sorte de&  mascotte gonflable.)/
 obj_readable_room5_231
-* (It's not clear how this is&  going to encourage anyone&  to donate.)/%
+* (Il est difficile de voir en&  quoi c'est supposé encourager&  à faire des donations.)/%
 obj_readable_room5_232
-* (A framed photo of Papyrus.)/
+* (Une photo de&  Papyrus dans un cadre.)/
 obj_readable_room5_236
-* (Looks like he's having fun&  making some kind of pasta...)/%
+* (Il a l'air en train&  de s'amuser à cuisiner ce&  qui ressemble à des pâtes...)/%
 obj_readable_room5_237
 obj_readable_room5_241
-* (It's a bit blurry^1, but it&  looks like he's angrily&  chasing the photographer...)/%
+* (La photo est floue^1, mais on&  dirait qu'il poursuit le&  photographe, l'air énervé...)/%
 obj_readable_room5_242
-* (The dog spent all of the money&  on a piece of rope.)/
+* (Le chien a dépensé&  tout l'argent sur un&  morceau de corde.)/
 obj_readable_room5_246
-* (However^1, it's really not very&  much rope for the amount&  spent...)/
+* (Ca ne fait pas beaucoup&  de corde pour autant&  d'argent dépensé...)/
 obj_readable_room5_247
-* (It seems like the dog got&  ripped off...)/%
+* (On dirait que le chien&  s'est fait arnaquer...)/%
 obj_readable_room5_248
-* (It's a tap to dispense&  dog food.)/
+* (C'est un robinet de&  nourriture pour chien.)/
 obj_readable_room5_252
-* (So is there a tank full&  of dog food in the&  walls...?)/%
+* (Ce qui voudrait dire qu'il y&  a un container de nourriture&  pour chien dans le mur...?)/%
 obj_readable_room5_253
-* (Huh!? Blueprints...!?)/
+* (Hein !? Blueprints...!?)/
 obj_readable_room5_257
 * (Literally^1. It's white paper^1,&  but covered in little blue&  pawprints...)/
 obj_readable_room5_258
@@ -23181,17 +23181,17 @@ obj_readable_room5_258
 obj_readable_room5_259
 * (... No^1, it's totally useless.)/%
 obj_readable_room5_260
-* (It's another piece of rope.)/
+* (Un autre morceau de corde.)/
 obj_readable_room5_264
-* (It's not even any bigger than&  the last one.)/%
+* (Pas même plus long&  que le précédent.)/%
 obj_readable_room5_265
-* (It's a framed letter from the&  Shrine Certification&  Committee.)/
+* (Une lettre dans un cadre.)&* (Elle vient du Comité de&  validation de temple.)/
 obj_readable_room5_269
-* (Apparently^1, the dog applied to&  have its Shrine officially&  recognized.)/
+* (Il semblerait que le chien&  souhaite que son temple soit&  officiellement reconnu.)/
 obj_readable_room5_270
-* (... It was completely&  rejected...)/
+* (... La demande a été accueillie&  par un refus cinglant...)/
 obj_readable_room5_271
-* (... It doesn't seem to have&  realized that at all...)/%
+* (... Mais le chien ne semble&  pas s'en être rendu compte...)/%
 obj_readable_room5_272
 * L'auriez-vous manquée ?&* La vente d'Arachnopâtisseries&  se trouve en bas à droite./
 obj_readable_sign2_55
