@@ -6931,16 +6931,16 @@ SCR_TEXT_55
 SCR_TEXT_61
 \p
 SCR_TEXT_62
-* You bid a quiet farewell&  to the \[I].
-* You put the \[I]&  on the ground and gave it a&  little pat.
-* You threw the \[I]&  on the ground like the piece&  of trash it is.
-* You abandoned the &  \[I].
-* The \[I] was&  thrown away.
+* Vous faites calmement vos&  adieux au \[I].
+* Vous mettez le \[I]&  par terre et le tapotez&  brièvement.
+* Vous jetez le \[I]&  par terre comme un vieux&  détritus. Bon débarras.
+* Vous abandonnez le&  \[I].
+* Vous vous débarrassez du&  \[I].
 * J'me casse d'ici.
 * J'ai mieux à faire.
 * Vous avez fui...
 * Ne me ralentissez pas.
-* Ran away with \[1] EXP&     and \[2] GOLD.
+* Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
 * (Faire crisser les feuilles&  avec espièglerie vous emplit de&  détermination.)/
@@ -6996,7 +6996,7 @@ SCR_TEXT_62
 * On peut y aller ^2?&* C'est parti !/%%
 \E2* Par ici./%%
 \E2* Bienvenue dans ta&  nouvelle maison^1,&  jeune enfant./
-* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%
+* Permets-moi de&  t'enseigner le fon-&  ctionnement des RUINES./%%
 \E2* Les RUINES sont remplies&  d'énigmes./
 * Elles consistent en un&  amalgame archaïque&  de clés et subterfuges./
 * Il est nécessaire de les&  résoudre afin de&  progresser./
@@ -7165,7 +7165,7 @@ NYEH HEH HEH !!!/%%
 * j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
 
 * t'as raison./
-* i should charge way&  more than that./%%
+* je devrais faire payer&  bien plus que ça./%%
 * vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
 * c'est toujours pas&  assez./%%
 * 50000PO^1.&* c'est ma dernière offre.&  Acheter     Non\C
@@ -7274,9 +7274,9 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * Y'a rien ici !!!/%%
 * (Vous obtenez le Vieux Tutu.)/%%
 * (Vous n'avez plus de place.)/%%
-* (The box contains \[1] cards.)/
-* (Two bugs in the box are&  playing a \[1]-card game.)/
-* (There's a smiley face made&  of \[1] cards in the box.)/
+* (La boîte contient \[1] cartes.)/
+* (Deux insectes jouant avec&  \[1] cartes se trouvent dans&  la boîte.)/
+* (\[1] cartes dans la boîte sont&  disposées de manière à former&  un smiley.)/
 * (Une maison faite de \[1] cartes&  se trouve dans la boîte.)/
 * (La boîte est remplie à&  ras bord de cartes.)/
 * (Prendre une carte ?)& &         Prendre     Laisser \C
@@ -8648,46 +8648,46 @@ Ainsi^1, c'est fait./%%
 * Émoplasme s'approche&  docilement !
 * Croâpaud et Émoplasme&  approchent !
 * Jellynuscule bloque le&  passage !
-* (Dog Shrine.)/
-* (Donate?)& &         Dognate     Dognot\C
-* (\[1] of \[2]G in the box.)& &         Dognate     Dognot\C
-* (Looks like the money was used&  to buy some fairy lights.)/
-* (It was kind of dark in here.)/
-* (Looks like the money was used&  to increase the size of the&  shrine.)/
-* (The donation box slot is even&  bigger now.)/
-* (You should be able to donate&  even more at once!)/
-* (... actually^1, it looks like&  the sides of the slot are&  just painted on...)/
-* (Seems you'll still have to&  donate just 1G at a time...)/
-* (The donation box is sealed.)/
-* (There was seemingly no point&  to all of this...)/%
-* (Since your adventure is over^1,&  you can reminisce about how&  useful the Dog Shrine was...)/
-* (... it wasn't useful at all.)/%
-* (Something is wrong with&  the box.)/%
-* (The box is full.)/%
-* (Not enough money.)/
-* (That's relieving...)/%
-* (You donated 1G.)/%
-* (You put 1G into the box.)/
-* (You feel like you're about to&  waste a lot of time...)/%
-* (Clink!)&* (The box is filled with coins.)/
-* (Perhaps if you leave and&  return^1, the donations will be&  used for something.)/%
-* (You feel a sense of relief.)/%
-* (Donation box.)& &         Use It      Do not\C
-* (... hand can't fit inside.)/
-* (Check it again to try&  donating.)/%
-* (Right.)/%
-* (The boombox is playing...)&* (An upbeat song.)/
-* (It's having a psychological&  effect on your desire to&  donate.)/
-* (... It's not clear what kind&  of effect that is.)/
-* (Change the track?)& &         Change      Do not\C
-* (Huh!?)&* (The next track is just the&  same but faster...!?)/%
-* (You see no reason to&  change it.)/%
-* (You returned the song&  to normal.)/%
-* (\[1]G inside.)& &         Donate      Do not\C
-* (1G was put inside.)/%
-* (Not enough G.)/%
-* (There's enough.)/%
-* (Nothing was put inside.)/%
+* (Sanctuaire du Chien.)/
+* (Faire une offrande ?)& &         Wouffrande  Chabandonner\C
+* (\[1] sur \[2]PO&  dans la boîte.)&         Wouffrande  Chabandonner\C
+* (On dirait que l'argent a&  permis d'acheter une&  guirlande lumineuse.)/
+* (Il faisait un peu&  sombre par ici.)/
+* (On dirait que l'argent&  a servi à agrandir&  le sanctuaire.)/
+* (La fente de la boîte à&  offrandes est bien plus&  large à présent.)/
+* (Vous devriez pouvoir donner&  bien plus d'un seul coup !)/
+* (... en fait^1, on dirait que&  les bords de la fente ont&  simplement été peints...)/
+* (Il semble que vous devrez&  continuer à donner&  1PO à la fois...)/
+* (La boîte à offrandes&  est scellée.)/
+* (De toute évidence, tout ça&  n'en valait pas la peine...)/%
+* (Tu te rappelles à quel point&  le Sanctuaire du Chien&  s'est avéré utile...)/
+* (... il n'a été d'aucune&  utilité.)/%
+* (Il y a un problème avec la&  boîte.)/%
+* (La boîte est pleine.)/%
+* (Pas assez d'argent.)/
+* (C'est soulageant...)/%
+* (Vous avez donné 1PO.)/%
+* (Tu mets 1PO dans la boîte.)/
+* (Vous sentez que&  vous allez perdre&  pas mal de temps...)/%
+* (Pling !)&* (La boîte est&  pleine de pièces.)/
+* (Si vous revenez plus tard,&  les offrandes seront peut-être&  utilisées pour quelque chose.)/%
+* (Un sentiment de&  soulagement vous envahis.)/%
+* (Boîte à offrandes.)& &         Utiliser    Abandonner\C
+* (... la main n’y rentre pas.)/
+* (Inspectez-la à nouveau pour&  faire une offrande.)/%
+* (Bien.)/%
+* (La radiocassette diffuse...)&* (Une chanson entraînante.)/
+* (Elle a un effet&  psychologique sur votre désir&  de faire une offrande.)/
+* (... La nature de cet effet&  n'est pas très claire.)/
+* (Changer de morceau ?)& &         Changer     Laisser\C
+* (Hein !?)&* (Le morceau suivant est le&  même mais en accéléré...!?)/%
+* (Vous ne voyez aucune raison&  de le changer.)/%
+* (Vous avez remis la chanson&  dans sa version normale.)/%
+* (\[1]PO à l'intérieur.)& &         Offrande    Laisser\C
+* (1PO a été déposé.)/%
+* (Pas assez de PO.)/%
+* (Il y en a assez.)/%
+* (Rien n'a été offert.)/%
 THIS IS AN ERROR& MESSAGE^1.& REALLY!!!/%%
 blt_sizebone_115
 TU ES TROP FAIBLE!& TE CAPTURER& ÉTAIT BIEN& TROP FACILE !!/
@@ -15422,7 +15422,7 @@ obj_lastsans_trigger_676
 obj_lastsans_trigger_677
 \E2* t'as vu ça ^1?&* j'ai juste assez de&  doigts pour les compter./
 obj_lastsans_trigger_678
-\E3* but soon.../
+\E3* mais à ce rythme.../
 obj_lastsans_trigger_679
 \E4* il va me falloir une main&  de mutant pour continuer&  à compter toutes ces morts./%%
 obj_lastsans_trigger_680
@@ -15439,7 +15439,7 @@ obj_lastsans_trigger_694
 obj_lastsans_trigger_695
 \E0* hé^1, pas mal^1.&* c'est un numéro porte-&  bonheur^1, non ?/
 obj_lastsans_trigger_696
-\E2* who knows^1, maybe&  you'll hit the&  jackpot.../
+\E2* qui sait^1, p'têt même&  que t'auras droit&  au jackpot.../
 obj_lastsans_trigger_697
 \E4* histoire de multiplier&  par dix notre petit&  décompte./%%
 obj_lastsans_trigger_698
@@ -19749,9 +19749,9 @@ obj_papdate_203
 obj_papdate_204
 \XÉTAPE UNE..^1. AP-&PUYEZ SUR [ C ]&POUR AFFICHER&\RL'ÉCRAN D'AMITIÉ\X./
 obj_papdate_205
-\XSTEP ONE..^1. PRESS&YOUR CONTROLLER'S&\*C BUTTON FOR&"\RDATING HUD\X."/
+\XÉTAPE UNE..^1. AP-&PUYEZ SUR \*C &POUR AFFICHER&\RL'ÉCRAN DE RENCARD\X./
 obj_papdate_206
-\XSTEP ONE..^1. PRESS&YOUR CONTROLLER'S&\*C BUTTON FOR&"\RFRIENDSHIP HUD\X."/
+\XÉTAPE UNE..^1. AP-&PUYEZ SUR \*C &POUR AFFICHER&\RL'ÉCRAN D'AMITIÉ\X./
 obj_papdate_207
 \E3JE CROIS QUE&C'EST DÉJÀ&FAIT.../%%
 obj_papdate_208
@@ -23679,7 +23679,7 @@ obj_sans_room_119
 obj_sans_room_120
 * n'oublie pas..^1.&* des panneaux stop bleus./%%
 obj_sans_room_123
-* ... hi./%%
+* ... salut./%%
 obj_sans_room_128
 * hey^1, merci..^1.&* mon frère a l'air de&  bien s'amuser./
 obj_sans_room_135
@@ -28203,7 +28203,7 @@ obj_triswitchevent_147
 obj_triswitchevent_148
 \E0* H-h-hé !/
 obj_triswitchevent_149
-\E5* Looks like you!!!^1 &* Only needed to press^1!&* Two of them!!!/
+\E5* On dirait que tu !!!^1 &* Devais juste appuyer ^1!&* Sur deux d'entre eux !!!/
 obj_triswitchevent_150
 obj_triswitchevent_151
 obj_triswitchevent_152
@@ -31417,13 +31417,13 @@ Vendredi
 weekday_5
 Samedi
 weekday_6
-* You recovered \[1] HP!/%
+* Vous récupérez \[1] PV !/%
 * PV entièrement restaurés./%
 *
 PAGE 1
 PAGE 2
 * Épargner
-* Flee
+* Fuir
 A
 B
 C
@@ -32855,10 +32855,10 @@ obj_torielboss_240
 * Pareil.../
 * OK./%%
 * Je te prie de t'en&  aller./%%
-* (It's a horse stable.)/
-* (Do you want to go&  inside?)&         Yes         No \C
-* (You jostle the door.)&* (It's locked.)/
-* (Suddenly^1, from inside&  the [redacted], you hear a&/%%
+* (C'est une étable.)/
+* (Voulez-vous aller à l'intérieur ?)&         Oui         Non \C
+* (Vous essayez d'ouvrir.)&* (C'est verouillé.)/
+* (Soudain^1, à l'intérieur&  du [édité], vous entendez un&/%%
 * (Ce livre est intitulé Histoire&  des Monstres Partie 6.)&         Le lire     Le laisser\C
 * Malheureusement^1, les monstres&  manquent d'expérience face&  aux maladies./
 * Cependant^1, quand un monstre est&  sur le point de mourir de vieil&  -lesse^1, il s'allonge au sol./
