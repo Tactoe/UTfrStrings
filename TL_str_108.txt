@@ -22967,7 +22967,7 @@ obj_readable_room4_60
 obj_readable_room4_63
 * C'est toujours toi^1, Frisk./%%
 obj_readable_room4_64
-* It's me^1, \[C]./%%
+* C'est moi^1, \[C]./%%
 obj_readable_room4_66
 obj_readable_room4_67
 * En dépit de toutes ces&  épreuves^1, tu es toujours&  toi-même./%%
@@ -24291,7 +24291,7 @@ obj_sansmailbox_60
 obj_sanssnowman_98
 * Quelqu'un marchait en rond&  juste pour faire du bruit.../%%
 obj_sanssteps_56
-\R* \[1] left./%%
+\R* Il en reste \[1]./%%
 obj_savepoint_97
 \R* Ce comédien.../%%
 obj_savepoint_99
@@ -24757,9 +24757,9 @@ obj_shop3_685
 * .../*
 obj_shop3_690
 obj_shop3_692
-* Je suis Gatty^1,&  et elle c'est ma&  meilleure amie^1,&  Catty/*
+* Je suis Gatty^1,&  et elle c'est ma&  meilleure amie^1,&  Catty./*
 obj_shop3_710
-* Je suis Catty^1,&  et elle c'est ma&  meilleure amie^1,&  Gatty/*
+* Je suis Catty^1,&  et elle c'est ma&  meilleure amie^1,&  Gatty./*
 obj_shop3_713
 \M3* Eh ben^1, ce genre&  de mec.../
 obj_shop3_726
