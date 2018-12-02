@@ -14525,7 +14525,7 @@ obj_instantnoodleitem_45
 obj_instantnoodleitem_85
 Jadis^1, les HUMAINS&et les MONSTRES&régnaient sur le monde^6. \E1 ^3 %
 obj_introimage_70
-One day^1, war broke&out between the two&races^6. \E0 ^1 %
+Un jour^1, une guerre&éclata entre les&deux races^5. \E0 ^1 %
 obj_introimage_71
 Après une longue&bataille^1, les humains&furent victorieux^6. \E1 ^1 %
 obj_introimage_72
@@ -23173,13 +23173,13 @@ obj_readable_room5_248
 obj_readable_room5_252
 * (Ce qui voudrait dire qu'il y&  a un container de nourriture&  pour chien dans le mur...?)/%
 obj_readable_room5_253
-* (Hein !? Blueprints...!?)/
+* (Hein !? Ce document...!?)&* (Pour une raison inconnue,&  il vous fait penser à Sans...)/
 obj_readable_room5_257
-* (Literally^1. It's white paper^1,&  but covered in little blue&  pawprints...)/
+* (En fait non^1. Il est dans le&  mauvais sens^1. Il a tout de&  suite plus de sens retourné...)/
 obj_readable_room5_258
-* (Wait...)&* (Blue pawprints...)&* (Could it be a clue!?)/
+* (... Ce document prend tout son&  sens dans le bon sens sans&  penser à Sans! Et il s'agit...)/
 obj_readable_room5_259
-* (... No^1, it's totally useless.)/%
+* (... De simples&  empreintes de chien.)&* (Tout ça n'a aucun sans.)/%
 obj_readable_room5_260
 * (Un autre morceau de corde.)/
 obj_readable_room5_264
