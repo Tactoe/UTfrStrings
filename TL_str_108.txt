@@ -23177,7 +23177,7 @@ obj_readable_room5_253
 obj_readable_room5_257
 * (En fait non^1. Il est dans le&  mauvais sens^1. Il a tout de&  suite plus de sens retourné...)/
 obj_readable_room5_258
-* (... Ce document prend tout son&  sens dans le bon sens sans&  penser à Sans! Et il s'agit...)/
+* (... Ce document prend tout son&  sens dans le bon sens sans pen-&  ser à Sans ^1! Et il s'agit...)/
 obj_readable_room5_259
 * (... De simples&  empreintes de chien.)&* (Tout ça n'a aucun sans.)/%
 obj_readable_room5_260
