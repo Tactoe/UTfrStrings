@@ -16,7 +16,7 @@ msg
 fhuehfuehfuehfuheufhe/%
 %%%
 * TestMonster and its cohorts&draw near!
-
+ 
 monster
 monsterinstance
 script_execute
@@ -37,7 +37,7 @@ battle_name_c
 
 i
 battle_mercy_spare
-&\W
+ &\W
 battle_mercy_flee
 item_menub_header
 itemnameb
@@ -45,7 +45,7 @@ item
 &
 item_menub_page1
 item_menub_page2
-&
+ &
 string
 recover_hp
 recover_hp_max
@@ -1893,7 +1893,7 @@ SCR_TEXT_4897
 SCR_TEXT_4898
 SCR_TEXT_4899
 SCR_TEXT_4900
-%%
+ %%
 SCR_TEXT_4919
 SCR_TEXT_4920
 SCR_TEXT_4921
@@ -3210,7 +3210,7 @@ _key
 key
 _label
 label
--
+ -
 instructions_begin
 yy2
 ...
@@ -5014,13 +5014,13 @@ writingx
 writingxend
 scr_blcon
 \TS \F0 \E
-\F3 \Ts %
-\F1 \TT %
-\F7 \Ta %
+ \F3 \Ts %
+ \F1 \TT %
+ \F7 \Ta %
 \T0 %
-\F4 \TP %
-\F5 \TU %
-\F6 \TA %
+ \F4 \TP %
+ \F5 \TU %
+ \F6 \TA %
 face_x
 face
 stringno
@@ -5076,13 +5076,13 @@ namey
 scr_draw_name_curs
 namewidth
 draw_set_font
-LV
+   LV 
 hpwrite
 00.001
 00.0001
 00.000001
 00.0000000001
-/
+ / 
 merge_color
 KillYou
 Asgore
@@ -6885,7 +6885,7 @@ Limande Cheloue
 Moisseauneur
 monstername_54b
 Amalgami
-
+     
 Head-Mémoire
 monstername_56b
 Chienmois
@@ -6936,11 +6936,11 @@ SCR_TEXT_62
 * Vous jetez le \[I]&  par terre comme un vieux&  détritus. Bon débarras.
 * Vous abandonnez le&  \[I].
 * Vous vous débarrassez du&  \[I].
-* J'me casse d'ici.
-* J'ai mieux à faire.
-* Vous avez fui...
-* Ne me ralentissez pas.
-* Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
+   * J'me casse d'ici.
+   * J'ai mieux à faire.
+   * Vous avez fui...
+   * Ne me ralentissez pas.
+   * Vous fuyez avec \[1] EXP&     et \[2] PIÈCES D'OR.
 * (L'ombre des ruines se dessine&  au-dessus de vous^1, vous&  emplissant de détermination.)/
 * (PV entièrement restaurés.)/%%
 * (Faire crisser les feuilles&  avec espièglerie vous emplit de&  détermination.)/
@@ -6983,7 +6983,7 @@ SCR_TEXT_62
 * (Il flotte dans l'air une odeur&  de toiles d'araignées...)/
 * Vous laissez la Quiche sur le&  sol et la prévenez que vous&  serez bientôt de retour./%%
 * Utiliser la boîte ?& &         Oui         Non      \C
-%%
+  %%
 * Vous n'avez pas d'objets^1.&* Vous mettez un peu de votre&  temps dans la boîte./%%
 * Vous n'avez pas d'objets^1.&* Vous mettez un peu de vos&  efforts dans la boîte./%%
 * Vous n'avez pas d'objets^1.&* Vous mettez un peu de vos&  sentiments dans la boîte./%%
@@ -7124,7 +7124,7 @@ J'Y^1. CROIS^1. PAS./
 \E0HUMAIN !!^1!&RÉSOUS CETTE&DISPUTE !/
 \TS \F0 \E0 \T0 %
 * (Quel est le plus dur ?)& &         Mots Mêlés  Mots Croisés \C
-
+   
 HA ^1! HA ^1! OUI !/
 LES HUMAINS DOIVENT&ÊTRE SACRÉMENT&INTELLIGENTS !/
 S'ILS TROUVENT LES&MOTS MÊLÉS SI&DIFFICILES !/
@@ -7139,7 +7139,7 @@ NYEH HEH HEH !!!/%%
 * Bonjour ^1!&* Une Glace Gentilly,&  ça te tente ?/
 * C'est la douceur qui&  réchauffe le coeur !/
 * Seulement pour 15PO !& &         Oui         Non \C
-%
+ %
 * La Glace Gentilly ^1!&* C'est la douceur qui&  réchauffe le coeur !/
 * Et voilà ^1! Passe une supi-super&  journée ^1! (Vous obtenez&  la Glace Gentilly.)/%%
 * Oh ^1?&* Tu n'as pas assez&  d'argent.../
@@ -7163,7 +7163,7 @@ NYEH HEH HEH !!!/%%
 * moi aussi j'ai envie de&  me lancer dans le&  business des friandises./
 * de la neige grillée à&  5PO, ça te tente ?&  Acheter     Non\C
 * j'ai dit 5PO ^1?&* je voulais dire 50PO^1.&  Acheter     Non\C
-
+  
 * t'as raison./
 * je devrais faire payer&  bien plus que ça./%%
 * vraiment ^1?&* et pour 5000PO ?&  Acheter     Non\C
@@ -7896,7 +7896,7 @@ Je ferai de mon&mieux pour assurer&ta protection lors&de ton séjour ici./%%
 * ouais^1, tu dois économiser&  pour la fac et les&  araignées./%%
 * J-je crois que&  tu l'as eu !/
 \E0* T-t'as fait du super&  boulot, tu sais./
-C'est&  grâce&  à toi       ... \C
+  C'est&  grâce&  à toi       ... \C
 \E3* Quoi ^1?&* Oh non^1, enfin.../
 \E4* C'est toi qui faisais&  tous ces trucs cool !/
 \E0* De mon côté, j'ai juste&  bidouillé des programmes&  sur ton mobile./
@@ -8081,11 +8081,11 @@ PRENDS TON TEMPS !/%%
 * (Peut-être qu'un jour^1, tu&  devras le faire même si&  leur nom n'est pas jaune.)/%%
 * (Vraiment ^1?  Alors^1, je dirai&  à mes amis de dire aux amis de&  leurs amis...)/
 * (N'utilisez jamais les noms&  jaunes.)&* (Qu'en dis-tu ?)/
-Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
+         Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
 * (OK^1, ils continueront à&  utiliser les noms jaunes.)/%%
 * (OK^1, je leur dirai de ne pas&  utiliser de noms jaunes.)/%%
 * Croâ^1, croâ^1.&* (Comment tu t'en sors sans les&  noms jaunes ?)/
-&         Plutôt      &         bien        Remets-les\C
+         &         Plutôt      &         bien        Remets-les\C
 * (Heureux de l'entendre.^1)&* (Néanmoins^1, pourquoi ne pas&  aimer le jaune ?)/
 * (Tu ferais mieux d'espérer de&  ne pas rencontrer un monstre&  bananèsque.)/%%
 * (Hein ^1? C'est assez dérangeant&  quand tu changes d'avis comme&  ça.)/
@@ -8107,7 +8107,7 @@ Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
 * Si.../
 * Si tu as encore des&  affaires à régler.../
 * Je t'en prie,&  finis ce que tu&  as à faire./
-& &         Continuer    Partir\C
+ & &         Continuer    Partir\C
 * ..^2.&* ... Je vois.../
 * Alors^1, ça y est./%%
 * Je vois./
@@ -8116,7 +8116,7 @@ Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
 * Prends ton temps./%%
 * Oh..^1.&* Déjà de retour ?/
 * Comment te sens-tu ?/
-& &         Combattre   Partir\C
+ & &         Combattre   Partir\C
 * Fais ce que tu&  as à faire./%%
 * Tra la la^1.&* Je suis le passeur./
 * À moins que je ne&  sois une passeuse...^1?&* Cela n'a pas grande importance./
@@ -8172,7 +8172,7 @@ Gardez      Arrêtez&         les noms    les noms&         jaunes      jaunes\C
 * J'ai fait du mal à&  tellement de monde./
 \E1* Mes amis^1, ma famille^1,&  et plein d'autres&  gens.../
 \E3* Je mérite pas d'être&  pardonné pour tout ce&  que j'ai fait./
-Ne &  Lui         pas lui&  pardonner   pardonner\C
+              Ne &  Lui         pas lui&  pardonner   pardonner\C
 \E3* Qu..^1. quoi ?/
 \E7* ... Frisk^1, arrête&  un peu./
 \E0* Tu vas..^1.&* Tu vas encore me&  faire pleurer./
@@ -8200,7 +8200,7 @@ Ne &  Lui         pas lui&  pardonner   pardonner\C
 \E1* Alors..^1. Frisk./
 \E7* Le mieux, c'est encore&  que tu m'oublies^1,&  d'accord ?/
 \E0* Va rejoindre tous&  ceux qui t'aiment./
-&         Le&         consoler    Partir\C
+ &         Le&         consoler    Partir\C
 \E0* Alors^1, Alphys.../
 \E9* Qu'est-ce que tu vas&  faire maintenant que&  nous sommes libres ?/
 \E0* C'est tout un nouveau&  monde qui nous attend&  à présent./
@@ -8220,7 +8220,7 @@ UN TOAST !!^1!&À TOUS LES LOOSERS&ET CEUX À VENIR !!/
 \E3* (Frisk^1. S'il te plaît.)/
 \E2* (Tu peux m'aider à lui&  expliquer ce qu'est un&  anime ?)/
 \E0* En fait^1, c-c'est comme&  un dessin animé^1,&  m-mais.../
-&         Avec        Avec&         des Épées   des Flingues\C
+ &         Avec        Avec&         des Épées   des Flingues\C
 \E2* Donc c'est un dessin&  animé..^1.&* Avec des épées ?/
 \E2* Donc c'est un dessin&  animé..^1.&* Avec des 'flingues' ?/
 \E0* Diantre ^1!&* Tout cela m'a l'air&  chouette !/
@@ -8284,7 +8284,7 @@ UN TOAST !!^1!&À TOUS LES LOOSERS&ET CEUX À VENIR !!/
 \E1* OH MON DIEU !!!/%%
 * (Si tu pars maintenant^1, ton&  aventure touchera à sa fin.)/
 * (Tes amis te suivront tous&  vers la surface.)/
-&         Rester      &         ici         Allons-y\C
+ &         Rester      &         ici         Allons-y\C
 \E0* Oh, ciel.../
 \E0* N'est-ce pas magnifique^1,&  vous autres ?/
 \E3* Wow..^1. c-c'est encore&  plus beau&  qu'à la télé./
@@ -8320,7 +8320,7 @@ JE M'EN CHARGERAI&POUR TOI !!!/
 \E2* Tu viens de ce monde^1,&  n'est-ce pas...?/
 \E1* Tu as donc un&  chez-toi où retourner^1,&  non ?/
 \E2* Que vas-tu faire&  à présent ?/
-Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
+         Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 * (La porte n'a pas de fente pour&  y insérer la lettre.)/
 * (Faire glisser la lettre&  par-dessous ?)&         Glisser     NON !!!! \C
 * (Vous faites glisser la lettre&  sous la porte et toquez.)/%%
@@ -8377,7 +8377,7 @@ Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 * ça va te paraître&  bizarre, comme question^1,&  mais.../
 \W* si tu disposes&  d'une sorte de&  \Ypouvoir secret\W.../
 * tu crois pas que c'est&  ta responsabilité de t'en&  servir judicieusement ?/
-& &         Oui         Non\C
+ & &         Oui         Non\C
 \E1* ah./
 \E0* je vois./
 \E3* .../%%
@@ -8390,7 +8390,7 @@ Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 \E6* Euuh^1, dis^1, ça te dirait&  qu'on regarde une série&  télé humaine ensemble ??/
 * Un de ces quatre ???/
 \E4* Ça s'appelle^1, euh^1,&  M..^1. Miou Miou Mimi&  Bisou.../
-& &         Carrément   ...non...\C
+ & &         Carrément   ...non...\C
 * S-Sérieux !?/
 \E3* C'est vraiment bien ^1!&* C'est euh^1, ma série&  préférée !/
 * Ça parle d'une fille&  humaine^1, Miou Miou^1, qui&  a des oreilles de chat !%
@@ -8422,7 +8422,7 @@ Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 \M0* J'ai pensé qu'au nom pour&  l'instant./
 \M3* Et je^1, ne joue pas...&* D'instruments^1.&* Je sais pas chanter aussi./
 \M1* Donc du coup ^1!&* Est-ce que tu penses qu'on&  aura du succès !!!/
-& &         Ouais       Non\C
+ & &         Ouais       Non\C
 \M0* Ouais^1, moi aussi.../%%
 * (C'est une lampe.)/
 * (Il n'y a pas d'ampoule.^1)&* (Quelqu'un a mis une lampe&  de poche à la place.)/
@@ -8459,7 +8459,7 @@ Je veux     Je&         rester      rentre&         avec toi    chez moi.\C
 * (Vous aplatissez le LaPain&  comme une crêpe et le&  glissez sous la porte.)/
 * (Vous entendez quelque chose&  remuer derrière la porte.)/
 * (On dirait que vous pouvez&  déposer quelque chose au pied&  de la porte.)/
-& &         Poser       Ne pas poser\C
+ & &         Poser       Ne pas poser\C
 * (...)/
 * (Mais vous ne possédez rien&  d'intéressant.)/%%
 * (Vous déposez un hot-dog&  devant la porte.)/
@@ -8516,83 +8516,83 @@ Alors reste ici à tout&jamais./
 Ainsi^1, c'est fait./%%
 * hey./
 * ton réfrigérateur&  fonctionne ?/
-& &         ouais       nan\C
+ & &         ouais       nan\C
 * cool^1.&* j'arrive avec&  les bibines./%%
 * ok^1, je t'envoie&  quelqu'un pour&  le réparer./
 * merci de m'avoir&  prévenu./
 * c'est important de&  savoir bien&  communiquer./%%
-* Examiner      * Complimenter&   * Menacer
-* Examiner      * Parler
-* Examiner      * Consoler&   * Terroriser
-* Examiner      * Imiter&   * Flirter
-* Examiner      * Parler&   * Dévorer       * Déjeuner
-* Examiner      * Embêter&   * Ne pas Embêter
-* Examiner      * Flirter&   * Menacer       * Encourager
-* Examiner      * Caresser
-* Examiner      * Caresser&   * Caresser      * Caresser&   * Caresser      * Caresser
-* Examiner      * Caresser&   * Re-sentir     * Rouler
-* Examiner      * Caresser&   * Attirer       * Jouer &   * Ignorer
-* Examiner      * Acquiescer&   * Démentir      * Blaguer
-* Examiner      * Rire&   * Interrompre   * Blaguer
-* Examiner      * Complimenter&   * Ignorer       * Voler
-* Examiner      * Complimenter
-* Examiner      * Abandonner
-* Examiner      * Décorer&   * Enlever déco  * Cadeau
-* Examiner      * S'étirer&   * Chasser
-* Examiner      * S'étirer&   * Nourrir avec  * Parler&     Temmie Flakes
-* Examiner      * Flirter&   * Insulter
-* Examiner
-* Examiner      * S'allonger&   * Câliner       * Dé-câliner
-* Examiner      * Nettoyer&   * Toucher       * Blaguer
-* Examiner      * Sourire&   * Fredonner     * Orchestrer
-* Examiner      * Supplier&   * Défier
-* Examiner      * Chouiner
-* Examiner      * Murmurer&   * Nettoyer Armure
-* Examiner      * Flirter&   * S'approcher
-* Examiner      * Critiquer&   * Encourager    * Câliner
-* Examiner      * Refroidir&   * Réchauffer    * Inviter
+   * Examiner      * Complimenter&   * Menacer
+   * Examiner      * Parler
+   * Examiner      * Consoler&   * Terroriser
+   * Examiner      * Imiter&   * Flirter
+   * Examiner      * Parler&   * Dévorer       * Déjeuner
+   * Examiner      * Embêter&   * Ne pas Embêter
+   * Examiner      * Flirter&   * Menacer       * Encourager
+   * Examiner      * Caresser
+   * Examiner      * Caresser&   * Caresser      * Caresser&   * Caresser      * Caresser
+   * Examiner      * Caresser&   * Re-sentir     * Rouler
+   * Examiner      * Caresser&   * Attirer       * Jouer &   * Ignorer
+   * Examiner      * Acquiescer&   * Démentir      * Blaguer
+   * Examiner      * Rire&   * Interrompre   * Blaguer
+   * Examiner      * Complimenter&   * Ignorer       * Voler
+   * Examiner      * Complimenter
+   * Examiner      * Abandonner
+   * Examiner      * Décorer&   * Enlever déco  * Cadeau
+   * Examiner      * S'étirer&   * Chasser
+   * Examiner      * S'étirer&   * Nourrir avec  * Parler&     Temmie Flakes
+   * Examiner      * Flirter&   * Insulter
+   * Examiner
+   * Examiner      * S'allonger&   * Câliner       * Dé-câliner
+   * Examiner      * Nettoyer&   * Toucher       * Blaguer
+   * Examiner      * Sourire&   * Fredonner     * Orchestrer
+   * Examiner      * Supplier&   * Défier
+   * Examiner      * Chouiner
+   * Examiner      * Murmurer&   * Nettoyer Armure
+   * Examiner      * Flirter&   * S'approcher
+   * Examiner      * Critiquer&   * Encourager    * Câliner
+   * Examiner      * Refroidir&   * Réchauffer    * Inviter
 \W   * Examiner  	* Se débattre&   * Payer \[1]PO&         \YArgent: \[G]PO \W
-* Examiner      * Hurler
+   * Examiner      * Hurler
 \W   * Examiner      \Y* Jaune \W
-* Examiner      * Pichenette
-* Examiner      * Parler     &   * Fixer         * Vider esprit
-* Examiner      * Parler     &   * Chanter
-* Examiner      * Complimenter&   * Menacer       * Mystifier
-* Examiner      * Embêter&   * Ne pas        * Défier&     embêter
-* Examiner      * Consoler&   * Terroriser    * Prier
-* Examiner      * Désamorcer&                     la Bombe
-* Examiner      * Murmurer&   * Toucher le gant
-* Examiner      * Brûler
+   * Examiner      * Pichenette
+   * Examiner      * Parler     &   * Fixer         * Vider esprit
+   * Examiner      * Parler     &   * Chanter
+   * Examiner      * Complimenter&   * Menacer       * Mystifier
+   * Examiner      * Embêter&   * Ne pas        * Défier&     embêter
+   * Examiner      * Consoler&   * Terroriser    * Prier
+   * Examiner      * Désamorcer&                     la Bombe
+   * Examiner      * Murmurer&   * Toucher le gant
+   * Examiner      * Brûler
 \W   * Examiner      \Y* Retourner \W
-* Examiner      * Crâner&   * Poser         * Jouer le&                     Méchant
-* Appeler       * Fredonner&   * Crier         * S'étirer&   * Dé-câliner    * Pleurer
-* Examiner      * Embêter&   * Mystifier     * Nettoyer&   * Fredonner     * Prier
-* Examiner      * OBJET &   * STATS         * TÉL
-* Examiner      * Rejoindre&   * Refuser
-* Petite Tape   * Recette&   * Sourire       * Affronter
-* Encourager    * Appeler  &   * Geeker        * Quizz
-* Blaguer       * Casse-crâne &   * Recette       * Insulter
-* Glandouiller  * Blaguer   &   * Jugement      * Mots Croisés
-* Parler        * Clémence  &   * Câliner       * Préférences
-* Parler        * Clémence  &   * Fixer         * Câliner
-* Examiner      * Changer&   * Arranger      * S'allonger
-* Examiner      * Siffler&   * Dévorer       * Hors-&                     d'oeuvre
-* Examiner      * Applaudir&   * Huer          * Rien
-* Examiner      * Quelque&                     Chose
-* Examiner      * Dessiner
-* Examiner      * Espérer  &   * Rêver
-* Erreur
-* Se débattre
+   * Examiner      * Crâner&   * Poser         * Jouer le&                     Méchant
+   * Appeler       * Fredonner&   * Crier         * S'étirer&   * Dé-câliner    * Pleurer
+   * Examiner      * Embêter&   * Mystifier     * Nettoyer&   * Fredonner     * Prier
+   * Examiner      * OBJET &   * STATS         * TÉL
+   * Examiner      * Rejoindre&   * Refuser
+   * Petite Tape   * Recette&   * Sourire       * Affronter
+   * Encourager    * Appeler  &   * Geeker        * Quizz
+   * Blaguer       * Casse-crâne &   * Recette       * Insulter
+   * Glandouiller  * Blaguer   &   * Jugement      * Mots Croisés
+   * Parler        * Clémence  &   * Câliner       * Préférences
+   * Parler        * Clémence  &   * Fixer         * Câliner
+   * Examiner      * Changer&   * Arranger      * S'allonger
+   * Examiner      * Siffler&   * Dévorer       * Hors-&                     d'oeuvre
+   * Examiner      * Applaudir&   * Huer          * Rien
+   * Examiner      * Quelque&                     Chose
+   * Examiner      * Dessiner
+   * Examiner      * Espérer  &   * Rêver
+   * Erreur
+   * Se débattre
 \W   * Undyne
 \W   \Y* (Sauvée) 	\W
-* Alphys \W &
-\Y* (Sauvée)\W &
+   * Alphys \W &
+   \Y* (Sauvée)\W &
 \W   * Papyrus       * Sans \W &
 \Y   * (Sauvé)       * (Sauvé)\W &
-\W   * Toriel        * Asgore \W
-\Y   * (Sauvée)      * (Sauvé)\W
-* Quelqu'un d'autre
-* Asriel Dreemurr
+\W   * Toriel        * Asgore \W 
+\Y   * (Sauvée)      * (Sauvé)\W 
+   * Quelqu'un d'autre
+   * Asriel Dreemurr
 * Appel en cours..\E0.\TT /
 \E0* TORIEL à l'appareil./
 * Tu voulais juste me dire&  bonjour...^2?&* Eh bien.../
@@ -8688,44 +8688,44 @@ Ainsi^1, c'est fait./%%
 * (Pas assez de PO.)/%
 * (Il y en a assez.)/%
 * (Rien n'a été offert.)/%
-THIS IS AN ERROR& MESSAGE^1.& REALLY!!!/%%
+ THIS IS AN ERROR& MESSAGE^1.& REALLY!!!/%%
 blt_sizebone_115
-TU ES TROP FAIBLE!& TE CAPTURER& ÉTAIT BIEN& TROP FACILE !!/
+ TU ES TROP FAIBLE!& TE CAPTURER& ÉTAIT BIEN& TROP FACILE !!/
 blt_sizebone_118
-JE VAIS MAINTENANT& T'EXPÉDIER DANS LA& ZONE DE CAPTURE !!/
+ JE VAIS MAINTENANT& T'EXPÉDIER DANS LA& ZONE DE CAPTURE !!/
 blt_sizebone_119
-OU^1, COMME SANS& L'APPELLE^1.../
+ OU^1, COMME SANS& L'APPELLE^1.../
 blt_sizebone_120
-NOTRE GARAGE ???/
+ NOTRE GARAGE ???/
 blt_sizebone_121
-ALLEZ HOP  ^1!& À LA NICHE !/
+ ALLEZ HOP  ^1!& À LA NICHE !/
 blt_sizebone_122
-NYEH HEH HEH HEH& HEH HEH HEH !!!/%%
+ NYEH HEH HEH HEH& HEH HEH HEH !!!/%%
 blt_sizebone_123
-BIEN !!^1! TU T'ES& PEUT-ÊTRE ÉCHAP-& PÉ DE TA PRISON& AVEC BRIO.../
+ BIEN !!^1! TU T'ES& PEUT-ÊTRE ÉCHAP-& PÉ DE TA PRISON& AVEC BRIO.../
 blt_sizebone_127
-MAIS CETTE FOIS^1,& J'AI RENFORCÉ& MON INSTALLATION./
+ MAIS CETTE FOIS^1,& J'AI RENFORCÉ& MON INSTALLATION./
 blt_sizebone_128
-CE NE SERA PLUS& UNE SIMPLE PRISON.../
+ CE NE SERA PLUS& UNE SIMPLE PRISON.../
 blt_sizebone_129
-CE SERA TON& PETIT COIN DE& PARADIS !!!/
+ CE SERA TON& PETIT COIN DE& PARADIS !!!/
 blt_sizebone_130
 blt_sizebone_131
-QUELLE& PERSÉVÉRANCE !/
+ QUELLE& PERSÉVÉRANCE !/
 blt_sizebone_136
-MAIS ^1!& CELA NE& MARCHERA PAS& AVEC MOI !/
+ MAIS ^1!& CELA NE& MARCHERA PAS& AVEC MOI !/
 blt_sizebone_137
-JE SUIS& PERSÉVÉRANTISSIME!/
+ JE SUIS& PERSÉVÉRANTISSIME!/
 blt_sizebone_138
-ET SI TU CROIS& ÊTRE PLUS& PERSÉVÉRANTIFIQUE../
+ ET SI TU CROIS& ÊTRE PLUS& PERSÉVÉRANTIFIQUE../
 blt_sizebone_139
-TU AS TORT ^1!& GRAMMATICALEMENT& TORT !/
+ TU AS TORT ^1!& GRAMMATICALEMENT& TORT !/
 blt_sizebone_140
-CAR LA FORME& CORRECTE& SERAIT.../
+ CAR LA FORME& CORRECTE& SERAIT.../
 blt_sizebone_141
-PAS AUTANT DE PER& -SISTENTANCE QUE& PAPYRUS^1, LE PLUS& PERSISTENTANCIEUX!/"
+ PAS AUTANT DE PER& -SISTENTANCE QUE& PAPYRUS^1, LE PLUS& PERSISTENTANCIEUX!/"
 blt_sizebone_142
-J'ESPÈRE QUE& CETTE LEÇON& T'A PLU./
+ J'ESPÈRE QUE& CETTE LEÇON& T'A PLU./
 blt_sizebone_143
 blt_sizebone_144
 Vous&appe-&lez&à&l'aide&...
@@ -8909,7 +8909,7 @@ obj_actiontable_70
 * (Plein de figurines de&  robots sexy.)/%%
 obj_actiontable_72
 obj_actiontable_76
-DÉBUT^1 DU RENDEZ-VOU^5S^2.^2.^2.^3?%%
+      DÉBUT^1 DU RENDEZ-VOU^5S^2.^2.^2.^3?%%
 obj_adate_125
 Euhh^1, désolée ^2!&Je suis en train&de m'habiller !/%%
 obj_adate_142
@@ -8921,13 +8921,13 @@ obj_adate_171
 obj_adate_172
 \E0Euh^1, bref ^1!&On y va !/%%
 obj_adate_173
-DÉBUT^3 DU RENDEZ-VOUS^3.%%
+      DÉBUT^3 DU RENDEZ-VOUS^3.%%
 obj_adate_186
 H-h-hé^1, a-a-attends !/
 obj_adate_199
 On ne peut&toujours pas commencer&le rendez-vous !!!/%%
 obj_adate_200
-ARRÊT..^1. DU RENDEZ-VOUS ^4?%%
+       ARRÊT..^1. DU RENDEZ-VOUS ^4?%%
 obj_adate_209
 Hmm^1, il faut d'abord&que je te donne des&objets pour booster&ton affection !/
 obj_adate_221
@@ -8963,7 +8963,7 @@ obj_adate_235
 obj_adate_236
 \E0O\M0n n'a qu'à&simplement débuter&ce rendez-vous !/%%
 obj_adate_237
-DÉBUT !^1! DU RENDEZ-VOUS !^3!%%
+      DÉBUT !^1! DU RENDEZ-VOUS !^3!%%
 obj_adate_301
 Ouais !!^1!&Ayons ce^1, euh^1,&rendez-vous !/%%
 obj_adate_314
@@ -8971,7 +8971,7 @@ obj_adate_314
 obj_adate_352
 \E4Est-ce que tu..^3.&aimes..^3.&les animes...^2?/*
 obj_adate_353
-&   Oui             Non       &
+                              &   Oui             Non       &
 obj_adate_367
 H-hé^1 !&Moi aussi !!/%%
 obj_adate_391
@@ -9009,7 +9009,7 @@ obj_adate_506
 obj_adate_507
 \E9Oh non^1, elle&arrive !!/%%
 obj_adate_508
-Hé !^1!& Te voilà !!/
+ Hé !^1!& Te voilà !!/
 obj_adate_556
 \F2 Je^1, euh^1, viens de& réaliser^1, que te& faire livrer& ce truc.../
 obj_adate_557
@@ -9021,19 +9021,19 @@ obj_adate_559
 obj_adate_560
 \F3 Ngggaaahhh !!/
 obj_adate_561
-Est-ce que tu l'as& vue au moins !?/*
+ Est-ce que tu l'as& vue au moins !?/*
 obj_adate_562
-&   Ouais           Nan      &
+                              &   Ouais           Nan      &
 obj_adate_576
-Ouais ?/
+ Ouais ?/
 obj_adate_602
 \F6 Donc elle est dans& les parages.../
 obj_adate_603
 \F0 Merci^1.& Je vais continuer à& chercher./%%
 obj_adate_604
-Non ???/
+ Non ???/
 obj_adate_609
-Mais elle n'est pas& chez elle.../
+ Mais elle n'est pas& chez elle.../
 obj_adate_610
 \F3 Mais où elle est,& bon sang !?/%%
 obj_adate_611
@@ -9088,7 +9088,7 @@ obj_adate_692
 obj_adate_693
 \E7Qu'est-ce que je&dois faire ?/*
 obj_adate_694
-&   Sois            Continue à   &   honnête         mentir
+                              &   Sois            Continue à   &   honnête         mentir
 obj_adate_708
 \E9Être honnête...?/
 obj_adate_732
@@ -9160,7 +9160,7 @@ obj_adate_771
 obj_adate_772
 \E7Comment je suis&supposée m'entraîner&pour ce genre&de choses !?/%%
 obj_adate_773
-Et si           Allez, &   on le           on le    &   roleplayait?     roleplaye
+   Et si           Allez, &   on le           on le    &   roleplayait?     roleplaye
 obj_adate_794
 \E4Du r..^1. roleplay ?/
 obj_adate_827
@@ -9169,7 +9169,7 @@ obj_adate_828
 obj_adate_829
 \M0OK^1, qui va faire&Undyne ?/*
 obj_adate_830
-&   Je serai        Tu seras&   Undyne          Undyne
+                              &   Je serai        Tu seras&   Undyne          Undyne
 obj_adate_844
 Oh^1. Oui^1.&Évidemment^1.&Héhéhé./
 obj_adate_868
@@ -9177,7 +9177,7 @@ obj_adate_868
 obj_adate_869
 \E0S-salut\M3 Undyne..^1.&C-comment vas-tu ?/*
 obj_adate_870
-&   Bien.           T Tro &                      belle,
+                              &   Bien.           T Tro &                      belle,
 obj_adate_884
 \E5Ha ^1! Ha ^1!&Heureuse de&l'entendre !!/
 obj_adate_907
@@ -9194,7 +9194,7 @@ obj_adate_915
 obj_adate_916
 obj_adate_917
 obj_adate_918
-&   Qu'y a-t-il,    eT PUIS BAM&   Alphys.         Gros BIsou
+                              &   Qu'y a-t-il,    eT PUIS BAM&   Alphys.         Gros BIsou
 obj_adate_941
 \E3Hmm, tu vois..^1.&Je..^1. Je.../
 obj_adate_963
@@ -9255,7 +9255,7 @@ obj_adate_1027
 obj_adate_1028
 \E5Je dis ça souvent ^1!&Mais platoniquement&parce que JAMAIS&je ne t'aimerai./*
 obj_adate_1029
-Hé Undyne !     Yo t &   Et si nous      vrmnt tro&   discutions ?    bonne
+   Hé Undyne !     Yo t &   Et si nous      vrmnt tro&   discutions ?    bonne
 obj_adate_1043
 Discuter^1, avec toi ^1?&Hmmm..^1.&Pourquoi pas./
 obj_adate_1069
@@ -9281,7 +9281,7 @@ obj_adate_1083
 obj_adate_1084
 \E9H\M0um ^1! Bref ^1!&Que veux-tu&me dire^1,&Alphys !?/%%
 obj_adate_1085
-Dire la         Alphys&   vérité à        te fait&   Undyne          1 bisou,
+   Dire la         Alphys&   vérité à        te fait&   Undyne          1 bisou,
 obj_adate_1108
 Comment !?/
 obj_adate_1132
@@ -9451,7 +9451,7 @@ obj_adate_1661
 obj_adate_1662
 \F8CES ANIMES,&TOUT EST VRAI,&HEIN ?!?!/%%
 obj_adate_1663
-Les Animes      Les Animes &   Existent        sont un &                   mensonge
+   Les Animes      Les Animes &   Existent        sont un &                   mensonge
 obj_adate_1688
 HA HA HA !!!/
 obj_adate_1708
@@ -9791,7 +9791,7 @@ obj_asgore_finalintro_178
 obj_asgore_finalintro_179
 * (Votre voyage touche&  maintenant à sa fin.^4)%
 obj_asgore_finalintro_180
-* (Cela vous emplit de&          DÉTERMINATION.^5) %%
+     * (Cela vous emplit de&          DÉTERMINATION.^5) %%
 obj_asgore_finalintro_181
 Humain.../
 obj_asgore_finalintro_213
@@ -10156,7 +10156,7 @@ obj_asrielappear_147
 obj_asrielappear_148
 C'est&moi^1, ton&meilleur&ami./%%
 obj_asrielappear_149
-ASRIEL   DREEMURR
+ ASRIEL   DREEMURR
 obj_FinalWriter_34
 \E1Tu sais.../
 obj_asrielb_245
@@ -10703,9 +10703,9 @@ obj_battlebomb_541
 obj_battlebomb_542
 * VICTOIRE !&* Vous obtenez \[1] EXP et \[2] PO.
 obj_battlecontroller_286
-&* Votre LOVE augmente.
+ &* Votre LOVE augmente.
 obj_battlecontroller_287
-error/%%
+ error/%%
 obj_bed_dark_64
 * (C'est un lit.)/%%
 obj_bed_dark_66
@@ -10776,11 +10776,11 @@ obj_blookdiary_119
 obj_blookdiary_120
 * Vous avez le blues désormais.
 obj_blueattackgen_60
-TU AS LE BLUES& DÉSORMAIS./
+ TU AS LE BLUES& DÉSORMAIS./
 obj_blueattackgen_90
-VOILÀ MON& ATTAQUE !/
+ VOILÀ MON& ATTAQUE !/
 obj_blueattackgen_91
-NYEH HEH HEH& HEH HEH HEH& HEH HEH HEH !!!/%%
+ NYEH HEH HEH& HEH HEH HEH& HEH HEH HEH !!!/%%
 obj_blueattackgen_92
 C'EST TOUTES LES&ATTAQUES QUE J'AI&UTILISÉES SUR TOI./
 obj_bonebox_63
@@ -11854,7 +11854,7 @@ obj_doublesans_75
 obj_doublesans_76
 * t'en fais une tête./%%
 obj_doublesans_77
-^1.^1.^1.^1.^1.
+ ^1.^1.^1.^1.^1.
 obj_dummymonster_213
 obj_dummymonster_222
 * Le Mannequin semble sur&  le point de tomber.
@@ -12791,7 +12791,7 @@ obj_finalknight_291
 Zzzz...
 obj_finalknight_295
 obj_finalknight_298
-......& ......& ......& ......& ......& ......& ......& Tout& va bien.
+ ......& ......& ......& ......& ......& ......& ......& Tout& va bien.
 obj_finalknight_308
 obj_finalknight_309
 * Paladodo frappe le sol de&  son étoile du matin.
@@ -13215,11 +13215,11 @@ obj_forcedright_221
 obj_forcedright_224
 * Merci^1, étrange odeur ^1!&* (Ravi d'être bâton...bé&  sur toi !)/%%
 obj_forcedright_225
-Frisk !/
+  Frisk !/
 obj_friendc_event_115
-C'est juste un&  mauvais rêve...!/
+  C'est juste un&  mauvais rêve...!/
 obj_friendc_event_116
-Allons^1,&  réveille-toi...!/%%
+  Allons^1,&  réveille-toi...!/%%
 obj_friendc_event_117
 * Oh ^1!&* Tu es enfin debout ^1!&* Quel soulagement !/
 obj_friendc_event_181
@@ -13728,7 +13728,7 @@ obj_gaster_room_43
 obj_gaster_room_44
 QU'EN PENSEZ-VOUS&TOUS LES DEUX/%%
 obj_gaster_room_45
-Merci !
+ Merci !
 obj_gladdummy_216
 Merci !
 obj_gladdummy_218
@@ -14259,60 +14259,60 @@ obj_gyftrotnpc_72
 obj_gyftrotnpc_76
 * Bon débarras ^1!&* Enfin un peu de calme&  dans ce monde de brutes !/%%
 obj_gyftrotnpc_77
-Tu ne peux pas&  abandonner&  maintenant.../
+  Tu ne peux pas&  abandonner&  maintenant.../
 obj_heartdefeated_0_0
-\[C]^1!&  Garde ta&  détermination.../%%
+  \[C]^1!&  Garde ta&  détermination.../%%
 obj_heartdefeated_0_1
-\[C], ce n'est qu'un&  mauvais rêve.../
+  \[C], ce n'est qu'un&  mauvais rêve.../
 obj_heartdefeated_100_0
-Réveille-toi ^1!&  Ce n'est pas fini !/%%
+  Réveille-toi ^1!&  Ce n'est pas fini !/%%
 obj_heartdefeated_100_1
-\[C] ! C'est comme&  il a dit.../
+  \[C] ! C'est comme&  il a dit.../
 obj_heartdefeated_101_0
-Tu dois garder&  ta détermination.../%%
+  Tu dois garder&  ta détermination.../%%
 obj_heartdefeated_101_1
-\[C] ! N'abandonne&  pas, s'il&  te plaît.../
+  \[C] ! N'abandonne&  pas, s'il&  te plaît.../
 obj_heartdefeated_102_0
-Prends ma &  détermination.../%%
+  Prends ma &  détermination.../%%
 obj_heartdefeated_102_1
-\[C] ! Tu es&  \[C] !/
+  \[C] ! Tu es&  \[C] !/
 obj_heartdefeated_103_0
-Ne t'arrêtes pas ^1!&  Garde ta&  détermination.../%%
+  Ne t'arrêtes pas ^1!&  Garde ta&  détermination.../%%
 obj_heartdefeated_103_1
-\[C], c'est une&  blague ?/
+  \[C], c'est une&  blague ?/
 obj_heartdefeated_104_0
-Ça suffit ^1!&  Réveille-toi !/%%
+  Ça suffit ^1!&  Réveille-toi !/%%
 obj_heartdefeated_104_1
-\[C], l'heure n'est&  pas aux adieux !/
+  \[C], l'heure n'est&  pas aux adieux !/
 obj_heartdefeated_105_0
-Accroche-toi !/%%
+  Accroche-toi !/%%
 obj_heartdefeated_105_1
-\[C], rassemble&  tes forces./
+  \[C], rassemble&  tes forces./
 obj_heartdefeated_106_0
-Garde ta&  détermination !/%%
+  Garde ta&  détermination !/%%
 obj_heartdefeated_106_1
-\[C], tu ne dois&  pas t'arrêter./
+  \[C], tu ne dois&  pas t'arrêter./
 obj_heartdefeated_107_0
 obj_heartdefeated_107_1
 obj_heartdefeated_200_0
 obj_heartdefeated_200_1
-Notre destin est&  entre tes mains.../
+  Notre destin est&  entre tes mains.../
 obj_heartdefeated_201_0
 obj_heartdefeated_201_1
-Tout ira&  bien !/
+  Tout ira&  bien !/
 obj_heartdefeated_202_0
 obj_heartdefeated_202_1
-Ne perds&  pas espoir !/
+  Ne perds&  pas espoir !/
 obj_heartdefeated_203_0
 obj_heartdefeated_203_1
-Ce n'est pas&  encore fini !/
+  Ce n'est pas&  encore fini !/
 obj_heartdefeated_204_0
 obj_heartdefeated_204_1
-oooooooo&  -ooowned !!!/
+  oooooooo&  -ooowned !!!/
 obj_heartdefeated_300_0
-if we're really&  friends.../
+  if we're really&  friends.../
 obj_heartdefeated_300_1
-tu te repointeras pas./%%
+  tu te repointeras pas./%%
 obj_heartdefeated_300_2
 * Mais l'Âme demeure^5.%%
 obj_heartdefeated_343
@@ -14537,19 +14537,19 @@ MT. EBOTT&         201X^9 \E0 %
 obj_introimage_75
 On raconte que ceux&qui escaladent cette&montagne ne reviennent&jamais^3.^2 \E1 %
 obj_introimage_76
-\E1 %
+ \E1 %
 obj_introimage_78
-^9 ^5 \E0 %
+ ^9 ^5 \E0 %
 obj_introimage_79
-^9 ^5 ^2 \E1 %
+ ^9 ^5 ^2 \E1 %
 obj_introimage_80
-^9 ^5 ^2 \E2 %
+ ^9 ^5 ^2 \E2 %
 obj_introimage_81
-^9 ^9 ^9 ^9 ^9 ^9 \E2 %%
+ ^9 ^9 ^9 ^9 ^9 ^9 \E2 %%
 obj_introimage_82
-^9 ^9 ^9 ^9 ^9  \E0 %%
+ ^9 ^9 ^9 ^9 ^9  \E0 %%
 obj_introimage_83
-^9 ^9 ^9 ^9 ^9 ^9 \E0 %
+ ^9 ^9 ^9 ^9 ^9 ^9 \E0 %
 obj_introimage_84
 obj_introimage_85
 Les mecs, ça&CAILLE. Ça per-&turbe QUE MOI ?
@@ -14841,13 +14841,13 @@ obj_lab_powerswitch_341
 obj_lab_powerswitch_406
 * C'est l'heure pour vous&  de rentrer à la maison./%%
 obj_lab_powerswitch_407
-DANGER ! DANGER ^6!%
+ DANGER ! DANGER ^6!%
 obj_labelevator_a_242
-ASCENSEUR EN PERTE DE& PUISSANCE^6 !%
+ ASCENSEUR EN PERTE DE& PUISSANCE^6 !%
 obj_labelevator_a_243
-STABILITÉ DU CÂBLE EM PERDUE^6 !%
+ STABILITÉ DU CÂBLE EM PERDUE^6 !%
 obj_labelevator_a_244
-PERTE D'ALTITUDE^6 !%%
+ PERTE D'ALTITUDE^6 !%%
 obj_labelevator_a_245
 obj_labelevator_b_122
 * (Vous n'avez jamais&  entendu cette voix&  auparavant.)/%%
@@ -15814,11 +15814,11 @@ Pitoyable.&Pitoyable !&PITOYABLE !
 obj_maddummy_424
 Faible.&Faible !&FAIBLE !
 obj_maddummy_425
-Je vais te vaincre& et prendre ton ÂME !
+ Je vais te vaincre& et prendre ton ÂME !
 obj_maddummy_429
-J'utiliserai ton ÂME& et franchirai la& barrière !
+ J'utiliserai ton ÂME& et franchirai la& barrière !
 obj_maddummy_430
-Je deviendrai le& roi d'une vitrine& de boutique& de luxe !
+ Je deviendrai le& roi d'une vitrine& de boutique& de luxe !
 obj_maddummy_431
 \E3 ET TOUT CE QUE JE& VEUX M'APPARTIENDRA !
 obj_maddummy_432
@@ -15826,7 +15826,7 @@ obj_maddummy_432
 obj_maddummy_433
 \E0 C'était quoi son& nom déjà...?
 obj_maddummy_434
-Bref.& Bref !& BREF !!
+ Bref.& Bref !& BREF !!
 obj_maddummy_435
 ROBO-&QUINS !&MISSILE&MAGIQUE !
 obj_maddummy_441
@@ -15836,7 +15836,7 @@ ROBO-&QUINS !&Z'êtes&nuls ???
 obj_maddummy_443
 ROBO-&QUINS !&ATTAQUE&FINALE !
 obj_maddummy_444
-('Fin^1, j'ai beau être& intangible^1, cette& andouille m'a bien& fait douiller.)
+ ('Fin^1, j'ai beau être& intangible^1, cette& andouille m'a bien& fait douiller.)
 obj_maddummy_459
 obj_maddummy_465
 * Ragequin danse le ska. Mais&  sans bras.
@@ -19721,9 +19721,9 @@ obj_papcouch_63
 obj_papcouch_64
 * (C'est un canapé tout&  affaissé.)/%%
 obj_papcouch_70
-DÉBUT^1 DU RENCARD !^5 %%
+       DÉBUT^1 DU RENCARD !^5 %%
 obj_papdate_150
-DÉBUT DU...^1 TRAÎNAGE ?^5 %%
+    DÉBUT DU...^1 TRAÎNAGE ?^5 %%
 obj_papdate_151
 ET VOILÀ !^1!ON A NOTRE&RENCARD !!/
 obj_papdate_166
@@ -19877,7 +19877,7 @@ obj_papdate_546
 obj_papdate_547
 \E1NYEH !&QUE PENSES-TU&DE MON STYLE&SECRET !?!/*
 obj_papdate_573
-&   J'adore         Il craint&
+                              &   J'adore         Il craint&
 obj_papdate_586
 \E6NON !!!/
 obj_papdate_611
@@ -19921,7 +19921,7 @@ UN CADEAU J-JUSTE&POUR TOI !!!/
 obj_papdate_743
 VAS-Y ^1!&OUVRE-LE !/
 obj_papdate_744
-&   L'ouvrir        Pas ouvrir    &
+                              &   L'ouvrir        Pas ouvrir    &
 obj_papdate_756
 \E2TU NE PEUX PAS&TE RÉSOUDRE À&DÉCHIRER MON DOUX&PAPIER CADEAU ??/
 obj_papdate_780
@@ -19933,7 +19933,7 @@ obj_papdate_782
 obj_papdate_783
 \E0EST-CE QUE TU SAIS&CE QUE C'EST ?/*
 obj_papdate_802
-&   Bien sûr        Aucune idée  &
+                              &   Bien sûr        Aucune idée  &
 obj_papdate_815
 \E0"DES SPAGHETTIS."/
 obj_papdate_842
@@ -19963,7 +19963,7 @@ VOICI LE CLOU&DU SPECTACLE !/
 obj_papdate_869
 GOÛTE-MOI&ÇA ! MON PLAT&ULTIME !!!/*
 obj_papdate_870
-&   Goûter          Refuser   &
+                              &   Goûter          Refuser   &
 obj_papdate_885
 * (Vous prenez une bouchée.)/
 obj_papdate_911
@@ -20719,7 +20719,7 @@ MAIS N'AIE CRAINTE !!^1!&TA SOLITUDE VA&ENFIN PRENDRE FIN !/
 obj_papyrus8_212
 MOI^1, LE GRAND&PAPYRUS^1, JE VAIS&DEVENIR TON.../
 obj_papyrus8_213
-^2.^2../
+ ^2.^2../
 obj_papyrus8_214
 NON.../
 obj_papyrus8_215
@@ -21112,27 +21112,27 @@ TU DEVRAIS ALLER&À SON LABO./
 obj_papyrus_room_289
 JE SUIS SUPPOSÉ&METTRE TOUTES LES&PIÈCES ENSEMBLES./%%
 obj_papyrus_room_290
-HÉLAS^1, PAUVRE& PAPYRUS !/%%
+ HÉLAS^1, PAUVRE& PAPYRUS !/%%
 obj_papyrusboss_270
-E-EH BIEN^1, JE& M'ATTENDAIS À& AUTRE CHOSE.../%%
+ E-EH BIEN^1, JE& M'ATTENDAIS À& AUTRE CHOSE.../%%
 obj_papyrusboss_272
-BON^1, AU MOINS& JE GARDE LA& TÊTE HAUTE !/%%
+ BON^1, AU MOINS& JE GARDE LA& TÊTE HAUTE !/%%
 obj_papyrusboss_282
-MAIS.../
+ MAIS.../
 obj_papyrusboss_285
-Q..^1. QU'IMPORTE ^1!& JE CROIS& TOUJOURS EN TOI !/
+ Q..^1. QU'IMPORTE ^1!& JE CROIS& TOUJOURS EN TOI !/
 obj_papyrusboss_286
-TU PEUX FAIRE& MIEUX QUE ÇA !/
+ TU PEUX FAIRE& MIEUX QUE ÇA !/
 obj_papyrusboss_287
-MÊME SI TU T'EN& CROIS INCAPABLE !/
+ MÊME SI TU T'EN& CROIS INCAPABLE !/
 obj_papyrusboss_288
-JE..^1.& JE TE LE JURE.../%%
+ JE..^1.& JE TE LE JURE.../%%
 obj_papyrusboss_289
-EH BIEN..! *OUF^1*IL& SEMBLE CLAIR QUE& TU NE ME ^1! *POUF^1*& BATTRAS PAS !/
+ EH BIEN..! *OUF^1*IL& SEMBLE CLAIR QUE& TU NE ME ^1! *POUF^1*& BATTRAS PAS !/
 obj_papyrusboss_402
-OUAIP !!!& JE PEUX TE VOIR& TREMBLER DANS& TES BOTTES !!!/
+ OUAIP !!!& JE PEUX TE VOIR& TREMBLER DANS& TES BOTTES !!!/
 obj_papyrusboss_403
-EN CONSÉQUENCE^1,& LE GRAND PAPYRUS& VA SE MONTRER& MAGNANIME !/
+ EN CONSÉQUENCE^1,& LE GRAND PAPYRUS& VA SE MONTRER& MAGNANIME !/
 obj_papyrusboss_404
 \X JE VAIS\R & T'ÉPARGNER\X,& HUMAIN !!!/
 obj_papyrusboss_405
@@ -21140,80 +21140,80 @@ obj_papyrusboss_405
 obj_papyrusboss_406
 * Papyrus vous épargne.
 obj_papyrusboss_423
-MAIS MINCE À LA& FIN !/
+ MAIS MINCE À LA& FIN !/
 obj_papyrusboss_456
-C'EST MON& ATTAQUE& SPÉCIALE !/%%
+ C'EST MON& ATTAQUE& SPÉCIALE !/%%
 obj_papyrusboss_457
-HÉ ^1!& CRÉTIN DE CHIEN !/%%
+ HÉ ^1!& CRÉTIN DE CHIEN !/%%
 obj_papyrusboss_466
-TU M'ENTENDS !?/
+ TU M'ENTENDS !?/
 obj_papyrusboss_477
-ARRÊTE DE& MÂCHOUILLER& CET OS !!!/%%
+ ARRÊTE DE& MÂCHOUILLER& CET OS !!!/%%
 obj_papyrusboss_478
-HEY !!!& MAIS QU'EST-CE& QUE TU FAIS !!!/
+ HEY !!!& MAIS QU'EST-CE& QUE TU FAIS !!!/
 obj_papyrusboss_487
-MON ATTAQUE& SPÉCIALE S'APPELLE& REVIENS !!!/%%
+ MON ATTAQUE& SPÉCIALE S'APPELLE& REVIENS !!!/%%
 obj_papyrusboss_488
-.../
+ .../
 obj_papyrusboss_502
-BON^1, TANT PIS./
+ BON^1, TANT PIS./
 obj_papyrusboss_503
-JE ME& CONTENTERAI D'UNE& ATTAQUE NORMALE& TRÈS COOL./%%
+ JE ME& CONTENTERAI D'UNE& ATTAQUE NORMALE& TRÈS COOL./%%
 obj_papyrusboss_504
 * Papyrus se prépare&  pour son attaque normale.
 obj_papyrusboss_514
-...
+ ...
 obj_papyrusboss_548
-OH^1, J'AURAIS DÛ EN& AMENER UN AUSSI.
+ OH^1, J'AURAIS DÛ EN& AMENER UN AUSSI.
 obj_papyrusboss_552
-DONC C'EST& DÉCIDÉ.../
+ DONC C'EST& DÉCIDÉ.../
 obj_papyrusboss_558
-TU T'OBSTINES& À NE PAS TE& BATTRE.../
+ TU T'OBSTINES& À NE PAS TE& BATTRE.../
 obj_papyrusboss_559
-VOYONS ALORS SI& TU PEUX RÉSISTER& À MA LÉGENDAIRE& "ATTAQUE BLEUE" !/%%
+ VOYONS ALORS SI& TU PEUX RÉSISTER& À MA LÉGENDAIRE& "ATTAQUE BLEUE" !/%%
 obj_papyrusboss_560
 obj_papyrusboss_561
-ADMIRE !
+ ADMIRE !
 obj_papyrusboss_570
-HMMM... JE ME& DEMANDE CE QUE& JE DEVRAIS& METTRE...
+ HMMM... JE ME& DEMANDE CE QUE& JE DEVRAIS& METTRE...
 obj_papyrusboss_571
-JUSQU'À QUELLE& HAUTEUR PEUX-TU& SAUTER ?
+ JUSQU'À QUELLE& HAUTEUR PEUX-TU& SAUTER ?
 obj_papyrusboss_572
-QUOI !? JE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
+ QUOI !? JE PENSE& ABSOLUMENT PAS À& CETTE HISTOIRE& DE RENCARD !!
 obj_papyrusboss_573
-MAINTIENS LE& BOUTON "HAUT"& POUR SAUTER !!!
+ MAINTIENS LE& BOUTON "HAUT"& POUR SAUTER !!!
 obj_papyrusboss_574
 \X C'EST ÇA !& NE M'OBLIGE PAS& À UTILISER MON& \RATTAQUE SPÉCIALE\X!
 obj_papyrusboss_575
-MAINTIENS "HAUT"& POUR SAUTER PLUS& HAUT ! ZUT& QUOI !!!
+ MAINTIENS "HAUT"& POUR SAUTER PLUS& HAUT ! ZUT& QUOI !!!
 obj_papyrusboss_576
-JE PEUX DÉJÀ& SENTIR LE& PARFUM DU& SUCCÈS !!!
+ JE PEUX DÉJÀ& SENTIR LE& PARFUM DU& SUCCÈS !!!
 obj_papyrusboss_577
-PAPYRUS :& CHEF DE LA& GARDE ROYALE !
+ PAPYRUS :& CHEF DE LA& GARDE ROYALE !
 obj_papyrusboss_578
-PAPYRUS :& SPAGHETTEUR& DE L'EXTRÊME !
+ PAPYRUS :& SPAGHETTEUR& DE L'EXTRÊME !
 obj_papyrusboss_579
-UNDYNE SERA& VRAIMENT FIÈRE& DE MOI !!
+ UNDYNE SERA& VRAIMENT FIÈRE& DE MOI !!
 obj_papyrusboss_580
-LE ROI TAILLERA& UNE HAIE À& L'EFFIGIE DE& MON SOURIRE !!!
+ LE ROI TAILLERA& UNE HAIE À& L'EFFIGIE DE& MON SOURIRE !!!
 obj_papyrusboss_581
-MON FRÈRE...& ... EH BIEN, IL NE& CHANGERA PAS& BEAUCOUP.
+ MON FRÈRE...& ... EH BIEN, IL NE& CHANGERA PAS& BEAUCOUP.
 obj_papyrusboss_582
-NOMBREUX& SERONT MES& ADMIRATEURS !!& MAIS...
+ NOMBREUX& SERONT MES& ADMIRATEURS !!& MAIS...
 obj_papyrusboss_583
-COMMENT SAVOIR& SI LEUR AMOUR& SERA SINCÈRE ???
+ COMMENT SAVOIR& SI LEUR AMOUR& SERA SINCÈRE ???
 obj_papyrusboss_584
-M'APPRÉCIERONT-& ILS AUSSI& SINCERÈMENT& QUE TOI ?
+ M'APPRÉCIERONT-& ILS AUSSI& SINCERÈMENT& QUE TOI ?
 obj_papyrusboss_585
-LES GENS& COMME TOI SE& FONT RARES...
+ LES GENS& COMME TOI SE& FONT RARES...
 obj_papyrusboss_586
-JE NE PENSE& PAS QU'ILS TE& LAISSERONT& PARTIR...
+ JE NE PENSE& PAS QU'ILS TE& LAISSERONT& PARTIR...
 obj_papyrusboss_587
-ET AVOIR UN& RENCARD& RISQUE D'ÊTRE& DIFFICILE...
+ ET AVOIR UN& RENCARD& RISQUE D'ÊTRE& DIFFICILE...
 obj_papyrusboss_588
-APRÈS TA CAPTURE& ET TON& EMPRISONNEMENT.
+ APRÈS TA CAPTURE& ET TON& EMPRISONNEMENT.
 obj_papyrusboss_589
-ARGH...& ON S'EN FICHE !& ABANDONNE !!
+ ARGH...& ON S'EN FICHE !& ABANDONNE !!
 obj_papyrusboss_590
 \X ABANDONNE OU& FAIS FACE À...& MON \RATTAQUE& SPÉCIALE \X!!!
 obj_papyrusboss_591
@@ -21225,17 +21225,17 @@ obj_papyrusboss_593
 obj_papyrusboss_594
 \X ADMIRE...!& VOILÀ MON \RATTAQUE& SPÉCIALE\X !
 obj_papyrusboss_595
-*SOUPIR* VOILÀ UNE& ATTAQUE& PARFAITEMENT& NORMALE.
+ *SOUPIR* VOILÀ UNE& ATTAQUE& PARFAITEMENT& NORMALE.
 obj_papyrusboss_596
-NYEH HEH HEH !
+ NYEH HEH HEH !
 obj_papyrusboss_604
-JE NE MÉRITE PAS& TANT DE CHARITÉ& VENANT DE TOI...
+ JE NE MÉRITE PAS& TANT DE CHARITÉ& VENANT DE TOI...
 obj_papyrusboss_605
-DERRIÈRE TES ÉPINES& SE CACHE DE L'A-& MOUR ^1! SACRÉ CA-& CTUS ÉMOTIONNEL !
+ DERRIÈRE TES ÉPINES& SE CACHE DE L'A-& MOUR ^1! SACRÉ CA-& CTUS ÉMOTIONNEL !
 obj_papyrusboss_606
-NE GASPILLE PAS& TA SALIVE AVEC& MOI !
+ NE GASPILLE PAS& TA SALIVE AVEC& MOI !
 obj_papyrusboss_607
-P-PLUS TARD, LE& RENCARD !^1!& UNE FOIS QUE JE& T'AURAI CAPTURÉ !!
+ P-PLUS TARD, LE& RENCARD !^1!& APRÈS& TA CAPTURE !!
 obj_papyrusboss_608
 obj_papyrusboss_612
 * Papyrus prépare une attaque&  d'os.
@@ -21284,41 +21284,41 @@ obj_papyrusboss_1613
 obj_papyrusboss_1645
 * PAPYRUS - ATQ 3 DF 3&* Pitoyable./^
 obj_papyrusboss_1647
-QUELLE& ABNÉGATION.../
+ QUELLE& ABNÉGATION.../
 obj_papyrusboss_1661
-TU NE VEUX PAS& QUE JE ME SENTE& MAL À L'IDÉE DE& T'AFFRONTER.../%%
+ TU NE VEUX PAS& QUE JE ME SENTE& MAL À L'IDÉE DE& T'AFFRONTER.../%%
 obj_papyrusboss_1662
-PAS BESOIN DE& TE MENTIR !!!/%%
+ PAS BESOIN DE& TE MENTIR !!!/%%
 obj_papyrusboss_1663
-ARRÊTE...!/%%
+ ARRÊTE...!/%%
 obj_papyrusboss_1664
 * Vous l'INSULTEZ^1, en vain^1.&* On dirait qu'aucune ACTION ne&  fera avancer les choses.../^
 obj_papyrusboss_1678
 * Papyrus est trop occupé à&  COMBATTRE pour prêter&  attention à vos insultes./^
 obj_papyrusboss_1680
-COMMENT !^1?& D-DU FLIRT !?/
+ COMMENT !^1?& D-DU FLIRT !?/
 obj_papyrusboss_1696
 \X TU ME RÉVÈLES& DONC ENFIN TES& \RVÉRITABLES& SENTIMENTS \X!/
 obj_papyrusboss_1697
-E-EH BIEN ^1!& JE SUIS UN SQUE-& LETTE AVEC DES& PRINCIPES !!!/%%
+ E-EH BIEN ^1!& JE SUIS UN SQUE-& LETTE AVEC DES& PRINCIPES !!!/%%
 obj_papyrusboss_1698
-OH NON !!!/%%
+ OH NON !!!/%%
 obj_papyrusboss_1700
 * Vous FLIRTEZ^1, en vain^1.&* On dirait qu'aucune ACTION ne&  fera avancer les choses.../^
 obj_papyrusboss_1713
 * Papyrus est trop occupé à&  COMBATTRE pour flirter&  lui aussi./^
 obj_papyrusboss_1715
-OH NON !!^1! ÇA& CONVIENT À TOUS& MES PRINCIPES !!!/
+ OH NON !!^1! ÇA& CONVIENT À TOUS& MES PRINCIPES !!!/
 obj_papyrusboss_1754
-ÇA VEUT DIRE QU'ON& VA AVOIR NOTRE& PREMIER RENCARD...?/%%
+ ÇA VEUT DIRE QU'ON& VA AVOIR NOTRE& PREMIER RENCARD...?/%%
 obj_papyrusboss_1755
-OH NON !!^1!& TANT D'HUMILITÉ..^1.& ÇA ME FAIT& PENSER À,/
+ OH NON !!^1!& TANT D'HUMILITÉ..^1.& ÇA ME FAIT& PENSER À,/
 obj_papyrusboss_1769
-MOI !!!/
+ MOI !!!/
 obj_papyrusboss_1770
-ÇA CONVIENT& À TOUS& MES PRINCIPES !!!/%%
+ ÇA CONVIENT& À TOUS& MES PRINCIPES !!!/%%
 obj_papyrusboss_1771
-Je sais         Je n'ai pas&   faire des       la moindre&   spaghettis      qualité\C
+   Je sais         Je n'ai pas&   faire des       la moindre&   spaghettis      qualité\C
 obj_papyrusboss_1804
 * (C'est un Papyrus de neige.)/%%
 obj_papyrussnowman_98
@@ -23312,7 +23312,7 @@ obj_ripoff_alphys_560
 obj_ripoff_alphys_561
 * Tout à coup, tous ses&  souvenirs lui reviennent !/%%
 obj_ripoff_alphys_564
-Non^1, c'est faux^1 !& Mes amis m'aiment& comme je t'aime ^1!/%%
+ Non^1, c'est faux^1 !& Mes amis m'aiment& comme je t'aime ^1!/%%
 obj_ripoff_alphys_628
 Pardonne&-moi.
 obj_ripoff_asgore_216
@@ -23393,7 +23393,7 @@ obj_ripoff_papyrus_683
 obj_ripoff_papyrus_686
 obj_ripoff_papyrus_692
 obj_ripoff_papyrus_693
-NON ! ATTENDS !^1!& ON EST AMIS ^1!& IMPOSSIBLE DE& TE CAPTURER !!/*
+ NON ! ATTENDS !^1!& ON EST AMIS ^1!& IMPOSSIBLE DE& TE CAPTURER !!/*
 obj_ripoff_papyrus_767
 nah^1, j'compte sur&toi^1, le mioche./*
 obj_ripoff_papyrus_774
@@ -25897,11 +25897,11 @@ obj_snowdrakedad_111
 obj_snowdrakedad_112
 * L'aurais-tu croisé, par&  hasard ^1? Aurais-tu vu mon&  fils ? Comment va-t-il ?/%%
 obj_snowdrakedad_113
-c...& o...& lly...
+ c...& o...& lly...
 obj_snowdrakemom_158
-haha...& je...& me sou..& viens...
+ haha...& je...& me sou..& viens...
 obj_snowdrakemom_165
-haha...& mer...& ci...
+ haha...& mer...& ci...
 obj_snowdrakemom_167
 obj_snowdrakemom_173
 * Il fait si froid...
@@ -26083,7 +26083,7 @@ obj_sosorry_367
 obj_sosorry_368
 \E6PERSONNE n'agit comme&ça !/
 obj_sosorry_369
-C'est IMPENSABLE !/%%
+ C'est IMPENSABLE !/%%
 obj_sosorry_370
 \E2Oh. Désolé. J'ai&un peu haussé le&ton. Pff./
 obj_sosorry_376
@@ -26238,7 +26238,7 @@ obj_spagnot_103
 obj_spagnot_104
 (UNE FARCE RÉUSSIE DE&PLUS POUR LE GRAND&PAPYRUS !!!)/
 obj_spagnot_105
-&      NYEH-HEH-HEH^1,&         PAPYRUS/%%
+ &      NYEH-HEH-HEH^1,&         PAPYRUS/%%
 obj_spagnot_106
 obj_spagnot_110
 obj_spagnot_111
@@ -26265,13 +26265,13 @@ DEMANDE LA&PERMISSION AVANT&DE T'ÉVADER !!!/
 obj_spagnot_134
 LA DERNIÈRE FOIS^1, JE&ME SUIS FAIT UN&SANG D'ENCRE !!!/
 obj_spagnot_135
-- SINCÈREMENT^1,&  UN PAPYRUS&  PRÉOSCCUPÉ/%%
+  - SINCÈREMENT^1,&  UN PAPYRUS&  PRÉOSCCUPÉ/%%
 obj_spagnot_136
 SI TU CHERCHES&JUSTE UN ENDROIT&OÙ DORMIR.../
 obj_spagnot_140
 DEMANDE DONC !!^1!&NUL BESOIN DE&M'AFFRONTER !!!/
 obj_spagnot_141
-& - TON HÔTE^1,&   PAPYRUS/%%
+ & - TON HÔTE^1,&   PAPYRUS/%%
 obj_spagnot_142
 * (Cette note est écrite&  bizarrement^1, comme si on avait&  bougé le papier en écrivant.)/
 obj_spagnot_147
@@ -26977,7 +26977,7 @@ obj_tembattle_511
 obj_tembattle_527
 * Temmie n'aime que les&  Temmie Flakes./^
 obj_tembattle_539
-Lui donner les Temmie Flakes ?& &   Ui              NAN !!!!!!!\C
+   Lui donner les Temmie Flakes ?& &   Ui              NAN !!!!!!!\C
 obj_tembattle_550
 * Vous vous étirez devant&  Temmie.../%%
 obj_tembattle_561
@@ -27296,31 +27296,31 @@ obj_toriel_friendc_111
 obj_toriel_friendc_112
 * Je suis certaine que&  tu t'en es faits bien&  d'autres chemin faisant./%%
 obj_toriel_friendc_113
-.....
+ .....
 obj_torielboss_366
-.....& .....
+ .....& .....
 obj_torielboss_367
-.....& .....& .....
+ .....& .....& .....
 obj_torielboss_368
-...?
+ ...?
 obj_torielboss_369
-Que& fais-tu ?
+ Que& fais-tu ?
 obj_torielboss_370
-Attaque& ou& enfuis-& toi !
+ Attaque& ou& enfuis-& toi !
 obj_torielboss_371
-Que& veux-tu& prouver& ainsi ?
+ Que& veux-tu& prouver& ainsi ?
 obj_torielboss_372
-Combats& ou& va-t'en !
+ Combats& ou& va-t'en !
 obj_torielboss_373
-Arrête.
+ Arrête.
 obj_torielboss_374
-Arrête& de me& regarder& comme ça.
+ Arrête& de me& regarder& comme ça.
 obj_torielboss_376
-Va-t'en !
+ Va-t'en !
 obj_torielboss_377
-...
+ ...
 obj_torielboss_378
-...& ...
+ ...& ...
 obj_torielboss_380
 Je sais que tu& veux rentrer& chez toi^1, mais...
 obj_torielboss_388
@@ -28776,39 +28776,39 @@ obj_undyneboss_411
 \E5  MAIS TU VAS&  MOURIR, ESPÈCE&  DE NABOT ?!
 obj_undyneboss_412
 obj_undyneboss_416
-\XTant que t'es&  \GVERT\X, tu peux&  \RPAS M'ÉCHAPPER\X !/
+  \XTant que t'es&  \GVERT\X, tu peux&  \RPAS M'ÉCHAPPER\X !/
 obj_undyneboss_427
-\XÀ moins que&  tu apprennes&  à \Rfaire face&  au danger\X.../
+  \XÀ moins que&  tu apprennes&  à \Rfaire face&  au danger\X.../
 obj_undyneboss_428
-Tu ne tiendras&  pas plus d'UNE&  SECONDE contre&  moi !/%%
+  Tu ne tiendras&  pas plus d'UNE&  SECONDE contre&  moi !/%%
 obj_undyneboss_429
-M'épargner ^1?&  TOI ^1?&  Fuhuhuhu !/
+  M'épargner ^1?&  TOI ^1?&  Fuhuhuhu !/
 obj_undyneboss_437
-M'insulte pas,&  tu veux ^1? JAMAIS&  je n'abandonnerai&  face à ton espèce !/%%
+  M'insulte pas,&  tu veux ^1? JAMAIS&  je n'abandonnerai&  face à ton espèce !/%%
 obj_undyneboss_438
-Joli ^1!&  Mais que dis-tu&  de ÇA ?!/%%
+  Joli ^1!&  Mais que dis-tu&  de ÇA ?!/%%
 obj_undyneboss_439
 \E0  Moi qui espérais&  un combat&  équitable./
 obj_undyneboss_442
 \E1  Je pensais&  qu'avec ça, tu&  verrais.../
 obj_undyneboss_443
-À quel point les&  monstres peuvent&  être balèzes./
+  À quel point les&  monstres peuvent&  être balèzes./
 obj_undyneboss_444
 \E4  MAIS À&  PRÉSENT ???/
 obj_undyneboss_445
 \E5  JE M'EN COGNE !/
 obj_undyneboss_446
-JE SUIS PAS TA&  FICHUE NOUNOU,&  C'EST BIEN&  CLAIR ?!/
+  JE SUIS PAS TA&  FICHUE NOUNOU,&  C'EST BIEN&  CLAIR ?!/
 obj_undyneboss_447
 \E1  À moins que&  ta nounou ne&  sache faire.../
 obj_undyneboss_448
-\E5 ÇA !/%%
+\E5  ÇA !/%%
 obj_undyneboss_449
-\E5 MAIS QU'EST-CE& QUE TU FAIS ?/
+\E5  MAIS QU'EST-CE& QUE TU FAIS ?/
 obj_undyneboss_459
-T'AS JUSTE&  À VISER EN&  HAUT !!!/
+  T'AS JUSTE&  À VISER EN&  HAUT !!!/
 obj_undyneboss_460
-C'EST&  POURTANT PAS&  COMPLIQUÉ !/
+  C'EST&  POURTANT PAS&  COMPLIQUÉ !/
 obj_undyneboss_461
 \E0 %%
 obj_undyneboss_462
@@ -28824,81 +28824,81 @@ obj_undyneboss_481
 \E4  Je veux dire&  faire face aux&  projectiles ^1!&  Littéralement !/
 obj_undyneboss_482
 obj_undyneboss_483
-Des années&  qu'on rêve tous&  d'un dénouement&  heureux...
+  Des années&  qu'on rêve tous&  d'un dénouement&  heureux...
 obj_undyneboss_496
-Et à présent,&  je peux presque&  sentir la chaleur&  du soleil !
+  Et à présent,&  je peux presque&  sentir la chaleur&  du soleil !
 obj_undyneboss_501
-Je ne te&  laisserai pas&  nous priver&  de ça !
+  Je ne te&  laisserai pas&  nous priver&  de ça !
 obj_undyneboss_506
 \E1  NGAAHH !&  Fini de rire !/%%
 obj_undyneboss_510
-Ha...&  Costaud^1,&  l'humain !
+  Ha...&  Costaud^1,&  l'humain !
 obj_undyneboss_515
-De la&  clémence ^1!&  Ha !/
+  De la&  clémence ^1!&  Ha !/
 obj_undyneboss_519
-J'arrive pas&  à croire que tu&  veuilles ENCORE&  m'épargner !/%%
+  J'arrive pas&  à croire que tu&  veuilles ENCORE&  m'épargner !/%%
 obj_undyneboss_520
-Et même si&  tu arrivais&  à me battre...
+  Et même si&  tu arrivais&  à me battre...
 obj_undyneboss_528
-Même si je&  décidais de&  t'épargner,&  TOI...
+  Même si je&  décidais de&  t'épargner,&  TOI...
 obj_undyneboss_530
 \X  Aucun humain&  n'a JAMAIS pu&  survivre à&  \RASGORE\X !
 obj_undyneboss_538
-Te tuer^1, c'est&  presque faire&  preuve de&  clémence...!
+  Te tuer^1, c'est&  presque faire&  preuve de&  clémence...!
 obj_undyneboss_546
 obj_undyneboss_554
-C'est une&  faveur que je&  te fais^1, là...
+  C'est une&  faveur que je&  te fais^1, là...
 obj_undyneboss_563
 obj_undyneboss_570
 \E1  Te tuer&  maintenant, c'est&  faire preuve&  de clémence !
 obj_undyneboss_577
 \E4  Alors CESSE de&  me résister&  à ce point !/%%
 obj_undyneboss_582
-Mais bon sang, de&  quoi vous&  êtes faits,&  vous autres !
+  Mais bon sang, de&  quoi vous&  êtes faits,&  vous autres !
 obj_undyneboss_587
-N'importe quelle&  autre personne&  serait déjà&  MORTE !
+  N'importe quelle&  autre personne&  serait déjà&  MORTE !
 obj_undyneboss_593
-Alphys m'avait dit&  que vous étiez&  tous du genre&  déterminé...
+  Alphys m'avait dit&  que vous étiez&  tous du genre&  déterminé...
 obj_undyneboss_599
-J'vois à quoi&  elle faisait&  allusion,&  maintenant !
+  J'vois à quoi&  elle faisait&  allusion,&  maintenant !
 obj_undyneboss_605
-Mais moi&  aussi, je&  suis&  déterminée !
+  Mais moi&  aussi, je&  suis&  déterminée !
 obj_undyneboss_611
-Déterminée à&  mettre un&  terme à tout&  ça ICI...
+  Déterminée à&  mettre un&  terme à tout&  ça ICI...
 obj_undyneboss_616
-... ET&  MAINTENANT !
+  ... ET&  MAINTENANT !
 obj_undyneboss_622
-... MAINTE-...&  ...&  ... NANT !
+  ... MAINTE-...&  ...&  ... NANT !
 obj_undyneboss_628
-Ha...&  Ha...
+  Ha...&  Ha...
 obj_undyneboss_634
 \E5  NGAAAH !!!&  MAIS TU VAS&  CREVER, LE&  NABOT ?!/%%
 obj_undyneboss_639
-HORS DE MON&  CHEMIN !
+  HORS DE MON&  CHEMIN !
 obj_undyneboss_656
-LES GENS DE&  TON ESPÈCE&  PEUVENT GARDER&  LEUR CLÉMENCE !
+  LES GENS DE&  TON ESPÈCE&  PEUVENT GARDER&  LEUR CLÉMENCE !
 obj_undyneboss_658
-JE NE&  PERDRAI PAS !
+  JE NE&  PERDRAI PAS !
 obj_undyneboss_664
-GARDE ! TA !&  MAUDITE !&  CLÉMENCE !
+  GARDE ! TA !&  MAUDITE !&  CLÉMENCE !
 obj_undyneboss_666
 \X  TU NE T'\ÉCHAPPERAS\X&  JAMAIS !!!
 obj_undyneboss_672
-Alors quoi^1, c'est&  tout ce&  que t'as ?!/%%
+  Alors quoi^1, c'est&  tout ce&  que t'as ?!/%%
 obj_undyneboss_682
-... pitoyable./
+  ... pitoyable./
 obj_undyneboss_686
-Tu vas devoir&  faire un peu&  mieux que ça !/%%
+  Tu vas devoir&  faire un peu&  mieux que ça !/%%
 obj_undyneboss_687
-T-tu vois, on est&  imbattables si&  l'on croit en&  nous-mêmes !/%%
+  T-tu vois, on est&  imbattables si&  l'on croit en&  nous-mêmes !/%%
 obj_undyneboss_691
-H... haha.../
+  H... haha.../
 obj_undyneboss_695
-Alors... on&  fatigue déjà ?/%%
+  Alors... on&  fatigue déjà ?/%%
 obj_undyneboss_696
 \E7  .../
 obj_undyneboss_700
-... Je..^1.&  ... n'abandonnerai&  pas.../%%
+  ... Je..^1.&  ... n'abandonnerai&  pas.../%%
 obj_undyneboss_701
 \E7.../%%
 obj_undyneboss_705
@@ -32557,8 +32557,8 @@ mett_operacomment_8
 item_use_0
 * Vous mangez le Bonbon Monstre.
 item_use_1
-&* Un délice, sans réglisse.
-&* ... ça a un goût de réglisse.
+ &* Un délice, sans réglisse.
+ &* ... ça a un goût de réglisse.
 * You hit the Croquet Roll into&  your mouth.
 item_use_2
 * Vous mangez le Croquet Roll.
@@ -32571,7 +32571,7 @@ item_use_2
 * Vous lancez le bâton.&* Mettaton l'attrape avec la&  bouche et fait un clin d'oeil./%
 * Vous remettez le pansement.
 item_use_4
-&* Il colle encore un peu.
+ &* Il colle encore un peu.
 * Vous mangez le Rock Candy.
 item_use_5
 * Vous mangez le Pumpkin Rings.
@@ -32581,7 +32581,7 @@ item_use_7
 * Ne vous inquiétez pas^1, il est&  garanti sans araignées.
 * Vous mangez le Stoic Onion.
 item_use_8
-&* You didn't cry...
+ &* You didn't cry...
 * Vous mangez le Ghost Fruit.
 item_use_9
 * Vous buvez l'Arachnocidre.
@@ -32662,14 +32662,14 @@ item_use_40
 * Vous mangez le Glamburger.&* L'audience adore cette marque.
 * Vous buvez le Lassi Thé.
 item_use_41
-&* Votre VITESSE augmente !
-&* Mais la toile vous ralenti.
+ &* Votre VITESSE augmente !
+ &* Mais la toile vous ralenti.
 * Vous buvez le Starfait.
 item_use_42
 * Vous buvez le Starfait.&* L'audience adore cette marque.
 * Vous mangez le Héros Légend.
 item_use_43
-&* ATTAQUE augmentée de 4 !
+ &* ATTAQUE augmentée de 4 !
 * Vous vous équipez des&  lunettes./%
 item_use_44
 * Vous vous équipez du&  Cahier Déchiré./%
