@@ -3338,7 +3338,7 @@ katakana_chstr
 ナニヌネノャュョッヮバビブベボ
 ハヒフヘホヵヶヴ　　パピプペポ
 ch
-
+　
 ch_base
 roomname_0
 room_get_name
@@ -5045,7 +5045,7 @@ scr_shop_divider_pos
 divider_x
 text_x
 text_y
-PO
+G
 gold_str
 scr_itemroom
 /8
@@ -6296,7 +6296,7 @@ string_height
 line_height
 outstr
 #
-UN&
+A
 D
 button
 Z
@@ -7022,7 +7022,7 @@ SCR_TEXT_62
 \E1* Dans l'OUTREMONDE^1, les&  humains sont souvent&  victimes d'attaques./
 \E2* Il faut te préparer à&  y faire face./
 \E0* Mais n'aie crainte !^2 &* Le procédé n'est pas&  compliqué./
-\E2* Lorsque tu croises un&  monstre,^1 un COMBAT& débute alors./
+\E2* Lorsque tu croises un&  monstre,^1 un COMBAT&  débute alors./
 * Quand tu es dans un&  COMBAT^1, entame une&  conversation amicale./
 \E2* Essaye de gagner du&  temps. Je viendrai pour&  résoudre le conflit./
 \E2* Entraîne-toi à parler&  au mannequin./%
@@ -7033,8 +7033,8 @@ SCR_TEXT_62
 \E1* ... Tu as choisi de&  fuir.../
 \E0* Honnêtement^1, ce n'est&  pas un mauvais choix./
 \E0* Il vaut mieux éviter les&  conflits autant que&  possible./
-\E1* Cependant^1, ce n'est..^1.&  qu'un mannequin^2.&* C'est inoffensif../
-\E1* C'est fait de coton^1.&* Ça n'a aucun désir de&  vengeance.../
+\E1* Cependant^1, ce n'est..^1.&  qu'un mannequin^2.&* Il est inoffensif.../
+\E1* Il est tout en coton^1.&* Sans aucun désir de&  vengeance.../
 \E0* Peu importe^2.&* Reste près de moi et je&  te garderai en sécurité./%
 \E3* ^1.^1.^1./
 \E4* ^1.^1.^1./
@@ -7336,14 +7336,14 @@ NYEH..^1.&HEH..^1.&HEH !/%%
 * HMM ^2?&* Tu veux que je bouge encore&  un peu ?/
 * Dacodac^1, ça va comme ça ?/%%
 * HMM ^2?&* C'était la mauvaise direction ?/
-* Okay^1, je crois que c'est bon./%%
-* C'était utile ?/%%
+* Okay^1, je crois que je vois./%%
+* C'est bon, ça te va ?/%%
 * HMM ^2?&* Tu veux que je RESTE dessus ?/
 * Qu'est-ce que je ferais pas&  pour toi./%%
 * Les choses ne sont-elles pas&  plus simples quand tu&  demandes ?/%%
 * La sortie est ouverte ^1?&* Je suppose que je ferais mieux&  de rouler vers elle.../
 * Hé^1, ça te dérangerait de&  m'pousser un coup^1,&  mon lapin ?/%%
-* "Prenez-en un."&* Prendre un bonbon ?&     	Oui     	Non \C
+* "Prenez-en un."&* Prendre un bonbon ?&         Oui     	Non \C
 * Il est marqué "prenez-en un".&* Prendre un bonbon ?&         Oui         Non \C
 * Regardez ce que vous avez&  fait./%%
 * Vous prenez un bonbon.&* (Appuyez sur \*C pour ouvrir le&  menu.)/%%
@@ -19227,12 +19227,12 @@ obj_npc_room_337
 * ok./
 obj_npc_room_338
 obj_npc_room_339
-NE LA REPOSE PAS&APRÈS ^1!&METS-LÀ AUTRE PART !/
+NE LA REPOSE PAS&APRÈS ^1!&METS-LA AUTRE PART !/
 obj_npc_room_340
 obj_npc_room_341
 obj_npc_room_342
 obj_npc_room_343
-TU L'AS BOUGÉE DE DEUX&CENTIMÈTRES ^1! METS-LÀ&DANS TA CHAMBRE !/
+TU L'AS BOUGÉE DE DEUX&CENTIMÈTRES ^1! METS-LA&DANS TA CHAMBRE !/
 obj_npc_room_344
 obj_npc_room_345
 obj_npc_room_346
@@ -19919,7 +19919,7 @@ C'EST UN CADEAU.../
 obj_papdate_742
 UN CADEAU J-JUSTE&POUR TOI !!!/
 obj_papdate_743
-VAS-Y ^1!&OUVRE-LE !/
+VAS-Y ^1!&OUVRE-LE !/*
 obj_papdate_744
                               &   L'ouvrir        Pas ouvrir    &                            
 obj_papdate_756
@@ -24859,7 +24859,7 @@ obj_shop3_991
 obj_shop3_992
 \E7* Genre...      /
 obj_shop3_994
-\E4* CARRÉMENT hyper&  tout acheter ?/
+\E4* CARRÉMENT hyper&  tout acheter ?/*
 obj_shop3_995
 \E1* On les a trouvés&  dans les&  ordures !/%%
 obj_shop3_1014
@@ -25637,7 +25637,7 @@ obj_smallfrog_63
 obj_smallfrog_64
 * (Si un monstre ne veut plus&  te combattre^1, s'il te plaît...)/
 obj_smallfrog_65
-\W* (Fais preuve de&  \YCLÉMENCE^1, \Whumain.^1)& * Croâ./%%
+\W* (Fais preuve de&  \YCLÉMENCE^1, \Whumain.^1)&* Croâ./%%
 obj_smallfrog_66
 obj_smallfrog_70
 obj_smallfrog_71
@@ -27187,7 +27187,7 @@ obj_tordogcall_153
 obj_tordogcall_154
 * Héoooooh ^1?&* Petit toutou...?/
 obj_tordogcall_155
-* Où es-tu...?/*
+* Où es-tu...?/
 obj_tordogcall_156
 * Je te ferai une bonne grosse&  caresse sur la tête !\T0/
 obj_tordogcall_157
@@ -30558,8 +30558,8 @@ DES ORDURES^1, HM ^1?&LES ORDURES^1,&ÇA ME CONNAÎT !!/
 \E4* Elle avait l'air..^1.&* Euh..^1.&* ... extrêmement pensive./
 \E9* Alors j'lui ai demandé&  si elle savait ce qu'il&  y avait au fond !/
 \E2* Elle s'est retournée&  vers moi d'un coup^1,&  et a viré rouge tomate./
-\E6* Je sais que je fais&  peur aux gens^1, du coup&  ça m'a pas dérangée !/
-\E1* Puis elle s'est mise&  à me sortir toutes ses&  différentes théories./
+\E6* Je sais que je fais&  peur aux gens^1, du coup&  ça m'a pas dérangé !/
+\E1* Puis elle s'est mise&  à me sortir tout un&  tas de théories./
 \E9* Et ça a duré comme ça&  pendant des heures ^1!&* C'était fascinant !/
 \E1* Après ça^1, on se&  recroisait constamment&  ici./
 \E6* Et maintenant, on&  est potes ^1!&* Yeeee hawww !!!/%%
@@ -30644,7 +30644,7 @@ C'EST DÉSORMAIS UNE&MAISON DÉS-HANTÉE./%%
 \E2* Mais..^1.&* C'est...!/
 \E9* Au fait^1, c'était&  quoi son nom^1,&  au cousin ?/
 HAPPSTABLOOK^1,&LE JOYEUX&FANTÔME./
-* Okay^1, là je sais que&  tu te FICHES DE MOI./
+* Okay^1, là je SAIS que&  tu te fiches de moi./
 PAS DU TOUT^1.&DISONS QUE C'EST&MON HEADCANON./%%
 * Nan^1, mais sérieusement^1,&  arrête de commettre&  des crimes fantômes./%%
 CES ESCARGOTS&RESSEMBLENT À&MON FRÈRE./
@@ -32220,7 +32220,7 @@ mett_essay_prompt_console
 mett_essay_start
 TERMINÉ !!!
 mett_essay_timeup
-$ - \[G]G
+$ - \[G]PO
 obj_golddisplay_42
 PLACE - \[1]/8
 obj_golddisplay_44
